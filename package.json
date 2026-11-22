@@ -1,0 +1,21 @@
+{
+  "name": "holy-apostolic",
+  "version": "4.11.0",
+  "private": true,
+  "description": "Orthodox source curriculum, Saints, icons, church guides, prayer and private study tools",
+  "scripts": {
+    "start": "node server.cjs",
+    "stop": "node server.cjs --stop",
+    "prepare:netlify": "node scripts/prepare-netlify.cjs",
+    "build:offline": "node scripts/build-offline-manifest.cjs",
+    "check": "node --check server.cjs && node --check account-config.cjs && node --check dist/navigation.js && node --check dist/beta-notice.js && node --check dist/welcome.js && node --check dist/feedback.js && node --check scripts/prepare-netlify-static.cjs && node --check dist/resources.js && node --check dist/site.js && node --check dist/references.js && node --check dist/lesson-teaching.js && node --check scripts/build-pages.cjs && node --check dist/app.js && node --check dist/timeline.js && node --check dist/study.js && node --check dist/scripture-references.js && node --check dist/scripture-previews.js && node --check dist/saints.js && node --check dist/formation.js && node --check dist/worship-year.js && node --check dist/accounts.js && node --check dist/study-tools.js && node --check dist/editorial.js && node --check dist/offline.js && node --check dist/sw.js && node scripts/verify-content.cjs && node scripts/verify-timeline.cjs && node scripts/verify-reception.cjs && node scripts/verify-expansion.cjs && node scripts/verify-scripture.cjs && node scripts/verify-saints.cjs && node scripts/verify-formation.cjs && node scripts/verify-worship-year.cjs && node scripts/verify-platform.cjs && node scripts/verify-saints-biographies.cjs && node scripts/calendar-window-tests.cjs && node --check dist/visuals.js && node --check dist/icons.js && node scripts/verify-visual-assets.cjs && node scripts/verify-icon-library.cjs && node --check dist/glossary-previews.js && node --check dist/authority.js && node --check dist/church-guide.js && node scripts/verify-saints-additions.cjs && node scripts/verify-church-guides.cjs && node scripts/verify-curriculum-depth.cjs && node scripts/verify-pages.cjs && node scripts/verify-lesson-explanations.cjs && node --check dist/saint-references.js && node --check scripts/build-saint-references.cjs && node scripts/verify-saint-references.cjs",
+    "prepare:static": "npm run build:pages && npm run build:offline && node scripts/prepare-netlify-static.cjs",
+    "build:pages": "node scripts/build-pages.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "linkedom": "0.18.12"
+  }
+}

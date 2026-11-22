@@ -1,0 +1,21 @@
+{
+  "blocks": [
+    {
+      "id": "home-psalm-27-4",
+      "kind": "quotation",
+      "textSha256": "d4110ad9e942f560be811929f1a959a2be861a9c0a69d261b124e9abee11a55b",
+      "sourceId": "sp-kjv",
+      "locator": "Psalm 27:4",
+      "verification": {
+        "match": true,
+        "method": "Fresh publisher HTML compared with the independently audited local KJV verse after whitespace/markup normalization",
+        "sourceUrl": "https://ebible.org/eng-kjv/PSA027.htm",
+        "sourceSha256": "63c465fcc3f7bf7c241d358773a0a307d996298ffed14ab95784173beaa65e6e",
+        "localFile": "scripture/kjv/Ps.json",
+        "chapter": "27",
+        "verse": "4"
+      },
+      "rights": "KJV source basis retained in scripture/manifest.json; public domain outside the United Kingdom"
+    }
+  ]
+}

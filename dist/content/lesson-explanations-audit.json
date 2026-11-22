@@ -1,0 +1,1195 @@
+{
+  "schema": 1,
+  "revision": "clear-lessons-2026-11-21",
+  "date": "2026-11-21",
+  "authorship": "AI-assisted editorial explanations authorized by the owner",
+  "scope": "All 229 existing lessons and 638 original reading positions",
+  "sourceFileHashes": {
+    "quoted-doctrine.json": "9881b4b11f08eb7b9f153175e1e25584a34419208a4ec4e0de35cc416bfae784",
+    "quoted-worship.json": "22f0e382e4db464bb4b30225ede0fcb3c0f448cc0bfe53bda9c04eed3c2d6f36",
+    "quoted-history-comparisons.json": "63c595db78930dc2d9e871c42808d9c9d3982a3c16ded3d65b42819342ad5cab",
+    "expanded-curriculum.json": "d02c594a1eb5f0534ea0e710ea2c6349b27658e51220911487de8b673db7fa79",
+    "further-curriculum.json": "2b8420ac09037c1d990918ab1f1b14325d323eabca78ecca6f609d34c425034c",
+    "curriculum-depth.json": "6df1353f146139f415010af6040f67db647bf5fccb1e92c47e6bfb11087a0647",
+    "glossary.json": "00785f7f884c96dec264a95171cf973e819ed43876f772f9deef0dd2fce154d2",
+    "glossary-supplement.json": "0ddf1f1aaa59413caeee139d0acdd67f0e0051f1a0299c2edc2bb64bc0a27c35"
+  },
+  "sourceLayerSHA256": "38bf6bea6bb0b70a4fd4aea40b3ab477fb045a0888546800089b1e4132aed7cf",
+  "review": {
+    "method": "Drafts were checked against the actual supplied passages and source metadata; all batches received a second source check by another research agent. Corrections addressed relic/object terminology, Westminster image scope, the Hades passage, Acts/Isaiah wording, hymn scope and a sponsor citation.",
+    "lessonsReviewed": 229,
+    "firstBatch": {
+      "total": 77,
+      "firstPass": 26,
+      "remainingPass": 51
+    },
+    "secondBatch": 77,
+    "thirdBatch": 75,
+    "linkedPrimaryPagesInspected": [
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/annunciation",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/transfiguration",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/dormition-of-the-theotokos",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/elevation-of-the-cross",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/pentecost-the-descent-of-the-holy-spirit",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/sign-of-the-cross",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/meeting-of-the-lord",
+      "https://www.oca.org/liturgics/learning-the-tones",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/epiphany",
+      "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/nativity-of-christ"
+    ],
+    "originalQuotations": "Preserved verbatim in separate expandable passages.",
+    "scopeLimits": "Link-only items identify the publication and supplied scope unless the exact primary page was inspected. Historical/monastic material is described in its source context; no app-authored devotional procedures are supplied.",
+    "independentEcclesiasticalApproval": false
+  },
+  "editorialPolish": {
+    "changedParagraphs": 15,
+    "purpose": "Remove generic website/process disclaimers from the main teaching while retaining factual historical scope and precise source references."
+  },
+  "lessons": [
+    {
+      "id": "d-start",
+      "readings": 3,
+      "textSHA256": "4ea8a92a55b557698b2e727f5d1988fea94c9f92f5492ff7107f06556ea56e5e"
+    },
+    {
+      "id": "d-gospel",
+      "readings": 4,
+      "textSHA256": "3af0744dab4d60b365428e7e81de70800d240d8dda335f3258f8dc2f4157598f"
+    },
+    {
+      "id": "d-scripture",
+      "readings": 4,
+      "textSHA256": "1955bcc7cf80aaf38d0ec4b0be53801d8c75e9cca27f1f67b9b6200488533f37"
+    },
+    {
+      "id": "d-reading",
+      "readings": 3,
+      "textSHA256": "617bf86847e3f735f74fa2740135136ee8b3520d94e29d1d186861f66e26d901"
+    },
+    {
+      "id": "cg-cyril-faith-examples",
+      "readings": 1,
+      "textSHA256": "adbb842ab27c19855843eff6f3cc417cdc59048932b3e201b933bbb188f36771"
+    },
+    {
+      "id": "cg-historical-editions",
+      "readings": 1,
+      "textSHA256": "ce47286848e77c183a6961feb90a72246e21dda273c9e429112c4257aaeadf29"
+    },
+    {
+      "id": "d-creed",
+      "readings": 2,
+      "textSHA256": "0160b1307bd04640a884c434e21c09701d349783e0b87d72cac68f4b874e3e22"
+    },
+    {
+      "id": "d-trinity",
+      "readings": 2,
+      "textSHA256": "e8bcc3e1e91f59be593d5277be14112143b8b6ffd7ea85747ba7980fe7c5e8bd"
+    },
+    {
+      "id": "d-incarnation",
+      "readings": 2,
+      "textSHA256": "f7b7a47e2ea4e846681fda204cb3d00a91cd0badb5ed6d2b2e12fac38cc63faf"
+    },
+    {
+      "id": "d-spirit",
+      "readings": 3,
+      "textSHA256": "e54698515222e64c94338d17fa08b5dfd92281be322966fa8057eb30646e6374"
+    },
+    {
+      "id": "d-church",
+      "readings": 3,
+      "textSHA256": "3715301c8d73f53c2001fae3c2ec7a16a700c5be8adcc8d20e03f3702a710ede"
+    },
+    {
+      "id": "d-tradition",
+      "readings": 2,
+      "textSHA256": "eab42b5a0e4c15766898060739148dbc705b520d6bb6e30e3d8f37df92359aa9"
+    },
+    {
+      "id": "d-councils",
+      "readings": 3,
+      "textSHA256": "60cad377d7eb5c4e6e617b96ec5f07cfaaab0e5d8ee989754b074c058a0d0dfc"
+    },
+    {
+      "id": "d-fathers",
+      "readings": 3,
+      "textSHA256": "3402aed466b78b11911e105e21f2ab804bbd0802dc483f83ad0b6c8d2bc812a5"
+    },
+    {
+      "id": "cg-nicaea-provincial-order",
+      "readings": 4,
+      "textSHA256": "85dfa06838af6f19aed6374c1b646cf3e76e8df27bce516631782193dc463b53"
+    },
+    {
+      "id": "cg-antioch-synods",
+      "readings": 4,
+      "textSHA256": "aa75cd8daec130f9fd848700d63d703e67ae7ae5fdba109d4afec020f0b7ac5d"
+    },
+    {
+      "id": "cg-apostolic-canons-synodality",
+      "readings": 5,
+      "textSHA256": "dda257957e95e66011426a5b6499382be338ce1ea09c2a4d7ae263a5195e6d15"
+    },
+    {
+      "id": "cg-trullo-pastoral-judgment",
+      "readings": 1,
+      "textSHA256": "45d512a4c186cd7d8bb5e7d385261fee22bd01aece19e7b45dafa6c11472c6aa"
+    },
+    {
+      "id": "d-creation-fall",
+      "readings": 3,
+      "textSHA256": "0954ada98f5ed366c9c81afa41bb323d8977a79cac489cb775e633d64de2089f"
+    },
+    {
+      "id": "d-cross",
+      "readings": 3,
+      "textSHA256": "2cee8fab5ecdc43a58a134688711de08151c0d8f7e4c8dc3ad2b514a5c8fc4c3"
+    },
+    {
+      "id": "d-grace",
+      "readings": 3,
+      "textSHA256": "a576a6ba462fe321ff20b517372b8a59825abf6d42e66addfdaa702575367b0c"
+    },
+    {
+      "id": "d-theosis",
+      "readings": 3,
+      "textSHA256": "cf3e2f79bb69e549c9dfacfe8537b81e16ed62e3f1daa96e2aba3f6f0480dbf7"
+    },
+    {
+      "id": "d-initiation",
+      "readings": 3,
+      "textSHA256": "bfbcf5d68d74699361ea639f6813b2f8aab29706bb7c0aa5a0776c66808e7963"
+    },
+    {
+      "id": "d-eucharist",
+      "readings": 3,
+      "textSHA256": "34a760117edf0e202409196eb8eb0a06bf851ed0d51567397083aaa69d2d0bf9"
+    },
+    {
+      "id": "d-confession",
+      "readings": 4,
+      "textSHA256": "81fb5ff702360617445b7fe9aa183ae0450c0a64a71156ecb846b9a7b17f50dc"
+    },
+    {
+      "id": "d-sanctified-life",
+      "readings": 2,
+      "textSHA256": "bbf5ce672215e74edd999ae44e83577a986072f53a97ac102e77ed5b15f88610"
+    },
+    {
+      "id": "cg-baptism-rite",
+      "readings": 1,
+      "textSHA256": "b6d5c5b79e2c5814565b7bdc85c8cb711687b8660eeae73e6becc2ad0019b91f"
+    },
+    {
+      "id": "cg-baptism-sponsors",
+      "readings": 1,
+      "textSHA256": "d8f3760763b96c0b6be9f6283aba9dca65012701b3af79faa07ffc498339a149"
+    },
+    {
+      "id": "cg-chrismation-ablution",
+      "readings": 1,
+      "textSHA256": "cbc7af202b19b59ce2b8428632508b49d3b73c2f0ce0cfecb334433e4ebe1cbb"
+    },
+    {
+      "id": "cg-matrimony-betrothal",
+      "readings": 2,
+      "textSHA256": "7d3574cd455644e08df5ed4650ea99f6460c7717fc92052d3f30a51cd7ea6533"
+    },
+    {
+      "id": "cg-minor-orders",
+      "readings": 1,
+      "textSHA256": "10e8ee09eb6433ac39441d92c65c295d191b9c1dbf0dd5ec61c426c1b16c05bf"
+    },
+    {
+      "id": "cg-deacon-ordination",
+      "readings": 1,
+      "textSHA256": "89db1cba3c4832075e084af76512c616f7a1ae87832be5ee31aaa4521f8ab9d3"
+    },
+    {
+      "id": "cg-presbyter-ordination",
+      "readings": 1,
+      "textSHA256": "0b6a1c7597d06f1c56b9ca9c33061598028fcf284e8b7c68a3c44d1c870a1ffe"
+    },
+    {
+      "id": "cg-bishop-consecration",
+      "readings": 2,
+      "textSHA256": "3fb76def183171c6ef6e9fb6d26c75160f00cbce3ab15887711a0ba8128d049e"
+    },
+    {
+      "id": "cg-holy-unction",
+      "readings": 1,
+      "textSHA256": "da171d83b3565e23258576855d79c8b55afb4e2f1599c1ab034540663c59ecc1"
+    },
+    {
+      "id": "d-virtues",
+      "readings": 4,
+      "textSHA256": "5ca8d395dcbbd57f575dd8e15b19f53d2ef4b78379d1234ed961663c7e469309"
+    },
+    {
+      "id": "d-discernment",
+      "readings": 3,
+      "textSHA256": "ab4ea2b6e49cf45285da4590745b4d0f06835d6b7aa28b8c5de6991b464381c9"
+    },
+    {
+      "id": "d-suffering",
+      "readings": 3,
+      "textSHA256": "2cf80fbbfa1ab4b563fc737e5198beef5ef9cdd8df033e189db57bef32e429af"
+    },
+    {
+      "id": "d-last-things",
+      "readings": 4,
+      "textSHA256": "e62bf93baaa3763bd7b8aaad8ba5e18b9b1f3973f9fd82a1acd1bd9d70383661"
+    },
+    {
+      "id": "cg-speech-anger",
+      "readings": 1,
+      "textSHA256": "18dbeb10cfff5c223c53092fdf1a5436082958c8fcf03138a6e197dd2fae5205"
+    },
+    {
+      "id": "cg-burial-source-reading",
+      "readings": 1,
+      "textSHA256": "4761a22902de4a59f6fa585712cb0edfdabec57c8f54f6b5184d81fb15f28bbc"
+    },
+    {
+      "id": "w-liturgy-beginning",
+      "readings": 5,
+      "textSHA256": "6c3e78c03abf3bccee3b641786ff3f7ed6531f50e2da0e498634240453a81ded"
+    },
+    {
+      "id": "w-liturgy-word",
+      "readings": 3,
+      "textSHA256": "9f7013411a793c1b8b15e163a2540e6e671360e4720ae4e587987225bdd136fa"
+    },
+    {
+      "id": "w-liturgy-offering",
+      "readings": 4,
+      "textSHA256": "948d434a1842a69ad6fe5b83f65e027161b06a5fce4ed96c45bc429dd671f346"
+    },
+    {
+      "id": "w-liturgy-communion",
+      "readings": 4,
+      "textSHA256": "a9b15195c2499e2702570bb8e9758179fce081516f27ad0e0713e910cf1f1089"
+    },
+    {
+      "id": "cg-three-liturgies",
+      "readings": 1,
+      "textSHA256": "ef57d4843e009ec380b3fa1481212ac675eee1079ea8c5ec693f09688c1b8cb6"
+    },
+    {
+      "id": "cg-prothesis-office",
+      "readings": 1,
+      "textSHA256": "f755bc25796d4cec263d256873a2f8d197bba851dc6fbdfc78030149bcc5b846"
+    },
+    {
+      "id": "cg-liturgy-explanations",
+      "readings": 1,
+      "textSHA256": "e0e2841dc15d8d6a5dd0b35c15b75c36374f4c150bd65089b41354b4540ea4fd"
+    },
+    {
+      "id": "cg-presanctified-explanation",
+      "readings": 1,
+      "textSHA256": "198031ac25aac442cac4adde9df53084c64ecffee5242ea3fb6e2e5a8ac93e41"
+    },
+    {
+      "id": "cg-liturgical-intercessions",
+      "readings": 2,
+      "textSHA256": "9b6d8a00c7222e345f65119d2597ce2066134ed76c68a46b71563760c605f080"
+    },
+    {
+      "id": "w-vespers",
+      "readings": 3,
+      "textSHA256": "3a4dc5c1c3ed965fe2920d682f926a18a68d7ecd8d3f7ea1be61564a4506adb1"
+    },
+    {
+      "id": "w-matins",
+      "readings": 3,
+      "textSHA256": "7c58db674ae956809d512b7486a02075d16ae6f5a8b5075dfb7208ef4d995c4b"
+    },
+    {
+      "id": "w-hours-compline",
+      "readings": 3,
+      "textSHA256": "869849eb61df6648ca9f676556da63c003077bd373ebdd12bdac6e9573362c06"
+    },
+    {
+      "id": "w-books-cycles",
+      "readings": 4,
+      "textSHA256": "4838c926455aaeb4ae76a20fb5d17c783ca02bac5c4f56aebd72f7d69b9d974d"
+    },
+    {
+      "id": "cg-vespers-complete-explanation",
+      "readings": 1,
+      "textSHA256": "74275794613f04584433f8a3b9943d23a9ac8f33dbc652a80bbfc4e1951f650f"
+    },
+    {
+      "id": "cg-matins-complete-explanation",
+      "readings": 1,
+      "textSHA256": "c816e6e376bb6643e7936a361508eab595831f40147f6bee5fde0b32ce1f2a5a"
+    },
+    {
+      "id": "cg-first-hour-reading",
+      "readings": 1,
+      "textSHA256": "ec7929fbd11909b4f35459a5ac0c546b9e0b3622014de36a8597cae631fee658"
+    },
+    {
+      "id": "cg-grand-compline-reading",
+      "readings": 1,
+      "textSHA256": "d55de22bf903e39d368101d7fec65fa3378fccd24f25f18cb08fd6b8ff2aa414"
+    },
+    {
+      "id": "w-prayer-rule",
+      "readings": 5,
+      "textSHA256": "365eb0dc1c51ec9d7e0c03bdc1805d03dfb72e1d1970d0725bd4c6ccf2745db8"
+    },
+    {
+      "id": "w-lords-prayer-psalms",
+      "readings": 3,
+      "textSHA256": "a0867972a6f14f5c23b241f3e783d9f31adcffd4d0966d4e12f44707f124f8e8"
+    },
+    {
+      "id": "w-jesus-prayer",
+      "readings": 4,
+      "textSHA256": "2cdcc77f29c84b98c28029b2d8ade1474e66f85b51e1a52888032312f9da2702"
+    },
+    {
+      "id": "w-intercession-lament",
+      "readings": 5,
+      "textSHA256": "163328c0939beb0ffc0af45cf58c3823312e9e3b96064ea1cad3c35e5a0c5117"
+    },
+    {
+      "id": "w-fasting",
+      "readings": 4,
+      "textSHA256": "824d81198c3f75ec90cd363243935e03011c82554d9ef454f548b225332fb37c"
+    },
+    {
+      "id": "w-alms-work",
+      "readings": 5,
+      "textSHA256": "cb41e8334ce6b989de997ed90adb23927edc678626292d09cdd2ac3380bc4f11"
+    },
+    {
+      "id": "w-family-peace",
+      "readings": 5,
+      "textSHA256": "2d5e2552b53be9b47f71387e81ad35e2b3a71724e3004905cada824facc5bdd5"
+    },
+    {
+      "id": "w-repentance-daily",
+      "readings": 3,
+      "textSHA256": "24455e283ba8e3736636fb185c6d53bfc68027659a51db1ba76132860bd74032"
+    },
+    {
+      "id": "cg-chrysostom-marital-love",
+      "readings": 2,
+      "textSHA256": "a03c0665536fdcd08b7a64374d822f3ba5c375b23e80cb1b14cc9e8190e9855e"
+    },
+    {
+      "id": "cg-money-contentment",
+      "readings": 1,
+      "textSHA256": "67538af1dabc6e522b45df3a4e7cd3e8d78c12299050eb1fb8b456d2ebf1bf7e"
+    },
+    {
+      "id": "w-calendar-map",
+      "readings": 10,
+      "textSHA256": "02d7f833ae839017bc8fe81fb1c946c250540d6fd2d5800c7fc4a6e7e1a398a7"
+    },
+    {
+      "id": "w-incarnation-feasts",
+      "readings": 6,
+      "textSHA256": "872b5584b2a1c9a7f34ce1c07367565f0031936ed1c2251f67feee3c36f261ba"
+    },
+    {
+      "id": "w-lent-holy-week",
+      "readings": 6,
+      "textSHA256": "71ebcae34639b3404959b3dfc234ff124254f4cdf183b2542266386f8bcca3db"
+    },
+    {
+      "id": "w-pascha-life",
+      "readings": 4,
+      "textSHA256": "3ec28c4bae4dfd210d412e31d9bed1d78e723164cbea228552cba8a5a9b8757f"
+    },
+    {
+      "id": "w-chant-hymns",
+      "readings": 4,
+      "textSHA256": "6dff349c3c7f1a83388e9614cd778fbfa992c71a5eae8893712c6f3dfe89d016"
+    },
+    {
+      "id": "w-church-space",
+      "readings": 4,
+      "textSHA256": "23b58c5f1c1b8f8fda117b94f145e66257914c073925a3fac64817ce97831a42"
+    },
+    {
+      "id": "w-body-vestments",
+      "readings": 4,
+      "textSHA256": "0a0f6f6d46c9862eb6961003c5caaf912920858143650c188cecbba23f10620a"
+    },
+    {
+      "id": "w-rocor-parish",
+      "readings": 6,
+      "textSHA256": "ec739847e8cb7e499e407a130b028c70f1eabd1bb98b4b90ee90e7454168a6d2"
+    },
+    {
+      "id": "h-apostolic-church",
+      "readings": 4,
+      "textSHA256": "1c7774e045da6b83b512a4dbb8866dc6133e7a2150ce76c19bfd1b070af10c88"
+    },
+    {
+      "id": "h-councils-history",
+      "readings": 3,
+      "textSHA256": "68be7a594f621556df15a5cdb006090d2edf61ba380acd06096dbe4a631348de"
+    },
+    {
+      "id": "h-schism",
+      "readings": 4,
+      "textSHA256": "725c60aad562dc70eac4b2334dc02917169e0a62c34d181a837ff2002c191929"
+    },
+    {
+      "id": "h-rocor",
+      "readings": 3,
+      "textSHA256": "2a5c6a106077bf573f573d7056eed8c470871fe91657128e0ce5fedc4f772577"
+    },
+    {
+      "id": "cg-creeds-325-381",
+      "readings": 2,
+      "textSHA256": "b3045bfc52b9cb2d6df670fdfd830bc32d4c3758a05f90be59ffbb1d58ddf17d"
+    },
+    {
+      "id": "cg-ephesus-cyril-letter",
+      "readings": 1,
+      "textSHA256": "7ce238a1b56068b7af050d17399d479dbd972951edd26f0774c1bf48838a1ca9"
+    },
+    {
+      "id": "cg-chalcedon-definition",
+      "readings": 1,
+      "textSHA256": "0762062dd6978dcc18734b246208d02cd000a6ac08eeb8eb7c8d3b57ca12efae"
+    },
+    {
+      "id": "cg-constantinople-iii-definition",
+      "readings": 1,
+      "textSHA256": "c8fe90e63c30241b3cabc428eadb25d7a1b2704f60143c556cade78bca61c39b"
+    },
+    {
+      "id": "cg-nicaea-ii-decree",
+      "readings": 1,
+      "textSHA256": "4f39385c6dc2f69597459cd22d32541ba4e1f2cc8d0dd57c060aadbc4b40084f"
+    },
+    {
+      "id": "h-martyrs",
+      "readings": 2,
+      "textSHA256": "3daba12b0e311f61f3c7d460c361b45610a5ebe2d13a84fe16b7a2850cf10674"
+    },
+    {
+      "id": "h-teaching-fathers",
+      "readings": 4,
+      "textSHA256": "142b0a3712b16a58af69a16976109764dc6a3db08973c4ff218849939ade02b3"
+    },
+    {
+      "id": "h-repentant-saints",
+      "readings": 5,
+      "textSHA256": "4fc6cc2e1b843bfb0e3c27f757f122dad33a70afbb06ecd5d4eb0aeed71bbcab"
+    },
+    {
+      "id": "h-mercy-saints",
+      "readings": 6,
+      "textSHA256": "09c6f92e103edffb5a81c34d6c4728fce8ea4fd59c18e4ac02bfcb0f8ba8a47f"
+    },
+    {
+      "id": "h-theotokos",
+      "readings": 3,
+      "textSHA256": "35b253efb9994c245734c04e96c44ae76134adbb59fd4639e5262e4702ef2f8c"
+    },
+    {
+      "id": "h-icons",
+      "readings": 4,
+      "textSHA256": "74ec2ddb6455be23af597a86f82ae0744848fde81323e8c6425a90dea6fa271a"
+    },
+    {
+      "id": "h-intercession",
+      "readings": 3,
+      "textSHA256": "b00cc0b6d677b4241408eb7b6b632471216c87a540ab945428dc8264ff50404b"
+    },
+    {
+      "id": "h-relics-discernment",
+      "readings": 4,
+      "textSHA256": "f5473c5def3be92c7aebb010e2b2aae3deb0dde792e541f262f98ae0c6a6d984"
+    },
+    {
+      "id": "r-pca-piper",
+      "readings": 5,
+      "textSHA256": "30bbc531401aae443e079b0f9ed8ca3b0c74b339da6eaf85eb4619bc24a02db3"
+    },
+    {
+      "id": "r-scripture-tradition",
+      "readings": 4,
+      "textSHA256": "908870c81d14e2ef583da1be2e9b421a7d84dc75d7afbed03db9dbf2686ae4ef"
+    },
+    {
+      "id": "r-canon-reading",
+      "readings": 5,
+      "textSHA256": "1dd738f10c617216e99ba67c9b2da5d9d4f7c8881e231e6206cedd4969363766"
+    },
+    {
+      "id": "r-councils-certainty",
+      "readings": 5,
+      "textSHA256": "ecf530b6ab5de258b506b9f0bf90be262b3709ac9de188bcbc5c34904f5ceb2c"
+    },
+    {
+      "id": "r-justification",
+      "readings": 4,
+      "textSHA256": "d788ccea833e27224dfea276f4c0a3c4d50eebcba7812da27591bb03e4d3a9ed"
+    },
+    {
+      "id": "r-faith-works",
+      "readings": 4,
+      "textSHA256": "841e8974894cc3da3fdb2e7217b02e7dc1fe84da2aec61c57e0608a6201523e8"
+    },
+    {
+      "id": "r-election-freedom",
+      "readings": 4,
+      "textSHA256": "97e467db3c39d9d11401f3f25babaa0ee0934bfe16e4755530aff63c12d04538"
+    },
+    {
+      "id": "r-assurance",
+      "readings": 4,
+      "textSHA256": "ec0d514261b9067fb26c3071ee4b5c5deaca88135d29f8098da6265993a945a0"
+    },
+    {
+      "id": "r-baptism",
+      "readings": 5,
+      "textSHA256": "5787222e1f62be967817ef7960d8d50b884d46cda280e616cc728041db451ec5"
+    },
+    {
+      "id": "r-eucharist",
+      "readings": 6,
+      "textSHA256": "4283bd3033a229c4195a207a70c73633a03d716c16c0a896d9903e469c152d8f"
+    },
+    {
+      "id": "r-images-saints",
+      "readings": 7,
+      "textSHA256": "8ab0532ac04125cafab356b0f54bea8f3b68c2a6e3968b12eab211be4c4f89c2"
+    },
+    {
+      "id": "r-family-conversations",
+      "readings": 3,
+      "textSHA256": "665520ffd5cf3000d909924c63a6bc64b9eb6483f28f72c0f9ef681ff5b3b936"
+    },
+    {
+      "id": "ex-apophatic",
+      "readings": 2,
+      "textSHA256": "3f5aaa21edc54a58cd082e62059553f14de9c36960a8ee3bf916aa54135ed620"
+    },
+    {
+      "id": "ex-divine-names",
+      "readings": 2,
+      "textSHA256": "b78b5bcc6aa069851fbcf42680308ca6d3712aaa613f007ba6c40e47ed73ad82"
+    },
+    {
+      "id": "ex-hypostasis",
+      "readings": 2,
+      "textSHA256": "42f29550a9eb64cadec16e845e58c3ca6605421e658258d1d9b728f5b5e8e191"
+    },
+    {
+      "id": "ex-divine-properties",
+      "readings": 2,
+      "textSHA256": "21152b449b3bb0aadb56af90eacfc64939c1901d65d350b3492a72c0903e1479"
+    },
+    {
+      "id": "ex-aeon-creation",
+      "readings": 2,
+      "textSHA256": "f2d31d045b82226f01bdb8ad7a4cdaeb5d6e6da8989b6ae1099e234fd3d07520"
+    },
+    {
+      "id": "ex-angels-demons",
+      "readings": 2,
+      "textSHA256": "43861124e973c24cc89dc79eecc7ac2d3ec804a87847ac6209c5d9db6072cdc9"
+    },
+    {
+      "id": "ex-image-likeness",
+      "readings": 2,
+      "textSHA256": "77e3660d508081691ffdf20a54279b54a6a06b0acf06d293ef95650917af3de3"
+    },
+    {
+      "id": "ex-providence-freedom",
+      "readings": 2,
+      "textSHA256": "792fc280d4d8044b6b34e2b3cfd54cf61b3564b89b7ebbaa48874f83c39c1a3b"
+    },
+    {
+      "id": "ex-nature-person",
+      "readings": 2,
+      "textSHA256": "2699b52d61024674dcfa8f4a417d48e44c49c9d2ca7dc180bd2c612a75853b54"
+    },
+    {
+      "id": "ex-theotokos-christology",
+      "readings": 2,
+      "textSHA256": "c4e7b8606fd3f28babcc329584180acccf4c158439cc0329d73d6debd9ca65a2"
+    },
+    {
+      "id": "ex-two-wills",
+      "readings": 2,
+      "textSHA256": "77e2034af453dbf48e8c7eaed977d6cc9a14673820986411e1633af1ef2903bd"
+    },
+    {
+      "id": "ex-two-energies",
+      "readings": 2,
+      "textSHA256": "579d51ebdfac461ad22a3fb2629f7c650dc10cf84053b85818f5a236c4861d5f"
+    },
+    {
+      "id": "ex-innocent-passions",
+      "readings": 2,
+      "textSHA256": "ae91643998f3646b99cc746c692ee1be3ab2bccc89cd1d38060c536fd4a8684d"
+    },
+    {
+      "id": "ex-hades-victory",
+      "readings": 2,
+      "textSHA256": "b596d21d87bc3290870bbeca6d9bc891ecc978cc7de1f2b223b2ee3619049fec"
+    },
+    {
+      "id": "ex-cross-east",
+      "readings": 2,
+      "textSHA256": "24ee34534028d366442c2fc1e2607eb6843775936d642cde0d7f8aa932fc9f7f"
+    },
+    {
+      "id": "ex-resurrection-body",
+      "readings": 2,
+      "textSHA256": "8c808dc63b65edfca26a2e4f81eb262f5cf25db26a7af3cb413ce7560096fd40"
+    },
+    {
+      "id": "ex-repentance-cyril",
+      "readings": 5,
+      "textSHA256": "2d0fac1e696963b8b2f4501338d8838c0052b6ecd0d54dbb0f4f4162a327f1bf"
+    },
+    {
+      "id": "ex-faith-baptism",
+      "readings": 6,
+      "textSHA256": "14dee10aa85ecc2e0359d079203041fdb44e327576f20829bea28dbe3594798c"
+    },
+    {
+      "id": "ex-canon-cyril",
+      "readings": 5,
+      "textSHA256": "df41d9b4747a99dcd7219b3d2bbc24e5f2718a67317933a97c4e077825dd56be"
+    },
+    {
+      "id": "ex-judgment-cyril",
+      "readings": 5,
+      "textSHA256": "943309c94b2bec558e84521ac966935fbc73e37de42bc1f3576af7bf15e674b2"
+    },
+    {
+      "id": "cg-procatechesis-purpose",
+      "readings": 1,
+      "textSHA256": "045d85accf8bf034b5e9ca98fcbf190ef7fda870e389f56eba20fd586fe3b34b"
+    },
+    {
+      "id": "cg-procatechesis-instruction",
+      "readings": 1,
+      "textSHA256": "92821dcc14eea3b47cac37f1ec7693439793770db211c87f72a3f5fb8e4da7a7"
+    },
+    {
+      "id": "cg-cyril-catholic-church",
+      "readings": 1,
+      "textSHA256": "e7251d05f50f8116b73e622fdfb76c7f96e836f92d6de405a0c345279c51f74e"
+    },
+    {
+      "id": "cg-irenaeus-septuagint",
+      "readings": 1,
+      "textSHA256": "94d1e0a18a2c2b10e54bcb34756ecf165afedab8c011079e5cffb699c748b1a3"
+    },
+    {
+      "id": "ex-renunciation",
+      "readings": 6,
+      "textSHA256": "02aa441804ead9eb41e8c4afa494e394ef1de5998c9ef0b0c3db17d7989d58cb"
+    },
+    {
+      "id": "ex-baptism-immersion",
+      "readings": 7,
+      "textSHA256": "4140b5371d88a3f259f3d1e2211614dbcf87306de0eaa78dc4a49e9b1d455eb6"
+    },
+    {
+      "id": "ex-chrismation-cyril",
+      "readings": 6,
+      "textSHA256": "e916fee467b19c0e6637c10255d8426ea8402485369c273e5ac48584da0bfb23"
+    },
+    {
+      "id": "ex-eucharist-cyril",
+      "readings": 9,
+      "textSHA256": "b0e8b72db7a817a2864ea70b79325ad9ed197858276ca95db26e8a6953469253"
+    },
+    {
+      "id": "cg-cyril-anaphora",
+      "readings": 1,
+      "textSHA256": "4478887c7c4462d263f733ef8969df1e2ebfd0f885862edd99dcafc142b43ff4"
+    },
+    {
+      "id": "cg-cyril-communion",
+      "readings": 1,
+      "textSHA256": "db5321651c2d824b3f8d0f37d24e8ab6440df250236130bc093027cc7611e7e0"
+    },
+    {
+      "id": "ex-first-commandment",
+      "readings": 2,
+      "textSHA256": "f60efb7e3fea5b202abaeddb7a20e852cf6e808773a12fd5d4cc932c57212000"
+    },
+    {
+      "id": "ex-second-commandment",
+      "readings": 2,
+      "textSHA256": "97259531737c7f44a2067211e2952ae879276f33c89f3ca0daa00e79b7ea6f6f"
+    },
+    {
+      "id": "ex-third-commandment",
+      "readings": 2,
+      "textSHA256": "7c8f682f07d3317200ab9bb06371e74dac143305fcced8cda0689e2e3c0975a8"
+    },
+    {
+      "id": "ex-fourth-commandment",
+      "readings": 2,
+      "textSHA256": "d2734fb365769741c46eb3bb5779efed89250a8284d7af1adfe753846ae0b75f"
+    },
+    {
+      "id": "ex-parents-pastors",
+      "readings": 2,
+      "textSHA256": "2dc7d02d0d106e7136f8b4d0fcae4c428f413adedd51e676a589f15466d57fec"
+    },
+    {
+      "id": "ex-life-mercy",
+      "readings": 2,
+      "textSHA256": "717f265935917eb5f6c1bdde43840dd7baad93f11077020a058401cda5772b61"
+    },
+    {
+      "id": "ex-chastity-marriage",
+      "readings": 2,
+      "textSHA256": "2e15511d43ce0d8d5efbc362dfc1a70326609338f2a98a384856c5d6fc396fce"
+    },
+    {
+      "id": "ex-property-truth",
+      "readings": 2,
+      "textSHA256": "435ff6ed4d6be494cb63528b3bcbe6a57cd10ee3d69cd79e60e83614babcc552"
+    },
+    {
+      "id": "cg-fifth-commandment-duties",
+      "readings": 1,
+      "textSHA256": "c7b04c86bf954e0445215a8c01ffa935b192e84f4e6e4247b7e251bd292902e2"
+    },
+    {
+      "id": "cg-gangra-marriage-family",
+      "readings": 8,
+      "textSHA256": "45cf5adf6c337d836f4f6efd1347c3af36f25b759b0160b6471023a1bbe17634"
+    },
+    {
+      "id": "ex-poverty-mourning",
+      "readings": 2,
+      "textSHA256": "dd5f732f1ab09d0e68491279a97b44c7b6b077186f805483e7a908678af2f6d6"
+    },
+    {
+      "id": "ex-meekness-righteousness",
+      "readings": 2,
+      "textSHA256": "ee738236742f1e7a558ab439dbc95e2948baecaf74052683bf59e43025650b92"
+    },
+    {
+      "id": "ex-mercy-purity",
+      "readings": 2,
+      "textSHA256": "657a0a7cfa4436c4606bcefaa4becaa61b77efa7a787b100914ed38fe92b11ce"
+    },
+    {
+      "id": "ex-peace-persecution",
+      "readings": 2,
+      "textSHA256": "f6dc797b2e043e10af995fbbd1eb859abf00ebe52fff85e5d2b9e89f815929c6"
+    },
+    {
+      "id": "ex-prayer-foundation",
+      "readings": 2,
+      "textSHA256": "2b11fba25b246f7d09cc4b7b29096adc49b12b0e12b17f45c46bc2b082761d6e"
+    },
+    {
+      "id": "ex-four-prayers",
+      "readings": 4,
+      "textSHA256": "b1eaac9c64dcf7f74b469c3239df7999dba091284b5ba6a730928f713ff04cba"
+    },
+    {
+      "id": "ex-lords-prayer-mystagogy",
+      "readings": 8,
+      "textSHA256": "0db10ea2ddd429bfb27bca9c4405b690650744218475b0ef4456dd9020b4a3e8"
+    },
+    {
+      "id": "ex-continual-prayer-cassian",
+      "readings": 2,
+      "textSHA256": "ededf0e76b00e5050725793710b41c4e44ebc9b558265bcd921e5659082a3cad"
+    },
+    {
+      "id": "ex-eight-faults",
+      "readings": 3,
+      "textSHA256": "32c99d6c36783148311f0c6ebb226b4dd8f8dfd7edf56ea58598454c6ef0e1ef"
+    },
+    {
+      "id": "ex-gluttony-acedia",
+      "readings": 3,
+      "textSHA256": "85b997bba64e0423d1014ed2e511c24d6da7827b354c469f6b8c5552e2300b3a"
+    },
+    {
+      "id": "ex-vainglory-pride",
+      "readings": 2,
+      "textSHA256": "3c2dddd75c688b676cc828f1728c4d50c107367480904192fe3d875a6efc7a48"
+    },
+    {
+      "id": "ex-grace-struggle",
+      "readings": 2,
+      "textSHA256": "eea8e46893f178d96474857805c7bfd86537583b91d142a3541db636fb28c6bb"
+    },
+    {
+      "id": "ex-goal-purity",
+      "readings": 2,
+      "textSHA256": "8719080c21453424e6b088640bf75ef8619904a81ac563f31e4650d9d4057475"
+    },
+    {
+      "id": "ex-fear-love",
+      "readings": 2,
+      "textSHA256": "f319bbe4a557b27bc38e7d9abd2eea7c75a807494ee454b2342fc3405f97849d"
+    },
+    {
+      "id": "ex-friendship-patience",
+      "readings": 2,
+      "textSHA256": "eea6a1c44cc82331e7d9f4637cf93009ea8e4d87c3bdaadff096fe87786ef332"
+    },
+    {
+      "id": "ex-penitence",
+      "readings": 2,
+      "textSHA256": "83d1c42600298f2a6e84de1bbdcd1897276fc023994f465096e8ba2c9132f5ea"
+    },
+    {
+      "id": "ex-baptism-spirit",
+      "readings": 2,
+      "textSHA256": "737a7e1a5c7bd9bb8f3317a739a2fa8d253f9f1c735d1ab06082cd1bdfe958ab"
+    },
+    {
+      "id": "ex-spirit-gifts",
+      "readings": 2,
+      "textSHA256": "393f16e508791d137a6ba47b28542e0361b1ff32c9fa23210c53b690d3af3f9a"
+    },
+    {
+      "id": "ex-unwritten-tradition",
+      "readings": 2,
+      "textSHA256": "c4ad00450ae96d242b5b1dc49f2a513ac969b2f2b185aa475bf8ba5781f0a7fb"
+    },
+    {
+      "id": "ex-doxology-basil",
+      "readings": 2,
+      "textSHA256": "1ed9b8c006f0acaddecf089bda6c39fc44fd5164d7702cb26244d0dafa975d78"
+    },
+    {
+      "id": "ex-annunciation-feast",
+      "readings": 2,
+      "textSHA256": "c98d539bc582cca2a49949c079aaa1e3e20d949bc7f23a10c5f0da7360014136"
+    },
+    {
+      "id": "ex-ascension-feast",
+      "readings": 2,
+      "textSHA256": "4afa12899217278627c28c052e03b0c9649b59168d303aabda579864b81cf605"
+    },
+    {
+      "id": "ex-transfiguration-feast",
+      "readings": 2,
+      "textSHA256": "52886b571d16563a672054e47ef27e285b43abc7e12a42dc122dd4c419d49d05"
+    },
+    {
+      "id": "ex-dormition-feast",
+      "readings": 2,
+      "textSHA256": "4017b87a06711c25e4dbf323d436effe5dc8ebe4d2338924b820fe1726b68e6f"
+    },
+    {
+      "id": "ex-antony-calling",
+      "readings": 4,
+      "textSHA256": "ccd24a47f5b774b2d86a13cab4194b3b6ac14fdf527bad1562377ca7e7154398"
+    },
+    {
+      "id": "ex-antony-discernment",
+      "readings": 3,
+      "textSHA256": "3f1d70202c47c17d34bb5e03d2f253ae051869a1707d21c83a5a189a38a4f59f"
+    },
+    {
+      "id": "ex-martin-cloak",
+      "readings": 2,
+      "textSHA256": "b54a24e9ace653960bc3cf16fe777164b3d0ee58091f2a2183b396c5a42ec185"
+    },
+    {
+      "id": "ex-martin-humility",
+      "readings": 2,
+      "textSHA256": "517b6292e2820ccc0f865f9185a93811556cd190d944af47958143878b9e8f9a"
+    },
+    {
+      "id": "ex-passover-type",
+      "readings": 4,
+      "textSHA256": "427356770637c7db4d1f500d1f7e25de79ad52bdef5c3d5ad2b3b796799f0ba7"
+    },
+    {
+      "id": "ex-red-sea-type",
+      "readings": 3,
+      "textSHA256": "98b1062aa523e307db5dacb12d5b0ae3218c0a4d6bed6761482a2d37a4c00845"
+    },
+    {
+      "id": "ex-manna-type",
+      "readings": 4,
+      "textSHA256": "7c1bca78a821c4f7d6cbde67d8399f3bdee52660fb6995904fecc773e24afd63"
+    },
+    {
+      "id": "ex-sanctuary-type",
+      "readings": 2,
+      "textSHA256": "754b5cded45ffe2e9c5946e009f65baa9a0c20bb80322566641afa9d1d392426"
+    },
+    {
+      "id": "ex-scripture-councils",
+      "readings": 2,
+      "textSHA256": "1096483f5240cc26b479d365feeceb5c746f795efe2a700840a804a453534d62"
+    },
+    {
+      "id": "ex-election-reading",
+      "readings": 2,
+      "textSHA256": "2e33d32c6780a6ba08e7620735fa9cd1e985b195065097ab06aed8594e876369"
+    },
+    {
+      "id": "ex-christology-reading",
+      "readings": 2,
+      "textSHA256": "908c9f2de9de392a2940c32e399accd6398204e7a9b50d30a7f3acbcbe014907"
+    },
+    {
+      "id": "ex-images-reading",
+      "readings": 2,
+      "textSHA256": "97ea7167f5cda9f137f71843cec5576cf7fc4d1251b03519fb7b972c64add1b8"
+    },
+    {
+      "id": "ex-temple-symbolism",
+      "readings": 2,
+      "textSHA256": "33a7d5650d66984eb8af482ef95b68f3cdbd91061cbb86fef4038965ba7c0559"
+    },
+    {
+      "id": "ex-vestment-vocabulary",
+      "readings": 2,
+      "textSHA256": "f510f7352f914704a86e4da4b87122513e6eb8022e2c221fb404ce882f09364e"
+    },
+    {
+      "id": "ex-books-vocabulary",
+      "readings": 2,
+      "textSHA256": "c0c2677d930fc3c4d8044476d4b618301c321f84ff8a1169a76b6eb80edfb414"
+    },
+    {
+      "id": "ex-chant-vocabulary",
+      "readings": 3,
+      "textSHA256": "fcaf9f8b04741da861c0b14a237ac7a1bb1964135ba02ca91737bbedb947d58f"
+    },
+    {
+      "id": "cg-sacred-vessels",
+      "readings": 1,
+      "textSHA256": "d95163dc9e8035744484c3e02470fdfd39fae85fe444f56b88fc69852522695d"
+    },
+    {
+      "id": "cg-episcopal-vestments",
+      "readings": 1,
+      "textSHA256": "4bdcf78af0d52ac42896c18c5ca8ac9a45f607157cb0158d8e1f0a465f72dd51"
+    },
+    {
+      "id": "cg-church-consecration",
+      "readings": 1,
+      "textSHA256": "c9d491c72574169ce0b20331db8d678770f9959c6454bb71827893bdcd26fc9b"
+    },
+    {
+      "id": "cg-liturgical-books-catalogue",
+      "readings": 1,
+      "textSHA256": "85538ead2a7fbab9af4b47d621cb19cf5cba808c6572d9d9391293ff802e0eab"
+    },
+    {
+      "id": "fc-clement-repentance",
+      "readings": 2,
+      "textSHA256": "e9e1643902679104c23bac3d9f5937cab99c743fb47758ab79e9b6422958bf15"
+    },
+    {
+      "id": "fc-clement-humility",
+      "readings": 2,
+      "textSHA256": "8d87fea4b5b3bd5a23e96830570efae878a6a75ef1a69b3d9966f241e462a2a3"
+    },
+    {
+      "id": "fc-clement-faith-works",
+      "readings": 2,
+      "textSHA256": "1cb7818e460d404c912f26b5323888721001dc5acf4d8e4dfd8d97e4f0ae0e2a"
+    },
+    {
+      "id": "fc-clement-ministry",
+      "readings": 2,
+      "textSHA256": "39c0fc96daaa97aec2f9f3a1213152202b4ac5aaa7fd203315647092d4ac8001"
+    },
+    {
+      "id": "fc-diognetus-citizens",
+      "readings": 2,
+      "textSHA256": "5aa1e7a521a393e8d638bcc1fc0f4f895a86a02ac4241f80267cb813e280925d"
+    },
+    {
+      "id": "fc-diognetus-salvation",
+      "readings": 2,
+      "textSHA256": "f965c1cc720ead0e9cc5852be53371515e9ea3b5de0d6ffe6001acda5f12c3c6"
+    },
+    {
+      "id": "fc-polycarp-faith",
+      "readings": 2,
+      "textSHA256": "8a32f51b66c5d8ad99431173bdadfea7054e6207d32a17c158041c0d632d6e91"
+    },
+    {
+      "id": "fc-polycarp-parish",
+      "readings": 2,
+      "textSHA256": "622fb96a314f28b4583104447d16a22493254949e4111a9be8ce52c974b47307"
+    },
+    {
+      "id": "fc-justin-worship",
+      "readings": 2,
+      "textSHA256": "4d9d188b25c2a3f2571cf00c2dd4981fbf390842bfb1dbd79476cd75963d6033"
+    },
+    {
+      "id": "fc-justin-incarnation",
+      "readings": 2,
+      "textSHA256": "27293d902aa2713ad2175401572e8c9d6b7d598095e8db1144530d6a3b39d4c8"
+    },
+    {
+      "id": "fc-justin-resurrection",
+      "readings": 2,
+      "textSHA256": "672cf9e83b71fd993be1059f776a160f706a098dfc43a077481fa8e0a02345e8"
+    },
+    {
+      "id": "fc-justin-prophecy",
+      "readings": 2,
+      "textSHA256": "f6ec50b64fd68315259c4b886c9f71c74f6f37859bb8662d01d299c76831ff4e"
+    },
+    {
+      "id": "fc-justin-baptism",
+      "readings": 2,
+      "textSHA256": "7a88492fc76308705d3fa1606433d815ace1cff6dcab73f0d740ddd83363356b"
+    },
+    {
+      "id": "fc-justin-eucharist",
+      "readings": 2,
+      "textSHA256": "bca8c4343f347b397eef3fe541a8c132602df0e34e0b11e1fbae1c98fb38131f"
+    },
+    {
+      "id": "fc-justin-sunday",
+      "readings": 2,
+      "textSHA256": "9b529d05378183ee9d3a7fa588011d37be7bcc55ee22b4b15b597124b0ec7930"
+    },
+    {
+      "id": "fc-justin-freedom",
+      "readings": 2,
+      "textSHA256": "07b7fee087ff527510ff802cb71a25ccedd24e29f9aab4837da174e42e976e12"
+    },
+    {
+      "id": "fc-irenaeus-scripture",
+      "readings": 2,
+      "textSHA256": "7e3307d68d71d73e94136591365a28dfe72df38272e5a584d1f5b43e68fffc1b"
+    },
+    {
+      "id": "fc-irenaeus-succession",
+      "readings": 2,
+      "textSHA256": "24994a6dcee7bb7724b1375f0251a987b996f58cde77cc5ac9e083076b788e50"
+    },
+    {
+      "id": "fc-irenaeus-recapitulation",
+      "readings": 2,
+      "textSHA256": "2a0c47896ec76c2e73332ba75f3392b2b76dd88f3329d6011c45c0920b14c6ea"
+    },
+    {
+      "id": "fc-irenaeus-growth",
+      "readings": 2,
+      "textSHA256": "b2aa08f22ca2be298c2b762b26dc63f02732eb7b0bdcbc9f0e64f23ec0931069"
+    },
+    {
+      "id": "fc-didache-two-ways",
+      "readings": 2,
+      "textSHA256": "7a0d4cfe5b084c9c1ed531c87d8b2f3c30cb427c76e9f141d98bd246bb78c7af"
+    },
+    {
+      "id": "fc-didache-mercy",
+      "readings": 2,
+      "textSHA256": "88e0136d38f2570a1d5599abb4f3f744bb478f7f3e3aacb06ab0f2447ee1c71b"
+    },
+    {
+      "id": "fc-didache-baptism-prayer",
+      "readings": 2,
+      "textSHA256": "ecfa220311e8cf4aabd4136765e6e47d7ab8609ff360648023830c7b781b0f2f"
+    },
+    {
+      "id": "fc-didache-thanksgiving",
+      "readings": 2,
+      "textSHA256": "cfa3e7be001542b46230fd598d03c3bb4e788bda7dcee2d9e11e23ea0f7afdfd"
+    },
+    {
+      "id": "fc-didache-discernment",
+      "readings": 2,
+      "textSHA256": "7ce86efae55500357104918ee574bc4985c1a8a291810807268ca2b63e589481"
+    },
+    {
+      "id": "fc-didache-assembly",
+      "readings": 2,
+      "textSHA256": "58d4c4a5cb098c1a92620de6f6c405f25b1ae3b0d810c442e2f774e512020845"
+    },
+    {
+      "id": "fc-didache-watchfulness",
+      "readings": 2,
+      "textSHA256": "3bfe841f8bd55bdfc45e104d81591b99ea792b432330abb9d4f0bbb9a000280a"
+    },
+    {
+      "id": "fc-irenaeus-body-eucharist",
+      "readings": 2,
+      "textSHA256": "b8167e0d06b4962d7520afe15a7936b6d6721fad036398b4f0bd5b624e2e7cd0"
+    },
+    {
+      "id": "fc-cyril-father",
+      "readings": 4,
+      "textSHA256": "8e3c5c7fcc11293f4d274dd33b626f5643d308828b9691b6f92c1ddb7b1a995a"
+    },
+    {
+      "id": "fc-cyril-almighty",
+      "readings": 5,
+      "textSHA256": "6f76e6522e721ce1f4dee730ef71c5dff4739f913ed9c7e67a181c0e041e635e"
+    },
+    {
+      "id": "fc-cyril-creator",
+      "readings": 5,
+      "textSHA256": "f57ca0ebb45bd1d8c96a99f8b3c904ba32a26d750e0247efb67421592b61f0a6"
+    },
+    {
+      "id": "fc-cyril-jesus-christ",
+      "readings": 5,
+      "textSHA256": "a1239f994ae818d27773e899a2189d6c7304221e590acdb67fa9e7b5f2416afa"
+    },
+    {
+      "id": "fc-cyril-incarnation",
+      "readings": 4,
+      "textSHA256": "38385a848bb55321b302605ed849b1f3d944e585bac8a95c8e909f997b2d6608"
+    },
+    {
+      "id": "fc-cyril-cross",
+      "readings": 4,
+      "textSHA256": "1bf786e174021bd2f65b3861662f41ca75a9270b0b20ee2a7a5bb4a5af98860a"
+    },
+    {
+      "id": "fc-cyril-resurrection",
+      "readings": 3,
+      "textSHA256": "a7f3d2d5f70af76f7a8d2b52c077e5f3438d799de2260528ecb8820388ba117c"
+    },
+    {
+      "id": "fc-cyril-spirit",
+      "readings": 4,
+      "textSHA256": "5e33a7a2c5cff91a8bf9145752167d1f3d987f89f998f68ef2da5050a7b9ff89"
+    },
+    {
+      "id": "fc-abraham-covenant",
+      "readings": 1,
+      "textSHA256": "f579f1b734bd2b5af17ee052ea53641925af07fb79f8f36c7172984f22a43295"
+    },
+    {
+      "id": "fc-sinai-commandment",
+      "readings": 1,
+      "textSHA256": "83ed1d7bd2ba79b03f1cdee285a6fb43316c5740f09b9d4e6d2e56bb35b25619"
+    },
+    {
+      "id": "fc-david-promise",
+      "readings": 2,
+      "textSHA256": "603318802412d96eeda5f279a80934cb8a5004e9a487c9554c2ae49d111a38db"
+    },
+    {
+      "id": "fc-servant-christ",
+      "readings": 1,
+      "textSHA256": "a5973aaaa29485f70f66b7f54adaac97bca9b92ecac5000ceec62fdf12ea46d2"
+    }
+  ]
+}

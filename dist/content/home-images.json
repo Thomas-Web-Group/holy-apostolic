@@ -1,0 +1,36 @@
+{
+  "version": "4.8.0",
+  "images": [
+    {
+      "id": "home-chania",
+      "title": "Chania - Greek Orthodox cathedral indoor.jpg",
+      "path": "assets/home/chania-cathedral.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chania_-_Greek_Orthodox_cathedral_indoor.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Chania_-_Greek_Orthodox_cathedral_indoor.jpg/1280px-Chania_-_Greek_Orthodox_cathedral_indoor.jpg",
+      "author": "Lapplaender",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "width": 1280,
+      "height": 853,
+      "modifications": "Wikimedia thumbnail at 1280px; no cropping or other alteration. Displayed in its original aspect ratio.",
+      "sha256": "053da65c9845f21056ae28526bf3aae3e9966cf3361d1ffed0965f10cbd8ba6c",
+      "bytes": 377089
+    },
+    {
+      "id": "home-candle",
+      "title": "Lighting a candle in Orthodox church, Ukraine.jpg",
+      "path": "assets/home/lighting-candle.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighting_a_candle_in_Orthodox_church,_Ukraine.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Lighting_a_candle_in_Orthodox_church%2C_Ukraine.jpg/1280px-Lighting_a_candle_in_Orthodox_church%2C_Ukraine.jpg",
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1280,
+      "height": 851,
+      "modifications": "Wikimedia thumbnail at 1280px; no cropping or other alteration. Displayed in its original aspect ratio.",
+      "sha256": "bbdcf9365c56057c9f8ab0356af602cce75f70097cfed774118f6fb1aea6182d",
+      "bytes": 45967
+    }
+  ],
+  "scope": "Homepage photographs. Photographer licences are recorded independently of religious source texts."
+}

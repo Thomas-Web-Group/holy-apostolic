@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#233e39">
+ <title>Feedback · Holy Apostolic</title><link rel="icon" href="favicon.svg" type="image/svg+xml">
+ <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="ornaments.css"><link rel="stylesheet" href="illuminated.css"><link rel="stylesheet" href="reading.css"><link rel="stylesheet" href="welcome.css"><script defer src="feedback.js"></script>
+</head>
+<body class="feedback-page">
+
+ <header class="feedback-header"><a class="feedback-brand" href="./#/home"><img src="favicon.svg" width="38" height="43" alt="">Holy Apostolic</a><a href="./#/home">Return to site</a></header>
+ <main class="feedback-shell" id="feedback-main"><h1>Feedback</h1><p>Tell us what is helpful, confusing, or missing, or suggest something you would like added.</p>
+
+  <form id="feedback-form" class="feedback-form" name="feedback" method="POST" action="/feedback-success.html" data-netlify="true" netlify-honeypot="bot-field">
+   <input type="hidden" name="form-name" value="feedback">
+   <p hidden><label>Leave this field blank<input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+   <label for="feedback-email">Email address</label><input id="feedback-email" name="email" type="email" autocomplete="email" maxlength="254" required>
+   <label for="feedback-text">Your message or request</label><textarea id="feedback-text" name="message" rows="8" minlength="3" maxlength="10000" required></textarea>
+   <p class="feedback-privacy">Your email is collected so we can follow up about your feedback. Submitting this form does not subscribe you to email updates. <a href="./#/privacy">Privacy</a></p>
+   <div class="tool-actions"><button id="feedback-submit" class="primary" type="submit">Send feedback</button></div>
+  </form>
+  <p id="feedback-status" class="feedback-status" role="status" aria-live="polite"></p>
+ </main>
+ <footer class="feedback-footer"><a href="./#/home">Home</a><a href="./#/learn">Curriculum</a><a href="./#/privacy">Privacy</a></footer>
+</body></html>

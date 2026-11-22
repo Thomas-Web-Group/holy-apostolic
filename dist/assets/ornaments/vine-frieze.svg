@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 62" fill="none">
+  <!-- Original geometric and foliate interface ornament. -->
+  <defs><pattern id="vine" width="80" height="50" patternUnits="userSpaceOnUse">
+    <g stroke="#b99c5a" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 25c20 0 20-18 40-18s20 18 40 18M0 25c20 0 20 18 40 18s20-18 40-18M0 25c20 0 20 9 40 9s20-9 40-9M0 25c20 0 20-9 40-9s20 9 40 9"/>
+      <path d="M30 10c-4-7-11-6-12-2 5 0 8 2 12 2m20 0c4-7 11-6 12-2-5 0-8 2-12 2M30 40c-4 7-11 6-12 2 5 0 8-2 12-2m20 0c4 7 11 6 12 2-5 0-8-2-12-2"/>
+      <path d="m36 25 4-4 4 4-4 4z" fill="#b99c5a"/>
+    </g>
+  </pattern></defs>
+  <path d="M0 5h480M0 57h480" stroke="#b99c5a" stroke-width=".7"/>
+  <path d="M0 7h480v48H0z" fill="url(#vine)"/>
+</svg>

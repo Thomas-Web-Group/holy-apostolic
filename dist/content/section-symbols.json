@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "basis": "Original interface line symbols, created for this app; navigational emblems rather than devotional images.",
+  "modules": [
+    {
+      "id": "d-begin",
+      "title": "Catechesis and Scripture",
+      "motif": "book",
+      "path": "assets/sections/d-begin.svg"
+    },
+    {
+      "id": "d-confession",
+      "title": "The Creed",
+      "motif": "scroll",
+      "path": "assets/sections/d-confession.svg"
+    },
+    {
+      "id": "d-church",
+      "title": "The Church and Tradition",
+      "motif": "church",
+      "path": "assets/sections/d-church.svg"
+    },
+    {
+      "id": "d-salvation",
+      "title": "Creation and salvation",
+      "motif": "tree",
+      "path": "assets/sections/d-salvation.svg"
+    },
+    {
+      "id": "d-mysteries",
+      "title": "The sacraments",
+      "motif": "chalice",
+      "path": "assets/sections/d-mysteries.svg"
+    },
+    {
+      "id": "d-living",
+      "title": "Christian life and the last things",
+      "motif": "sunrise",
+      "path": "assets/sections/d-living.svg"
+    },
+    {
+      "id": "w-liturgy",
+      "title": "Divine Liturgy",
+      "motif": "chalice",
+      "path": "assets/sections/w-liturgy.svg"
+    },
+    {
+      "id": "w-daily-cycle",
+      "title": "Daily offices",
+      "motif": "cycle",
+      "path": "assets/sections/w-daily-cycle.svg"
+    },
+    {
+      "id": "w-home-prayer",
+      "title": "Prayer",
+      "motif": "lamp",
+      "path": "assets/sections/w-home-prayer.svg"
+    },
+    {
+      "id": "w-ascetic-love",
+      "title": "Fasting, almsgiving, and family",
+      "motif": "heart",
+      "path": "assets/sections/w-ascetic-love.svg"
+    },
+    {
+      "id": "w-church-year",
+      "title": "Church year",
+      "motif": "calendar",
+      "path": "assets/sections/w-church-year.svg"
+    },
+    {
+      "id": "w-sung-and-lived",
+      "title": "Chant, church building, and parish sources",
+      "motif": "chant",
+      "path": "assets/sections/w-sung-and-lived.svg"
+    },
+    {
+      "id": "h-history",
+      "title": "Church history",
+      "motif": "history",
+      "path": "assets/sections/h-history.svg"
+    },
+    {
+      "id": "h-saints",
+      "title": "Saints",
+      "motif": "niche",
+      "path": "assets/sections/h-saints.svg"
+    },
+    {
+      "id": "h-veneration",
+      "title": "Theotokos, icons, and saints",
+      "motif": "frame",
+      "path": "assets/sections/h-veneration.svg"
+    },
+    {
+      "id": "r-authority",
+      "title": "Reformed sources and authority",
+      "motif": "books",
+      "path": "assets/sections/r-authority.svg"
+    },
+    {
+      "id": "r-salvation",
+      "title": "Reformed and Orthodox sources on salvation",
+      "motif": "anchor",
+      "path": "assets/sections/r-salvation.svg"
+    },
+    {
+      "id": "r-worship",
+      "title": "Reformed and Orthodox sources on worship",
+      "motif": "censer",
+      "path": "assets/sections/r-worship.svg"
+    },
+    {
+      "id": "ex-divine-language",
+      "title": "The knowledge and language of God",
+      "motif": "light",
+      "path": "assets/sections/ex-divine-language.svg"
+    },
+    {
+      "id": "ex-creation-anthropology",
+      "title": "Creation and human nature",
+      "motif": "tree",
+      "path": "assets/sections/ex-creation-anthropology.svg"
+    },
+    {
+      "id": "ex-christological-language",
+      "title": "The language of Christology",
+      "motif": "cross",
+      "path": "assets/sections/ex-christological-language.svg"
+    },
+    {
+      "id": "ex-paschal-doctrine",
+      "title": "The Passion and resurrection in patristic teaching",
+      "motif": "sunrise",
+      "path": "assets/sections/ex-paschal-doctrine.svg"
+    },
+    {
+      "id": "ex-catechetical-reading",
+      "title": "Cyril of Jerusalem: preparation and teaching",
+      "motif": "book",
+      "path": "assets/sections/ex-catechetical-reading.svg"
+    },
+    {
+      "id": "ex-mystagogical-lectures",
+      "title": "Cyril of Jerusalem: the mysteries",
+      "motif": "chalice",
+      "path": "assets/sections/ex-mystagogical-lectures.svg"
+    },
+    {
+      "id": "ex-commandments-god",
+      "title": "The commandments concerning God",
+      "motif": "tablets",
+      "path": "assets/sections/ex-commandments-god.svg"
+    },
+    {
+      "id": "ex-commandments-neighbor",
+      "title": "The commandments concerning the neighbor",
+      "motif": "heart",
+      "path": "assets/sections/ex-commandments-neighbor.svg"
+    },
+    {
+      "id": "ex-beatitudes",
+      "title": "The Beatitudes in detail",
+      "motif": "mountain",
+      "path": "assets/sections/ex-beatitudes.svg"
+    },
+    {
+      "id": "ex-prayer-patristic",
+      "title": "Patristic readings on prayer",
+      "motif": "lamp",
+      "path": "assets/sections/ex-prayer-patristic.svg"
+    },
+    {
+      "id": "ex-passions",
+      "title": "The passions and the eight principal faults",
+      "motif": "ladder",
+      "path": "assets/sections/ex-passions.svg"
+    },
+    {
+      "id": "ex-virtues",
+      "title": "Purity, love, friendship, and repentance",
+      "motif": "olive",
+      "path": "assets/sections/ex-virtues.svg"
+    },
+    {
+      "id": "ex-holy-spirit-depth",
+      "title": "Basil on the Holy Spirit and Tradition",
+      "motif": "dove",
+      "path": "assets/sections/ex-holy-spirit-depth.svg"
+    },
+    {
+      "id": "ex-additional-feasts",
+      "title": "Further readings for the great feasts",
+      "motif": "calendar",
+      "path": "assets/sections/ex-additional-feasts.svg"
+    },
+    {
+      "id": "ex-saint-narratives",
+      "title": "Narratives from the lives of Antony and Martin",
+      "motif": "quill",
+      "path": "assets/sections/ex-saint-narratives.svg"
+    },
+    {
+      "id": "ex-scriptural-types",
+      "title": "Scriptural types and their fulfillment",
+      "motif": "scroll",
+      "path": "assets/sections/ex-scriptural-types.svg"
+    },
+    {
+      "id": "ex-confessional-reading",
+      "title": "Patristic and Reformed confessional readings",
+      "motif": "books",
+      "path": "assets/sections/ex-confessional-reading.svg"
+    },
+    {
+      "id": "ex-service-vocabulary",
+      "title": "Russian service books, vessels, and chant vocabulary",
+      "motif": "censer",
+      "path": "assets/sections/ex-service-vocabulary.svg"
+    },
+    {
+      "id": "fc-clement",
+      "title": "Clement of Rome: repentance, faith, and church order",
+      "motif": "scroll",
+      "path": "assets/sections/fc-clement.svg"
+    },
+    {
+      "id": "fc-early-christian-life",
+      "title": "Diognetus and Polycarp: Christian life",
+      "motif": "olive",
+      "path": "assets/sections/fc-early-christian-life.svg"
+    },
+    {
+      "id": "fc-justin-confession",
+      "title": "Justin Martyr: confession and prophecy",
+      "motif": "quill",
+      "path": "assets/sections/fc-justin-confession.svg"
+    },
+    {
+      "id": "fc-justin-church",
+      "title": "Justin Martyr: baptism, Eucharist, and freedom",
+      "motif": "chalice",
+      "path": "assets/sections/fc-justin-church.svg"
+    },
+    {
+      "id": "fc-irenaeus",
+      "title": "Irenaeus: apostolic faith and the Incarnation",
+      "motif": "cross",
+      "path": "assets/sections/fc-irenaeus.svg"
+    },
+    {
+      "id": "fc-didache",
+      "title": "The Didache: life, initiation, and thanksgiving",
+      "motif": "book",
+      "path": "assets/sections/fc-didache.svg"
+    },
+    {
+      "id": "fc-early-church-discernment",
+      "title": "Early church order and the bodily hope",
+      "motif": "church",
+      "path": "assets/sections/fc-early-church-discernment.svg"
+    },
+    {
+      "id": "fc-cyril-creed",
+      "title": "Cyril of Jerusalem: God and the confession of faith",
+      "motif": "scroll",
+      "path": "assets/sections/fc-cyril-creed.svg"
+    },
+    {
+      "id": "fc-cyril-paschal",
+      "title": "Cyril of Jerusalem: Incarnation, Cross, Resurrection, and Spirit",
+      "motif": "sunrise",
+      "path": "assets/sections/fc-cyril-paschal.svg"
+    },
+    {
+      "id": "fc-scriptural-history",
+      "title": "Covenant and fulfillment: Scripture readings",
+      "motif": "books",
+      "path": "assets/sections/fc-scriptural-history.svg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "curriculum",
+      "path": "assets/sections/curriculum.svg"
+    },
+    {
+      "id": "prayer",
+      "path": "assets/sections/prayer.svg"
+    },
+    {
+      "id": "sources",
+      "path": "assets/sections/sources.svg"
+    },
+    {
+      "id": "saints",
+      "path": "assets/sections/saints.svg"
+    },
+    {
+      "id": "services",
+      "path": "assets/sections/services.svg"
+    },
+    {
+      "id": "church-year",
+      "path": "assets/sections/church-year.svg"
+    },
+    {
+      "id": "glossary",
+      "path": "assets/sections/glossary.svg"
+    },
+    {
+      "id": "icons",
+      "path": "assets/sections/icons.svg"
+    },
+    {
+      "id": "foundations",
+      "path": "assets/sections/foundations.svg"
+    },
+    {
+      "id": "worship-life",
+      "path": "assets/sections/worship-life.svg"
+    },
+    {
+      "id": "tradition-saints",
+      "path": "assets/sections/tradition-saints.svg"
+    },
+    {
+      "id": "reformed-sources",
+      "path": "assets/sections/reformed-sources.svg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Holy Apostolic",
+  "short_name": "Holy Apostolic",
+  "description": "Orthodox source readings, saints, services, prayer, and private study tools",
+  "start_url": "./#/home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7ef",
+  "theme_color": "#233e39",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

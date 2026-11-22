@@ -1,0 +1,2340 @@
+{
+  "revision": "worship-year-2026-11-20",
+  "sources": [
+    {
+      "id": "wy-hapgood1",
+      "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church — services",
+      "author": "Orthodox Church service books; compiled by Isabel Florence Hapgood",
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "edition": "1906, Boston and New York: Houghton, Mifflin and Company; contemporary transcription retains OCR limitations",
+      "translator": "Isabel Florence Hapgood",
+      "year": 1906,
+      "url": "https://www.sermonindex.net/fathers/orthodox-service-book-hapgood-part-1/",
+      "scanUrl": "https://archive.org/details/cu31924029363128",
+      "rights": "Public domain in the United States (published 1906). Other territories require a separate rights determination.",
+      "type": "Historical liturgical text",
+      "tradition": "Orthodox · Russian service books"
+    },
+    {
+      "id": "wy-hapgood2",
+      "title": "Service Book — Appendix B, explanatory notes",
+      "author": "Isabel Florence Hapgood; explanations derived chiefly from Archpriest Konstantin Nikolsky",
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "edition": "1906; Appendix B",
+      "translator": "Isabel Florence Hapgood",
+      "year": 1906,
+      "url": "https://www.sermonindex.net/fathers/orthodox-service-book-hapgood-part-2/",
+      "rights": "Public domain in the United States (published 1906).",
+      "type": "Historical liturgical commentary",
+      "tradition": "Orthodox · Russian service books"
+    },
+    {
+      "id": "wy-oca-year",
+      "title": "The Orthodox Faith — Church Year",
+      "author": "Protopresbyter Thomas Hopko; Orthodox Church in America",
+      "work": "The Orthodox Faith, Volume II: Worship",
+      "edition": "OCA online edition, accessed 2026-11-20",
+      "translator": "English original",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/church-year",
+      "rights": "Copyright OCA. Calendar facts and bibliographic links; no extended text reproduced.",
+      "type": "Catechetical explanation",
+      "tradition": "Orthodox · OCA"
+    },
+    {
+      "id": "wy-oca-cycle",
+      "title": "Lenten and Paschal Cycle",
+      "author": "Orthodox Church in America",
+      "work": "Feasts and Saints",
+      "edition": "Official date table for 2026–2030, accessed 2026-11-20",
+      "translator": "English original",
+      "url": "https://www.oca.org/fs/paschal-cycle",
+      "rights": "Copyright OCA. Date facts used for calendar verification; no extended text reproduced.",
+      "type": "Published calendar dates",
+      "tradition": "Orthodox · OCA"
+    },
+    {
+      "id": "wy-oca-feasts",
+      "title": "Feasts of the Church Year",
+      "author": "Orthodox Church in America",
+      "work": "Feasts and Saints",
+      "edition": "OCA online index, accessed 2026-11-20",
+      "translator": "English original",
+      "url": "https://www.oca.org/fs/icons-of-church-year",
+      "rights": "Copyright OCA. Names, calendar relationships, and links; no images or extended text reproduced.",
+      "type": "Published church-year index",
+      "tradition": "Orthodox · OCA"
+    },
+    {
+      "id": "wy-oca-fasts",
+      "title": "Fasting and Fast-Free Seasons of the Church",
+      "author": "Orthodox Church in America",
+      "work": "Liturgics: Outlines",
+      "edition": "OCA online outline, accessed 2026-11-20",
+      "translator": "English original",
+      "url": "https://www.oca.org/liturgics/outlines/fasting-fast-free-seasons-of-the-church",
+      "rights": "Copyright OCA. Season dates and links only; no fasting instructions reproduced or inferred.",
+      "type": "Published liturgical calendar outline",
+      "tradition": "Orthodox · OCA"
+    },
+    {
+      "id": "wy-rocor-calendar",
+      "title": "How the ROCOR liturgical calendar is prepared",
+      "author": "Peter Fekula; Fund for Assistance to the ROCOR",
+      "work": "Interview on calendar preparation",
+      "edition": "Published website interview",
+      "translator": "English original",
+      "url": "https://fundforassistance.org/news_171023_1",
+      "rights": "Linked reading. Reproduction permission not established; no text reproduced.",
+      "type": "Calendar preparation and jurisdictional context",
+      "tradition": "Orthodox · ROCOR"
+    },
+    {
+      "id": "wy-oca-apostles",
+      "title": "Holy Apostles Peter and Paul — June 29",
+      "author": "Orthodox Church in America",
+      "work": "Scripture Readings and commemorations",
+      "edition": "Official calendar entry for June 29, 2026",
+      "translator": "English edition",
+      "url": "https://www.oca.org/readings/daily/2026/06/29",
+      "rights": "Copyright OCA. Commemoration date and link only; no extended quotation.",
+      "type": "Published commemoration date",
+      "tradition": "Orthodox · OCA"
+    }
+  ],
+  "services": [
+    {
+      "id": "vespers",
+      "title": "Great Vespers",
+      "sourceId": "wy-hapgood1",
+      "commentarySourceId": "wy-hapgood2",
+      "publishedPages": "1–15",
+      "pdf": "services/hapgood-vespers.pdf",
+      "coverage": "Complete original scanned service pages; selected native text and complete corresponding Appendix B notes. The Liturgy scan preserves the book’s parallel Chrysostom/Basil columns and pontifical material.",
+      "editionNote": "Historical 1906 Russian service-book edition. Published rubrics and contemporary terminology belong to that source; this reader does not prescribe current parish practice. Native extracts retain transcription wording. Read the original page images for column order and typographic distinctions.",
+      "sections": [
+        {
+          "id": "vespers-1",
+          "title": "The All-Night Vigil",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(1) The Holy Orthodox-Catholic Apostolic Church of the East reckons its day after the pattern of the Jewish Church, from sunset. Therefore the worship of God begins with the Evening Service, which typifies, in general, the Old Testament times, as foreshadowing our Lord Jesus Christ and his life on earth, and precedes the Divine Liturgy of the morning, wherein is typified the life of our Lord as set forth in the New Testament and his life in heaven. On ordinary evenings, Great or Lesser Vespers is used. On Saturday evening, and on the eves of the Great Feasts, is celebrated the Vigil Service, which consists of portions of Great Vespers, combined with Matins. In the early Church, the Vigil Service lasted all night, as its name, the \"All-Night Vigil Service,\" denotes; and at the present day, in the monasteries of the East, where the service is read and chanted slowly, and in its completeness, it so lasts. In the monasteries, also, are used the Great and Lesser Later Evensong (Compline), and the various midnight services.\n\nAt the Saturday evening Vigil Service, the Resurrection of our Lord is more particularly commemorated and exalted. On Christmas Eve, and on the Eves of the Epiphany and sometimes of the Annunciation, the All-Night Vigil Office consists of Great Later Evensong (Grand Compline) and Matins.\n\nTHE SYMBOLISM OF GREAT VESPERS.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 1"
+            }
+          ]
+        },
+        {
+          "id": "vespers-2",
+          "title": "Opening blessing",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(2) This Exclamation the Priest utters after the Deacon has said to the brethren who have assembled for Divine Service, and are seated: \"Stand,\" and asks from him a blessing on the service: \"Bless, Master.\"",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 2"
+            }
+          ]
+        },
+        {
+          "id": "vespers-3",
+          "title": "Creation and the censing",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(3) By these acts of devotion the thoughts of the Christian are carried back to the epoch of the Creation of the world, to the blissful state of our first parents. The censing typifies the saying of Genesis, that at the Creation the Spirit of God, the true Light and Incense unto the elect, moved over the face of the waters. The opening of the Holy Doors signifies that, from the creation of the world, man was appointed to dwell in Paradise. But the blissful condition of mankind was of brief duration. As a token of the fact that men were banished from Paradise after the Fall, the Holy Doors are closed after the Temple has been censed.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 3"
+            }
+          ]
+        },
+        {
+          "id": "vespers-4",
+          "title": "Prayers of Light",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(4) The Priest stands before the Holy Doors, which are closed, and reads secretly the Prayers of Light, thereby typifying Adam sorrowing in repentance before the gates of Paradise. The Priest reads these prayers with uncovered head, in token of penitence and humility. In the Service Books of the Church these prayers are called \"The Prayers of Light\" because in them the Priest glorifies the Lord, who dwelleth in Light ineffable, for the gift of material light, and prays for illumination of soul.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 4"
+            }
+          ]
+        },
+        {
+          "id": "vespers-5",
+          "title": "Exclamations after litanies",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(5) All the Exclamations pronounced by the Priest after the Litanies bear a close relation either to the preceding litanies, to the prayers read secretly by the Priest, or to the chants of the singers.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 5"
+            }
+          ]
+        },
+        {
+          "id": "vespers-6",
+          "title": "Kathisma",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(6) \"Kafísma\" signifies \"sitting.\" The term may have had its rise in the fact that sitting was appointed while certain parts of the Kafísma were being read, verse by verse; but at some points standing was enjoined. In ancient times these verses were chanted.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 6"
+            }
+          ]
+        },
+        {
+          "id": "vespers-7",
+          "title": "Psalm verses",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(7) These verses express two thoughts: Adam's repentance for his sins, with his regret for the Paradise which he has lost; and the exhortation from the mouth of Adam to his posterity that they shall utterly obey the will of God.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 7"
+            }
+          ]
+        },
+        {
+          "id": "vespers-8",
+          "title": "Dogmatika and the entrance",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(8) The Bogoróditchny (Hymns to the Birth-giver of God) are called \"Dogmátiki,\" from the Greek word dogma, or doctrine; so that, together with the praise of the All-holy Birth-giver of God, they contain dogmatic teaching concerning the person of Jesus Christ, and in particular concerning the incarnation of the Lord and the union in his person of two natures — the divine and the human. The Hymn to the Birth-giver of God is sung at this point to remind us that she was the Mediatrix through whom, by the birth of her Holy Son, the life of those who were under the dispensation of the law was assuaged.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 8"
+            }
+          ]
+        },
+        {
+          "id": "vespers-9",
+          "title": "Evening entrance",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(9) The Entrance typifies in action that which is expressed by the chant: \"O gladsome radiance;\" that is to say, that the Gladsome Radiance has shone for men in the person of the Saviour, who, for the sake of men's infirmities, humbled the immortal glory of the heavenly Father, and came down from heaven.\n\nThe Holy Doors are opened, in token that with the coming of the Lord the Paradise of God was opened to men. The Priest comes forth from the Sanctuary standing erect, with his chasuble hanging straight, to typify humility and majesty. The Deacon precedes the Priest, as if he were the Forerunner, holding the censer in his hand. The censer with its incense signifies that, through the mediation of the Lord, our prayers are borne upward to the Lord like incense, and that the Holy Spirit is present in the Temple. The Deacon is preceded by a taper, which denotes the spiritual light brought by the Lord to earth.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 9"
+            }
+          ]
+        },
+        {
+          "id": "vespers-10",
+          "title": "Prokeimenon",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(10) The Gradual (Prokímen) (from the Greek, signifying that which precedes), is the verse which precedes the Lessons from Holy Scripture, namely, the Parables (Paremii), the Epistle and the Gospel, and serves as a preface to the Lesson. The Gradual, generally in the words of Holy Writ, expresses either the contents and application of the Lesson which follows it, or the significance of the day; that is, of the prayers and hymns which relate to the day.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 10"
+            }
+          ]
+        },
+        {
+          "id": "vespers-11",
+          "title": "Readings",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(11) The Lessons from Holy Scripture of the Old Testament (and also sometimes from the New Testament) are called Parables (Paremii), and contain the prophecies of the event commemorated on the day; or explain the force of the Feast, and the intent with which it was established; or set forth the praise of the Saint whose festival it is.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 11"
+            }
+          ]
+        },
+        {
+          "id": "vespers-12",
+          "title": "Litiya",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(12) The Litiyá (from the Greek, Liti, litomai, — a fervent prayer). The fervent prayer is expressed in the \"Lord, have mercy\" many times repeated. The Litiyá is sometimes performed in the porch of the Temple, or on the steps; sometimes inside the Temple. It reminds us of the ancient Processions of the Cross in the streets, more especially by night; and of the fervent petitions which the early Christians offered up during those processions, on the occasion of divers public calamities. This going forth into the porch for the Litiyá, at the All-Night Vigil, after the Entrance and the Evening Litany (Exténiya), on the one hand, typifies for those who stand in the porch (the penitents) the same thing as is typified for those who stand in the Temple by the Entrance at Vespers; that is to say, that our Lord Jesus Christ, the Gladsome Radiance, came down to us here below; that they who stand in the porch may expect mercy from the Lord, and the remission of sins. On the other hand, the going-forth of the faithful to the porch, the place of catechumens and penitents, denotes the profound humility of the Faithful, who are ready to put themselves in the place of the learners and penitents, and pray in company with them.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 12"
+            }
+          ]
+        },
+        {
+          "id": "vespers-13",
+          "title": "Blessing of loaves",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(13) At the Blessing of the Loaves God's blessing is asked on the fertility of the earth for the nourishment of men. In the early Church, when the All-Night Vigil lasted until the morning, it was customary to distribute the common offerings of bread, wine and oil after the Vespers; to the end that the Faithful who intended to remain throughout the service might be strengthened and refreshed thereby. After the Priest had pronounced the final Benediction upon the people, he and the Deacon descended from the Sanctuary, and sitting down with the people, they consumed with them the food which had thus been blessed. During this time selections from the Acts of the Apostles, or from the Epistles, were read aloud. This custom is still observed in certain monasteries, notably in those on Mount Athos. The distribution of the blessed bread during Grand Matins, to the Faithful who have received the benediction by the anointing with the blessed oil, commemorates this in ordinary churches.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, I, note 13"
+            }
+          ]
+        }
+      ],
+      "scripture": [
+        "Genesis 1:1–5",
+        "Psalm 104",
+        "Psalm 141",
+        "Luke 2:29–32"
+      ],
+      "termIds": [
+        "g-vespers",
+        "g-all-night-vigil",
+        "g-kathisma",
+        "g-theotokion",
+        "g-prokeimenon"
+      ],
+      "lessonIds": [
+        "ex-books-vocabulary",
+        "ex-chant-vocabulary",
+        "ex-fourth-commandment"
+      ],
+      "selections": [
+        {
+          "title": "The Great Litany",
+          "block": {
+            "kind": "quotation",
+            "text": "In peace let us pray to the Lord. Choir. Lord, have mercy. For the peace that is from above, and for the salvation of our souls : R For the peace of the whole world ; for the welfare of God's holy Churches, and for the union of them all : R For this holy Temple, and for those who with faith, devoutness, and in the fear of God have entered therein : R For our Holy Synod (or Patriarch) ; for our Bishop (or Archbishop, or Metropolitan), N. ; for the honourable Presbytery, the Diaconate in Christ ; for all the clergy and the laity : R [Here follow petitions for the Ruler of the Land and for all the Authorities (Emperor, or King, and Reigning House, or President, according to the elements and nationalities of which the Parish is constituted).] That he will aid them and subdue under their feet every foe and adversary : R\n\nFor this city, for this holy Temple, and for every city and land, and for those who with faith dwell therein : R For healthful seasons ; for abundance of the fruits of the earth, and for peaceful times : R For those who travel by sea or by land ; for the sick and the suffering ; for those who are in captivity, and for their salvation : R That he will deliver us from all tribulation, wrath, peril and necessity : R Succour us, save us, have mercy upon us, and keep us, O God, by thy grace : R Calling to remembrance our most holy, undefiled, most blessed and glorious Lady, the Birth-giver of God and ever-virgin Mary, with all the Saints, let us commend ourselves, and each other, and all our life unto Christ our God. Choir. To thee, O Lord.",
+            "sourceId": "wy-hapgood1",
+            "locator": "Great Vespers; The Great Litany; bounded transcription selection"
+          }
+        },
+        {
+          "title": "Evening hymn",
+          "block": {
+            "kind": "quotation",
+            "text": "O gladsome radiance of the holy glory of the Father immortal, heavenly, holy, blessed, Jesus Christ! In that we now are come unto the setting of the sun, and behold the light of even, we hymn thee, Father, Son, and Holy Spirit, God. For meet is it that at all times thou shouldst be magnified by voices propitious, O Son of God, who bestowest life. For which cause all the world doth glorify thee.",
+            "sourceId": "wy-hapgood1",
+            "locator": "Great Vespers; Evening hymn; bounded transcription selection"
+          }
+        }
+      ]
+    },
+    {
+      "id": "matins",
+      "title": "Matins",
+      "sourceId": "wy-hapgood1",
+      "commentarySourceId": "wy-hapgood2",
+      "publishedPages": "15–37",
+      "pdf": "services/hapgood-matins.pdf",
+      "coverage": "Complete original scanned service pages; selected native text and complete corresponding Appendix B notes. The Liturgy scan preserves the book’s parallel Chrysostom/Basil columns and pontifical material.",
+      "editionNote": "Historical 1906 Russian service-book edition. Published rubrics and contemporary terminology belong to that source; this reader does not prescribe current parish practice. Native extracts retain transcription wording. Read the original page images for column order and typographic distinctions.",
+      "sections": [
+        {
+          "id": "matins-1",
+          "title": "Censing",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(1) Thereby expressing that those present in their prayers have sincere faith and love towards the Lord Jesus Christ; like the Wise Men, who brought unto him offerings of frankincense and myrrh, and so honoured God in the flesh.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 1"
+            }
+          ]
+        },
+        {
+          "id": "matins-2",
+          "title": "The Six Psalms",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(2) The Six Psalms represent the wretched condition of the human race in the Old Testament days, which the Offices preceding the Divine Liturgy chiefly set forth; and the hope of a Saviour from on high.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 2"
+            }
+          ]
+        },
+        {
+          "id": "matins-3",
+          "title": "God is the Lord",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(3) When our Lord Jesus Christ revealed himself to the people assembled beside the Jordan, John the Baptist hailed him with joy and reverence. Therefore the Priest, or the Deacon, now solemnly makes proclamation, beholding, as it were, our Lord himself come to minister to the world.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 3"
+            }
+          ]
+        },
+        {
+          "id": "matins-4",
+          "title": "Alleluia during fasts",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(4) During Fasts Alleluia is sung four times instead of: \"God is the Lord and hath revealed himself unto us.\"",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 4"
+            }
+          ]
+        },
+        {
+          "id": "matins-5",
+          "title": "The women at the tomb",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(5) Thereby reminding us of the time when the Holy Women bearing spices, and other Disciples of the Lord, came early to his sepulchre, even before the dawn, and there learning of our Saviour's Resurrection, imparted to his remaining Disciples the glad tidings. The incense typifies the sweet spices which the women brought to the tomb of the Lord; the taper typifies the light and joy of the glad tidings of the Resurrection, and the light of faith therein, and in our future life. The procession of the Priest about the Temple typifies the return of the Holy Women and the Disciples from the sepulchre of the Saviour, bringing the tidings to the remaining Disciples.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 5"
+            }
+          ]
+        },
+        {
+          "id": "matins-6",
+          "title": "Polyeleos",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(6) It is so called from the Greek words poli (much) and elea (oil or mercy); because the latter word—mercy—is frequently repeated in these Psalms; and from the lighting of the shrine-lamps filled with pure oil, while the Psalms are being sung.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 6"
+            }
+          ]
+        },
+        {
+          "id": "matins-7",
+          "title": "Resurrection Gospel",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(7) Our Lord Jesus Christ, after that he was risen from the dead, speedily manifested himself to his Disciples. Wherefore the Church, by the reading of the Gospel after the Song of the Holy Women, announces to the People one of the ten Manifestations of the risen Saviour to his Disciples. The appointed Gospels for Matins in their order will be found on p. xxi. All the eleven Lessons from the Gospels, appointed to be read in rotation, refer to the Resurrection of our Lord on the third day.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 7"
+            }
+          ]
+        },
+        {
+          "id": "matins-8",
+          "title": "Veneration of the Gospel",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(8) While the Choir sings, the Priest and Deacon first salute the Holy Gospels. And after them the people, in the presence of the Priest, as it were of the Angel-Messenger of the Resurrection, joyfully do homage to the Holy Book, as to Christ himself, and kiss it, in that it contains the redeeming tidings of the Resurrection.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 8"
+            }
+          ]
+        },
+        {
+          "id": "matins-9",
+          "title": "Feast-day veneration",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(9) On Feast Days, the holy image of the Feast or of the Saint is saluted in token of devotion and gratitude to God for his mercy; and the Priest bestows the blessing, signing each one of the Faithful on the brow, in the form of a cross (with the oil which has been blessed at the Vespers), in the Name of the Holy Trinity, for the enlightenment and sanctification of their minds and hearts, and protection against all evil.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 9"
+            }
+          ]
+        },
+        {
+          "id": "matins-10",
+          "title": "The canon",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(10) As joy expresses itself in song, so the holy Church has appointed to be sung, after the salutation of the Book of the Gospels, the Nine Songs of the Canon, which represent the Hymns of praise, at the Resurrection, of the nine Ranks of the heavenly Hierarchy. The Canon contains, also, the Hymns of those godly persons in the Old Testament, from Moses to Zacharias, who magnified the Lord God in spiritual songs. This is in conformity with the teachings of our Lord himself, who, after his Resurrection, expounded unto his Disciples the things in all the Scriptures concerning himself; and each Song (Irmós), in the vast number of Canons in the Holy Orthodox Church, is inspired by the Hymn of Scripture appointed to precede it. But these Scripture hymns are generally omitted, with the exception of the Song of the Holy Birth-giver of God, which precedes Song IX. Many of the Hymns which follow each song are also sometimes omitted. The second Hymn of Holy Scripture (Deuteronomy xxxiii.) is not, properly speaking, so much a hymn as a denunciation of God's judgments upon the Israelites. Therefore it is said only on the Tuesdays of the Great Fast. In imitation of this, the Second Song of every Canon also consists of denunciations of God's wrath upon the disobedient, and is also omitted.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 10"
+            }
+          ]
+        },
+        {
+          "id": "matins-11",
+          "title": "Exapostilarion",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(11) The Hymns of Light (Svyetilny) are also called the \"Exapostilárion;\" \"Hymns of Light,\" because their subject is chiefly the illumination of the soul from on high, and because the singing of them at Matins precedes the break of day and the Gloria in excelsis; \"Exapostilárion,\" because in ancient times a chanter was sent out into the centre of the church to sing them. (Greek: Exapostilárion, one who is sent forth.)",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 11"
+            }
+          ]
+        },
+        {
+          "id": "matins-12",
+          "title": "Dawn and doxology",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(12) In ancient times the singing of the Canon lasted until the dawn. Therefore it is still the custom, at the present day, for the Priest, shortly after the Canon is finished, to make this Exclamation, in an outburst of joy and thanksgiving, beholding, as it were, the dawn of day.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, II, note 12"
+            }
+          ]
+        }
+      ],
+      "scripture": [
+        "Luke 24:1–12",
+        "Luke 24:44–49",
+        "Psalm 135",
+        "Luke 1:46–55"
+      ],
+      "termIds": [
+        "g-matins",
+        "g-polyeleos",
+        "g-canon-hymn",
+        "g-exapostilarion",
+        "g-great-doxology"
+      ],
+      "lessonIds": [
+        "ex-books-vocabulary",
+        "ex-chant-vocabulary",
+        "ex-fourth-commandment"
+      ],
+      "selections": [
+        {
+          "title": "Resurrection hymn",
+          "block": {
+            "kind": "quotation",
+            "text": "In that we have beheld the Resurrection of Christ, let us bow down before the holy Lord Jesus, the only sinless One. Thy Cross do we adore, O Christ, and thy holy Resurrection we laud and glorify: for thou art our God, and we know none other beside thee; we call upon thy Name. O come, all ye faithful, let us adore Christ's holy Resurrection. For lo, through the Cross is joy come into all the world. Ever blessing the Lord, let us sing his Resurrection: for in that he endured the Cross he hath destroyed Death by death.",
+            "sourceId": "wy-hapgood1",
+            "locator": "Matins; Resurrection hymn; bounded transcription selection"
+          }
+        }
+      ]
+    },
+    {
+      "id": "divine-liturgy",
+      "title": "Divine Liturgy of Saint John Chrysostom and Saint Basil the Great",
+      "sourceId": "wy-hapgood1",
+      "commentarySourceId": "wy-hapgood2",
+      "publishedPages": "64–126",
+      "pdf": "services/hapgood-divine-liturgy.pdf",
+      "coverage": "Complete original scanned service pages; selected native text and complete corresponding Appendix B notes. The Liturgy scan preserves the book’s parallel Chrysostom/Basil columns and pontifical material.",
+      "editionNote": "Historical 1906 Russian service-book edition. Published rubrics and contemporary terminology belong to that source; this reader does not prescribe current parish practice. Native extracts retain transcription wording. Read the original page images for column order and typographic distinctions.",
+      "sections": [
+        {
+          "id": "divine-liturgy-1",
+          "title": "The sanctuary and the doors",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(1) As the Sanctuary symbolically represents the kingdom of heaven, the drawing aside of the curtain during Divine Services typifies, in general, the revelation to mankind of the mysteries of salvation, which had been hidden from the foundation of the world and were revealed at the incarnation of the Lord; through whom, also, was revealed unto men the kingdom of heaven, forfeited by our first parents. The opening of the Holy Door typifies, in general, the opening of the way to the places where the Saviour of the world abode, or of the gates of Paradise; and, sometimes, the entrance into the kingdom of heaven.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 1"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-2",
+          "title": "Mutual forgiveness",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(2) They thus ask forgiveness for any offences which they may have committed against their fellow-men; and the Choirs and the People express their pardon by bowing in return.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 2"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-3",
+          "title": "Office of Oblation",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(3) All this and the whole Office of Oblation are said while the clergy are vesting, in a low voice, by the Priest, behind the image-screen (ikonostás), which corresponds to the chancel-rail in the Western Church. At the point duly indicated, after the Priest and Deacon have vested themselves, the Reader (in front of the image-screen), begins to read the Hours; the Priest (behind the image-screen), making aloud the exclamations and benedictions, as shown in the Hours.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 3"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-4",
+          "title": "Offering breads and commemorations",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(4) Five prosfori are generally used in preparing the holy Communion, in commemoration of the five loaves wherewith our Lord fed the five thousand people. But any one who wishes to have a living or a dead friend prayed for at the appointed place in the Liturgy, sends to the Chapel of Oblation a similar prosforá (an Altar-bread, — that is, \"an offering\"), with the Christian name only of the person written on a paper, or in a book kept for that purpose. At the end of the Liturgy the prosforá is returned to the sender, a particle having been removed, in token that the offering has been accepted. But the particles thus taken from these private offerings for the living and the dead do not form a part of the Communion, because they are not transubstantiated. The Emperor (or other Ruler) and the Reigning House, the Holy Synod and other persons in authority are prayed for here and at other points in the service (which explains the frequent recurrence of those petitions), not only in their official capacity, but also as representing benefactors of the Church and the people in general. In the early Church people brought bread, wine, oil and the other things required for the sustentation of the Church and for the services, on behalf of themselves or of living friends, or as memorials of their dead friends; and all such persons were prayed for, in detail, by name. With the growth of the Church this special mention of innumerable individuals became burdensome, and rendered the services oppressively long. Therefore the present abbreviated and representative form (the Rulers) was adopted.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 4"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-5",
+          "title": "Censing",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(5) The Altar, which represents the tomb of Christ and the throne of God, the holy pictures (ikóni — images), and the People are censed by the Deacon at the end of the Office of Oblation, in order that the Faithful may thereby be incited to a more fervent offering up of prayers. The withdrawal of the curtain here typifies the revelation to the world of the secrets of salvation, hidden from eternity.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 5"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-6",
+          "title": "Greek acclamations",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(6) These words, and the briefer form, the \"Eis pollá eti, Déspota,\" at Pontifical services, as well as the \"Axios\" and \"Kyrie eleison\" in the Ordination Offices, are retained in the original Greek as an acknowledgment of the Russian Church's origin in and oneness with the Greek Church.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 6"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-7",
+          "title": "Little Entrance",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(7) This opening of the Holy Door signifies that the heavens were opened at the Baptism of our Lord Jesus Christ, and a voice proceeding thence testified to him. The Little Entrance typifies the entrance of our Lord upon his work of preaching to the world, and his drawing near to men. The book of the Holy Gospels represents Christ our Lord, and the taper borne before it signifies that the teaching of the Gospels — that is, our Lord himself — is the Light of the world. He who bears the taper represents John the Baptist. The censer, with its glowing embers, typifies the Divine Ember, Christ himself, the God-Man, who united himself to mortal flesh, and, burning with divine love towards the human race, did utterly consume himself upon the altar of the Cross, in the savour of a sweet fragrance unto the everlasting Father.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 7"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-8",
+          "title": "Wisdom",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(8) The exclamation, \"Wisdom, O believers!\" always has the object of calling the people's attention to some especially edifying or sacred portions of the service. \"Wisdom!\" points directly to this edifying lesson, hymn or action.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 8"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-9",
+          "title": "Trisagion",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(9) The Thrice-Holy is sung as follows: First the Choir sings the whole hymn thrice. Then: Glory . . . now, and ever, . . . Holy Immortal One, have mercy upon us. Then the whole hymn, very slowly.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 9"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-10",
+          "title": "Baptismal hymn",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(10) This hymn is sung in the same manner as the preceding. It is used at these Feasts because, in the early Church, converts to Christianity were chiefly baptized at these seasons. By its use at the present day, the holy Church reminds us that we are bound to fulfil the vows made for us in Baptism.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 10"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-11",
+          "title": "High Place",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(11) The Bishop takes his seat upon the \"High Place,\" or Throne, because he represents our Lord Jesus Christ.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 11"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-12",
+          "title": "Prokeimenon",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(12) The Gradual (Prokimen), a verse which precedes the Lesson of Scripture, is sung thus: The Reader reads it; the Choir sings it. The Reader reads the Verse, or Verses, while the Choir repeats the Gradual proper. The Reader then reads the first half of the Gradual, and the Choir sings the last half.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 12"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-13",
+          "title": "Censing before the Gospel",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(13) This censing of the Temple, in preparation for listening to the reading of the Holy Gospel, draws the thoughts of the worshippers on high, and typifies the grace of the Holy Spirit, which is shed abroad in all the world, giving to the heart of man the savour of the sweetness of Christ (2 Cor. ii. 15). It is also a sign of prayerful reverence and homage to the Holy Gospel, as a symbol of the Holy Spirit, which is bestowed upon the world through the Gospel.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 13"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-14",
+          "title": "Sermon",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(14) If there is to be a sermon, the Priest may preach it immediately after the reading of the Gospel, or at the end of the Liturgy.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 14"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-15",
+          "title": "Fervent supplication",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(15) After this clear announcement of God's Word in Christ, it is meet and right that men should repeat their petitions, and pray to him with redoubled fervour for all things necessary both for their souls and bodies. Therefore it is ordered that the Litany of Fervent Supplication shall now be said.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 15"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-16",
+          "title": "Catechumens",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(16) The Catechumens in the early Church were not considered to be sufficiently instructed to look upon the Holy Mysteries without incurring the danger of misunderstanding them.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 16"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-17",
+          "title": "Great Entrance",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(17) In the middle of the Cherubimic Hymn the Great Entrance is made: that is to say, the Holy Gifts are brought from the Chapel (or Table) of Oblation to the Altar. In the days of the early Church, during this Great Entrance, all persons who had brought or sent offerings for the use of the Church were mentioned by name. But as this detailed commemoration was extremely long and difficult, it was ordered that only the chief personages in rank and power should thereafter be mentioned by name; all others being included under the honourable title of \"all Orthodox Christians.\" If it be a Pontifical Liturgy, the Bishop washes his hands at this point, thus ceremonially purifying himself for the sacred office which he is about to exercise.\n\nThe Great Entrance typifies our Lord's going to his Passion and death. Therefore it is customary for the Faithful to do homage to the Holy Gifts at this point, although these are not yet consecrated.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 17"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-18",
+          "title": "The doors and the Creed",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(18) In the early Church the Deacons, Sub-Deacons and Sacristans were wont to guard the doors, that no heathen or unworthy person might enter in, and that no one should go out during the solemn celebration of the Holy Sacrament. At the present time, the words, \"The Doors!\" warn us to guard the doors of our souls against all evil thoughts, as we prepare to confess our faith by the Creed, and to give heed to the Holy Mysteries.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 18"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-19",
+          "title": "Deacon’s stole",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(19) The Deacon here binds his stole about him in the form of a cross, to represent the wings of the Cherubim, who stand about the throne of God; as he himself represents an angel.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 19"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-20",
+          "title": "The Lamb",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(20) The Greek letters: ИС, ХС; NI, КА mean: Jesus Christ the Conqueror.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 20"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-21",
+          "title": "Warm water",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(21) The sacred warm water represents the water which came forth from the side of our Lord, with the Blood, showing that, although he was dead, his Body was not devoid of divine virtue; that is, the warmth and vitality of the Holy Spirit. The union of the Holy Elements is symbolical of our Lord's Resurrection.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 21"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-22",
+          "title": "Communion",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(22) All persons, both Infants and Adults, are communicated alike; that is to say, with the mingled holy Body and Blood, by the sacred spoon. Infants receive the holy Communion by virtue of their having received holy Chrismation immediately following their Baptism, which holy Chrismation makes them full members of the Church. Until they reach the age of seven years they receive the holy Communion without the (otherwise) indispensable preface of the Sacrament of Confession.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 22"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-23",
+          "title": "Appearance of the Gifts",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(23) This represents the appearances of our Lord to his Disciples after his Resurrection; also his Ascension into heaven.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 23"
+            }
+          ]
+        },
+        {
+          "id": "divine-liturgy-24",
+          "title": "Antidoron",
+          "blocks": [
+            {
+              "kind": "quotation",
+              "text": "(24) The Antidōron (literally, \"in place of the Gifts\") consists of that part of the first Altar-bread which remains on the Table of Oblation after the Sacred Lamb has been taken therefrom to be consecrated. It came to be the custom to distribute this blessed bread from the following causes: First, it was given as a memorial of those Love-feasts which were held, in ancient times, immediately after the Divine Liturgy; and again, it was given to Christians in place of the Holy Gifts (as its name indicates), when they came fasting to the Liturgy, but had not prepared themselves, by reason of human frailty, to receive the holy Sacrament. Sometimes the last two breads are brought out (after the prescribed particles have been removed) at the end of the service, and given to persons of distinction who may be present.",
+              "sourceId": "wy-hapgood2",
+              "locator": "Appendix B, IV, note 24"
+            }
+          ]
+        }
+      ],
+      "scripture": [
+        "Matthew 5:3–12",
+        "Isaiah 6:1–3",
+        "1 Corinthians 11:23–26",
+        "John 6:53–58",
+        "2 Corinthians 2:15"
+      ],
+      "termIds": [
+        "g-divine-liturgy",
+        "g-liturgy-of-the-catechumens",
+        "g-liturgy-of-the-faithful",
+        "g-little-entrance",
+        "g-great-entrance",
+        "g-trisagion",
+        "g-anaphora",
+        "g-epiclesis",
+        "g-antidoron"
+      ],
+      "lessonIds": [
+        "ex-lords-prayer-mystagogy",
+        "ex-books-vocabulary"
+      ],
+      "selections": [
+        {
+          "title": "The Creed",
+          "block": {
+            "kind": "quotation",
+            "text": "Choir. I believe in one God the Father Almighty, Maker of heaven and earth, And of all things visible and invisible: And in one Lord Jesus Christ, the only-begotten Son of God, Begotten of his Father before all worlds; Light of Light, Very God of very God, Begotten, not made; Being of one Essence with the Father; By whom all things were made; Who, for us men, and for our salvation, came down from heaven, And was incarnate by the Holy Ghost of the Virgin Mary, And was made man. And was crucified also for us under Pontius Pilate, and suffered and was buried. And the third day he rose again, according to the Scriptures. And ascended into heaven, And sitteth on the right hand of the Father. And he shall come again with glory to judge both the quick and the dead; Whose kingdom shall have no end. And in the Holy Ghost, the Lord and Giver of Life, Who proceedeth from the Father, Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets. In one Holy Catholic and Apostolic Church. I acknowledge one Baptism for the remission of sins. I look for the Resurrection of the dead, And the Life of the world to come. Amen.",
+            "sourceId": "wy-hapgood1",
+            "locator": "Divine Liturgy of Saint John Chrysostom and Saint Basil the Great; The Creed; bounded transcription selection"
+          }
+        },
+        {
+          "title": "Cherubic Hymn",
+          "block": {
+            "kind": "quotation",
+            "text": "Choir. Let us, the Cherubim mystically representing, and unto the Life-giving Trinity the thrice-holy chant intoning, all cares terrestrial now lay aside. [(Here the Great Entrance, with the Holy Gifts, is made. And after it the Hymn is finished:)] That we may raise on high the King of all, like conqueror on shield and spears, by the Angelic Hosts invisibly up-borne.",
+            "sourceId": "wy-hapgood1",
+            "locator": "Divine Liturgy of Saint John Chrysostom and Saint Basil the Great; Cherubic Hymn; bounded transcription selection"
+          }
+        }
+      ]
+    }
+  ],
+  "feasts": [
+    {
+      "id": "nativity-theotokos",
+      "title": "Nativity of the Theotokos",
+      "cycle": "fixed",
+      "month": 9,
+      "day": 8,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE NATIVITY OF THE BIRTH-GIVER OF GOD",
+      "reading": {
+        "kind": "quotation",
+        "text": "[At the All-Night Vigil.] The Stanza (Stikhíra) for: Lord, I have cried: In Tone VI. To-day hath God who sitteth on supersensual thrones prepared for himself upon earth a holy throne. He who in wisdom established the heavens hath, in his love toward mankind, made a living heaven; for from a barren root hath he made to bourgeon forth to us a life-bearing garden, even his Mother. Thou who art the God of wonders, and the hope of the hopeless, O Lord, glory to thee. Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. And again the Stanza: To-day hath God who sitteth . . . [The Gradual (Prokímen) for the Day.] The Parables (Paremíí). Genesis xxviii. 10-17; Ezek. xliii. 27, xliv. 1-4; Prov. ix. 1-11. The Stanza at the Litiyá, in Tone VIII. (by Patriarch Sergius). On this blessed illustrious day of our Feast, let us sound the spiritual trumpets: for she who is of the seed of David is born this day as the Mother of Life, dispersing darkness; who also is the renewal of Adam and the recall of Eve, the fountain of incorruption, and the annihilation of corruption; through whom, also, we have become godlike, and have been delivered from death. And unto her, with Gabriel, let us cry, O ye faithful: Hail, thou that art full of grace! The Lord is with thee, for thy sake giving unto us great mercy.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE NATIVITY OF THE BIRTH-GIVER OF GOD; opening source paragraph"
+      },
+      "termIds": [
+        "g-nativity-of-the-theotokos"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "cross",
+      "title": "Exaltation of the Precious Cross",
+      "cycle": "fixed",
+      "month": 9,
+      "day": 14,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE ELEVATION OF THE PRECIOUS CROSS",
+      "reading": {
+        "kind": "quotation",
+        "text": "[At the All-Night Vigil.] The Stanza (Stikhira) for: Lord, I have cried: In Tone VI. The Cross, being set up, doth command every created being to sing the most pure Passion of him who was lifted up thereon. For having upon the same slain him who had slain us, he endowed with life those who were slain, and adorned them, and vouchsafed that they might dwell in heaven, forasmuch as he is compassionate, through the rich abundance of his goodness. Wherefore, rejoicing, let us exalt his Name, and magnify his exceeding condescension. Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. O come, all ye nations, let us adore the blessed Tree, through which the righteousness eternal hath come to pass: for he who beguiled our forefather Adam with the tree is himself beguiled by the Cross, and he who, like a tyrant, did lord it over that which the King had fashioned, falleth, being overthrown by a downfall strange. The poison of the serpent is washed away by the blood of God, and the curse of just condemnation is abolished, in that the Righteous One hath been condemned by unrighteous judgment: for it was meet that the tree should be healed by the Tree, and that by the passion of the Passionless One upon the Tree, the passions of the condemned one should be destroyed. But glory, O Christ our King, unto thy wise providence to usward, whereby thou hast saved all men, forasmuch as thou art good and lovest mankind.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ELEVATION OF THE PRECIOUS CROSS; opening source paragraph"
+      },
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "entrance-theotokos",
+      "title": "Entrance of the Theotokos into the Temple",
+      "cycle": "fixed",
+      "month": 11,
+      "day": 21,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE ENTRANCE OF THE BIRTH-GIVER",
+      "reading": {
+        "kind": "quotation",
+        "text": "At the All-Night Vigil Service. The Stanza (Stikhíra) for: Lord, I have cried: In Tone I. To-day let us faithful exult, singing unto the Lord in psalms and songs, and doing honour unto his holy Tabernacle, the Ark imbued with life, which containeth the uncontainable Word: for in wise supernatural is she brought unto the Lord, being still of tender age in the flesh, and Zacharias, the High Priest, doth with joy receive her, as the abode of God. (Twice.) Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. After thy nativity, O Lady, Bride of God, thou didst come into the temple of the Lord, as one consecrated, to be reared in the Holy of Holies. Then, also, was Gabriel sent unto thee, O all-undefiled One, bearing nourishment unto thee. All the powers of Heaven were amazed when they beheld the Holy Spirit take up its abode in thee. Wherefore, O most pure and undefiled Mother of God, who art glorified in heaven and on earth, save thou our race.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ENTRANCE OF THE BIRTH-GIVER; opening source paragraph"
+      },
+      "termIds": [
+        "g-entrance-of-the-theotokos"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "nativity",
+      "title": "Nativity of Christ",
+      "cycle": "fixed",
+      "month": 12,
+      "day": 25,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE NATIVITY OF CHRIST",
+      "reading": {
+        "kind": "quotation",
+        "text": "[The faithful prepare themselves for this great Feast by a prolonged Fast, which beginneth on November 15, and is called the Christmas Fast, or the Fast of St. Philip. The Eve of the Feast (Sotchénik) is dedicated to a specially strict abstinence.] [On Christmas Eve the customary festival Compline service is celebrated. If the Eve falleth on any day except Saturday or Sunday, then on the morning of that day the IMPERIAL HOURS are read, and, later on, the Liturgy of St. Basil the Great is celebrated, preceded by Vespers. But if the day before the Feast be Saturday or Sunday, then the Imperial Hours are read on Friday, while the Liturgy of St. John Chrysostom is celebrated on the preceding day (Sotchénik). If the Liturgy of St. Basil the Great be used on the preceding day (Sotchénik) then on the Feast of the Nativity itself the Liturgy of St. John Chrysostom is used; and contrariwise.]",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE NATIVITY OF CHRIST; opening source paragraph"
+      },
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "theophany",
+      "title": "Theophany — Baptism of Christ",
+      "cycle": "fixed",
+      "month": 1,
+      "day": 6,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE EPIPHANY AND THE GREAT",
+      "reading": {
+        "kind": "quotation",
+        "text": "[On the Eve of the Epiphany the same strict fast is observed, and the same services are celebrated as on the Eve of Christ's Nativity (Christmas). That is to say: The IMPERIAL HOURS are read, and the Liturgy of St. Basil the Great is celebrated (if the Eve doth not fall upon Saturday or Sunday), preceded by Vespers; while in the evening the service consisteth of Grand Compline joined to Matins. The differences between these services and those of Christmas lie in the festival hymns and the consecration of the water.] [At this Feast there are two Blessings of the Waters: the first, on the Eve, in Church; the second, after the Divine Liturgy, on the day of the Feast, under the open sky, of rivers, lakes, pools and wells. In ancient times the former was intended for the Catechumens who were prepared to receive baptism, and were then baptized. The second was instituted later, in imitation of the custom among the Christians of Jerusalem, who were wont to go forth to the Jordan to celebrate the festival, and to pray: also in memory of the consecration of the waters of the Jordan at the time our Lord Jesus Christ was baptized therein. This Blessing of the Waters is often called \"The Jordan Festival\" for that reason.]",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE EPIPHANY AND THE GREAT; opening source paragraph"
+      },
+      "termIds": [
+        "g-theophany"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "meeting",
+      "title": "Meeting of the Lord",
+      "cycle": "fixed",
+      "month": 2,
+      "day": 2,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE MEETING OF THE LORD",
+      "reading": {
+        "kind": "quotation",
+        "text": "The Stanza (Stikhíra) for: Lord, I have cried: In Tone I. Let us also come: with hymns divine let us meet Christ and receive him whose salvation Simeon beheld. For this is he of whom David prophesied: This is he who spake by the prophets; who for our sakes became incarnate, and proclaimed the law. Him let us worship. (Twice.) Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. Tone VI. To-day let the door of heaven be opened: for the Father's Word, which is from everlasting, having taken his beginning in time from a Virgin, without renouncing his Godhead, is of her own free will brought by his mother, as a babe of forty days, into the temple under the law: and an aged man receiveth him in his arms, crying: Let thy servant depart, O Lord; for mine eyes have seen thy salvation, which is come into the world to save the race of men. Glory to thee, O Lord.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE MEETING OF THE LORD; opening source paragraph"
+      },
+      "termIds": [
+        "g-meeting-of-the-lord"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "annunciation",
+      "title": "Annunciation",
+      "cycle": "fixed",
+      "month": 3,
+      "day": 25,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE ANNUNCIATION",
+      "reading": {
+        "kind": "quotation",
+        "text": "[This Feast almost always falleth in the Great Fast (Lent).] [If the Feast of the Annunciation fall upon any day upon the eve whereof Vespers hath been celebrated alone, or in conjunction with the Liturgy of the Presanctified Gifts, then the Vigil Service beginneth with Great Compline.] [If it fall upon Sunday or Monday, the Vigil Service beginneth with Great Vespers. But if it fall upon Great (Good) Friday, or Great (Holy) Saturday, the Vigil Service beginneth directly with Matins.] The Stanza (Stikhira) for: Lord, I have cried: In Tone VI. Gabriel, when he revealed unto thee, O Maiden, the counsel of God which was from everlasting, did stand before thee, saluting thee, and proclaiming: Hail, O Earth Unsown! Hail, O Bush which Burned, yet was not consumed! Hail, O Abyss Unfathomable! Hail, O Bridge which leadeth unto heaven, and Ladder lofty, which Jacob saw! Hail, O Pot Divine of Manna! Hail, O Abrogation of the curse! Hail, O Recall of Adam! The Lord is with thee.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ANNUNCIATION; opening source paragraph"
+      },
+      "termIds": [
+        "g-annunciation"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "transfiguration",
+      "title": "Transfiguration",
+      "cycle": "fixed",
+      "month": 8,
+      "day": 6,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE TRANSFIGURATION",
+      "reading": {
+        "kind": "quotation",
+        "text": "THE TRANSFIGURATION.\nThou wast transfigured on the Mount, and in so far as they were able to receive it, thy disciples, with wonder, beheld thy glory, O Christ our God. And when they beheld thee crucified, they understood thy voluntary Passion, and proclaimed unto the world that thou art, of a truth, the Radiance of the Father.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE TRANSFIGURATION; opening source paragraph"
+      },
+      "termIds": [
+        "g-transfiguration"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "dormition",
+      "title": "Dormition of the Theotokos",
+      "cycle": "fixed",
+      "month": 8,
+      "day": 15,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-year",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Church Year: Major Feasts table; Hapgood: THE FALLING-ASLEEP OF THE",
+      "reading": {
+        "kind": "quotation",
+        "text": "[(This Feast is preceded by a Fast of two weeks' duration.)] [At Vespers.] The Stanza (Stikhíra) for: Lord, I have cried: In Tone I. O marvel wonderful! The Source of life is laid in the grave, and the tomb becometh the ladder unto heaven. Rejoice, O Gethsemane, thou holy abode of the Birth-giver of God! In that we have Gabriel for our chieftain, let us cry aloud, ye faithful: Hail, thou that art full of grace! The Lord is with thee, through thee granting unto the world great mercy. (Twice.) Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. At the sovereign command of God were the God-bearing apostles caught up on high in the clouds from every place; and when they were come to thine all-holy and life-originating body, they kissed the same with love. The heavenly powers most high also, when they were come with their Master, were seized with dread as they escorted the all-pure body which had received God; with stately mien, also, they went before, and invisibly cried aloud unto the Powers most high: Lo, the Queen over all, and the Maiden of God cometh. Be ye lifted up, O gates, and lift ye up, in more than earthly wise, Her who is the Mother of the Everlasting Light. For through her was salvation universal brought to pass for men: and we cannot gaze upon her, and it is not possible to render unto her the honour that is meet: for her surpassing merit exceedeth all understanding. Wherefore, O Birth-giver of God most pure, who abidest ever with the life-bearing King, who also is thy Son, entreat thou him that he will ever preserve thy new people, and save them from every hostile assault; for we have acquired thine intercession, blessing thee both in light and darkness forever.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE FALLING-ASLEEP OF THE; opening source paragraph"
+      },
+      "termIds": [
+        "g-dormition"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "publican-pharisee",
+      "title": "Sunday of the Publican and Pharisee",
+      "cycle": "paschal",
+      "offset": -70,
+      "rank": "Pre-Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "prodigal",
+      "title": "Sunday of the Prodigal Son",
+      "cycle": "paschal",
+      "offset": -63,
+      "rank": "Pre-Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "last-judgment",
+      "title": "Sunday of the Last Judgment",
+      "cycle": "paschal",
+      "offset": -56,
+      "rank": "Pre-Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "title": "Forgiveness Sunday",
+      "cycle": "paschal",
+      "offset": -49,
+      "rank": "Pre-Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "lent",
+      "title": "Beginning of Great Lent",
+      "cycle": "paschal",
+      "offset": -48,
+      "rank": "Great Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "orthodoxy",
+      "title": "Sunday of Orthodoxy",
+      "cycle": "paschal",
+      "offset": -42,
+      "rank": "Great Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "palamas",
+      "title": "Sunday of Saint Gregory Palamas",
+      "cycle": "paschal",
+      "offset": -35,
+      "rank": "Great Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "veneration-cross",
+      "title": "Sunday of the Cross",
+      "cycle": "paschal",
+      "offset": -28,
+      "rank": "Great Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "climacus",
+      "title": "Sunday of Saint John Climacus",
+      "cycle": "paschal",
+      "offset": -21,
+      "rank": "Great Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "mary-egypt",
+      "title": "Sunday of Saint Mary of Egypt",
+      "cycle": "paschal",
+      "offset": -14,
+      "rank": "Great Lent",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "lazarus",
+      "title": "Lazarus Saturday",
+      "cycle": "paschal",
+      "offset": -8,
+      "rank": "Before Holy Week",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "palm",
+      "title": "Entry of the Lord into Jerusalem — Palm Sunday",
+      "cycle": "paschal",
+      "offset": -7,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "THE ENTRANCE OF THE LORD INTO JERUSALEM. (PALM SUNDAY.)\n[At Vespers, on the Eve.] The Stanzas (Stikhiri) for: Lord, I have cried: In Tone VI. To-day hath the grace of the Holy Spirit assembled us together, and taking up thy cross let us all say: Blessed is he that cometh in the Name of the Lord. Hosanna in the highest! He who hath the heavens for his throne, and the earth for his foot-stool, the coeternal Word and Son of God the Father, to-day is come to Bethany, to humble himself upon the dumb foal of an ass. For which cause the Hebrew children, taking branches of trees in their hands, exalted him with the shout: Hosanna in the highest! Blessed is he that cometh in the Name of the Lord. Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. To-day hath the grace of the Holy Spirit . . . (See above.)",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ENTRANCE OF THE LORD INTO JERUSALEM (PALM SUNDAY); opening source paragraph"
+      }
+    },
+    {
+      "id": "holy-thursday",
+      "title": "Great and Holy Thursday",
+      "cycle": "paschal",
+      "offset": -3,
+      "rank": "Holy Week",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "[On Great Thursday the Church commemorates the Lord's humbling of himself for our sakes: his washing the feet of his disciples, and the institution of the dread Mystery of the Body and Blood of Christ; his prayer in the garden, and his betrayal by Judas.] [On this day, in some cathedral churches, the ceremony of the Washing of Feet is performed, as a lesson to us that we should serve one another.] [In the Cathedral of the Falling-asleep of the Birth-giver of God (the Assumption), in Moscow; and in the Monastery of the Catacombs, in Kieff, at the conclusion of the Divine Liturgy on Holy Thursday is consecrated the Holy Chrism, which is used in all Russian churches, in the Sacrament of Chrismation, after Baptism: also at the Coronation of the Emperor and Empress of Russia, when they are anointed to their high office, as God commanded his prophets of old to anoint the kings over Israel. The Consecration of the Chrism taketh place at the Altar, after the Great Entrance.]",
+        "sourceId": "wy-hapgood1",
+        "locator": "GREAT THURSDAY; opening source paragraph"
+      }
+    },
+    {
+      "id": "holy-friday",
+      "title": "Great and Holy Friday",
+      "cycle": "paschal",
+      "offset": -2,
+      "rank": "Holy Week",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "[On Great Friday we commemorate the redeeming sufferings of our Lord Jesus Christ, who for our sakes voluntarily endured being spat upon, beaten, buffeted in the face, jeered at, pierced with the nails and the spear, and, in conclusion,— death upon the Cross. Wherefore, the Service for Matins is entitled: THE OFFICE OF THE HOLY AND REDEEMING SUFFERINGS OF OUR LORD JESUS CHRIST; and its characteristic feature consisteth in the reading of the Twelve Gospels, which narrate the same.] [Matins beginneth in the same manner as on Thursday. While: Alleluia, and: When the glorious disciples . . . (see GREAT THURSDAY) are being sung, the Clergy come forth from the Sanctuary with the book of the Gospels to the centre of the Temple, place the book on the lectern, light tapers (as do the People also), and cense the Temple and those present.] [Then the Little Litany: Again, yet again, . . . with the Exclamation: For thine are the kingdom and the power . . .]",
+        "sourceId": "wy-hapgood1",
+        "locator": "GREAT FRIDAY; opening source paragraph"
+      }
+    },
+    {
+      "id": "holy-saturday",
+      "title": "Great and Holy Saturday",
+      "cycle": "paschal",
+      "offset": -1,
+      "rank": "Holy Week",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "[On Great Saturday the Church commemorateth the Burial of the body of our Lord Jesus Christ, and his descent into Hell. As a watch was set over the tomb of the Saviour, in like manner, during the whole course of the Matins service the Clergy hardly depart from the tomb of the winding-sheet; while during the Hours and the Liturgy, all the exits from the sanctuary are performed around the winding-sheet; as, for example, the Little and Great Entrances.] [The beginning of Matins is as usual. While: God is the Lord: is being sung, the Holy Door is opened, and the Clergy come forth to the centre of the Temple. The winding-sheet and the Temple are censed.] The Hymns (Troparī), in Tone II. I. Noble Joseph, when he had taken thy pure Body from the Tree, did wrap it in fine linen and spices, and sorrowing did lay it in a new sepulchre.",
+        "sourceId": "wy-hapgood1",
+        "locator": "GREAT SATURDAY; opening source paragraph"
+      }
+    },
+    {
+      "id": "pascha",
+      "title": "Pascha — Resurrection of Christ",
+      "cycle": "paschal",
+      "offset": 0,
+      "rank": "Feast of Feasts",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "[Easter, the Feast of Feasts, is celebrated by the Church with special solemnity. The Temple is filled with the fragrance of incense and myriads of lights; the Clergy are arrayed in their choicest light-hued vestments. All the People hold lighted tapers in their hands. All these things denote the flood of joy and grace which proceeded from the Resurrection of the Saviour.] [At midnight the Holy Door is opened; and it remaineth open for the whole of Easter week. The Rector, with the censer and the triple candlestick and cross, censeth the Altar; then, accompanied by his fellow-clergy, who bear the book of the Holy Gospels and the holy images, and the Deacons who cense, and preceded by a procession of the cross with the church banners and lights, he goeth forth from the church, all singing with him the chant of joy: The Angels in heaven, O Christ our Saviour, sing thy Resurrection. This chant is taken up and continued by the Choir and the People thus: And do thou enable us on earth to glorify thee with a pure heart.]",
+        "sourceId": "wy-hapgood1",
+        "locator": "EASTER; opening source paragraph"
+      }
+    },
+    {
+      "id": "thomas",
+      "title": "Thomas Sunday",
+      "cycle": "paschal",
+      "offset": 7,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "myrrhbearers",
+      "title": "Sunday of the Myrrhbearing Women",
+      "cycle": "paschal",
+      "offset": 14,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "paralytic",
+      "title": "Sunday of the Paralytic",
+      "cycle": "paschal",
+      "offset": 21,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "midfeast",
+      "title": "Midfeast of Pentecost",
+      "cycle": "paschal",
+      "offset": 24,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "samaritan",
+      "title": "Sunday of the Samaritan Woman",
+      "cycle": "paschal",
+      "offset": 28,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "blind-man",
+      "title": "Sunday of the Blind Man",
+      "cycle": "paschal",
+      "offset": 35,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "ascension",
+      "title": "Ascension",
+      "cycle": "paschal",
+      "offset": 39,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "The Stanza (Stikhíra) for: Lord, I have cried: In Tone VI. The Lord hath ascended into heaven, that he may send the Comforter unto the world. The heavens have prepared his throne, the clouds his ascension. The Angels marvel, beholding a man exalted over them. The Father awaiteth him whom, as coeternal, he hath in his bosom; and the Holy Spirit commandeth all his Angels: Lift up your gates, ye Princes; clap your hands, all ye people, for Christ is ascended up to the place where he was before. (Twice.) Glory to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen. Tone VI. O sweetest Jesus, who, without leaving the bosom of the Father, hast, as a man, dwelt among the earth-born, to-day art thou ascended in glory from the Mount of Olives, and graciously hast borne on high our fallen nature, and hast sat down with the Father. For which cause the Bodiless Powers of heaven, amazed at the marvel, were affrighted with dread, and seized with trembling, they magnified thy love toward mankind. With them also, we earth-born, glorifying thy condescension toward us, and thine Ascension from us, pray, saying: Do thou, who, at thine Ascension, didst fill with joy unutterable thy disciples and the Birth-giver of God who bare thee, vouchsafe unto us, thine elect, joy also, through their prayers, because of thy great mercy.",
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ASCENSION; opening source paragraph"
+      }
+    },
+    {
+      "id": "fathers-nicaea",
+      "title": "Sunday of the Fathers of the First Ecumenical Council",
+      "cycle": "paschal",
+      "offset": 42,
+      "rank": "Paschaltide",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "pentecost",
+      "title": "Pentecost",
+      "cycle": "paschal",
+      "offset": 49,
+      "rank": "Great Feast",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-hapgood1"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ],
+      "reading": {
+        "kind": "quotation",
+        "text": "[The date of Pentecost is regulated by the date of Easter. But that Sunday is called The Day of the Holy Trinity. The Feast of the Holy Spirit (in that He is separate, yet equal in essence, honour and glory with the Father and the Son) is celebrated on the following day, Monday, and is called the Day of the Spirit. It is customary to decorate churches and houses at this Feast with freshly cut trees and flowers, and to stand at the Divine Liturgy holding flowers. This custom is founded upon that of the Old Testament Church (Lev. xxiii. 10-17; Num. xxviii. 16). The trees and flowers, the tokens of the renewal of Nature in the Spring, typify also the renewal of mankind through the indwelling of the Holy Spirit.] [The special features in the celebration of this Feast consist of certain petitions in the Litany; and of Prayers recited kneeling at Vespers, which, as a rule, immediately followeth the Liturgy.]",
+        "sourceId": "wy-hapgood1",
+        "locator": "PENTECOST; opening source paragraph"
+      }
+    },
+    {
+      "id": "holy-spirit",
+      "title": "Day of the Holy Spirit",
+      "cycle": "paschal",
+      "offset": 50,
+      "rank": "Pentecost",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "all-saints",
+      "title": "Sunday of All Saints",
+      "cycle": "paschal",
+      "offset": 56,
+      "rank": "Pentecost",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA Feasts of the Church Year and Lenten and Paschal Cycle",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment",
+        "ex-books-vocabulary"
+      ]
+    },
+    {
+      "id": "church-new-year",
+      "title": "Church New Year — Beginning of the Indiction",
+      "cycle": "fixed",
+      "month": 9,
+      "day": 1,
+      "rank": "Church year",
+      "sourceIds": [
+        "wy-oca-year"
+      ],
+      "locator": "Published church-year table or season outline; selected calendar date",
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "nativity-fast",
+      "title": "Beginning of the Nativity Fast",
+      "cycle": "fixed",
+      "month": 11,
+      "day": 15,
+      "rank": "Season boundary",
+      "sourceIds": [
+        "wy-oca-fasts"
+      ],
+      "locator": "Published church-year table or season outline; selected calendar date",
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "dormition-fast",
+      "title": "Beginning of the Dormition Fast",
+      "cycle": "fixed",
+      "month": 8,
+      "day": 1,
+      "rank": "Season boundary",
+      "sourceIds": [
+        "wy-oca-fasts"
+      ],
+      "locator": "Published church-year table or season outline; selected calendar date",
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "theophany-eve",
+      "title": "Eve of Theophany",
+      "cycle": "fixed",
+      "month": 1,
+      "day": 5,
+      "rank": "Eve",
+      "sourceIds": [
+        "wy-oca-fasts"
+      ],
+      "locator": "Published church-year table or season outline; selected calendar date",
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "nativity-eve",
+      "title": "Eve of the Nativity of Christ",
+      "cycle": "fixed",
+      "month": 12,
+      "day": 24,
+      "rank": "Eve",
+      "sourceIds": [
+        "wy-oca-fasts"
+      ],
+      "locator": "Published church-year table or season outline; selected calendar date",
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "peter-paul",
+      "title": "Holy Apostles Peter and Paul",
+      "cycle": "fixed",
+      "month": 6,
+      "day": 29,
+      "rank": "Feast",
+      "sourceIds": [
+        "wy-oca-apostles"
+      ],
+      "locator": "Published church-year table or season outline; selected calendar date",
+      "termIds": [],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    },
+    {
+      "id": "apostles-fast",
+      "title": "Monday after All Saints — Apostles’ Fast cycle",
+      "cycle": "paschal",
+      "offset": 57,
+      "rank": "Season boundary",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts",
+        "wy-oca-apostles",
+        "wy-oca-fasts"
+      ],
+      "locator": "OCA published Paschal cycle: Monday after All Saints; Bright Week",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ],
+      "summary": {
+        "kind": "summary",
+        "sourceId": "wy-oca-cycle",
+        "reason": "Necessary clarification of a variable season when fixed and Paschal calendars are combined.",
+        "text": "The Apostles’ Fast lies between the Monday after All Saints and the feast of Peter and Paul. Combining a late Pascha with revised fixed dates can leave no interval. The app displays the boundary dates as calendar context; it does not prescribe personal fasting."
+      }
+    },
+    {
+      "id": "bright-monday",
+      "title": "Bright Monday",
+      "cycle": "paschal",
+      "offset": 1,
+      "rank": "Bright Week",
+      "sourceIds": [
+        "wy-oca-cycle",
+        "wy-oca-feasts"
+      ],
+      "locator": "OCA published Paschal cycle: Monday after All Saints; Bright Week",
+      "termIds": [
+        "g-pascha"
+      ],
+      "lessonIds": [
+        "ex-fourth-commandment"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "path": "services/hapgood-vespers.pdf",
+      "sha256": "c16b822a95a0346d821f16aa70acc07f072badfda42105cc75c35950dd70bb9c",
+      "bytes": 643015,
+      "pages": 15,
+      "originalPdfPages": [
+        41,
+        55
+      ]
+    },
+    {
+      "path": "services/hapgood-matins.pdf",
+      "sha256": "5495af813fd0dcc5670bc241ce412fbf52bc9f6ba9fd32fd1951cadd3e434566",
+      "bytes": 976003,
+      "pages": 23,
+      "originalPdfPages": [
+        55,
+        77
+      ]
+    },
+    {
+      "path": "services/hapgood-divine-liturgy.pdf",
+      "sha256": "8f223ff01ce6fec52ee598b340cde8783326bc8be294c990ef70812757a5b621",
+      "bytes": 2698078,
+      "pages": 63,
+      "originalPdfPages": [
+        104,
+        166
+      ]
+    }
+  ],
+  "calendar": {
+    "minYear": 1900,
+    "maxYear": 2099,
+    "defaultMode": "julian",
+    "paschaSystem": "Traditional Julian Paschalion converted to civil Gregorian dates",
+    "verifiedPascha": {
+      "2026": "2026-04-12",
+      "2027": "2027-05-02",
+      "2028": "2028-04-16",
+      "2029": "2029-04-08",
+      "2030": "2030-04-28"
+    },
+    "sourceId": "wy-oca-cycle"
+  },
+  "audit": {
+    "quotationBlocks": 70,
+    "quotedWords": 7750,
+    "method": "Case-sensitive Unicode NFKC and whitespace normalization against retained published transcription. This verifies wording, not the accuracy of historical commentary or OCR column sequence. Original scanned service pages are supplied separately.",
+    "humanTheologicalReview": "Not performed",
+    "entries": [
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 1",
+        "sha256": "dd1ad681e1ce604390619c94c9a3429b426616a7890cd21c032c00605e1fdeb0",
+        "words": 225,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 2",
+        "sha256": "ecf5325dcab47d830d6b6e49d8bc6813d23b4f8e955e7b469c42757da591c7db",
+        "words": 35,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 3",
+        "sha256": "8c5a67627949631b1c1dbc445257a5e4521ec40b322dff1268fd5ccf47d56f25",
+        "words": 118,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 4",
+        "sha256": "8176d0924c345f6d5e09648175fc6b7ea5be211351a213e77b779e3bed3c95b7",
+        "words": 83,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 5",
+        "sha256": "ed71770e12a9ca4d6dadd954809f4ac98b3fb20224c9ce51494ef8dbfb28bb47",
+        "words": 35,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 6",
+        "sha256": "6b26117f309dad412d53fb2c552b1c39d89f1d665ff00b78442323a54e3d27cd",
+        "words": 44,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 7",
+        "sha256": "642750fd3dbd719b8d1faa2cc598f3f749223338827bb112bf4cd2e246014951",
+        "words": 41,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 8",
+        "sha256": "16ec000029e6ba240f6912e6db58588af6d7064d05feae4dfe1dfff34a1fe7e5",
+        "words": 108,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 9",
+        "sha256": "ac46ac398969190ded96fa070242a03b109b0635cfb22db5603a856725eb7bf0",
+        "words": 163,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 10",
+        "sha256": "e248864f148088ce7eceec2aaeb6069747abf7c39b74045ecca5baa8c98b1dbc",
+        "words": 77,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 11",
+        "sha256": "18860363b14d4c28018fb98d0273722dad51502c6853a83a2fc48a1c52d657a9",
+        "words": 59,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 12",
+        "sha256": "56397763eb238ad99f32009aa3ffa56230c25a1f520ac3a7e76ae40212ec6e6c",
+        "words": 216,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, I, note 13",
+        "sha256": "955bbf1da9ec3c45c0ad0538323b280d92c9df96ed225721ac838e1b36f2a76b",
+        "words": 165,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 1",
+        "sha256": "5881130702267447d43afa4e45480af81e245e93a44ec6f3649428fbe2b75e6c",
+        "words": 39,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 2",
+        "sha256": "1454bb48e24eed5233a8661d406ac99ef90b844c4d144417f4a7310a2bdb882b",
+        "words": 36,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 3",
+        "sha256": "20c5b943caff28ac2aac32aaef21a8dd5e2134d492e0bdc7fa38adc667d67e9a",
+        "words": 47,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 4",
+        "sha256": "6964f6a9b0fae565fde3c6a6443c69dff02664cbb1b9f98d36284de70654de1a",
+        "words": 20,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 5",
+        "sha256": "c9e1a7c29d19afd70d7a00ad9525876832a9a81cdb9f5f25b5cc487f650d2d44",
+        "words": 115,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 6",
+        "sha256": "262b935db21d7430ceed73c2129a1154a220487241155854e58878533fa403d6",
+        "words": 42,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 7",
+        "sha256": "cce6f185dae2f02125879b999c2b4291be6d872618cecae2c20a5450f3622acb",
+        "words": 89,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 8",
+        "sha256": "3541a49fab71051fb10687d5d5cf207d0a0a4c20d817ee49fd8c254f2c6f3574",
+        "words": 58,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 9",
+        "sha256": "ccb0eb32dfd9e889210948555c04e002412e0b4e00558fe7c96beee7dbc45eab",
+        "words": 80,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 10",
+        "sha256": "42dbfacbec925020a146264077bbf48c939f5359790f8292a4459ac813d859a3",
+        "words": 223,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 11",
+        "sha256": "847ad47416ea4cf2284c82a9b8dff17af9a8d11ffe54113d19fce1536b0ad894",
+        "words": 71,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, II, note 12",
+        "sha256": "5ff91dbfa62f86e7c1bf3851982cf2608e4b81e509174965968b88b8c34a34c8",
+        "words": 51,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 1",
+        "sha256": "6299751e4b171fb82c6c09c299199760651448c493b81f225bd2d9157a64dd85",
+        "words": 105,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 2",
+        "sha256": "781bd66c89c0ae9c70c2996fa6919b8a0c0fb6bb1cba50be32941f80276c4859",
+        "words": 29,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 3",
+        "sha256": "c02a2182d639cd88b6a33d1f3c63eb1d47909082f3630f20ad89bc979b2c32ad",
+        "words": 77,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 4",
+        "sha256": "3772ca8f38248204d12248dd9e69160b88720a3154683f5004107e0c0fd18cc9",
+        "words": 273,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 5",
+        "sha256": "a57976e814829117034d046b678731b7dd8eaf13e1edc127d323b2ba60e2b395",
+        "words": 73,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 6",
+        "sha256": "8d4c101396fcc3bca8e8e1eb990ba91fb2bea7889c583b135880600a4ae61ba3",
+        "words": 48,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 7",
+        "sha256": "30b5eb80b5f8c9b1ed29cadb1f73880497e0ef8abc26f123528f25a2230d6b6e",
+        "words": 147,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 8",
+        "sha256": "f19d53245d0b3fe4397dcd160be8d952675dc495ac3e379eb66c3955417862b2",
+        "words": 35,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 9",
+        "sha256": "d09a0e9f3289ae3b93d998b8e086e7da6e4b925edc31e509e3b47777f5ec59b5",
+        "words": 39,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 10",
+        "sha256": "d604e96fb7ac17c14733caeb1ae2a73b2eed3397915544410fd704e1da314a34",
+        "words": 57,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 11",
+        "sha256": "87bdc4365733347a1fbba88bd31dc8319d450fce9774bcff2b09eb5654a4a249",
+        "words": 19,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 12",
+        "sha256": "85eb4d5644561d7a031dc87471c7b749a9b53cfa2e476e29bd7bf102e472fd46",
+        "words": 54,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 13",
+        "sha256": "53345679cd0877d333bf223c63a331d9817815b45f12d2850dd8848ef972259d",
+        "words": 88,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 14",
+        "sha256": "bb6fd4efe1aae5aa5d9536162a593676a8bdff33480e459b9adf9118bbabbe2f",
+        "words": 27,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 15",
+        "sha256": "063754b1f55c54d31806abd226ae3d253bf20ee5f9e86d779faed6d4b280a124",
+        "words": 52,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 16",
+        "sha256": "2e4f178395f665c4480db899cf86bb98bc7be75ab4ea257442b83a00625d84e0",
+        "words": 27,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 17",
+        "sha256": "ef99c4bdcd12ce1128e1ef7d1dfe35b668164d975046cf037603439674549695",
+        "words": 164,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 18",
+        "sha256": "8e6a728ab4bfe8e1e86086a8a2832658b2430f926280a9b4a9be7c9905803b53",
+        "words": 79,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 19",
+        "sha256": "355b18cdd4eb73ac41e47652382d34370091462cbd6b4a8042665fec59b7c34e",
+        "words": 35,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 20",
+        "sha256": "dfc469547e1a4e8111adedd3bff84c41a176e75bd627c5973e7d6a1fc0de963b",
+        "words": 13,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 21",
+        "sha256": "971b3e6ff7ea70e61da320e020c67e90161c4c839ebddcc5fabc98890b4c07b0",
+        "words": 56,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 22",
+        "sha256": "08d12f4177805a56055ff52e0b1064caff22a96e3292483a09587aba887c7074",
+        "words": 75,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 23",
+        "sha256": "08c3ea46b5b64a5513dfb9ec2cf7448c11314ad82cbb8d441fcec92020533c73",
+        "words": 19,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood2",
+        "locator": "Appendix B, IV, note 24",
+        "sha256": "20039a52fedf3908f9eba667603dca9f10bd4f831697380d569de240aaf70903",
+        "words": 141,
+        "verifiedAgainst": "hapgood-transcription-2.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "Great Vespers; The Great Litany; bounded transcription selection",
+        "sha256": "811b0a1a5072acf8a6fe788dedf4398e60e1ef290811d3cd141b4243a9c42ad6",
+        "words": 303,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "Great Vespers; Evening hymn; bounded transcription selection",
+        "sha256": "a115875299bff5397e9403a74ce9920fc680b2efeefdbaf1fa16b712470f8f58",
+        "words": 74,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "Matins; Resurrection hymn; bounded transcription selection",
+        "sha256": "00f827cc4cafe01b3e2a02d69bdf9d755d8302b2bb64b1800de46ecf85c3fd8b",
+        "words": 99,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "Divine Liturgy of Saint John Chrysostom and Saint Basil the Great; The Creed; bounded transcription selection",
+        "sha256": "bd5aecad8e6adeb31a64e7fac0fc812ee10bae79b95917f9c367f5afaa14325f",
+        "words": 215,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "Divine Liturgy of Saint John Chrysostom and Saint Basil the Great; Cherubic Hymn; bounded transcription selection",
+        "sha256": "ebeb492f7a358e886d74008960056080e039342c2e3f11fea56d8c5db8164177",
+        "words": 61,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE NATIVITY OF THE BIRTH-GIVER OF GOD; opening source paragraph",
+        "sha256": "1e6078b41e6f9cebd6b894c8d0a9551d0311dbc867dcf45ca455ca38bf29695e",
+        "words": 249,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ELEVATION OF THE PRECIOUS CROSS; opening source paragraph",
+        "sha256": "fc366cf614499317c90b197bf55f89d0d48a863c70f82acf832ee45cfdf4cf71",
+        "words": 265,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ENTRANCE OF THE BIRTH-GIVER; opening source paragraph",
+        "sha256": "60d24e2b199247f28ad3a64d62d18cfe3661b4c72b7bb13367734add6c7d470a",
+        "words": 184,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE NATIVITY OF CHRIST; opening source paragraph",
+        "sha256": "b7bf33496cbbca53ec91b5eae0fc86414e17177be57ed10e34e777207ad0a4df",
+        "words": 156,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE EPIPHANY AND THE GREAT; opening source paragraph",
+        "sha256": "8c442655dd97351c4b5496f24e410adab581805e636b816c4380945bcf72513f",
+        "words": 217,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE MEETING OF THE LORD; opening source paragraph",
+        "sha256": "82990906eb46c308953a89b3df3ae67dda75708ed36bbef2d54b29942be4bb7b",
+        "words": 175,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ANNUNCIATION; opening source paragraph",
+        "sha256": "aeaf70667be2c725c40ca07e5f757abc34535a2f2f2947b3ebd1f4b444172afe",
+        "words": 167,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE TRANSFIGURATION; opening source paragraph",
+        "sha256": "fa069a76cebcb3b7a71d5f1d85a45161d330f53d6a966ef274ebbffe8af8a974",
+        "words": 57,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE FALLING-ASLEEP OF THE; opening source paragraph",
+        "sha256": "474698c2ca2d8ab6572a36486fa9d3fa329606e8b40b91f82bdc2f06663fc0df",
+        "words": 316,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ENTRANCE OF THE LORD INTO JERUSALEM (PALM SUNDAY); opening source paragraph",
+        "sha256": "8562dac58cfef95110fd87d71b27a2ec4e39c44d691ce5f52b8ee8baffc8114e",
+        "words": 166,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "GREAT THURSDAY; opening source paragraph",
+        "sha256": "99016b53499f1cb7499718a8b4571de50f269632c265e167081e4adb34967a03",
+        "words": 171,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "GREAT FRIDAY; opening source paragraph",
+        "sha256": "032a51b018c4d01e50d73459a0a6132829e8fcedf74e7bda8d55ec2e05ec6653",
+        "words": 167,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "GREAT SATURDAY; opening source paragraph",
+        "sha256": "a9f964ea483f0e42e9162d5e57206159ab80d1d416fddf5774c4de7357fef6af",
+        "words": 153,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "EASTER; opening source paragraph",
+        "sha256": "ba5b8d72158048c7289cffd26963a216e0510cac74e7ed41a47e560af76905e1",
+        "words": 182,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "THE ASCENSION; opening source paragraph",
+        "sha256": "524453b792b3dcf38c440d4bd9e25563d79ab1e5074cf3f9ff7659adb7b3ac69",
+        "words": 239,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      },
+      {
+        "sourceId": "wy-hapgood1",
+        "locator": "PENTECOST; opening source paragraph",
+        "sha256": "734d1ffc4c2fc42d55090df7df2f38c8e044cfbca476f5518832c97eb570d221",
+        "words": 162,
+        "verifiedAgainst": "hapgood-transcription-1.txt"
+      }
+    ],
+    "facsimiles": [
+      {
+        "path": "services/hapgood-vespers.pdf",
+        "sha256": "c16b822a95a0346d821f16aa70acc07f072badfda42105cc75c35950dd70bb9c",
+        "bytes": 643015,
+        "pages": 15,
+        "originalPdfPages": [
+          41,
+          55
+        ]
+      },
+      {
+        "path": "services/hapgood-matins.pdf",
+        "sha256": "5495af813fd0dcc5670bc241ce412fbf52bc9f6ba9fd32fd1951cadd3e434566",
+        "bytes": 976003,
+        "pages": 23,
+        "originalPdfPages": [
+          55,
+          77
+        ]
+      },
+      {
+        "path": "services/hapgood-divine-liturgy.pdf",
+        "sha256": "8f223ff01ce6fec52ee598b340cde8783326bc8be294c990ef70812757a5b621",
+        "bytes": 2698078,
+        "pages": 63,
+        "originalPdfPages": [
+          104,
+          166
+        ]
+      }
+    ]
+  }
+}

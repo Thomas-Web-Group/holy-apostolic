@@ -1,0 +1,749 @@
+{
+  "version": "scripture-corpus-2026-11-20",
+  "editions": {
+    "kjv": {
+      "vplVerses": 36822,
+      "usfxVerses": 36822,
+      "matchedVerses": 36822,
+      "mismatches": [],
+      "onlyUsfx": [],
+      "sourceTags": {
+        "book": 81,
+        "id": 81,
+        "h": 81,
+        "toc": 243,
+        "p": 10463,
+        "c": 1362,
+        "v": 36822,
+        "w": 349308,
+        "ve": 36822,
+        "add": 21546,
+        "f": 6959,
+        "nd": 6892,
+        "q": 2461,
+        "b": 209,
+        "d": 116,
+        "s": 44,
+        "tl": 22,
+        "ide": 14,
+        "wj": 2038
+      },
+      "files": [
+        {
+          "file": "kjv/Gen.json",
+          "sha256": "d89d08351488c82f56bbabab6d4af12845fb05857a8f7826a762ab6b7bffe4e1",
+          "verses": 1533
+        },
+        {
+          "file": "kjv/Exod.json",
+          "sha256": "26c7452598aac033dab26ebff09ea556555d28182a59cfef4120b00f7fb51b0f",
+          "verses": 1213
+        },
+        {
+          "file": "kjv/Lev.json",
+          "sha256": "3c36a102c6a0a015a72a124a463bcf400f41019c74955f9516c4f7962bb6b208",
+          "verses": 859
+        },
+        {
+          "file": "kjv/Num.json",
+          "sha256": "a125770ed9953db8c2b50b29de949e0d3b8cc79128e3c4655e412ca85e4b483c",
+          "verses": 1288
+        },
+        {
+          "file": "kjv/Deut.json",
+          "sha256": "129f47195dd036a5da4ca0aada60039efbd248db1118cdd67c132a8b2fb01af2",
+          "verses": 959
+        },
+        {
+          "file": "kjv/Josh.json",
+          "sha256": "943128c4c7c563ccd7297ccc5b90ea8947ef379263fa12d0e12bb37d72416527",
+          "verses": 658
+        },
+        {
+          "file": "kjv/Judg.json",
+          "sha256": "09a9734f02332ca41b3e36d14b3c0bdff04e14a444160c94d92fad81407ce631",
+          "verses": 618
+        },
+        {
+          "file": "kjv/Ruth.json",
+          "sha256": "e343165ae44e17c6bec048d704a18e1679b955783c67497acca7766be9a77fed",
+          "verses": 85
+        },
+        {
+          "file": "kjv/1Sam.json",
+          "sha256": "fcb05f0dd83720a7a46096358b4c202930483b232dc1d85b6522bfd4f3839cf7",
+          "verses": 810
+        },
+        {
+          "file": "kjv/2Sam.json",
+          "sha256": "34e21b9474aa6067a9224634414f5e234bdbf5ccba0fef171524d7d60df9ce50",
+          "verses": 695
+        },
+        {
+          "file": "kjv/1Kgs.json",
+          "sha256": "a5c754c4d72b47bb35b813199a91dd517b5d87d2d8a4f76c1bc581a9a920e86e",
+          "verses": 816
+        },
+        {
+          "file": "kjv/2Kgs.json",
+          "sha256": "4248790fefe593c70b6aa84d0e02b6ef37f6e56fc2f586696e3e3149b4aa38e7",
+          "verses": 719
+        },
+        {
+          "file": "kjv/1Chr.json",
+          "sha256": "49323de51b391126710de7f804b5e969e24ed3efbbb7ad5fa13ae4964b2472a9",
+          "verses": 942
+        },
+        {
+          "file": "kjv/2Chr.json",
+          "sha256": "e385c9abe57e7ffe47001c5be75f31569b0f6725393641ecf8e7c1e6d076e3d9",
+          "verses": 822
+        },
+        {
+          "file": "kjv/Ezra.json",
+          "sha256": "ec50eee7cefd7b3ea9c998d6f0d876931e3b443c7747dc8d207fb1fdce763649",
+          "verses": 280
+        },
+        {
+          "file": "kjv/Neh.json",
+          "sha256": "bbd408f699da9ebcb619eebda79c58b7a16336aa4604091fb4a2f6685c3b2db8",
+          "verses": 406
+        },
+        {
+          "file": "kjv/Esth.json",
+          "sha256": "88c583ebb59be491c942826aa7c72638b4a1e29f377f2e5ac5d2856213a2e058",
+          "verses": 167
+        },
+        {
+          "file": "kjv/Job.json",
+          "sha256": "8e7850a18bffb6fc1f6b32d9410a6f3f6ce500b1523b7bd049df45a14ba712ba",
+          "verses": 1070
+        },
+        {
+          "file": "kjv/Ps.json",
+          "sha256": "b41ec756ebe5eb0061f69ceb0d96cbae5e7542d4ad488ef1c3d7e6df4b382240",
+          "verses": 2461
+        },
+        {
+          "file": "kjv/Prov.json",
+          "sha256": "5f5481a34f086f411ec2b7205c1df2cc29d1045cd22b2a1a9ac44d577d7565bf",
+          "verses": 915
+        },
+        {
+          "file": "kjv/Eccl.json",
+          "sha256": "83b0d55361c3c92f9447dde834a1eea04342692d109194e524311fbd670318d4",
+          "verses": 222
+        },
+        {
+          "file": "kjv/Song.json",
+          "sha256": "92e2d50703b2ecef9b47bf753eccfb8fa7a20051e4a2ad721adfc98a9c5df263",
+          "verses": 117
+        },
+        {
+          "file": "kjv/Isa.json",
+          "sha256": "b6b7830fe227250d8af5ba9e99539214ad81e744e5b5c6d9155e99f9b9d0a957",
+          "verses": 1292
+        },
+        {
+          "file": "kjv/Jer.json",
+          "sha256": "f550a2a19ab86577df72bbf87f7177de0bab2d588da954803f271e6d6c3d8089",
+          "verses": 1364
+        },
+        {
+          "file": "kjv/Lam.json",
+          "sha256": "702ac5a0ed100e503c666ad3de7849d48d4ea831551152ee15ee73024bc57970",
+          "verses": 154
+        },
+        {
+          "file": "kjv/Ezek.json",
+          "sha256": "c9fc14f9b8f9be2dd7fb85351202cfcbb4bcc99ff6b4fdaf6f720dad8d6db533",
+          "verses": 1273
+        },
+        {
+          "file": "kjv/Dan.json",
+          "sha256": "dcbc317cb1cadedb8ea0fa9e2da61e50207d351a5bbc3a2f78908c9020e161ee",
+          "verses": 357
+        },
+        {
+          "file": "kjv/Hos.json",
+          "sha256": "d66e18c564ea12c2ad3897f78af8e59e9ed6a0815cd2809445872b6449680823",
+          "verses": 197
+        },
+        {
+          "file": "kjv/Joel.json",
+          "sha256": "ffd7f5b8ac0231932d1c458b821060bc51b9d003c5fb132886f60a501a789d11",
+          "verses": 73
+        },
+        {
+          "file": "kjv/Amos.json",
+          "sha256": "dfb378dfc87490bdbfc8af4eeda1cd76ea645d8054b71b8604cf7a48deb63056",
+          "verses": 146
+        },
+        {
+          "file": "kjv/Obad.json",
+          "sha256": "e9d0a74b08b4bb67eb2efa7e81664605737918727a6314ce095f9a419beaf763",
+          "verses": 21
+        },
+        {
+          "file": "kjv/Jonah.json",
+          "sha256": "844fa8775496dffb7bdf68350d1d039087aa8b1f913744dabb86b4ca83599993",
+          "verses": 48
+        },
+        {
+          "file": "kjv/Mic.json",
+          "sha256": "b171ff7fcf3d94515d6bf965e337b5d196c575496e6b266d2a88bd585cb95cf4",
+          "verses": 105
+        },
+        {
+          "file": "kjv/Nah.json",
+          "sha256": "bb2374287050b513be8bc86a74a857a446e1d1b80873c5f4d620b8d7f17276fb",
+          "verses": 47
+        },
+        {
+          "file": "kjv/Hab.json",
+          "sha256": "423628ec129caffbc85fa31fb42af7bf4fcc132018eb38a1064605773e64ce14",
+          "verses": 56
+        },
+        {
+          "file": "kjv/Zeph.json",
+          "sha256": "80ebdb493879a206bb9b93494ee77f7e959f2aa5a5f4b66f84ebb5e9dde5a484",
+          "verses": 53
+        },
+        {
+          "file": "kjv/Hag.json",
+          "sha256": "0d8b3e68ce944cec97a8cc8903ba272f4d35f23eb94da890631e7ba937f83092",
+          "verses": 38
+        },
+        {
+          "file": "kjv/Zech.json",
+          "sha256": "fa8037ad650532b8c96d0fb63da8b1f99484a593a0878eeed2619ae25a2ddf38",
+          "verses": 211
+        },
+        {
+          "file": "kjv/Mal.json",
+          "sha256": "50c993f610886b44be0e9dc46420e505954acb79bb095dd919e2c2096ba6633a",
+          "verses": 55
+        },
+        {
+          "file": "kjv/Tob.json",
+          "sha256": "7258cf52e8a642268bfffd84a83e9b2a6551838bf421a1933b1e36a6d03ef99b",
+          "verses": 244
+        },
+        {
+          "file": "kjv/Jdt.json",
+          "sha256": "97d7909366d8c2b13cd176305ce2c2c6949a45f7f2fecd8be71f1502dc29c5a0",
+          "verses": 339
+        },
+        {
+          "file": "kjv/AddEsth.json",
+          "sha256": "4a833baffb60b7a88ff3ef4ee5ff04c09b27574bc529ad0279b0b527c7ff9d5a",
+          "verses": 105
+        },
+        {
+          "file": "kjv/Wis.json",
+          "sha256": "194d18cbe879412c550f5860843f0f9b2f09177fece3bcbc069cd18a68e50d26",
+          "verses": 436
+        },
+        {
+          "file": "kjv/Sir.json",
+          "sha256": "1190fba6454009a469a08be1325daa926764e32c578bf497f4e79b6283caea0a",
+          "verses": 1393
+        },
+        {
+          "file": "kjv/Bar.json",
+          "sha256": "8c52965dbea5ace514f176f31f3b8bf679c8b8ce13f610172a941bc92cda58cd",
+          "verses": 213
+        },
+        {
+          "file": "kjv/PrAzar.json",
+          "sha256": "e1e103d30b88a53c250f6e69b16ea07537b93b59c7cd504f97112e72d1cb5562",
+          "verses": 68
+        },
+        {
+          "file": "kjv/Sus.json",
+          "sha256": "01e709aa105f252b2001954c4fb187a24f38a7d6d2d4dac5aba78b2a38cf50a9",
+          "verses": 64
+        },
+        {
+          "file": "kjv/Bel.json",
+          "sha256": "50b7a96e04ddc47d10f4f03aff8c14ebabcffd7cdf08d1362d921f94371a8e8d",
+          "verses": 42
+        },
+        {
+          "file": "kjv/1Macc.json",
+          "sha256": "93dde25e89807a35acd4df7038d51784ef0766fadd46ebfd258a18fe65973583",
+          "verses": 924
+        },
+        {
+          "file": "kjv/2Macc.json",
+          "sha256": "6bb3a497de62750d8d0b1718ac8a550764107aebd918b51b9770df51de8a8250",
+          "verses": 555
+        },
+        {
+          "file": "kjv/1Esd.json",
+          "sha256": "4026b01cce983d5e1edcdd5ed4b20a7edd483002eaf9f9076acd5027bd7b6997",
+          "verses": 448
+        },
+        {
+          "file": "kjv/PrMan.json",
+          "sha256": "85b1efd2fe11153f05b06a14892d70745d51df86d7e60ff393e25e5ce5246b22",
+          "verses": 15
+        },
+        {
+          "file": "kjv/2Esd.json",
+          "sha256": "6036aacf7cfab03acb264b3cb7dfb8d78cb021e313faec385a4f122413cccc2a",
+          "verses": 874
+        },
+        {
+          "file": "kjv/Matt.json",
+          "sha256": "65838da6db91feaae1b78ceefa58302e486460c523cbdb1df142bf73ab9ad546",
+          "verses": 1071
+        },
+        {
+          "file": "kjv/Mark.json",
+          "sha256": "f6fe4a143cbab6a09ee8f5ab5e0c19379e8ccaed78b07f09e653aa5603b01505",
+          "verses": 678
+        },
+        {
+          "file": "kjv/Luke.json",
+          "sha256": "fb6e3ae2bb1907e2edfae477451d76e7d6ccd822bdf2617c17346019fd5c6036",
+          "verses": 1151
+        },
+        {
+          "file": "kjv/John.json",
+          "sha256": "0ffaf777a4f37f318eccc56d1a174a71fb8d1c949ee5c7cd2f383967352ccb2d",
+          "verses": 879
+        },
+        {
+          "file": "kjv/Acts.json",
+          "sha256": "935202bccf35ae400826878506fe0ce50e099a7736734e5ee1ae3e3df05b2c72",
+          "verses": 1007
+        },
+        {
+          "file": "kjv/Rom.json",
+          "sha256": "6a0367067845532145394c6c5675ad3cddb53db3b9e9a00c3c737210d3ee5024",
+          "verses": 433
+        },
+        {
+          "file": "kjv/1Cor.json",
+          "sha256": "2c79aeae7acffe3a289ac963420afed44304d1115242a049fc30f5b1ec6fae1c",
+          "verses": 437
+        },
+        {
+          "file": "kjv/2Cor.json",
+          "sha256": "9ece0a31495ddf6d3a398f71aeeed49185dc3bd25a7182dd7632386754e20ba2",
+          "verses": 257
+        },
+        {
+          "file": "kjv/Gal.json",
+          "sha256": "d589beeb72d0256cdae75bb3c0d06a2512d7874efefdfc002b5e5e536578c31c",
+          "verses": 149
+        },
+        {
+          "file": "kjv/Eph.json",
+          "sha256": "a83e2b38ea7946fdbfff37d6fbdb304dae53d934d4bf7380318c48008c20ec38",
+          "verses": 155
+        },
+        {
+          "file": "kjv/Phil.json",
+          "sha256": "bd0b225e4aa1447f159b7c28b14a65aa16b4ce3da235f63e779f4c8f0c14f584",
+          "verses": 104
+        },
+        {
+          "file": "kjv/Col.json",
+          "sha256": "f93dc6d60dafd4b95f1685c8594da677546104f91a828dcd2a208e0fae52392c",
+          "verses": 95
+        },
+        {
+          "file": "kjv/1Thess.json",
+          "sha256": "5f87a1b1ed782f4608668069a08ffecb1593ea32a587adc58f560cfdcbbc50b3",
+          "verses": 89
+        },
+        {
+          "file": "kjv/2Thess.json",
+          "sha256": "c581c0bd7c2f511d330fd6a17bf819710c3f83e67871bf465d11e37769b9b48a",
+          "verses": 47
+        },
+        {
+          "file": "kjv/1Tim.json",
+          "sha256": "2137366576361fe5a5c0402fc3ba71dbbb0dde7f2237f7dcf3384a2c3364f199",
+          "verses": 113
+        },
+        {
+          "file": "kjv/2Tim.json",
+          "sha256": "005c747604cdc793313ec6003fa4ac0243ad0e799b0c2f14f46bd4286b483f72",
+          "verses": 83
+        },
+        {
+          "file": "kjv/Titus.json",
+          "sha256": "4d59ad8d4106630d51077cd1e77b26d1473a3d4b5816131ac4dd80f19139482c",
+          "verses": 46
+        },
+        {
+          "file": "kjv/Phlm.json",
+          "sha256": "1edecb8577c4f940a4dadddeb493ee4190835f54f91eb75cd0eae764cc4f0cf9",
+          "verses": 25
+        },
+        {
+          "file": "kjv/Heb.json",
+          "sha256": "e7d67effa33ea38d21d990c16f9640f33869a47ab38af79ba76698e44a591ad7",
+          "verses": 303
+        },
+        {
+          "file": "kjv/Jas.json",
+          "sha256": "0a320862bc355de6ecfdbba475e18979064b471da5377874ad2b951200d466e6",
+          "verses": 108
+        },
+        {
+          "file": "kjv/1Pet.json",
+          "sha256": "f07cbb50bacdfc16f4427a80e6f243b48b0cb77a85cda2a8b702287270d6d2f2",
+          "verses": 105
+        },
+        {
+          "file": "kjv/2Pet.json",
+          "sha256": "b4921278296aef0fab278b4bb83c550100c0d4d776bb18403fa77bce85c720d2",
+          "verses": 61
+        },
+        {
+          "file": "kjv/1John.json",
+          "sha256": "bdb7fd5df8059b20d0d58a9ec7cc8c8a73c8da54b1bb1e1cf3c8e0679dfbcfa7",
+          "verses": 105
+        },
+        {
+          "file": "kjv/2John.json",
+          "sha256": "5c69bf043f4f50431c50eb6e3df3aa9a75457e5501467beb7d7cee33c6356d7f",
+          "verses": 13
+        },
+        {
+          "file": "kjv/3John.json",
+          "sha256": "0fa2a95b20c5c1ad7715af756648bac6da25c183d9178c52a260c363d31cde14",
+          "verses": 14
+        },
+        {
+          "file": "kjv/Jude.json",
+          "sha256": "d13e56e2d790dfd03cf5ceec14dc53116f63ff65752adbbaa42b69aca007dc35",
+          "verses": 25
+        },
+        {
+          "file": "kjv/Rev.json",
+          "sha256": "5b14eab31387d5541b569929f71d9a1fc2bb08902dfb0dd5f2f12dca18d11e5e",
+          "verses": 404
+        }
+      ],
+      "nonemptyVerses": 36822
+    },
+    "brenton": {
+      "vplVerses": 29005,
+      "usfxVerses": 29005,
+      "matchedVerses": 29005,
+      "mismatches": [],
+      "onlyUsfx": [],
+      "sourceTags": {
+        "book": 60,
+        "id": 60,
+        "h": 60,
+        "toc": 179,
+        "p": 7640,
+        "table": 2,
+        "tr": 51,
+        "tc": 102,
+        "it": 128,
+        "sc": 202,
+        "c": 1118,
+        "v": 29005,
+        "ve": 29005,
+        "f": 2600,
+        "x": 150,
+        "add": 9086,
+        "d": 166,
+        "b": 1,
+        "vp": 73,
+        "ref": 2
+      },
+      "files": [
+        {
+          "file": "brenton/Gen.json",
+          "sha256": "008007a7e99e8a1dfe5977b43172b2ba4fc5460930df553108a03c5892cfeecf",
+          "verses": 1532
+        },
+        {
+          "file": "brenton/Exod.json",
+          "sha256": "0ce9a22656ce96dfb94fb228a60bf96a3d86512ab06b6b4a5ab1b8053f149d81",
+          "verses": 1166
+        },
+        {
+          "file": "brenton/Lev.json",
+          "sha256": "a465631788e49f52ae0b4695aa585cdfc21936b864e17fe6d5d9d06742e6c9d6",
+          "verses": 859
+        },
+        {
+          "file": "brenton/Num.json",
+          "sha256": "523b726e650df765389fab6e4d8cfe4f6888d2d00a9e64b31e9977da5a05fafb",
+          "verses": 1288
+        },
+        {
+          "file": "brenton/Deut.json",
+          "sha256": "fcc78cfc3e0396ecbe057cae46a11a62300e7b8d05f381a6935e349f14e7a97f",
+          "verses": 958
+        },
+        {
+          "file": "brenton/Josh.json",
+          "sha256": "19c9b0fc7a1e418462d0f5412642f046ce4e76d8757290e4aeca436a5f352092",
+          "verses": 659
+        },
+        {
+          "file": "brenton/Judg.json",
+          "sha256": "a3013ecaf5cdac152ed1269d0189bfd6611630d8982732b858d6ad6d809f411f",
+          "verses": 618
+        },
+        {
+          "file": "brenton/Ruth.json",
+          "sha256": "d38f57d74211b6f1a2bce30698585483033fab420809001b0a5ef68e61ef1d8e",
+          "verses": 85
+        },
+        {
+          "file": "brenton/1Sam.json",
+          "sha256": "575627545b0ff5005c6dc65604b39d06370d493df39267eb4ae184ec88f663a5",
+          "verses": 792
+        },
+        {
+          "file": "brenton/2Sam.json",
+          "sha256": "584791072b5323b196dfe027eefd2082478004c13cabb8fa926f840a156b023a",
+          "verses": 697
+        },
+        {
+          "file": "brenton/1Kgs.json",
+          "sha256": "112ed7348cd1e47b9fd28dbb55632efcd044498135d15de31b97194637e5c453",
+          "verses": 823
+        },
+        {
+          "file": "brenton/2Kgs.json",
+          "sha256": "f15887487dadf70ec295e221bc9c05b5d706c65da21a42712ec9c7dec9ad01de",
+          "verses": 723
+        },
+        {
+          "file": "brenton/1Chr.json",
+          "sha256": "8e070164be0349313b31d79cf3994a2c154e99ee330578bb1a61dd1050bff793",
+          "verses": 931
+        },
+        {
+          "file": "brenton/2Chr.json",
+          "sha256": "0dbf1ae891894e084857c08af5b34bab4fdc901e2e9459f3b15162636c0ec59c",
+          "verses": 832
+        },
+        {
+          "file": "brenton/Ezra.json",
+          "sha256": "0a87fb3756500d08e41ca4bfd1a4d5d793fa777725e5cfd22136c8f3ae1b2ef2",
+          "verses": 669
+        },
+        {
+          "file": "brenton/Neh.json",
+          "sha256": "e0f1696daff6f1b1db1977d892c9fe1f10952e21b943dd6bf838af8d1227d3b6",
+          "verses": 389
+        },
+        {
+          "file": "brenton/Job.json",
+          "sha256": "2c3a4ee8b4b9df7af7395069e575dd650583cf104c3502e00c1c962010ecc71d",
+          "verses": 1082
+        },
+        {
+          "file": "brenton/Ps.json",
+          "sha256": "2cdb68286cdaed9b42e2b3aec1b679a56b7156ff17020e21213f044f41263e2f",
+          "verses": 2535
+        },
+        {
+          "file": "brenton/Prov.json",
+          "sha256": "03c4067c5a2149971dbd49469281df01c5a200f7f5649be92bdf8b0480789332",
+          "verses": 938
+        },
+        {
+          "file": "brenton/Eccl.json",
+          "sha256": "22c95dd45385d05b99ca9325f626f61cc7ba347fcf96281108bb7589df9623cd",
+          "verses": 222
+        },
+        {
+          "file": "brenton/Song.json",
+          "sha256": "95ff253cedbf3f8cbc0cd9d4fdc9842833d75cf7c35b423a8e32151b41d279df",
+          "verses": 117
+        },
+        {
+          "file": "brenton/Isa.json",
+          "sha256": "3dc7097770593f3d49f008e0f4e57a569c375d917186184809ee7ced749a76e4",
+          "verses": 1289
+        },
+        {
+          "file": "brenton/Jer.json",
+          "sha256": "7f455ff2f85102739ddb9d881c81ac87ca6c6ab5a21d006f04a911fc653213f3",
+          "verses": 1299
+        },
+        {
+          "file": "brenton/Lam.json",
+          "sha256": "6b2f8a9026ff8924fe45bbe9098e54c36b86b75763b2dc6935a5299197a2cafd",
+          "verses": 153
+        },
+        {
+          "file": "brenton/Ezek.json",
+          "sha256": "18511bc7b7359225e5d7d8568b6ad984a1af49fa07864526f53932f466cd1c1f",
+          "verses": 1265
+        },
+        {
+          "file": "brenton/Hos.json",
+          "sha256": "ae152dc8a35ea44d6f53b7dd0fe6b1d1e667a41f32a621fd96c4bd09aa32fbb5",
+          "verses": 197
+        },
+        {
+          "file": "brenton/Joel.json",
+          "sha256": "dcef9df20be0bd54f12c27970e05791c1efb055d728d64f639a67a8981654512",
+          "verses": 73
+        },
+        {
+          "file": "brenton/Amos.json",
+          "sha256": "c075707a8d3a07c72f2444fe04dc2b3ca4a12a9ad211ec43352941ad7de76d60",
+          "verses": 146
+        },
+        {
+          "file": "brenton/Obad.json",
+          "sha256": "3a0c39400889617436cb67487bdd6988084489939c917db7216c1e3e5ffc6297",
+          "verses": 21
+        },
+        {
+          "file": "brenton/Jonah.json",
+          "sha256": "3da24b36adab36bca44cc067bfae6cce0aa3be5f66126cf88f645b003ad6e052",
+          "verses": 48
+        },
+        {
+          "file": "brenton/Mic.json",
+          "sha256": "08af8d07bd0e0c339cf08b39e6c8214c9ad632e51a6a960d8144f528033d0e63",
+          "verses": 105
+        },
+        {
+          "file": "brenton/Nah.json",
+          "sha256": "aed9d4f772e904185f6a931dde4152bcebfb1a94b669e01a9abb4d8d2047660b",
+          "verses": 47
+        },
+        {
+          "file": "brenton/Hab.json",
+          "sha256": "1d88dcb224db4f0569dfd0ed7c4f9bb28c5037565c734f78f65b3125b0e73158",
+          "verses": 56
+        },
+        {
+          "file": "brenton/Zeph.json",
+          "sha256": "491c4d2acdb5e3504b6189b47bbcc09b57b0cf2f09e4ba3cbd2c8ed06f5464b9",
+          "verses": 53
+        },
+        {
+          "file": "brenton/Hag.json",
+          "sha256": "a2be8185021d7dc20ffad997ef97f8bd5a4b798d1f6a66dca011aba4023ed549",
+          "verses": 38
+        },
+        {
+          "file": "brenton/Zech.json",
+          "sha256": "b52450a6b5b03782d8169a11cb5ccfb90e15c04e2c46ff2f06f155ebc9547930",
+          "verses": 211
+        },
+        {
+          "file": "brenton/Mal.json",
+          "sha256": "f6882d862c12bf523a310c022449a38b5bf647838316d2d38c5ec6fa7a49f781",
+          "verses": 55
+        },
+        {
+          "file": "brenton/Tob.json",
+          "sha256": "6e24ee80050aa7d7be9373024c41afdfad3bbc182b9ee8665884d96b30b044b4",
+          "verses": 245
+        },
+        {
+          "file": "brenton/Jdt.json",
+          "sha256": "3a505986438a160e190cb242e2adbca6344dc703d06cf7d099410e4b13ce1867",
+          "verses": 339
+        },
+        {
+          "file": "brenton/EsthGr.json",
+          "sha256": "263c2159bd9fbdc1c41d9c05ba70fc70e4b201db513bbdfcdfc1c4433326abfa",
+          "verses": 252
+        },
+        {
+          "file": "brenton/Wis.json",
+          "sha256": "0b084dbdc4949bcb0f453d1b53a6a9a8ab7a7e94fcf3cfa168e7870bddc9b64f",
+          "verses": 436
+        },
+        {
+          "file": "brenton/Sir.json",
+          "sha256": "98457b70de5929ff5fdfd7479559bbcc1a6033aa98e085d0dbd6591999506b80",
+          "verses": 1368
+        },
+        {
+          "file": "brenton/Bar.json",
+          "sha256": "785bb7e83e6398dd9eef77c393466cd29d371bab3839df4abb119e74755fe612",
+          "verses": 140
+        },
+        {
+          "file": "brenton/EpJer.json",
+          "sha256": "b76dc30956c3bed26eabab849d6e2babc6192adc22d0da36efa13d946388f20f",
+          "verses": 73
+        },
+        {
+          "file": "brenton/Sus.json",
+          "sha256": "d71bff975f3dab369eb5fc67b516ba21e8e52199516375e28f74ea4585ec7b65",
+          "verses": 64
+        },
+        {
+          "file": "brenton/Bel.json",
+          "sha256": "a1cf0141dde2ca0c02dab5a4560b5d37251f09a188c814711c2ca40208a5c18c",
+          "verses": 42
+        },
+        {
+          "file": "brenton/1Macc.json",
+          "sha256": "807a9d8a8e82d101db653ea2f88c6cdd88defcf72f6d0c0fdbe2544d79a8007c",
+          "verses": 924
+        },
+        {
+          "file": "brenton/2Macc.json",
+          "sha256": "97937fc074eada0adc11a52672b8f26e824633d9ef01ccdcb18f2212a6cae459",
+          "verses": 555
+        },
+        {
+          "file": "brenton/1Esd.json",
+          "sha256": "dae254042c7ba719112fe62367e4fc21d05a87d1f8d04b08a08343ea0f99c0b6",
+          "verses": 448
+        },
+        {
+          "file": "brenton/PrMan.json",
+          "sha256": "ed5c613c8847cfbf39a4aba841485c6dafd29e0b5a2886c3af5f9edb78f33871",
+          "verses": 15
+        },
+        {
+          "file": "brenton/3Macc.json",
+          "sha256": "8c26ac43c4cdb1dae90dd0ccb5f8d134f8437201d2a391d472aae72acf579d35",
+          "verses": 228
+        },
+        {
+          "file": "brenton/4Macc.json",
+          "sha256": "70ea89dd4068bc67aed1eaa8664ad2e7b24cefe96503601b81e0430f75bdaf45",
+          "verses": 483
+        },
+        {
+          "file": "brenton/DanGr.json",
+          "sha256": "24639519a10c09f288b0133330bc42219a39194262832ce9fa50e3e82152e96d",
+          "verses": 422
+        }
+      ],
+      "documentedEmptyAddresses": [
+        {
+          "book": "Prov",
+          "chapter": "30",
+          "verse": "1",
+          "note": "See chapter 24 for the content of chapter 30.",
+          "url": "https://ebible.org/eng-Brenton/PRO30.htm",
+          "related": {
+            "book": "Prov",
+            "chapter": 24
+          }
+        }
+      ],
+      "nonemptyVerses": 29004
+    }
+  },
+  "issues": [],
+  "conversion": "Output is explicit USFX XML verse text, preserving source words, punctuation, and literal editorial brackets. Footnotes, crossrefs, and paragraph pilcrows are excluded; inline styling/Strong identifiers are flattened. Unnumbered Psalm superscriptions are stored separately. Every verse address and wording is independently compared with VPL plaintext; comparison alone ignores VPL square-bracket formatting wrappers and joins any source superscription back to verse 1. Output does not delete literal USFX brackets. Any mismatch is retained for review; no mismatch is silently claimed exact.",
+  "manifestSHA256": "d4c64b38fd2426355e01f8c449ab87536d13ca5cfcc754ba776b0121debe1bba"
+}

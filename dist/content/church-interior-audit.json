@@ -1,0 +1,3072 @@
+{
+  "version": "4.4.0",
+  "basis": "Actual retained-source wording or necessary-summary source anchors independently checked before integration. Full modern source evidence is not distributed. No ecclesiastical approval claimed.",
+  "blocks": [
+    {
+      "path": "$.notes[0]",
+      "kind": "summary",
+      "textSha256": "c9071f770f9509ea57c826775fdac240608f1890dcced77b42b74d43fd419fd3",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, opening paragraph and final paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+          "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+          "anchorSha256": "1e0722cc7c057eb67c374d3e0f48716ceabea13bed64775eb56effa8693ea94f",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.notes[1]",
+      "kind": "quotation",
+      "textSha256": "b99095720086e8fa733b201a82589ee4edbbdfe281f14c41a353511392fe471c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, IV, The Liturgy, note 14"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood2",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-2-readable.txt",
+            "sha256": "f77aece5370211cad0a458ac80980ffe578018714d1ca482aa7d729742b1d2b4",
+            "anchorSha256": "b99095720086e8fa733b201a82589ee4edbbdfe281f14c41a353511392fe471c",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[0].blocks[0]",
+      "kind": "summary",
+      "textSha256": "e98be1db05ced44780d057138ca41700e934d88eb6a94eb8792d5dd3d4a57c14",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraphs on the vestibule/narthex"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+          "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+          "anchorSha256": "8655e87b61feaa2b8a3bbc9b4cc57a44ff22ea9c0f3d40df5e91317e739d5bef",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[0].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "bb2f616ac73faa3be5712a8c451261052837af13cd31e5b7aa803a2b1cf77f0d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxii, Vestibule"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "bb2f616ac73faa3be5712a8c451261052837af13cd31e5b7aa803a2b1cf77f0d",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[1].blocks[0]",
+      "kind": "summary",
+      "textSha256": "bb2f914ce24be727c674d1dfb9b448e1841b56dade000db66a550261c10fc4e7",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraph on the nave"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+          "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+          "anchorSha256": "42c6f6daad26cdb10e59656e0c5e5c6da8f091aa3a988896a9ef2ba2c6ca57ad",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[2].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5652bb3d2533b8089a3191840c14de5553172bd29157ea50c798bf216f049954",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "5652bb3d2533b8089a3191840c14de5553172bd29157ea50c798bf216f049954",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[2].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "1dc19ec01742ffd688cbebc9ed5f78c7754947be5fdf0d3664dd62f5216e6eed",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraph following the altar definition"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-oca-architecture",
+            "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+            "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+            "anchorSha256": "1dc19ec01742ffd688cbebc9ed5f78c7754947be5fdf0d3664dd62f5216e6eed",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[3].blocks[0]",
+      "kind": "summary",
+      "textSha256": "6f4bac04dacc96dd3062e38b6536afedf017934a0eaa8f1dad0abf8e413a277d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, pp. xxvi–xxvii, Interior paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary readable summary of a definition broken across a page and interrupted by an illustration/footnote in the transcription; the original scan is retained.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "c6bed30af83f747a6434b896ca33d4f52ab50d77a08067def07ce066472c4a87",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[4].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "ef70d7655709cc5536023cac4e99ea8f63af53c5baa3ad3b334f141763aceecc",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "ef70d7655709cc5536023cac4e99ea8f63af53c5baa3ad3b334f141763aceecc",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[5].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "789a1c8217bfb46e9bcc3871b5a530c33ebe79797bf95567e9e8f0c3953362ef",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "789a1c8217bfb46e9bcc3871b5a530c33ebe79797bf95567e9e8f0c3953362ef",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[6].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "789a1c8217bfb46e9bcc3871b5a530c33ebe79797bf95567e9e8f0c3953362ef",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "789a1c8217bfb46e9bcc3871b5a530c33ebe79797bf95567e9e8f0c3953362ef",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[7].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "8686159ead300982549dee653bd68ca25e0753116d9af696510ebb392c7571a6",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "8686159ead300982549dee653bd68ca25e0753116d9af696510ebb392c7571a6",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[8].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "17f551154a90e629b90da362b507e95152f2e5a9ff5de52298dc0d3a8d7647e6",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx, Royal Gate"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "17f551154a90e629b90da362b507e95152f2e5a9ff5de52298dc0d3a8d7647e6",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[8].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "4f79de2a15871f5720ae119d92d4e3e701d3e41967929eba83b6b261b9eab91d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, doors’ iconography"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "4f79de2a15871f5720ae119d92d4e3e701d3e41967929eba83b6b261b9eab91d",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[9].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5b68ced711b86163551c2b2fb92b9bc0ac4b8a584f7f97f924a65e4019f688c7",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, side doors"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "5b68ced711b86163551c2b2fb92b9bc0ac4b8a584f7f97f924a65e4019f688c7",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[10].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5b68ced711b86163551c2b2fb92b9bc0ac4b8a584f7f97f924a65e4019f688c7",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, side doors"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "5b68ced711b86163551c2b2fb92b9bc0ac4b8a584f7f97f924a65e4019f688c7",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[11].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "3b99902cb21ff18e5bf01a1eba26e953591124956d2a53c6a117b0837311d7c1",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary Russian image arrangement"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "3b99902cb21ff18e5bf01a1eba26e953591124956d2a53c6a117b0837311d7c1",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[12].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "de8727f294cb7beeddcb9db1f09a41ca589adb4065affb1a77da26bb51613d8f",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "de8727f294cb7beeddcb9db1f09a41ca589adb4065affb1a77da26bb51613d8f",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[13].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "3b99902cb21ff18e5bf01a1eba26e953591124956d2a53c6a117b0837311d7c1",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary Russian image arrangement"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "3b99902cb21ff18e5bf01a1eba26e953591124956d2a53c6a117b0837311d7c1",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[13].blocks[1]",
+      "kind": "summary",
+      "textSha256": "c0a438172d9ae8b5a956887b089bf7db955d34f6d2f5deb4f590c14e99a83f5c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Iconostasion, paragraph on icon positions"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary arrangement, On the right of the Holy Door"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "file": "work/church-guide/interior/evidence/fitzgerald-house-god.txt",
+          "sha256": "9ae8a58e1ff3b655124a9f362397f9152af4598f12444c58faf8222e141c25fc",
+          "anchorSha256": "219af785bbef49daaea3b83944d17536a99880bfa45c4ed377ac45a977eea280",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "a4e15e8fa6db0f9b8d476dcce0271938378c14cc71681f8db64817186991a414",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[14].blocks[0]",
+      "kind": "summary",
+      "textSha256": "192f9f84b6a99e629097dbdac0df0d71ab8d7996e002696625531a1c18ea8e3d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraph on the altar table"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+          "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+          "anchorSha256": "8eb8baa2cbfe51c88c4df31d1ecbc3cbc25faa63aa31c459abe566fe9ff40406",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[14].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "d8612db8a9d7db6b10927cc2d07f4ded31be2af031a2781ab961822b92a983b2",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "d8612db8a9d7db6b10927cc2d07f4ded31be2af031a2781ab961822b92a983b2",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[15].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "a9f8863be0edae63bc561ccf69bcea918cafff199c07f4e6d36cc8f430af8d0c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, Antimins"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "a9f8863be0edae63bc561ccf69bcea918cafff199c07f4e6d36cc8f430af8d0c",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[15].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "055f44cec36365c5b9b91f79cba54d3e85b30d061282d7f086c7cf931b39d629",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "055f44cec36365c5b9b91f79cba54d3e85b30d061282d7f086c7cf931b39d629",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[16].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "23ae1d2ba7a8eb42e3f766796ba056b2235ed29600d08c04f7b6c3391ae3f261",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "23ae1d2ba7a8eb42e3f766796ba056b2235ed29600d08c04f7b6c3391ae3f261",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[17].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "850e3d4b3265c28f74c77870f8f81de61d66f13bd9253e0512279c47f8f7eda4",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii, excerpt from Gospel Book and Cross paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "850e3d4b3265c28f74c77870f8f81de61d66f13bd9253e0512279c47f8f7eda4",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[18].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "110cf3c13e4106df456343d185295b904f9264b607610bbd8c92f8f1706a6c4e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii, Ark"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "110cf3c13e4106df456343d185295b904f9264b607610bbd8c92f8f1706a6c4e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[19].blocks[0]",
+      "kind": "summary",
+      "textSha256": "3fa7d6e0b7ac7a738d66a1efcf4a179ca3d978237528505ae9b017d394fd35ac",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, Credence paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "1fdb7d194f4919c44205b57bea9d0bd6b8bf31bc56a79b8eaf3c44afa6bdeb17",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[19].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "b0c9934033fb39d20edc52be843d48471db62d56f618a60a25e9a32d36031198",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, excerpt from Credence paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "b0c9934033fb39d20edc52be843d48471db62d56f618a60a25e9a32d36031198",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[20].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "47d96cc4a2b373e232655fe5220ce544efa20269e5f6c9df3cbbfc78cecb5ede",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "47d96cc4a2b373e232655fe5220ce544efa20269e5f6c9df3cbbfc78cecb5ede",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[20].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "706f678e24371fe653d32e268ac1e4eea2ccfafd1194cfa2b95d49b5f6febb5a",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 72, preparation of chalice"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "706f678e24371fe653d32e268ac1e4eea2ccfafd1194cfa2b95d49b5f6febb5a",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[21].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "d3317286d7ba2b345a0f7c08693dc9e87c4346830cdfedc036ad5d5cb2682e87",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "d3317286d7ba2b345a0f7c08693dc9e87c4346830cdfedc036ad5d5cb2682e87",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[21].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "64c1fa09809125580a734a3ab9451e4cbb546d0bb227773e34f3c9d4d4dd3a9d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Great Entrance, p. 95, carrying the diskos"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "64c1fa09809125580a734a3ab9451e4cbb546d0bb227773e34f3c9d4d4dd3a9d",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[22].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "c215f422d2525d47b33b3b6e529fe12611e2da17fbd0cb8f970ed112f67ac40b",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "c215f422d2525d47b33b3b6e529fe12611e2da17fbd0cb8f970ed112f67ac40b",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[23].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "28e1d27e8ff16519b76de30b7442522e3def2acc6c1969704c0b8e73e23bebf0",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, pp. xxix–xxx, sacred vessels list"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "28e1d27e8ff16519b76de30b7442522e3def2acc6c1969704c0b8e73e23bebf0",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[24].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "1d704ef998d14dce9cc608e94d42438da19a5b2bf766feb1f2122608c18cc3f6",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx, sacred vessels list"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "1d704ef998d14dce9cc608e94d42438da19a5b2bf766feb1f2122608c18cc3f6",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[25].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "b0b3c9037fcfca89e18bb3f2ddf8dab83aa5c6d0fa8d44452be0da3314892c5e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "b0b3c9037fcfca89e18bb3f2ddf8dab83aa5c6d0fa8d44452be0da3314892c5e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[26].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5db92834fe44d1256f54638a9eaf185b44d329f8a56e04fc67ebb5fd3fee6d05",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx, Censer paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "5db92834fe44d1256f54638a9eaf185b44d329f8a56e04fc67ebb5fd3fee6d05",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[27].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "d804c1ec85863e7faa26940cf6ff9125ff13f4c92aa05fe12e171e72e4f55314",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxii, Lights paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "d804c1ec85863e7faa26940cf6ff9125ff13f4c92aa05fe12e171e72e4f55314",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[27].blocks[1]",
+      "kind": "summary",
+      "textSha256": "869842ff13db961d7924568b61eb236dcb1a6abeb25ad4f45fd79a025252ead1",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Sacred Space, paragraph on the narthex"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "file": "work/church-guide/interior/evidence/fitzgerald-house-god.txt",
+          "sha256": "9ae8a58e1ff3b655124a9f362397f9152af4598f12444c58faf8222e141c25fc",
+          "anchorSha256": "8bd78552f1ed9e0fc2adafdc9cc69d513f60efc0df3c97175968b687dacef7ec",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[28].blocks[0]",
+      "kind": "summary",
+      "textSha256": "0ec753f242ab29ad074b56c4b4864de5437e49368d79cc0e56d72b854890ed83",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Holy Baptism, immersion rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "ea1e07341dc3ac9662368f3b9b29718b73ee36c4c580d4be23790b4f506084d2",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "8798c861274e1c24edd3ae61b772c47af2b3804ef00caa0bee0bcd15318e64c1",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[28].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "1d216730c25603ff4828c6a80a959a8c08cc41de70b857e20e6b67a2b3c022e5",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, VI, Holy Baptism, note 3"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood2",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-2-readable.txt",
+            "sha256": "f77aece5370211cad0a458ac80980ffe578018714d1ca482aa7d729742b1d2b4",
+            "anchorSha256": "1d216730c25603ff4828c6a80a959a8c08cc41de70b857e20e6b67a2b3c022e5",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[29].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "28fccaf8dd644591ab13877730ac062598f0038dc14ec8ee499b6602eeab3866",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, High Place paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "28fccaf8dd644591ab13877730ac062598f0038dc14ec8ee499b6602eeab3866",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[29].blocks[1]",
+      "kind": "summary",
+      "textSha256": "581ec795472edb5fea085d2db24a0b113db175d856daa6656f82c35f90f7d28e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Sacred Space, paragraph on the nave"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, Behind the Altar is the High Place"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "file": "work/church-guide/interior/evidence/fitzgerald-house-god.txt",
+          "sha256": "9ae8a58e1ff3b655124a9f362397f9152af4598f12444c58faf8222e141c25fc",
+          "anchorSha256": "8bd78552f1ed9e0fc2adafdc9cc69d513f60efc0df3c97175968b687dacef7ec",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "1fdb7d194f4919c44205b57bea9d0bd6b8bf31bc56a79b8eaf3c44afa6bdeb17",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[30].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "9a663d34d87c643486fb92a37b092797490c2530dd79c2c03712c24101b78a98",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-mothergod-analogion",
+          "locator": "Glossary A, Analogion, definition sentence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-mothergod-analogion",
+            "file": "work/church-guide/interior/evidence/mothergod-analogion.txt",
+            "sha256": "7802f0715d0ff017df3e02df5f4eddafa6b0759071d26e8be770c79268ad2873",
+            "anchorSha256": "9a663d34d87c643486fb92a37b092797490c2530dd79c2c03712c24101b78a98",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.parts[31].blocks[0]",
+      "kind": "summary",
+      "textSha256": "c7c46986d467a61f43901b74ab70c40977dd29df6373c7b0ee72a1fa444f7b09",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraphs on domes and iconographic schemes"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+          "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+          "anchorSha256": "9d38135b77639455a1fdd30e59ff5e6fb06acd53b3ca8f4e3fb98bac67af1528",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.parts[32].blocks[0]",
+      "kind": "summary",
+      "textSha256": "04fb357577cec6df4badb30587b9e57676eb250192c16b4aec69cfa101393e35",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Icons, paragraph on the apse"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "file": "work/church-guide/interior/evidence/fitzgerald-house-god.txt",
+          "sha256": "9ae8a58e1ff3b655124a9f362397f9152af4598f12444c58faf8222e141c25fc",
+          "anchorSha256": "a4ff1c696ad2e84225fce7821bef89c17b6adcafe0c756ba5e149431b714528b",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.steps[0].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "90c835208b688fd57ffe6663bed7330176f6f1ba20a4fab59f1c024771d2d774",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 70, Hours rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "90c835208b688fd57ffe6663bed7330176f6f1ba20a4fab59f1c024771d2d774",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[0].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "ed7918b85bf21c3e2b587c38d421d8e00666f3d86a4b57e93d2bc519ed6d86b2",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, IV, The Liturgy, note 3"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood2",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-2-readable.txt",
+            "sha256": "f77aece5370211cad0a458ac80980ffe578018714d1ca482aa7d729742b1d2b4",
+            "anchorSha256": "ed7918b85bf21c3e2b587c38d421d8e00666f3d86a4b57e93d2bc519ed6d86b2",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[1].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "d0533c1354c18dd3e3376264513d4a2c7ea07a40e0104ef8f21a12690bd01c83",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 69, Deacon’s preparation rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "d0533c1354c18dd3e3376264513d4a2c7ea07a40e0104ef8f21a12690bd01c83",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[1].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "b898eba467d899c4a62cac775bd395924afd0198ba35cdb49cd9c1f29a8dea9e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 71, preparation of the Lamb"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "b898eba467d899c4a62cac775bd395924afd0198ba35cdb49cd9c1f29a8dea9e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[1].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "706f678e24371fe653d32e268ac1e4eea2ccfafd1194cfa2b95d49b5f6febb5a",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 72"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "706f678e24371fe653d32e268ac1e4eea2ccfafd1194cfa2b95d49b5f6febb5a",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[2].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "3adcd1ecc294b77dcc45973f5bc7b079a533ca12e61f4c8266396d3f9337f52e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 80, opening blessing"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "3adcd1ecc294b77dcc45973f5bc7b079a533ca12e61f4c8266396d3f9337f52e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[3].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "3c90f6427bae23b756df95798280a99be20b84a168cf3d7d1008a454a64efb98",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 80, Great Litany"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "3c90f6427bae23b756df95798280a99be20b84a168cf3d7d1008a454a64efb98",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[3].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "e880dd1dd040091a46fb1e2c7a45baa4a65e72b85a1987feff21462d90ff6286",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, conclusion, Deacon’s accustomed standing place;printedp.77; printed p. 77"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "e880dd1dd040091a46fb1e2c7a45baa4a65e72b85a1987feff21462d90ff6286",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[4].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "76f58df40d54ab29180109934c7c4408580a4b9441410f0dac76726ce23374d1",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 83, Third Antiphon rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "76f58df40d54ab29180109934c7c4408580a4b9441410f0dac76726ce23374d1",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[4].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "f86ac106b8846209cca8f8a55997e156fee60cbc48ab55dab0a37a9dcf7ee2a9",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 83, opening of the Beatitudes"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "f86ac106b8846209cca8f8a55997e156fee60cbc48ab55dab0a37a9dcf7ee2a9",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[5].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5399a63a5a85b7fbf2d73462c8d406ce29fe0d6a7a9ed64910bcb83dc2ec9774",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 84, ordinary Lesser Entrance rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "5399a63a5a85b7fbf2d73462c8d406ce29fe0d6a7a9ed64910bcb83dc2ec9774",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[5].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "611edc8d2c4aa0be0cbda652da824108b8bd567382d6b2ae72e1bee423020199",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-goarch-entrance",
+          "locator": "The Entrance, rubric after the Third Antiphon"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-goarch-entrance",
+            "file": "work/church-guide/interior/evidence/goarch-small-entrance.txt",
+            "sha256": "d8d85c37db5cb14c9038f7f5c59724659856bbee74b2ec17b2194d4449a201f8",
+            "anchorSha256": "611edc8d2c4aa0be0cbda652da824108b8bd567382d6b2ae72e1bee423020199",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[5].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "524df1f3acde1b3c8fc051b2a5794db6f9de1377640fc538efb3d5ce8a5a1c11",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 84, return after the Lesser Entrance"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "524df1f3acde1b3c8fc051b2a5794db6f9de1377640fc538efb3d5ce8a5a1c11",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[5].blocks[3]",
+      "kind": "summary",
+      "textSha256": "b238327840738f2e7bfcf3f6553b44296c09efeca121688f3e26ac7ebc34d277",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-goarch-entrance",
+          "locator": "The Entrance, north-door rubric"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, pp. 84–85, ordinary Lesser Entrance; for great is your reward in heaven. The…"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-goarch-entrance",
+          "file": "work/church-guide/interior/evidence/goarch-small-entrance.txt",
+          "sha256": "d8d85c37db5cb14c9038f7f5c59724659856bbee74b2ec17b2194d4449a201f8",
+          "anchorSha256": "c44571432c81d56f1ec5985c388507c81860df722b0d682303c013fab67cf053",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "45270c0252c4d95133c75e215f514900cff8113420a3f0d549f9c7cb54fa059c",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "55b4fd00fbacfe307ef9f5965f357ea2e9e6f7f6b5ed3df59583c675da2247c7",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.steps[6].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "45f070c7fce652d41e616e9689bdd821999a9f51205d80c206d5c726d7d44475",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 86, Thrice-Holy hymn"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "45f070c7fce652d41e616e9689bdd821999a9f51205d80c206d5c726d7d44475",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[6].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "259dc212a4bab664bc818efa140d9157473a49b40cccb68b4ad116f417b6f23b",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 87, ordinary Priest’s position"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "259dc212a4bab664bc818efa140d9157473a49b40cccb68b4ad116f417b6f23b",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[7].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "2ceaa5fa39582bfae04e5a7654a87480882db588db6698eab87fc4e1e53ef2a9",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 88, Epistle reading and censing"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "2ceaa5fa39582bfae04e5a7654a87480882db588db6698eab87fc4e1e53ef2a9",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[8].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5ddb0be75469ef727ace8c73a0b94bb985c2f45ba5a391e48ce3ab546f4a9e5c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 89, Gospel procession rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "5ddb0be75469ef727ace8c73a0b94bb985c2f45ba5a391e48ce3ab546f4a9e5c",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[8].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "15c1204c886b40b75fc1ca4d6a47bc7350a972c3a699bd37509e5b251cccf44a",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 89, conditional Gospel reader"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "15c1204c886b40b75fc1ca4d6a47bc7350a972c3a699bd37509e5b251cccf44a",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[8].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "6d9bbce72223099bb370d8303058976c71b316d1a15752472bf22a9565e326f2",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 89, return of the Gospel Book"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "6d9bbce72223099bb370d8303058976c71b316d1a15752472bf22a9565e326f2",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[8].blocks[3]",
+      "kind": "quotation",
+      "textSha256": "b99095720086e8fa733b201a82589ee4edbbdfe281f14c41a353511392fe471c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, IV, The Liturgy, note 14"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood2",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-2-readable.txt",
+            "sha256": "f77aece5370211cad0a458ac80980ffe578018714d1ca482aa7d729742b1d2b4",
+            "anchorSha256": "b99095720086e8fa733b201a82589ee4edbbdfe281f14c41a353511392fe471c",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[8].blocks[4]",
+      "kind": "summary",
+      "textSha256": "d3bd2d810e4cce9a63178668e0fe6bdf7e807d85a9e27397279fb7adf7590d80",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 91, Gospel procession rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "ad9997018f1171da1ef7a1d21e2cd576d76314ffeb3b36379440a6f53f2ace7c",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "00e794dff89276fde2fa6fc361ade37575f8805f0c1bc96b870d566bdddb424a",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.steps[9].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "16392066cf891f599ad10976f4376c085f0b168a6a80a100d23b0511a72f6fc2",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 90, Litany of Fervent Supplication"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "16392066cf891f599ad10976f4376c085f0b168a6a80a100d23b0511a72f6fc2",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[10].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "1ba0078c4307eff1a87e37209e71287f304458ebc8b4065f897db0a52f229f84",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 92, Litany of the Catechumens"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "1ba0078c4307eff1a87e37209e71287f304458ebc8b4065f897db0a52f229f84",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[10].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "67130a610a27d4fd5effb45bc61ea3972cb0db8cf6c89dc11b0f401d8e70b11b",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 92, Prayer for the Catechumens, rubric within the Priest’s prayer"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "67130a610a27d4fd5effb45bc61ea3972cb0db8cf6c89dc11b0f401d8e70b11b",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[10].blocks[2]",
+      "kind": "summary",
+      "textSha256": "54ea329bbf181e415add2c97b2cb4e70998b53b7c0fbf2cc41c49e4878ef9441",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-catechumens",
+          "locator": "Fervent Supplication, paragraph on present practice"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-catechumens",
+          "file": "work/church-guide/interior/evidence/oca-fervent.txt",
+          "sha256": "191bedc2e1b2d95f097436cb127f6efa4428a1f5fc83709051341be527f407ef",
+          "anchorSha256": "0d7b02c1cf6193fa741d6d7bf9fde3b80ac9cca89269fc5638a2f4811163f7f2",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.steps[11].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "f4923bb5e8f0f420bccf164693c26ce421536216c489ec01a4f5ae33d322d882",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 93, First Prayer of the Faithful, opening sentence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "f4923bb5e8f0f420bccf164693c26ce421536216c489ec01a4f5ae33d322d882",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[12].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "214ce3ab5422ffe8e8713c607526bf5954832fe7327f0e67ddf25adc997853ee",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 94, Cherubic Hymn, opening portion"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "214ce3ab5422ffe8e8713c607526bf5954832fe7327f0e67ddf25adc997853ee",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[12].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "bd495c2077cd41dc08d2ded1ec7e3f61ee038fddc78cacf46344e0c188e9d72b",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, preparation before the Great Entrance"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "bd495c2077cd41dc08d2ded1ec7e3f61ee038fddc78cacf46344e0c188e9d72b",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[12].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "dba7abe08646b4d1a21e20221f6507fac8ab21db6aa1b3e70b7be0fa445359b3",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, clergy at the Table of Oblation"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "dba7abe08646b4d1a21e20221f6507fac8ab21db6aa1b3e70b7be0fa445359b3",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[13].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "08e1ba80f573f2a5e6a4992a4f4a897b61e0598df4f288c98488c09421ad6a0e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "08e1ba80f573f2a5e6a4992a4f4a897b61e0598df4f288c98488c09421ad6a0e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[13].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "dba06000f98915e2ea8830c26bf89afd123a9a23ed61c9c8b0b0ac087817f0b2",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 96, entry through the Holy Door"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "dba06000f98915e2ea8830c26bf89afd123a9a23ed61c9c8b0b0ac087817f0b2",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[13].blocks[2]",
+      "kind": "summary",
+      "textSha256": "6743d1b7d72e604c2ae781d934f7390eaaa7f102b2a5e6d9a6d64b33c7bb275c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "06e74b2dc11c8d7dc1a0a4b2272848a93bb13040e1b01403442694ee9b028608",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.steps[14].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "0dfc05553b256417e303593287583781f39a1fa7c8e16aff6a3da2578e4f7259",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 98, Litany of Supplication"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "0dfc05553b256417e303593287583781f39a1fa7c8e16aff6a3da2578e4f7259",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[14].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "d99b1c37d43b61e1ce3de611918b6ccc679a35d7d6cad94ae3df504a23910ab6",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 99, peace and confession of the Trinity"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "d99b1c37d43b61e1ce3de611918b6ccc679a35d7d6cad94ae3df504a23910ab6",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[15].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "206d31d3d1883f7efee83b4fe6fe820946df121091f6466bc323d035250e3f2d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 100, before the Symbol of Faith"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "206d31d3d1883f7efee83b4fe6fe820946df121091f6466bc323d035250e3f2d",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[15].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "6daa9d258ff05c8bc33f6cbda467f836d7c7771ebe43f9be3bf6a1e092b69700",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 100, Creed rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "6daa9d258ff05c8bc33f6cbda467f836d7c7771ebe43f9be3bf6a1e092b69700",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[15].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "bd5aecad8e6adeb31a64e7fac0fc812ee10bae79b95917f9c367f5afaa14325f",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 100, complete Symbol of the Faith"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "bd5aecad8e6adeb31a64e7fac0fc812ee10bae79b95917f9c367f5afaa14325f",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[16].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "9cb6b599c7612d2b87c90865d241dda91884e7dd744de1959ad538d6b66eee10",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 101, anaphora dialogue"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "9cb6b599c7612d2b87c90865d241dda91884e7dd744de1959ad538d6b66eee10",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[16].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "24e3e2b001c2a2c773fce55425a044eba1769f38e3f676cb6e66a304f1fb072c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 101, Chrysostom anaphora prayer opening"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "24e3e2b001c2a2c773fce55425a044eba1769f38e3f676cb6e66a304f1fb072c",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[16].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "c3ac813b2d8aa7562aded556d074338d8a894e617b6ead53b19108bf2b5f2a66",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 104, words of institution"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "c3ac813b2d8aa7562aded556d074338d8a894e617b6ead53b19108bf2b5f2a66",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[16].blocks[3]",
+      "kind": "quotation",
+      "textSha256": "57f56a7e5aa5bb29a15da393d1e788724a95c0a38dbb9aaf7671858730ba2f12",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 104, words of institution"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "57f56a7e5aa5bb29a15da393d1e788724a95c0a38dbb9aaf7671858730ba2f12",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[17].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "7936a162c5bc05dc24885855e894a9b04c234226ca3c3d45204e6cc5ad679f23",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 105, Chrysostom invocation"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "7936a162c5bc05dc24885855e894a9b04c234226ca3c3d45204e6cc5ad679f23",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[17].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "42a6c12b14363334b8ebf6282acf72d5d1c4a563e518daf7e7b6f82dbeba2fc7",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 105, Chrysostom column, blessing of the Bread"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "42a6c12b14363334b8ebf6282acf72d5d1c4a563e518daf7e7b6f82dbeba2fc7",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[17].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "65f69a85585e30c5d05646f5306f333f1a63f5da72472aa09c9c4ef4693d836e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 106, Chrysostom column, blessing of the chalice"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "65f69a85585e30c5d05646f5306f333f1a63f5da72472aa09c9c4ef4693d836e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[17].blocks[3]",
+      "kind": "quotation",
+      "textSha256": "a7555dc67975053d3ced3b5162ae7596e7247df8a9355158d4c564aced01a821",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 106, blessing both Holy Elements"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "a7555dc67975053d3ced3b5162ae7596e7247df8a9355158d4c564aced01a821",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[18].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "514ea37cb6f10c63dca6642bcdbac58d5b2d65d11da3df6c0c89f7fed7ec097a",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 107, commemoration of the Theotokos"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "514ea37cb6f10c63dca6642bcdbac58d5b2d65d11da3df6c0c89f7fed7ec097a",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[18].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "9052737ebeed4618d2898be9561da97b1133963f403c455dfca4e465fb6475ef",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 107, Chrysostom-column hymn, opening sentence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "9052737ebeed4618d2898be9561da97b1133963f403c455dfca4e465fb6475ef",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[19].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "68ddf820dc1fac5d1b37e79df8c376c88af46d1a4dac3efd7f500b161cf050da",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 112, Chrysostom introduction and Lord’s Prayer"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "68ddf820dc1fac5d1b37e79df8c376c88af46d1a4dac3efd7f500b161cf050da",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[20].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "30ce3785501c967c384f2d3164981108e18adf764ed4ada7c7489deb79652b4b",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 114, elevation"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "30ce3785501c967c384f2d3164981108e18adf764ed4ada7c7489deb79652b4b",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[20].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "06d60983f4c7c66c68d0a59bbc57d574d46ec958798a4e8e6ea1417693e534a4",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 114, breaking of the Lamb"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "06d60983f4c7c66c68d0a59bbc57d574d46ec958798a4e8e6ea1417693e534a4",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[21].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "7e604879fc537ed194e38a01306684d577902e4418a804731c7cf38a9f1ca767",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 117, Deacon approaches for Communion"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "7e604879fc537ed194e38a01306684d577902e4418a804731c7cf38a9f1ca767",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[21].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "b6d9d12f274d24fbf26df6c265df0d02b873522c16e8f9c49cb09766f262e005",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 117, clergy Communion rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "b6d9d12f274d24fbf26df6c265df0d02b873522c16e8f9c49cb09766f262e005",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[22].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "fa62a2e52e9581850de6632ac22731201f9b4d2ffc93bdfd40aa8110dc023b09",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 119, Deacon’s proclamation"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "fa62a2e52e9581850de6632ac22731201f9b4d2ffc93bdfd40aa8110dc023b09",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[22].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "68f7129e2cf688bcdfe71ec94fe779f84f0357ae992fec11d587de9eeb883d71",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 119, communicants’ rubric"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "68f7129e2cf688bcdfe71ec94fe779f84f0357ae992fec11d587de9eeb883d71",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[22].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "815400e84efa87b7abd1cd36433b14292d00dc40df3f29af38f988bc7b411c92",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 119, Choir’s Communion hymn"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "815400e84efa87b7abd1cd36433b14292d00dc40df3f29af38f988bc7b411c92",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[23].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "ce183041d920bd51dc9755a6c905bc22a7cd6360c8efac6f72f50782e6203e4f",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "ce183041d920bd51dc9755a6c905bc22a7cd6360c8efac6f72f50782e6203e4f",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[23].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "7eb2f8f1c43eaf20a79c32e464e6791fb29d1311b074b3e53ca85d8abc465988",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, Deacon’s thanksgiving litany"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "7eb2f8f1c43eaf20a79c32e464e6791fb29d1311b074b3e53ca85d8abc465988",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[23].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "6eb778ecfbc613bf67a254e50061b73191a831ef0e3e8ca73e7e95fdbefbc478",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 121, dismissal sequence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "6eb778ecfbc613bf67a254e50061b73191a831ef0e3e8ca73e7e95fdbefbc478",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[23].blocks[3]",
+      "kind": "quotation",
+      "textSha256": "be4e15107d58e39863d4140fca3a9667e847cde3bbca8f622650b18da04bea20",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 121, prayer before the ambo"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "be4e15107d58e39863d4140fca3a9667e847cde3bbca8f622650b18da04bea20",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[23].blocks[4]",
+      "kind": "quotation",
+      "textSha256": "03c1080662178ab7bffa133bc4a90412a1dc60354b1500034f8b6ac9bc2edc1c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 123, conclusion before post-Communion prayers"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-hapgood1",
+            "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+            "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+            "anchorSha256": "03c1080662178ab7bffa133bc4a90412a1dc60354b1500034f8b6ac9bc2edc1c",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.steps[23].blocks[5]",
+      "kind": "summary",
+      "textSha256": "c7ae6f0afcf770984a07b6ed4963628d252568e86a47365aa0ccd82bf990f8cb",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation; and…"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "a1742a4b2f2e5cfc71d63d964a7a0e96186edec3808a20dd237215de06658c8b",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "91cfa2ada69c251eeec8a43a02d3f884405fbde8fc3f3794b6fcc5b01177c4f7",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "a09e988a30f09d7c944a5673db7c5568a7831ebc6eeb7eadca77861959a9350e",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.visitorSteps[0].blocks[0]",
+      "kind": "summary",
+      "textSha256": "320a72a50f8234a80d79cb55d3cd96ddfb9f5a18e49140661644303bfdfecad4",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-wen",
+          "locator": "Entering the Church Temple"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-visitor-wen",
+          "file": "work/church-guide/interior/evidence/wenorthodox-etiquette.txt",
+          "sha256": "7e0e0e3873c15132735067ab0bf862092e8366c03e7e92b7bc03612b28ac4264",
+          "anchorSha256": "d05f3647b7d1142c12d896000f996dffbfb651c41c9e04f6a4ea2fef623afc5a",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.visitorSteps[1].blocks[0]",
+      "kind": "summary",
+      "textSha256": "6d7dc471c2824caaf47f87a4853e0d88e9ac628e1d749e3ac909af838228c76a",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-holyghost",
+          "locator": "Parish church-etiquette notice, candle paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-visitor-holyghost",
+          "file": "work/church-guide/interior/evidence/holyghost-etiquette.txt",
+          "sha256": "1797777483a04db1db7a11ad6c17b6fb751520068bb202a11fc582ff3f6ac7e3",
+          "anchorSha256": "df5b70ffdbe62738af7b2f549abb536c5a77ed17db42b89ca9b7d5dc1fc4d040",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.visitorSteps[2].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "8120fb2983c9fe67494be94a5b1c54e3bb0daa99747d453dc91c0c2f03369ff0",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-stluke",
+          "locator": "Some Reminders About Church Etiquette, printed page 2, second item numbered 2"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-visitor-stluke",
+            "file": "work/church-guide/interior/evidence/stluke-verified-excerpt.txt",
+            "sha256": "95dd1ef79d4dddced14b63a0f0f68a8a0934a6389da7a4ca5bfae72363caec57",
+            "anchorSha256": "8120fb2983c9fe67494be94a5b1c54e3bb0daa99747d453dc91c0c2f03369ff0",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.visitorSteps[3].blocks[0]",
+      "kind": "summary",
+      "textSha256": "3e7676d7ffadef1bcec653f6189d38618c5bfb770b2472afe154f1a9d4fa484d",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-innocent",
+          "locator": "Entering the Church (Late), sermon sentence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-visitor-innocent",
+          "file": "work/church-guide/interior/evidence/barr-etiquette.txt",
+          "sha256": "b839b7b8d98cc435b1ff6a4a2c3e474c5755614e2f966023ebdbadefdec779b5",
+          "anchorSha256": "a356ee323011b666c753499a2ec60244008f4a65b905c963b1de2b2bb86da8d1",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.visitorSteps[4].blocks[0]",
+      "kind": "summary",
+      "textSha256": "f706f81e19077d243789dd16c1bbbe6da12bcb39301048790aed1e2c5b2ace98",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-regensburg",
+          "locator": "First-visit guidance, item 5"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-visitor-regensburg",
+          "file": "work/church-guide/interior/evidence/regensburg-etiquette.txt",
+          "sha256": "a6bbde7f146ee2f179d4029523e0c35223baa6ed05db88251c49f7b5061e3117",
+          "anchorSha256": "298cb293e8e5a6390e8ca5ff925465f84fb3d44c33de186ed58d39b9f74e7e09",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.visitorSteps[5].blocks[0]",
+      "kind": "summary",
+      "textSha256": "2bfbd083d13936fc4d0e53bb287e8157a6346b9f87c65348314e923176338bf0",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-cape",
+          "locator": "When to Stand During the Liturgy, opening sentence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-visitor-cape",
+          "file": "work/church-guide/interior/evidence/cape-etiquette.txt",
+          "sha256": "997d0df3a5eafc9f1e26aa43403d3a1e203ae3245cff3840cab5d2731a7bb1e1",
+          "anchorSha256": "3e98efdb6fcce2c7d07e6cb87ddaea949697207797f9e18ae2e612c3354c9f08",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.visitorSteps[6].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "810830e8caf85a0c809c49392e0b41954c7e1bf476457d80692d84d83c3091b8",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-liturgy-community",
+          "locator": "The Divine Liturgy, paragraph distinguishing attendance from Communion"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-oca-liturgy-community",
+            "file": "work/church-guide/interior/evidence/oca-liturgy-community.txt",
+            "sha256": "b489b3ad920dbc9d1241245939d70a64abb32374ad17bf3565d8ff9b2cc6fb9c",
+            "anchorSha256": "810830e8caf85a0c809c49392e0b41954c7e1bf476457d80692d84d83c3091b8",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.visitorSteps[7].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "24210aed050f07aacea0a0723ea914756fcaa3c93d1d64d9143cc080d0d787eb",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-visitor-johnstown",
+          "locator": "Additional Pious Customs, Bowing, excerpt from the final sentence"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit-draft.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "cg-visitor-johnstown",
+            "file": "work/church-guide/interior/evidence/johnstown-etiquette.txt",
+            "sha256": "b654895eec8ac79cdeee09f38cd81705533f357fdccd61b2bd838503b4b9a5c4",
+            "anchorSha256": "24210aed050f07aacea0a0723ea914756fcaa3c93d1d64d9143cc080d0d787eb",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.layoutNotes[0]",
+      "kind": "summary",
+      "textSha256": "c9071f770f9509ea57c826775fdac240608f1890dcced77b42b74d43fd419fd3",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, opening paragraph and final paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "file": "work/church-guide/interior/evidence/oca-architecture.txt",
+          "sha256": "e5ab5069aa3159f36830e83622fd301d35a3120a5db6c597170fa3e6910ccac8",
+          "anchorSha256": "1e0722cc7c057eb67c374d3e0f48716ceabea13bed64775eb56effa8693ea94f",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.layoutNotes[1]",
+      "kind": "summary",
+      "textSha256": "c0a438172d9ae8b5a956887b089bf7db955d34f6d2f5deb4f590c14e99a83f5c",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Iconostasion, paragraph on icon positions"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary arrangement, On the right of the Holy Door"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "file": "work/church-guide/interior/evidence/fitzgerald-house-god.txt",
+          "sha256": "9ae8a58e1ff3b655124a9f362397f9152af4598f12444c58faf8222e141c25fc",
+          "anchorSha256": "219af785bbef49daaea3b83944d17536a99880bfa45c4ed377ac45a977eea280",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "a4e15e8fa6db0f9b8d476dcce0271938378c14cc71681f8db64817186991a414",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.layoutNotes[2]",
+      "kind": "summary",
+      "textSha256": "581ec795472edb5fea085d2db24a0b113db175d856daa6656f82c35f90f7d28e",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Sacred Space, paragraph on the nave"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, Behind the Altar is the High Place"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "file": "work/church-guide/interior/evidence/fitzgerald-house-god.txt",
+          "sha256": "9ae8a58e1ff3b655124a9f362397f9152af4598f12444c58faf8222e141c25fc",
+          "anchorSha256": "8bd78552f1ed9e0fc2adafdc9cc69d513f60efc0df3c97175968b687dacef7ec",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "1fdb7d194f4919c44205b57bea9d0bd6b8bf31bc56a79b8eaf3c44afa6bdeb17",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.layoutNotes[3]",
+      "kind": "summary",
+      "textSha256": "f66ac97c8184ecd5df3ad3875f8c276d54b2c275377a50f84c2cf2cd93f7827b",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Holy Baptism, immersion rubric; illustration placement note"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary distinction between the source’s baptismal rite and the app’s approximate diagram geometry; no universal font position is asserted.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "ea1e07341dc3ac9662368f3b9b29718b73ee36c4c580d4be23790b4f506084d2",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "8798c861274e1c24edd3ae61b772c47af2b3804ef00caa0bee0bcd15318e64c1",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.layoutNotes[4]",
+      "kind": "summary",
+      "textSha256": "dde647d47caa904627ff4b9f56876efc108484e25c643239ed2de22a831a0f66",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, two choir places"
+        }
+      ],
+      "researchAudit": "work/church-guide/interior/audit.json",
+      "reason": "Necessary explanation of which diagram features are source-based and which are illustrative.",
+      "sourceEvidence": [
+        {
+          "sourceId": "cg-hapgood1",
+          "file": "work/church-guide/interior/evidence/hapgood-transcription-1-readable.txt",
+          "sha256": "fa62b6925b893a59dd512ca731fe8b9dcfb64882fbdf1b0b1b790cc32190ccbd",
+          "anchorSha256": "c6bed30af83f747a6434b896ca33d4f52ab50d77a08067def07ce066472c4a87",
+          "anchorMatched": true
+        }
+      ]
+    }
+  ]
+}

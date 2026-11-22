@@ -1,0 +1,4921 @@
+{
+  "schema": 1,
+  "reviewed": "2026-11-21",
+  "scope": "Identity and source-bound summaries for newly linked Saints; no independent theological approval is claimed.",
+  "dataSHA256": "95e6df118de91dbb7e0aef59e3d883aea1665e7032eb36b8dadc5ca0e70303a9",
+  "identitySHA256": "15c07ae3b3f84ec620eeccd331544f630a13be6b44123021453619bc59a1dfca",
+  "researchFiles": [
+    "new-profiles.json",
+    "additional-profiles.json",
+    "patriarch-profiles.json",
+    "byzantine-russian-profiles.json",
+    "irish-roman-profiles.json",
+    "editorial-gap-profiles.json",
+    "final-verified-profiles.json"
+  ],
+  "sourceReview": [
+    {
+      "sourceId": "sl-life-philaret-moscow",
+      "url": "https://www.oca.org/saints/lives/2010/11/19/103337-repose-of-saint-philaret-drozdov-metropolitan-of-moscow",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-nikolai-zhicha",
+      "url": "https://www.oca.org/saints/lives/2022/03/18/100825-repose-of-saint-nikolai-of-zhicha",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-nikolai-calendar",
+      "url": "https://www.oca.org/fs/st-nikolai-zhicha",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-makarios-corinth",
+      "url": "https://www.oca.org/saints/lives/2026/04/17/101134-venerable-makarius-of-corinth",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-nikodemos-hagiorite",
+      "url": "https://www.oca.org/saints/lives/4465/07/14/102028-repose-of-venerable-nikodemos-the-hagiorite",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-andrew-rublev",
+      "url": "https://www.oca.org/saints/lives/2026/07/04/101893-venerable-andrew-rublev-the-iconographer",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-alypius-kiev",
+      "url": "https://www.oca.org/saints/all-lives/9999/08/17",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-constantine-great",
+      "url": "https://www.oca.org/saints/lives/1953/05/21/101452-equal-of-the-apostles-and-emperor-constantine-with-his-mother-he",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-antiochus-palestine",
+      "url": "https://www.oca.org/saints/lives/2026/12/24/148981-saint-antiochus",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-ioannikios-great",
+      "url": "https://www.oca.org/saints/lives/2026/11/04/103171-venerable-joannicius-the-great",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-symeon-metaphrastes",
+      "url": "https://orthodox.net/menaion-november/09-st-simeon-metaphrastes.html",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-symeon-oca-beliefs",
+      "url": "https://www.oca.org/cdn/PDFs/2023-0609-EOCB.pdf",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-symeon-goarch-prayers",
+      "url": "https://www.goarch.org/-/the-synekdemos-daily-prayers-for-orthodox-christians",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-john-dwarf",
+      "url": "https://www.oca.org/saints/lives/2026/11/09/103258-venerable-john-the-short-of-egypt",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-john-dwarf-arsenius",
+      "url": "https://www.oca.org/saints/lives/2026/05/08/101328-venerable-arsenius-the-great",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-gregory-thaumaturgus",
+      "url": "https://www.oca.org/saints/lives/2026/11/17/103315-saint-gregory-wonderworker-of-neocaesarea",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-macrina-elder",
+      "url": "https://www.goarch.org/feasts-articles/-/asset_publisher/zg5D5ENaCTK9/content/id/3536684/pop_up",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-basil-letter-204",
+      "url": "https://www.newadvent.org/fathers/3202204.htm",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-emilia",
+      "url": "https://www.oca.org/saints/lives/2026/01/01/100005-saint-emilia-mother-of-saint-basil-the-great",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-emilia-macrina-life",
+      "url": "https://www.oca.org/saints/lives/2026/07/19/102055-venerable-macrina-sister-of-saint-basil-the-great",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-peter-sebaste",
+      "url": "https://www.oca.org/saints/lives/2026/01/09/100137-saint-peter-bishop-of-sebaste-in-armenia",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-procopius-caesarea",
+      "url": "https://www.oca.org/saints/lives/2026/07/08/101966-greatmartyr-procopius-of-caesarea-in-palestine",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-procopius-goarch",
+      "url": "https://www.goarch.org/chapel/saints?contentid=115",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-macaille-croghan",
+      "url": "https://roarch.org.uk/wp-content/uploads/2025/04/Apostolia_February-March-2025_compressed.pdf",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-macaille-hutchison-hall",
+      "url": "https://drjohnhutchisonhall.com/saints-pre-schism-rome/25-april/",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-fathers-before-nativity",
+      "url": "https://www.oca.org/saints/lives/2023/12/24/81-sunday-before-the-nativity",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-forefathers-observance",
+      "url": "https://www.oca.org/saints/lives/2025/12/14/80-sunday-of-the-forefathers",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-abraham-patriarch",
+      "url": "https://www.oca.org/saints/lives/2037/10/09/102909-righteous-forefather-abraham",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-isaac-patriarch",
+      "url": "https://www.oca.org/saints/lives/2025/12/14",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-jacob-patriarch",
+      "url": "https://www.oca.org/saints/lives/2025/12/14",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-andrew-fool-christ",
+      "url": "https://www.oca.org/saints/lives/2018/10/02/102838-blessed-andrew-the-fool-for-christ-at-constantinople",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-barlaam-serpukhov",
+      "url": "https://monasterium.ru/monastyri/prazdniki/den-pamyati-prepodobnogo-varlaama-serpukhovskogo/",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-calendar-barlaam-serpukhov",
+      "url": "https://www.oca.org/saints/lives/1951/05/05/100118-venerable-barlaam-of-serpukhov",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-basil-ryazan",
+      "url": "https://www.oca.org/saints/lives/2026/07/03/101876-saint-basil-bishop-of-ryazan",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-family-basil-elder",
+      "url": "https://www.oca.org/saints/lives/2015/01/01/100003-saint-basil-the-great-archbishop-of-caesarea-in-cappadocia",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-calendar-basil-elder",
+      "url": "https://antiochianprodsa.blob.core.windows.net/websiteattachments/St.%20Emilia%2C%20Mother%20of%20Sts.%20Basil%20and%20Gregory.pdf",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-benedict-nursia",
+      "url": "https://www.oca.org/saints/lives/1952/03/14/100800-venerable-benedict-of-nursia",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-sophronius-jerusalem",
+      "url": "https://www.oca.org/saints/lives/20112022/03/11/100777-saint-sophronius-patriarch-of-jerusalem",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-history-sophronius-jerusalem",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/seventh-century/monoenergism-monothelitism",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-peter-moscow",
+      "url": "https://www.oca.org/saints/all-lives/2032/12/21",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-writings-peter-moscow",
+      "url": "https://www.oca.org/saints/lives/2044/08/24/102384-translation-of-the-relics-of-saint-peter-metropolitan-of-moscow",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-history-peter-mogila",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/seventeenth-century/saint-peter-mogila",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-calendar-peter-mogila",
+      "url": "https://basilica.ro/en/orthodox-calendar-december-22/",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-flavian-constantinople",
+      "url": "https://www.oca.org/saints/lives/0202/02/18/100556-saint-flavian-the-confessor-patriarch-of-constantinople",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-context-flavian-constantinople",
+      "url": "https://www.goarch.org/chapel/saints?contentid=111&type=saints",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-pulcheria",
+      "url": "https://www.oca.org/saints/lives/4463/09/10/102566-right-believing-pulcheria-byzantine-empress",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-goarch-theodota-family",
+      "url": "https://www.goarch.org/chapel/saints?contentid=269",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-historic-martha-pskov",
+      "url": "https://azbyka.ru/otechnik/Zhitija_svjatykh/slovar-istoricheskij-o-svjatyh-proslavlennyh-v-rossijskoj-tserkvi/243",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-chrysogonus-aquileia",
+      "url": "https://www.oca.org/saints/lives/2026/12/22/103609-great-martyr-anastasia-the-deliverer-from-poisons-her-teacher-ma",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-comgall-bangor",
+      "url": "https://www.oca.org/saints/lives/2026/05/10/103921-venerable-comgall-of-bangor",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-dovmont-timothy-pskov",
+      "url": "https://www.oca.org/saints/lives/2026/05/20/101450-blessed-dovmont-timothy-prince-of-pskov",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-lawrence-rome",
+      "url": "https://www.oca.org/saints/lives/2026/08/10/102258-martyr-and-archdeacon-laurence-and-those-with-him-of-rome",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-theodota-mother",
+      "url": "https://www.oca.org/saints/lives/2026/11/01/103135-saint-theodota-mother-of-the-unmercenaries-cosmas-and-damian",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-ref-canice-aghaboe",
+      "url": "https://www.dib.ie/biography/cainnech-a1374",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-ref-conleth",
+      "url": "https://www.dib.ie/biography/conlaed-conleth-a1935",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-ref-finnian-moville",
+      "url": "https://www.dib.ie/biography/finnian-vinnianus-findbarr-a3101",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-ref-mel-ardagh",
+      "url": "https://www.dib.ie/biography/mel-a5791",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-rocor-british-saints-list",
+      "url": "https://orthodox-europe.org/content/an-initial-listing-of-saints-of-the-british-isles/",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-aaron-prophet",
+      "url": "https://www.oca.org/saints/lives/2025/12/14/600-righteous-priest-aaron",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-gabriel-archangel",
+      "url": "https://www.oca.org/saints/lives/2026/03/26/100886-synaxis-of-the-archangel-gabriel",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-linus-rome",
+      "url": "https://www.oca.org/saints/lives/2026/11/05/103179-apostles-patrobus-hermes-linus-gaius-and-philologus-of-the-seven",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-nathan-prophet",
+      "url": "https://www.oca.org/saints/lives/2025/12/14/608-prophet-nathan",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-noah-righteous",
+      "url": "https://www.oca.org/saints/lives/2025/12/14/610-righteous-noah",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-paulinus-nola",
+      "url": "https://www.oca.org/saints/lives/2026/01/23/100283-saint-paulinus-the-merciful-bishop-of-nola",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-philip-deacon",
+      "url": "https://www.oca.org/saints/lives/2026/10/11/102936-apostle-philip-of-the-seventy-one-of-the-seven-deacons",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-solomon-king",
+      "url": "https://www.oca.org/saints/lives/2025/12/14/613-prophet-solomon",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-life-zosimas-palestine",
+      "url": "https://www.oca.org/saints/lives/2026/04/04/100988-venerable-zosimas-of-palestine",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-dionysius-paris",
+      "url": "https://www.oca.org/saints/lives/2026/10/09/102915-hieromartyr-dionysius-of-paris-bishop",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-life-ninian-whithorn",
+      "url": "https://annunciationvestal.ny.goarch.org/assets/bulletin/2018/Sept16.2018.pdf",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-ninian-rocor-index",
+      "url": "https://orthodox-europe.org/wp-content/uploads/2022/07/July-2022-Excerpt-from-Index.pdf",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-cyril-lucaris-act",
+      "url": "https://www.patriarchateofalexandria.com/patriarchiki-kai-synodiki-praxi-agiokatataxeos-toy-agioy-ieromartyros-kyrilloy-loykareos-patriarchoy-alexandreias/?print=print",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+      "url": "https://www.patriarchateofalexandria.com/the-patriarchate-of-alexandria-honours-st-kyrillos-loukaris/?lang=en",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "sl-gap-cyril-lucaris-cyprus-2025",
+      "url": "https://www.patriarchateofalexandria.com/patriarchal-officiations-of-his-beatitude-the-pope-of-alexandria-in-cyprus/?lang=en",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    },
+    {
+      "sourceId": "ts-o-jerusalem",
+      "url": "https://archive.org/download/actsanddecreess00lucagoog/actsanddecreess00lucagoog_djvu.txt",
+      "review": "Primary ecclesiastical recognition and biographical claims checked against the named publication by the research agent; exact source context and historical limits remain in the profile. Summaries only, not a newly translated quotation."
+    }
+  ],
+  "profiles": [
+    {
+      "saintId": "sl-philaret-moscow",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "b722f713de21d83d46cf433b99d904ab08805df7a2880dced4e9fd1abcf84a40",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "033577128a199a4c374841237be0ba6082aae3730c1e3a8ed3734792903d3003",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Opening paragraphs: birth, seminary, monastic tonsure and teaching"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0b569b2ddd6674bca42a8bad8739b7b197278799eb1e3be7f0ae256c32f8de5e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Episcopal appointments; educational work; Bible translation; support of monasteries"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "15fd64dd40816d9cbaa055f71095ca50302eb273ef9122404af7615f0bf4e0a7",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Final two paragraphs: last Liturgy, death and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "820b8fa5ee4cf8736a1555678f3d091035e6efdb6949877feadbfe205500979b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Paragraph on the 1823 Catechism"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c62699c74dda4c53212e9db653304a9aef4660460708f5b854da20df0e2d03d4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Paragraph beginning “In 1808”"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "69f1ee1423a3e970cb58f690c9924c83db01b5f55d28245d96d400814aacf4ba",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Paragraph on episcopal appointments"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "cc2fc4932ba711545109c30a1f64a450cd777818df3bfeb886c6555c536c0232",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philaret-moscow",
+              "locator": "Paragraph on episcopal appointments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-nikolai-zhicha",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "f1106e0a2a3acf17161aa309ae0ab6e039ce28c2f74ad03b97549792ba2633ff",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "fab0efa441e47dd1cbf49f5d54aba568f8f0961d40c0a61005e63967ed87499b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Opening paragraphs: Lelich, family, seminary and tonsure"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f12130c6511a730b2ca273043ea43490018a1263dd82bbd4587c97d58c032d50",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Paragraphs on episcopal ministry, wartime imprisonment and American teaching"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "35fadfe88ade884ed9dc3ca29c788c1a90786f641a87a927946dcd9a4e9ba24c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Closing paragraphs on March 17–18, 1956"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0892abd788c5faf5495b3d49966b54278fabbbe1ad3be4475a2aa47806a50cda",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Paragraph beginning “English readers are familiar”"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "307762b170f9be80b3489646d052ab85eeb5e6a710559a1bb81f96a2cc930ede",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Paragraph on return to Serbia"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e7cb9b58d573513f1586de4141b149971deaf63af2ab1aad481f902c44f85d0f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Paragraph on life abroad"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d63fd18090348dd1c5613dd5f88f7c0897d0f9b818f1efdbac1d614052db1724",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikolai-zhicha",
+              "locator": "Paragraph on American teaching"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-makarios-corinth",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "401f7abd7b5222f1fa244ff7fc9cd0e6bc3b8671045d69964a26e7e715d4680b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "39fe83cb50446a28a9206c9fb7213ef78cea08ed008e221f9fa68b231fcafa52",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Opening paragraphs: family, baptismal name and teaching"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ee13c6339aa9e6b945dfe11277e8a40ddad0bfa423df960372042d34ec35fb44",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Paragraphs on exile, Athos, Patmos and residence on Chios"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2e6ed447dbfd89c151fe17b71056de3482fa6f762a3dbcf22051638c60b3e521",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Final biographical paragraph: repose, burial, recovery of relics"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ddf3624b3882602a410ed0b90141073819c4be7565d3cdacdd203bd02de0600c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Paragraphs on funding publications and work with Saint Nikodemos"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b0d9cfa0d4bf7f90dff108719f142d2ca135ba5baa473bf112e27440ef2337c1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Paragraph on episcopal appointment"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4e6071eafc68134f47324c2851b59f1bbfc1d45703e4a079bd31a89374ddfdd1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Paragraph beginning “He visited Hydra”"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a0abc29a37233739318b69d4abe3f54e68a1b0c7d2f437af30df705c8bddd450",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-makarios-corinth",
+              "locator": "Paragraph on final residence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-nikodemos-hagiorite",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "1f39ebf28b2fc2cb4967a0cf0b62cc0f055091945324138ff03d3e7072824cbe",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "07c85a106b34445ea655934654c3f9c2f602926ba36b04a27ef6b204c7f4c3ce",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Opening paragraphs: Naxos, education and Dionysiou"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "14721e9103132b5a5f36afcbffac95a2742e1f3844fe01a93f49d9a500353615",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Paragraphs on monastic obedience, the Philokalia and Great Schema"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "dbfb01105971c8cf97ad7b012111dd8beeb3ca51a8d68e8cd0b27593e2f2a4d5",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Final paragraphs on illness and repose"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "da92324e3fd3ac5588158b461fea5fc1df260885ce69c9deb436c6f04cd80743",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Paragraphs on Exomologitarion, Theotokarion, New Martyrologion and Pedalion"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "71e5aabb7e505ebd5060c7dd9eaa95035553d14968581a4ac00b97b7e5d1b48c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Paragraph on Great Schema"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0d5915714a36302536c01c84df7a808c00a8822697bb96b6d9318e169e173ef8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Paragraph on Exomologitarion"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "dd7b8897d29305f5d1b361e4f8d2a8cf15b5683af20d459ab9d6f20648bbed56",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nikodemos-hagiorite",
+              "locator": "Paragraph on Pedalion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-andrew-rublev",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "ee57e1e10e56619908898b6ba69f0efbe50e83e0a0e962e3f9b4944ff3796c6f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "5259856750f6de2fb547d75683ca48077d2ebc498bf34096bd2027dbb0935932",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Opening two paragraphs: approximate birth and monastic formation"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "64a4ec19b91f5f0edc1629bb76df8432e5bc529ea6c90473b13f231b481d684a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Paragraphs on chronicles, Annunciation Cathedral, Vladimir and Trinity Monastery"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "61a675427a61b5699de446a268d5b565304e7f2a02a2216453f1cdcf640ad89e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Final paragraph: death range and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "494802e4268437bfbac9876fbc55f1c8b76f662644f65beadf7e12b1ce20733a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Paragraph on the Holy Trinity icon"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "81c369626c4a8f80f83b9ca58469d8493c524f25233c8ce84706504dd87593fd",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Paragraph on earliest chronicle mention"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "5fd274a533de37621717ac785588e6766a464367a937a2d9cb8278864e3c9dcd",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Paragraph on Dormition Cathedral"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ec621dfc22383d3c46f47a9f6f3f795b8ce9d077186cf11c297e0db77eecb7ce",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-rublev",
+              "locator": "Final paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-alypius-kiev",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "93e06d929fc24e52a4578b12c904ca8eced26cdb984a1d4461258eab8f0193ed",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ddb15cc9ecbe233279241361c0a51725e9b334e47ba8e8cf35e73f370590b0b1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Venerable Alypios entry, first paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ceec18c95b2940e95d3aeaa5eacc8504303d398283df8dbd186d053a8fd41b4d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Venerable Alypios entry, paragraphs on painting, alms and the disputed commission"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "257a46e596f0073b1bc5f8d79e5ffd17701004cb321e2c6080fa03115e7de73b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Venerable Alypios entry, paragraph on final illness, angel and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "036cbba3285dcfaba6cbda34464334fabbe8814b179614bcf9b63556016aa82a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Venerable Alypios entry, paragraphs on icons and final commemoration list"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d2fec05ba235e6bb756e4c02276def3cde5fbc4cd579cf6d730c8f09efb9f008",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Entry, first paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e8985e3ce99f8ae94b9c7b85f4e8815bd88c88999e1d2c6cf559834aea076713",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-alypius-kiev",
+              "locator": "Entry, paragraph on final illness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-constantine-great",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "e312ea51b5aadb70b922dc819a8d76aff03e59686a1c4f0cbe1fa57b3fd0a0b2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Published ecclesiastical life, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "38f88feaa036fa8fced7f64025de6b3422aad09d938a2342f7b1f6cd764b53b2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Opening paragraphs on parents, imperial divisions and accession"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a10ba6001ea5e3445f7d0f2c15f7a6a18fb20cdceb68cad3d7ee255c0f69ff2e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Paragraphs on the sign of the Cross, Milan and the First Council"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "325467ad2c2179b1ba814e935a48e00114a026698bdfd7de132c1177a5bbd3c1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Closing paragraphs on Baptism, repose and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "80f4dfa60b675c36052fab6d3cc8c688556bd24970674dfabe7e2c5488808781",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Title and paragraphs on imperial patronage and the Council"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "dca526bbd88fdcb7b1163e0576cd96cd53d7b580cc4363cc92cb5840595d70b5",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Paragraph on accession"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "be5acd33473752ac23b170a03cef9420e2f9d7e626ff0678a8b4793d02abe57c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Paragraph on Edict of Milan"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "8754ac2c1456a87c9314638949706981ccf19afe8ebc94f3285fe70600e7933b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-constantine-great",
+              "locator": "Paragraph on Arian controversy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "antiochus-palestine",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "639e0a99c361e91bff182a3a1ae5914d49a97ac173002774a3696910ac70fda0",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-antiochus-palestine",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "260f57203436f54d36f3b55ad7f37a0fc92e213ed0e019676256bfbd1593709c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-antiochus-palestine",
+              "locator": "First paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "acccc962f024ce44f13ff5c80e81fad3f70cb67e22cd4697c43357824162c1c9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-antiochus-palestine",
+              "locator": "First paragraph: monastery and record"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "bb9ae139c9d029c8b27e33d762491aaf05d3d80e629d5a76482db8af1a5e3da3",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-antiochus-palestine",
+              "locator": "Complete biographical entry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c09567bf315a4199ab4e5060eb02b5f5e525809eeea27df1876e2a2dc1a2581b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-antiochus-palestine",
+              "locator": "Both biographical paragraphs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3f30fe420bd3e0ab9bd91d41e19f49fd2c5420dd311dd053cf63735c8b97a243",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-antiochus-palestine",
+              "locator": "First paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "ioannikios-great",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "107dce5a56be4067484e0cdb567d3a70df9eb0e81ae536f2f4b98fdc6d86e851",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "17c441e3e46e5726440a3c36331ae97c8c1a41eeb1a5f6c0a19cc0290eff806d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "cfa3448ca3f3e3c71ace1ace6198ffb962031095c3aad282d36808be2a9656bf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Military service through later monasteries"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "cd2717c653a9b90be47bf1747272a26771c090dd9c0f9d3bd34f10c58ef93799",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Final paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d6864abc9901bea950bf5698c40af94cfdd599ab378ba2ac68bf434f49a3c0ee",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Prayer after Psalm verses; miracle narratives"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "fdf02b208a6294714398710b240083684b64cbbd88d9231ac4266376d6fa14e7",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c18b3ede3f03f572060d699d652e02c351f46ee9686a4f743a89509c782a259b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ioannikios-great",
+              "locator": "Final paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "symeon-metaphrastes",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "20dbeae51cde30ccf2f4e7a713e71a943452dac4a2e4f193bae39f8d7dcfd7c4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-symeon-metaphrastes",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "15747de0b3966966e539626ceb132c8c91d121ff82f7f0830d26be2513bb4d7f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-symeon-metaphrastes",
+              "locator": "Opening description"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d3afe94415d89cb943edcda8d66c33297d1dcd997b77622e4e1545d2f1014396",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-symeon-oca-beliefs",
+              "locator": "Page 72, The Lives of the Saints"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "310e494c014b900859a624638a0229bffe27c0d6b8a898011d23a54d081dc1c5",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-symeon-metaphrastes",
+              "locator": "Concluding sentence"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "bde1c10dddc4c89845ace9da54d369d9ad5c23c82b14aad6079020c5bd036336",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-symeon-goarch-prayers",
+              "locator": "Prayers in preparation for Holy Communion, Eighth Prayer: Symeon Metaphrastes"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0152951930777e5f4daab9b8dd23ffe786e9862d4090278d54f41483cc9b5e0c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-symeon-oca-beliefs",
+              "locator": "Page 72"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "16831343194ac8bff9490b7491e416f2d88a63da6b37eb549d163deec4925d62",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-symeon-metaphrastes",
+              "locator": "Concluding sentence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "john-dwarf",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "e2a1c8a66dff8548100355d24d2c8ba75826444ff8e008ec06289dfef436cc92",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-john-dwarf",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "df54e6cfa8b13bc5c23421be339066b8da9348c16edb51f23c803662845d3b14",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-john-dwarf",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9930e803a5be9ea28be482565f35fed2ea95040e7a5f84572e9d0a11eaa68a96",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-john-dwarf",
+              "locator": "Narratives of the return and the dry stick"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "43f7875498aaac3128b7d6a7afb74dc672c4881f2e15efabfa6deffab6bda241",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-john-dwarf",
+              "locator": "Complete entry and heading"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "31460203b514a7416088980b6e044d1e24917d7001de718b233825fcf27d5a21",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-john-dwarf-arsenius",
+              "locator": "Paragraphs on Arsenius’s arrival and reception by Abba John"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4836e80855bd381d1dd1f71e2545e2567364f422595afed02fc98348a888c871",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-john-dwarf",
+              "locator": "Opening paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "gregory-thaumaturgus",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "2d9cc7c0c78170a7e93bf53a9f0155ac6ea13b8e9e51eabaab717f7e97788c24",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d66fdee5d12e002f3810f167af39cc5c1fdb47a1b20e9bb0552d9742a7d7fc15",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Opening biographical paragraphs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b1459db928dcfa09ecbe007d6b863376730cacc1fa4e8eb6b08a99426bae6d18",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Episcopacy, pastoral work, and Decian persecution"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d96a658c39d99e37bee86081c1cea6dcb5dfade7817e02bc778341edad6919bc",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Final biographical paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6e4a832225799f3f6ff80a7af1df9ca34389da3a5d340a4dabb21502b263dab8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Symbol of Faith; concluding account of conversions"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "758ab7564edad161dec165058f9087b393745d0fab8fc6785d7751233e712031",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "5451bbe2e7dcf028e9c5dfb3ae81def1a354e1e48eba5aa15d041adf50bb345a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-gregory-thaumaturgus",
+              "locator": "Decian persecution paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "macrina-elder",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "59b6f7d305b8889a6e715379787e84297d000794b19644e7bb9e413baf9f0516",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macrina-elder",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "048c989166c0e9e0c430920e047d45dd9aad846dacdb2b26a77d159e1d0e5073",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macrina-elder",
+              "locator": "Opening paragraph; family and commemorations"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "44271d1ae3f5c02d2846e82830708b4c3220961de1bf22c5084b3dda3f868e27",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-basil-letter-204",
+              "locator": "Section 6; grandmother Macrina and Gregory"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9b5f49a2ef31b4180d7bf4cc5d173619ea18a45a036d5aba6ea51a87197c19f9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macrina-elder",
+              "locator": "Family passage"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "abcb05214fd4376b3f6364c81c154f11e0fe41d2748f4305cc6229ab69d83dc9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-basil-letter-204",
+              "locator": "Section 6"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "8085fbe4b2fcd9b54f99bf0f504b0136b068dd269d417ac49d6e7ccee735817b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-basil-letter-204",
+              "locator": "Section 6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "emilia-cappadocia",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "70834d9f10bc8c578757a06e153dd2faccfeacc75c6da141aa8868aac9d530d8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-emilia",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2b81f6f4252eca4c339d341533db15cb93d7e72bd892b754656183804ab0d8e3",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-emilia",
+              "locator": "Both biographical paragraphs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9bb927d0420d3d40ffed93331bd4dbdce2b8c9b1cfb4eaefee08403419dcb197",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-emilia-macrina-life",
+              "locator": "Education of Macrina; common monastic life"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e8672bfc0f29dcace8f317f7f496a5d2059f2a6310144516fd2aa403c9b6abc9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-emilia-macrina-life",
+              "locator": "Transition to Macrina’s leadership after her mother’s death"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4ef3cdba48f476c15bac4c094780de6c74e7cd9b118c2f170d5e116f3c3486ac",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-emilia",
+              "locator": "Family paragraph; Greek-calendar note"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ebf5df3fe05e68cb495cba4a1ac387a9f9fe09fef33df2437a37c1738b68e4fc",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-emilia-macrina-life",
+              "locator": "Education and common-life paragraphs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "peter-sebaste",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "fab25a81564bbc19492c91e9735bb097082f978c9d6a228e5c17c0ae060fcc0a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-peter-sebaste",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e2af2024d7e11a4e7f99122d5edcdc94a9a1d8f32509ad2982add874a931349c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-peter-sebaste",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "09e594a42f3bc5dd1496a5b02e7330ef69c5f4fe623e7868b2b3d6cbd978f1d9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-peter-sebaste",
+              "locator": "Second paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "32be1cba78a9975e621ab42efe4323ec025a70134157d8bf2d423b7f0bd07ec2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-peter-sebaste",
+              "locator": "Complete entry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ad79db750d1b1b752138f24793436f188fa122edebe290c3c945f8972f413604",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-peter-sebaste",
+              "locator": "Commemoration heading; second paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "958ccdd3a939c62dc1443383b8ae8cbf4f895005271c3ff8e523b7edb694529b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-peter-sebaste",
+              "locator": "Second paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "procopius-caesarea",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "fd2e1866b8cc2cb047bc9d16669e795178303c161b1968c88a89d0e4eaa5f593",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-procopius-caesarea",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "64d9c3d27b8f8280b5d626d832f6b24ff8bb19f9b65719a4e669922dc23e5af1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-procopius-caesarea",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e088dd1ed861454efd2ff173f7b35233ac459277b13eab5cec0eafcef9a539e2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-procopius-caesarea",
+              "locator": "Conversion, arrest, imprisonment, and twelve women"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "751becabed85dba6e45568b8e934dd163e156400718ba6761a407a3c49e626a5",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-procopius-caesarea",
+              "locator": "Concluding paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1d210bb346a5b7c64bb3ac25223083c134d1c589086c60ac25217121d917c7c8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-procopius-goarch",
+              "locator": "Reading: imprisonment and twelve women"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "980e5fa2dae57f4e196d6a31cf4f4be9699cb699d2304047886aa1f00c0fc74f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-procopius-caesarea",
+              "locator": "Concluding paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "macaille-croghan",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "844dad1fc7269be603db7ec3537abb80b0cdcdeade0c981f38f88999dfef3bfb",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macaille-croghan",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "7764188d0e19d3e8fc6170ed2a62a6e559d4f1a8f29558985ad007d13bdc1ba2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macaille-croghan",
+              "locator": "Printed page 43 / PDF page 45, Saint Brigid narrative"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "bbcc25647f0219abb9e92ed3b1cd4ddb9d4dc2b9797f48b42cace90776f19ff1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macaille-croghan",
+              "locator": "Printed page 43 / PDF page 45, Saint Brigid narrative"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "bbc15d859d779149fdb4d5c42b7f0388bb9127ad3d94af0e2503f71efe7e7353",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-macaille-hutchison-hall",
+              "locator": "Macaille entry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0576bc48ad601d0d99a461fa11685e63ae80846437f3d85a47fecadb31c93154",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macaille-croghan",
+              "locator": "Printed page 43 / PDF page 45; locality and relationship"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d481ee9843aa4dffed0de4eff43fe651322c55d953020adfd373b3ebb87ae744",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-macaille-croghan",
+              "locator": "Printed page 43 / PDF page 45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "abraham-patriarch",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "0bdd42624ce3dda052fde719bc34499e12d15315969aea74ee3d10e48fab4d14",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-abraham-patriarch",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "16967eba4e57f4acc9df97968a638fc966193e6e00465ca12c37d4438eb754a0",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 11:27–12:9"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1a72eac75e86ee4306af52ad377087f6d03c29a98ff9a3f315329937333fc75a",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 17:1–8; 18:1–33; 21:1–5; 22:1–19; Hebrews 11:17–19"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "86e7f05d03c2861b69576507165d3f829f4cd3f75ee8c9418aef2039e913ca14",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 25:7–10"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "60ead67113216817c6ff69f40b164f049558d7040107b93a1ced52f9130b659f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-abraham-patriarch",
+              "locator": "Commemoration heading and final paragraph"
+            },
+            {
+              "sourceId": "sl-forefathers-observance",
+              "locator": "Opening explanation of the Sunday"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b47f7d0583e4530e7f2d94577084946b8234eb76e22912b20e555259e64bd9ee",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Romans 4:1–25; Matthew 1:1–2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "isaac-patriarch",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "87c9dbd1f6d2b898f6604558aaf381bb26593f23c4d6bb4c40456a5ea612d72c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-isaac-patriarch",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b2e3bd25e25c4f907f85adc540c07b053354a7d9384ffe435f6220065bd6d5a4",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 17:15–22; 21:1–5; 22:1–19"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "70eb06fb508c34a0922a226bc0d938980856b3d7798b038bcb9a2bdf3e3a4413",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 24:62–67; 25:19–28; 26:1–33; 27:1–40"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1d8572f20635c009b78ffe1292d6968c41585eb6e090e3a101a1384a6902a092",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 35:27–29"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "133e944f7792bf96e3b668801e12abb42fa7d92ceb72436ed0477816e58974dc",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-fathers-before-nativity",
+              "locator": "Named list of the holy Patriarchs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "147d6d2bb59ab568f0d0d95f0a3e9ca6c37caf5ffaf5ddf09bf3de188f81f510",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Hebrews 11:17–20; Genesis 25:19–28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "jacob-patriarch",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "f18e3614d0bb1ed3b78ba3c1f231e7ba548ff8ae26ad07039588068fc4a2fc4d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-jacob-patriarch",
+              "locator": "Opening identification / named commemoration"
+            },
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 32:28; 35:22–26"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ccff8eab0d3e6b28ef55f87b4d950c5ce3f3302c0487e6cba36d86ab270e990d",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 25:19–34; 27:1–28:22"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "08099083be0b07d5a76f15c120800dc93077036123fed4de502ec8be76014c20",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 29–32; 35:9–12; 37:31–35; 45:25–46:7"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "56ac50a0b9da9c3ec814f1617092dea54b7830ce73f9a8a6b9a1e9e033457cef",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 47:28–31; 49:1–33; 50:1–13"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "562ef4f0528c57ef6def01e66b32e8f80a736b1a65100f66495efae93799c8dd",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-fathers-before-nativity",
+              "locator": "Named list of the holy Patriarchs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "66cf4b8d528c3b86d1d5f6f7376293a54a41ccbeae9e19ab593f5f65560c0b8f",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Hebrews 11:21; Matthew 1:2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-andrew-fool-christ",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "b14fb3c9bf36471ea6fb211f3281c98f6e429960678be528d5e2638a7bf25820",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d5f34f6e9f5e73f265e11a7db0c0fa7fd38b68565ce4d208f05200568749d9ff",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Opening identification and account of childhood"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "11395ea3ab328c8d960719fc91915eee0d4c3a32dd3ab154e3f3c3593c2e1892",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Paragraphs on the dream, public life and almsgiving"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2a02d83bccbd209a494cb4f21e68055bc99c7c39c9e18d15e87e63b80cd2c7eb",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Final sentence"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2279a694e710ee5f5b4872e124504339ff3d1a5622d04d55677347ed9c4bab44",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Final paragraph on Blachernae and the Protection"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6b234695c21fc4fd2c3a0f9d531842fac2aef785f6b4a4383d8a7446bfaa9c69",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Opening identification"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6030f725abb121a0aead49a245fe5ef5784416139be0f4e9a6b92d8999343679",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-andrew-fool-christ",
+              "locator": "Final sentence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-barlaam-serpukhov",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "773611b29c9deb346c40cb8733673dd9777def8d4ed4c75efbe405ddbbbd5751",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3575ecef517acd74d2b7b9cc0ddd65b814b41cdd1ce7bb02192971e0f06eb619",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Opening paragraphs on lost origins and relationship with Alexis"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9ac089c0473480f9ac8d994cc92e8a69ee659517b39a6abc71c13cd3e324370f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Foundation narrative and paragraphs on building the monastery"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6629b8cd4c4c68d413e515d666cf07477948e90726773d2e855c718d0a019be2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Paragraphs on blindness, final illness and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "95ddf51c3a0281e9c43da773da5e8533beafb9621c95ecd6c6bc3e274b6ee22c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Introductory account of the monastery chronicle and later memorial tradition"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f71c671d35656d65fa1acf8e3e8d1743d0aae0f203d8f00be2c91e63038c20f0",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6030f725abb121a0aead49a245fe5ef5784416139be0f4e9a6b92d8999343679",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-barlaam-serpukhov",
+              "locator": "Paragraph on death"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-basil-ryazan",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "61a36f73360c54411a55151cad39feda093a638dec812ac8cd73ed9e1908b756",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "adb672e375f251e66ee3219d9096be205efdd3daf9354cc1c5f45a2184f8c3ea",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Opening paragraphs on the chronicles and the succession of bishops"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "cecc5e3cb01fbf266757f54e827b4fc12f6a4267e4e3799a4d6d98c9a44c4fd1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Traditional account of accusations, Oka journey and reception at Ryazan"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "42879b5e8c027fe37317268d674dc2fa9389fbabb0ab2b22ed76c144cba8e2e4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Opening paragraph on death and uncovering of relics"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e0801b7166e77e21568b50e74477053b360ead2c93ac53d704611c094230f427",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Paragraphs on local veneration and the sixteenth-century account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "087f7df1ff680024ee976847c2cb8f6bceb9b5cb9772046ce83266f58566aeae",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1e915b78e9ae75fe69cb1208aacbdbe12c01e1fcb9d68dc0357b258b4455355c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Final paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6aba8ddf71b897b16c1aafdc76996b9c0e491764093c0f02b8744b0861da381c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-basil-ryazan",
+              "locator": "Opening paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-basil-elder",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "d24d7ff90cebde64997aff459c924829a56712bda3dfc623f5f852c4edfdf1f0",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-family-basil-elder",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2b87176b6565c6e18e8551db8cf79c2a8d20168f454547828e02c8a3ece1851a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-family-basil-elder",
+              "locator": "Opening family paragraphs in the life of Basil the Great"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "cf9faaed97fa06e8a39c5cda67467bb7ef1abf5d4b29d39e02e343b120989012",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-family-basil-elder",
+              "locator": "Paragraphs on family and the son’s initial education"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "26af10cd1b055524a850c53d128adc66d4f2f6f5184c9a449182201fb6c7efda",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-family-basil-elder",
+              "locator": "Paragraph on the family after the father’s death"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "755e23a185f03455370e63d57e4bd5d40039898895d72794c5693cc8aeca25cd",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-family-basil-elder",
+              "locator": "Family and educational paragraphs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2d900bac99d4a6dfbeff4548612aae8ecbdd75f506b67389ba9a38031787c2e9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-calendar-basil-elder",
+              "locator": "Page1, opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ebd87db00874dd2f29327154b739e5e44fdcd70183b44b51fc6f65c2118760f4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-family-basil-elder",
+              "locator": "Family paragraphs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-benedict-nursia",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "9c591dd1079a1a62b401943d4074ec4964c2deab7b8e5cf12fe6bcb159547d2d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9ad1138ddfe058115eb241d1cb485e5c40e9d2866cea6970d1ea78c351e1af43",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Opening paragraphs on birth, Rome and Subiaco"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3a2a75fa1fac38ab7595d28bd19a084b8178235e438d7177a23460acffc0e89f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Paragraphs on twelve communities and Monte Cassino"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "7cac1d32de44529aaabddd5818ab39c974a51ab03fb23900a2860338fcfa1ce1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Final paragraphs on repose and principal source"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c661f018ae03d269e2e9cc8b5c69b82a5b3e18fe900e7f1f6375d8793badb78a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Paragraphs on the Rule and its influences"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "24d750f7beeb6bfdde4bba98ac8dc5410202b24221ed4f60038b03f3285a4e14",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4723f2ad8e4a80e77a69968369124587f3683fcd6b457f3e1e9841cb90d07236",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-benedict-nursia",
+              "locator": "Closing paragraphs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-sophronius-jerusalem",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "d92ba122f41ddc1730d84304bb8a651c49148ba157359eea98a253bdc55e2f91",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-sophronius-jerusalem",
+              "locator": "Named Saint entry, identification and biographical overview"
+            },
+            {
+              "sourceId": "sl-history-sophronius-jerusalem",
+              "locator": "Paragraphs on the opposition to monoenergism and monothelitism"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "447ae83591739259f2f68529621439c35b8839cb222ac79d8c2b8006a10ec779",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-sophronius-jerusalem",
+              "locator": "Opening paragraphs on Damascus, monastic journeys and John Moschus"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "64825fbc149f008d21f6f1139545532bb1761ca12361881c6d67e4e877682852",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-sophronius-jerusalem",
+              "locator": "Paragraphs on travel, patriarchate and the siege of Jerusalem"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4f413c8452985cc14f2182d579e75f3bd4a8f63325c57745c5c568cd70d148f4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-sophronius-jerusalem",
+              "locator": "Paragraphs on Sophronius’s appeal to Cyrus and his Jerusalem patriarchate"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2c3b2f0394727ad4b4e1b99c173541e8383088062804fcd6373c365e00f49331",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-sophronius-jerusalem",
+              "locator": "Closing account of the siege and death; compare Church History chronology"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "37b1cf6e3222d82a70753bd904fb66fee8ba73e5ae0c24ded3507972aa1b01ce",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-sophronius-jerusalem",
+              "locator": "Closing paragraphs on dogmatic and liturgical writings"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "530969804036c0c62f5cc0781ee48ccebf1a144baac60db61d9672a0b1567966",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-sophronius-jerusalem",
+              "locator": "Opening paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-peter-moscow",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "7bf2317027394b6c3d106c882a6be94f53d39dd5960543f3af9c27e2c1adbaa6",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "41c130a5c73188fa495685c99894e48d865387192dc012f009f658dee98a518f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Peter entry, opening paragraphs on Volhynia and monastic formation"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c299e9afc7124ceed779b5834c8ef9f61bdee55cd91b78d2e3484d884153287c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Peter entry, paragraphs on appointment, pastoral journeys and Moscow"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6bb1b257840cf5feec55eb7cc6d93a3e4beb00bda4fd220e1c39abbe33d5548a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Peter entry, paragraphs on1326death and1339glorification"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c63198cfaf55792239170bbf2e0c46d4259737ceba4a25bc084d1cfca12684a5",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Peter entry, cathedral foundation and later veneration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c86f7b0cf06bc5d904037d419bf95eac972148c9173ab866aee28bdd917ee819",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-writings-peter-moscow",
+              "locator": "Paragraph beginning “Three epistles”"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1a70b2c990076c0e822d65aa3a1cd21ec08a036b556152b0d10f58b8d95dfb3f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Peter entry, transfer paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "382d3b5330ca6e54fa74c99d456e7eba3dc8249d18f76c67f06f5d133587ed92",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-peter-moscow",
+              "locator": "Named Peter entry, repose paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-peter-mogila",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "1f4e6d84dc20f800abaa607421cdf4e933176b493aa5fac176ca4b11934ef817",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6a9007842286d8b83c8a476f83fa09d8194cfacc496faf3370e167d5e73735f7",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Opening paragraph on Polish permission, election and education"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "777d4fe682dd12ff08c410aac07314fef75c85492b39f49e11e2c6bcf0af97f7",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-calendar-peter-mogila",
+              "locator": "Saint Peter Mogila entry, family paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a1c3da5552834fa219e4430e6674d6761883a888a03b81d9184cb411452fdd8a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Paragraphs on the school, Latin educational methods and councils"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "95223b49eed386f976040a81e2c80c0e4da066cc582e58e8eb92c1b57ef73318",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Second paragraph on canonization; Romanian calendar entry supplies death and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "03da4b05051c7c322a4545b342cff3ca358627b42cd6da2dd4b8f7b4bc882cdf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-calendar-peter-mogila",
+              "locator": "Saint Peter Mogila entry, final biographical paragraphs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1bf16761454a87d01dbb01a27b08f89074931f65c07603d51da1dd1f4f5d0e6b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Second paragraph on the Confession and Latin influences"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3219de073cee873740f525dd4a48864aa1725b5143e093c56fdaa6bd2f2d8cc0",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Second paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "60839b4a35c959be0e0426da7171c17f505bfdaacd9fb06a26f6b673caf32454",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-history-peter-mogila",
+              "locator": "Second paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-flavian-constantinople",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "4f02a72fe4e3a335a99ba4465f7b60325a5dac4dba2fba4fc581a2636769cd49",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f658ac05485b4d99bd43b93fafdf93a6556b9ee354e5f8a59db3c00ac7e7c17d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Opening paragraphs on presbyteral service and succession"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "738a0e812fe46cbc4a0b401b88df7437ed0f84f5fed4616e6c632fbc9541f4e8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Paragraphs on448local council and449Ephesusassembly"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9b44ddf90e0fcc2f4415cbb0aee7f72663c5553827e07340e842e54ceb0f608b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Final paragraphs on beating, chains, exile and death"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "52f2e1e61cdd8bb33f7ab95fa411faefa522f110928cde61f7f092aadda2f53b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-context-flavian-constantinople",
+              "locator": "Opening reading paragraph on449"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a4bdd86abe9b9b21f0a4dcf65482dc84c003d95804627dd0df3c87fa43115c24",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Opening doctrinal context and final paragraph on transfer of relics"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f25e723dd6f9afa803528b19adf89108161d2a7e9adffe14a1c3d19f0c4de2cf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Paragraph on448council"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a96d3d2b3838f955bd81d4c5e9556c3ae3b64e964070d6cb5c09a9a2d6b55963",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-flavian-constantinople",
+              "locator": "Paragraphs on Ephesus and death"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "sl-pulcheria",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "a7024df35477ef5f23ad1eaf3cab08d1860c90758cff03dd84b769481b6b2e2f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Named Saint entry, identification and biographical overview"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b5bb3e2bf2c039e0799da72a91d88d41ccbfb761865c10084beea0d4b8a34885",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Opening paragraph on Arcadius, TheodosiusIIand education"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "06159c3f76b26dd9fe22b7048fc4118007b3d253b2380e9bc8d1d66cf5e99ff5",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Paragraphs on withdrawal, return and marriage to Marcian"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "dee2b1265869207a426789e6590eda805aa3008e0d4886705ad9699f038d8bcf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Final paragraph on almsgiving and repose"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a943d7deb312d9389eae37c734dc48da6b3dafdd14f228a0b6c9cc4e767059ca",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Paragraphs on Ephesus431,Chalcedon451andchurchpatronage"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "8045493d8ecd5595fecc3338a6453f81a5a2fc5bde6c2c53479d8436bca2604d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Paragraph on Ecumenical Councils"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "128cc49ceba347abc94990acb8fb3819da92fd487e457765ad39f3833c8f9e28",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Paragraph on Ecumenical Councils"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d9b46ec8442f6c631346c7688218171619404023b57917990a22ab1ea4291bfa",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-pulcheria",
+              "locator": "Final paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "conleth-kildare",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "39f0601a74a85d88fa26a218e7f0704c976567714f99fe1d6ec3feb936d4400d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-conleth",
+              "locator": "Opening biographical identification"
+            },
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "Named entry in the diocesan saints list"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "351ccb49eac9314c46c6cc6c07c02e56abd3b89ba87e7077cf8cc92fff930d46",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-conleth",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "40d00f2071c535a93268fef6091306dacf168ece4f8e0cf087abb53391b67325",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-conleth",
+              "locator": "Cogitosus narrative and genealogical description"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2e9bdab926882b185d1251d33cc210b40a5f08c1a1ffd48ddb30e10b4cffe4c4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-conleth",
+              "locator": "Martyrology legend and differing death records"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f22b185ce4f35519ffdb8442c83ff848840ed7ad7903360074c6673a8bb61906",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-conleth",
+              "locator": "Final paragraph on the relics"
+            },
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "St Conleth, first Bishop of Kildare"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "comgall-bangor",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "5ce7a3d994e78f13d3440f68f951ca53c26d6370cf8142a9efd530995b6e09c1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "67ed7ecbc3e4c4ca693a2d629382aec9e965916ab6f0ab3a38edb5408524011b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "95e7f521678b330087763ec6f6f5413f6ffcfc83240db798d919b689141e17e2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Lough Erne, foundation of Bangor and visit to Scotland"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9e66c6609c71eac0e4e9cb4a4a29b6d7d1b6f1636b7446c445fb3f97f686161b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Final paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0e77c6fb75913832957eb3fee440ec26c190283f2f7c5712aca33bca0eafd410",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Training of monks and ascetical stories"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1eef117fc1dd6ee953b6b24a59960cb8246e4aef2a3be57e3c46157dfc9d43ad",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Foundation of Bangor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "finnian-moville",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "6a35705a4adb9f3b92c3795c5f7d66bcb2cd09df86b40325236ff2ba7a1fd8cf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-finnian-moville",
+              "locator": "Opening biographical identification"
+            },
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "Named entry in the diocesan saints list"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "06d691b0ab9b320299154d82f5883a6435d8ed91c0c3c3f250734a1939d31c01",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-finnian-moville",
+              "locator": "Opening identification and competing accounts of origin"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "75c79629626948cb65a629f10bd28b35c1f5437467cc9405d0444f0d6d03e159",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-finnian-moville",
+              "locator": "Early testimonies and later Psalter legend"
+            },
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Opening paragraph naming Finnian and September 10"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "74e82c6685aa9ee2f11bdf3721540a55d52ca7a091c59d15aa5a1264ad29f3ad",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-finnian-moville",
+              "locator": "Opening death date and discussion of the surviving Life"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "69b42e615667ea954f18c1cf24e5a885cf8663e6be49bcf49a9ac924abdd9bae",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "St Finian, Abbot of Moville"
+            },
+            {
+              "sourceId": "sl-life-comgall-bangor",
+              "locator": "Opening paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "canice-aghaboe",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "dbf64911fec106a57e05675dee2009c946d9820a440475e37c998092960c84ee",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-canice-aghaboe",
+              "locator": "Opening biographical identification"
+            },
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "Named entry in the diocesan saints list"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "efd7d73aaf557102cf99c3360570d53ca1d086a66d5edb3d0c02b3bfab23bb22",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-canice-aghaboe",
+              "locator": "Opening identification and discussion of ancestry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3994a66841a801ab2922b1948b50c6b045647345a81fd43259775e483f11132a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-canice-aghaboe",
+              "locator": "Latin Life, foundations and relation to Iona"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c2f7fe66f93e16e084ca21257ebb5cf9046bfbe3ebed70900061cba924353b09",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-canice-aghaboe",
+              "locator": "Final paragraph on obituary dates and the martyrologies"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "22f6844e686d9bd21aa6ef317387ac2673a011bd52d1998c52ae3b23867e1fd2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "St Canice (Cainnech, Kenneth), Abbot of Aghaboe"
+            },
+            {
+              "sourceId": "sl-ref-canice-aghaboe",
+              "locator": "Distribution of the cult and church foundations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "mel-ardagh",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "d741d0ccdd37b9d3f81e3f743b267122ede3693a6fe829dd93bacba3158bedf1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-mel-ardagh",
+              "locator": "Opening biographical identification"
+            },
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "Named entry in the diocesan saints list"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c7f150e2513af71c200dfe46e37f0784eba8476548cc1eea010148f76a2d27a7",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-mel-ardagh",
+              "locator": "Opening paragraph and genealogical traditions"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "114ad0a1f008d49d70041d57354e7ad69e681338e4a05fa36e9e463f54df8d7c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-mel-ardagh",
+              "locator": "Tírechán, Tripartite Life and Brigidine hagiography"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "98bc8aa634630f121ef4023550842fbd7f3fe8bc32cd2903efcdafdf1eea559a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-ref-mel-ardagh",
+              "locator": "Final paragraph and discussion of miracle stories"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "bcee56c169df20646ee265c8b3fc80b1dcc6b33cec8af3845f12014a4525a541",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-rocor-british-saints-list",
+              "locator": "St Mel, associate of St Patrick, Bishop of Ardagh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "lawrence-rome",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "045c7bcd19c8a961620f89460cc145eddd3607824fc058a1b77fe835f9b4a5d2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-lawrence-rome",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ffa62e937d02f047e322ce37897e36418d86c0e2c88efc861c760455662cccb1",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-lawrence-rome",
+              "locator": "Opening identification and date"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "bda35ad938636b859cf57fc79db5698abe7a501513d7868dd9b4cb52adfe9d8c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-lawrence-rome",
+              "locator": "Distribution of treasures and presentation of the poor"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3797c9e116158811d2b7956adf9d0f52ec6e5c1d2d76670f738085545c02dcae",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-lawrence-rome",
+              "locator": "Trial, tortures and final execution"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "60b7675668020f9dfb55393bec65b8c5883b79fad171f6d5742bf8a094d789be",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-lawrence-rome",
+              "locator": "Burial and relics; commemoration heading"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "chrysogonus-aquileia",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "70454cb21a24c61573cf97dabef1c02dcea10952e72bd9c2869a408ef81ac3a9",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-chrysogonus-aquileia",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "e0a8ac1be20801b507299dbb8d2ee59cd9d50cb0ab0ec1d1ed16002cff07206e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-chrysogonus-aquileia",
+              "locator": "Opening identification of Anastasia’s teacher"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "68ec351ee4f28bbdb3ab5c40d77ace5856f4dfcfc1d0fac4212d3db74589b10c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-chrysogonus-aquileia",
+              "locator": "Secret correspondence and transfer to Aquileia"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "672ed429a0c32454d612819de79a833fd350a816020bbb9fa38ab136431ec900",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-chrysogonus-aquileia",
+              "locator": "Interrogation, beheading and recovery of relics"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6f663c713d159a03a54d64666e102478bb2a2c349a49c8db1e8c2fb64c61bad7",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-chrysogonus-aquileia",
+              "locator": "Published title and teacher narrative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "theodota-mother",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "035f204470aaecc257bcf8979a7dd3efd148cf185777e0c411d4bc4f843f6740",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-theodota-mother",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d9f203c83b75e92143121b408df8560af3d09e1fba19ecc72e5fae8d64fe8bbe",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-theodota-mother",
+              "locator": "Sole biographical paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a13ff253ff3eed1be59fd498499ed3cd842df2b171a21260be0e086ca7925d22",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-theodota-mother",
+              "locator": "Sole biographical paragraph"
+            },
+            {
+              "sourceId": "sl-goarch-theodota-family",
+              "locator": "Reading: upbringing and medical education"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "59ab679051ea763e57054a9e52f9fe63dbfad8541863083cccb97db05f7cf998",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-theodota-mother",
+              "locator": "Limits of the named mother’s short entry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a2d002d4a786d502f4453ad5a9cc632e10e287f92040f4124609df86658245f3",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-goarch-theodota-family",
+              "locator": "Title, date and Reading"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "dovmont-timothy-pskov",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "6c0970528741f52743cdc26baf139016572efb3f6cee5cc9669c1f8992c33baf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-dovmont-timothy-pskov",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f4dfacfc2b30895e2bc94264ad1f34cc2fff93a02e611a7731a5dfa197b70d01",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-dovmont-timothy-pskov",
+              "locator": "Opening two paragraphs"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0b5ca10cbe53e34bc35b406aa4c28c62b0053438944a6928f10f43792fde9477",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-dovmont-timothy-pskov",
+              "locator": "Justice and charity; public defense; reference to his wife"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "78345816e9f2e5219c20553419fd2bf62c1bc3ce5a3489a4262caa95f3452357",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-dovmont-timothy-pskov",
+              "locator": "Final battle and burial"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ada06602daf19c89efce0dc762d3e091bea9050e562ec09f58ac1ece38546f22",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-dovmont-timothy-pskov",
+              "locator": "Veneration, sword and commemoration heading"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "martha-pskov",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "63d2e3a8a83ef3552c16205c11e70a44c0424833f2379ecbec7857a4a64871f3",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-historic-martha-pskov",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "35073a4bb2c72928e6679cf226a04739655b654a3053111ac42ba3d4d08ff4f6",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-historic-martha-pskov",
+              "locator": "Opening identification and family relationships"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "24d0d2a4b948904e395c9fd7ea6a25b7844813b0550ee523d358d171e9f625d8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-historic-martha-pskov",
+              "locator": "Tonsure, monastery and title in the tomb inscription"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4beac58cbbb846fab65ee962b657ae3ff3df14f30e4b21fe1f478650cde88d70",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-historic-martha-pskov",
+              "locator": "Death year and recorded inscription"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6ffb4294a2555fae3bffe68cef010020d52b2b8abfbab6e8b5017e73d8e168b8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-dovmont-timothy-pskov",
+              "locator": "Paragraph naming the future Schemanun Martha and the Murozh icon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "adam-eve",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "fda46e1b7cf316cda55b1fed631fa2f54c53ec66f50220ad6f9580a09ab0b8a0",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-fathers-before-nativity",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "64b434e2d25008be9e8b9b6be9b8933056d7cac98346d5d39023bb3e9515102a",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 1:26–28; 2:7–25"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "607126e27b6f3a663540fe053584d5f61cfe556b8b145d83fb897d0e056a7f72",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 3:1–24"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4445b7318b295575fec6557fa77ec6bb9285ef450d84c9bcfccd887d2962eb16",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 5:1–5"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "5c5c1e93d5502c6a85fc4a2bb8201c846a1a8397171493f6a5e8d393c2fbfa8c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-fathers-before-nativity",
+              "locator": "Opening sentence identifying Adam and Eve"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0a40b089425494af9634c0a57b8f9fd9a5eea6431e2680b404c0a5b0a517e1b0",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Romans 5:12–21; 1 Corinthians 15:21–22,45–49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "noah-righteous",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "4570798b2b14d449e8ecc07d9898bc7148e0020fe51a91815f22f3c6c3bc6ef2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-noah-righteous",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f096db0da26dc41828d0f37b4e7f5f6d980f107a9ee4fa4a7f2cbe33239e27a7",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 6:5–22"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "5cb41d234cd04ad41594eb4767cfec4858875e1d9ddc45466abcc5974751a1bd",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 7–9"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "88d0d46dae6e5e9118e884423bb22b0d70f39516e051697be6c325c69ff1fba4",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Genesis 9:28–29"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "fea9d6b96e419ee8498610cb1bb43475798e0a7de0af1c747d79be1b97e8fe9e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-noah-righteous",
+              "locator": "Opening identification and interpretation of the ark"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "77e8bb6041184746489d5088b4f0c989f17e87b368b38cbe6da65ec73c9ed89d",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Peter 3:20–21; Hebrews 11:7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "solomon-king",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "bd91dd98cf34250a3600d936206f3e94a222035cf2b3c04aceab03b05a1867f2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-solomon-king",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1fcbbb692ab26b3137e3bacf6cee90292dec37073a10d64210e1112a6ff15e69",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Kings 1–3"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "d35798d5be7861f3aea82bf31be94d46cbb4985ba73180fa3f1ea39a42a02b11",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Kings 3:16–28; 6–8; 10–11"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3970a8d7567bb62db73b5d1806351ed50f433b26b4c128134712787b8f369254",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Kings 11:41–43"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "68829960ada4f75a2b612231097fafa842f8df35bfc77f608933be0e42881d81",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-solomon-king",
+              "locator": "Sole biographical paragraph and named Forefathers entry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2dcff13f28c34c3bf20c512760a4abbb2ec952cb4b4a6a4392c4c859a6b196cb",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Matthew 6:28–30; 12:42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "aaron-prophet",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "06e3c4cbc4e5175408cdea415fc8748a9a158f4246866b7d9ecb40996419f96c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-aaron-prophet",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "2f97edc3dbbb649b9485214c680218cefcdd9bcda338e2fe6150d77cb1c28613",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Exodus 4:10–16; 6:20; 7:1–7"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "ce7d8c565bf69b7a3252aa60d2190e813e1dca40bf411544cbafa05b3caab3a5",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Exodus 7; 17:8–13; 28:1–4; 32:1–24; Leviticus 8–9"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b37fbae5a6846538df1ea042b75f47147e5ad90a6fbf43b00beb69f0b80cee31",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Numbers 20:22–29; 33:38–39"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1394cfa7fcf0fba928ce22a57c6d2bd7ee290455cbb04eb97224e58a8912c80d",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-aaron-prophet",
+              "locator": "Opening identification and Exodus narrative"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "8f4d307fd577ddcaa1275f788fa425529c6197e156432db888eb0d4c4a3c7118",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Hebrews 5:1–10; 7:11–28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "nathan-prophet",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "123392b49beaf530fac9067eec36346afcbad66e5e331b30c182918181790410",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nathan-prophet",
+              "locator": "Opening identification / named commemoration"
+            },
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Kings 1:11–45"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f87546bbf5c188cfc6ae201b2812c07a10301cba38c907ae2160397a33bea7e2",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "2 Samuel 5:14; 7:1–17"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "c018d665b094c563d09b17c1f8d41fad621d64425ba4275fc637d2d5d5629e58",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "2 Samuel 11–12:15; 1 Kings 1:11–45"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b02550460bd268c121a74dcc847f180ad314c54ecb3dd8286d0610f5522e413a",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "2 Samuel 7; 12; 1 Kings 1"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a4b73a9af54a97029229828eeaa8db557d2edfcf0c6098f94e7f72709525e9db",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-nathan-prophet",
+              "locator": "Sole biographical paragraph"
+            },
+            {
+              "sourceId": "sl-fathers-before-nativity",
+              "locator": "Named holy prophets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "linus-rome",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "e5170740bef478187dc54c954cf7ddd182d1471325d7904c8469cd684c11ca64",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-linus-rome",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "624c5a3c7b8390cd2c67c371bc46ca3d929c47308adda4d3d92029c04e3decaa",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "2 Timothy 4:21"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "042697eb7335dac2aefd252f6e1de0c44b4bd712f3ae62f2add851a37739dee1",
+          "sourceRefs": [
+            {
+              "sourceId": "hq-irenaeus-original",
+              "locator": "Against Heresies III.3.3"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "85648f0888096bf6b2ca3acc6b0cc04ce6e4211b32e756b7b71c5c4cd87cf022",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-linus-rome",
+              "locator": "Individual notices; the Linus sentence is distinct from the martyrdom notice for Hermes"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "25e858c3a11cc3b22283959e5f9151da09547ef756fb39c7acf533fd96380dde",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-linus-rome",
+              "locator": "Title, commemoration heading and Linus notice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "paulinus-nola",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "d9818c4a8b0722d68447e7beee77f7e5de0eff7118f9fd5f0aa99c0eda0a2e82",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-paulinus-nola",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "818b680699fd5f221d460c5aebd72b9ae414d229d87e6c6eff459208e16cd4f8",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-paulinus-nola",
+              "locator": "Opening identification, public career and conversion"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b669b09c0c22a33896fe4c162eb533bb959337274399a9b7a0bddce38479037e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-paulinus-nola",
+              "locator": "Ordination, episcopate and received ransom narrative"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "21230d850586173c33f0e71bbcf151264f53646e8b22c6ed005b1bf230c945a3",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-paulinus-nola",
+              "locator": "Final biographical paragraph and commemoration heading"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a49dcb41550f27cecbcf4473d42b285f2ae12bdbd7f7af333aa69da21eb45e1f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-paulinus-nola",
+              "locator": "Final paragraph on poems, letters and church building"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "zosimas-palestine",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "4aa82bab0338b9ec770adc74531ab65ad35291e9a9321da91749fba759e27995",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-zosimas-palestine",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1debc6c99d4d0a271f4272e3cf3943802dfd8f450014a09a4bea0af2efd8e47a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-zosimas-palestine",
+              "locator": "Opening identification"
+            },
+            {
+              "sourceId": "hq-mary-egypt",
+              "locator": "Opening account of Zosimas and his change of monastery"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "94822445e07c00f52795fcd1a85448c524bb604cacf468f52260f1ed16cd78fc",
+          "sourceRefs": [
+            {
+              "sourceId": "hq-mary-egypt",
+              "locator": "Desert encounter, request for Communion and burial narrative"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6f3fb066eec5923ac1f99bd8c0509e316290396d44ff2ac704b2daa5854967b4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-zosimas-palestine",
+              "locator": "Final sentence"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0e7bdf842e82cd09277ad54ccd82586391c4ac3e8a37fb7b9148e8856a1dd3da",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-zosimas-palestine",
+              "locator": "Title, commemoration heading and identification"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "gabriel-archangel",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "97d4103e5e90ad1c236b7754bfc4722ab57e242cbb8e3d4cad75c38bb25dfdc0",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-gabriel-archangel",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9fa7b771283578b8dd1d750a6bbb93763f66b96d2a38fb2d014f3838f7893d21",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Daniel 8:15–19; 9:20–27"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "67abcc37dbf456b240abc0b2abce55f0f94d8bcbae57dcc522548ccf9481f501",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Luke 1:5–38"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6db22e43ebc6cdea4ac683f93c550f752ff80636fac1351219422c48b6651a30",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Daniel 8:16; Luke 1:19,26"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "12e0b64bc58a13a38977dba95e04f513ff812ff17015a6d5e86d03f6ead4e394",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-gabriel-archangel",
+              "locator": "Opening explanation and final paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "philip-deacon",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "5b043f1cefd33df1c3176095f138e4fd845da0b57335e7f0a94ee46acde8a26f",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philip-deacon",
+              "locator": "Opening identification / named commemoration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b2d726403624673742b1556e57005f563a62790545d2b67088bfe0f4db28f272",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Acts 6:1–6; 8:1–13"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a833821cf4819cb4e2446becdb64efad81bb2ce6f48a6bdea530cfb52332dddf",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Acts 8:26–40; 21:8–9"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "0b27b6707de78c514bbca611a2eb3b65f6b0a874f0cf10f551800e9dcdd47d36",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philip-deacon",
+              "locator": "Final paragraph on later ministry and death"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "fa6251ef144690052ddb7c507798f8f421a6f6588d690bf927020a9abae61cee",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-life-philip-deacon",
+              "locator": "Title, date and opening identity distinction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "dionysius-paris",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "e3858e842aa8b4bc67634867d6987d5fddb21988102e501cc9f8704e8ef8f26c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f1383a27d3ecfa02058703a6ee51c3b30c1737fd94d95f9c0368241c7827d536",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Opening paragraph; complete entry"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "f87c0d3ebced0a4cddcf2e319349d58dcb5eb4536c2c92051c4fb65634a261af",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Main biographical paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9774b7b3ac425345f997d5670677f6c2e016cb3f522bccc2f8a4039f92f3254b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Main biographical paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "98ea0481ff756aa35c30c5aa1ff935a725f18e35237208b241a1158206429602",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Commemoration heading; final paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "24e6bf6f443ef5832218485604ffb542e5035ee6ba01411700f00035ae3d9d60",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Main biographical paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "b5bc54b5fb7db1e3bcaa257fd189c65672ffaa52376ea9eb969edce95b56364a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-dionysius-paris",
+              "locator": "Main biographical paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "ninian-whithorn",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "e6d438a53054baae0986113163b4a911802f0c07887c73bd3928f552b9fd1edd",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ninian-whithorn",
+              "locator": "Biographical account"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "30f1d0436a1401f66d0d2dd0067bb0c5815fbcc735734113ad60815938cf18b4",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ninian-whithorn",
+              "locator": "Ninian the Enlightener of Scotland, opening biographical sentences"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4a3b5bf258e031ae1af92702bdff3fc8701f5bd2c9363737ea8cbf84049a093b",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ninian-whithorn",
+              "locator": "Ninian narrative: return, foundations, and preaching"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "96de1c3975e294d4ad3d9e6ee6736d6519984aa032d6baa74b6371d0a8f53f2e",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ninian-whithorn",
+              "locator": "Final sentence of Ninian life"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "accc62527318b826ce400cba7c84cb2d754b4af34c3d8e6f1b6ad7caaf2a35de",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-ninian-rocor-index",
+              "locator": "Entries 70 and 71, Ninian"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "3ef8216fb15cb3837a358f3f4515b8d0801351ef184ef43115b5573b3b0b19e2",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-life-ninian-whithorn",
+              "locator": "Opening sentence"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4bfbd6ed86111f8b7d0b7eb0515b41cae087a0269f9e4196653294f49c58fc50",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-ninian-rocor-index",
+              "locator": "Entries 70 and 71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "saintId": "cyril-lucaris",
+      "blocks": [
+        {
+          "kind": "summary",
+          "textSHA256": "4c124c2032b8dbf5118f4b2800c46c34489562293d7aba48c5af9787df82efcf",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-act",
+              "locator": "Biographical account"
+            },
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "2022 commemoration report and brief life history"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "8dc511c3733e9168a65ba1fb600a94887d3ce60f69a500dca34a9877c79992b3",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "Brief life history: birth, studies, and early service; preceding commemoration address"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "8c7264701f5d5f8934d57fad71eb45f92968aa90c34c296fe55f0a342ac5eb9c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "Brief life history: Alexandrian service, printing, and translation"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "1fbcc8faffadaf5ec54b3bf4db1b3cbadb2ca9352ab8719b61c4ec66ac181d6a",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-act",
+              "locator": "Main biographical paragraph and synodal declaration"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "9e737cde51b1c40463fd27b9dce8ced076af755e77f4da2d68e81be96e6ef6f6",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-act",
+              "locator": "Synodal declaration; closing date"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "5d5a6234000bf49f29db4c9849417f866c452e05cd9639b03e344423e3f5a855",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "Paragraph on the Ecumenical Patriarchate’s January 11, 2022 decision"
+            },
+            {
+              "sourceId": "sl-gap-cyril-lucaris-cyprus-2025",
+              "locator": "June 27, 2025 liturgy and commemoration of Saint Cyril Loukaris"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "a8ffacda79be6153023658e2eec9d38a6c66fe82ba0c6616fcfeac7375e894ca",
+          "sourceRefs": [
+            {
+              "sourceId": "ts-o-jerusalem",
+              "locator": "Acts, introductory argument, printed pages 16–17: first and third propositions; subsequent doctrinal rejection"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "4ba8f72c558a3a700e838871dea919278610be2e3ef05f08e6f7cda870321176",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "Brief life history, opening sentence"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "063ad214b6e284d2b06603029d369961f7d0a9850b4be49803ddb409cff1ae86",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "Commemoration report, opening paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "348d98fc624837c8c5a2203178abd6ed92771a64eca92782a61cf10f4787fc15",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-act",
+              "locator": "Main biographical paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "6ca779a243544a5f04eb0a0ec379ee4cf6502a3b19046744a93e8432080cd54c",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-act",
+              "locator": "Closing date"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "textSHA256": "cff99745c1db79ad80c3c58e5303a8eb9f6ecc3a8b454da2c671eba808bc0122",
+          "sourceRefs": [
+            {
+              "sourceId": "sl-gap-cyril-lucaris-honour-2022",
+              "locator": "Paragraph on the January 11 decision"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "researchEvidence": {
+    "new-profiles-audit.json": {
+      "retrieved": "2026-11-21",
+      "method": "Official OCA ecclesiastical biographies were retrieved with web browsing. Exact page titles, specific locators, supported facts, and caveats are recorded below. Calendar dates are raw ecclesiastical dates, not converted civil dates.",
+      "entries": [
+        {
+          "saintId": "sl-philaret-moscow",
+          "sourceId": "sl-life-philaret-moscow",
+          "url": "https://www.oca.org/saints/lives/2010/11/19/103337-repose-of-saint-philaret-drozdov-metropolitan-of-moscow",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "OCA title and commemoration label: November 19.",
+            "Birth and formation; consecration in 1817; metropolitan rank in 1826; catechism dated 1823; death November 19, 1867."
+          ],
+          "issuesOrOmissions": [
+            "OCA article gives glorification as 1995; other references give 1994. Glorification year omitted pending comparison with the Russian Church act.",
+            "Birth/death dates are retained as printed by the ecclesiastical source; no historical Julian-to-Gregorian conversion is asserted."
+          ],
+          "paraphraseWordCount": 159,
+          "modernSourceWordLimit": 200
+        },
+        {
+          "saintId": "sl-nikolai-zhicha",
+          "sourceId": "sl-life-nikolai-zhicha",
+          "url": "https://www.oca.org/saints/lives/2022/03/18/100825-repose-of-saint-nikolai-of-zhicha",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "OCA full ecclesiastical biography identifies the Serbian hierarch, 1881 birth, episcopate, wartime imprisonment, American ministry and 1956 death."
+          ],
+          "issuesOrOmissions": [
+            "OCA supplementary calendar gives March 18 and April 20 as ecclesiastical commemorations. These are calendar dates before the app’s selected-calendar civil conversion.",
+            "The source’s detailed wartime claims and education claims were not expanded beyond the facts needed for identification; academic degree details and liberation chronology omitted."
+          ],
+          "paraphraseWordCount": 168,
+          "modernSourceWordLimit": 200
+        },
+        {
+          "saintId": "sl-nikolai-zhicha",
+          "sourceId": "sl-nikolai-calendar",
+          "url": "https://www.oca.org/fs/st-nikolai-zhicha",
+          "retrieved": "2026-11-21",
+          "locator": "Biographical dates and Commemoration Dates",
+          "evidence": "OCA lists March 18 (repose), April 20 (translation of relics), and glorification May 19, 2003.",
+          "result": "Official calendar entry retrieved"
+        },
+        {
+          "saintId": "sl-makarios-corinth",
+          "sourceId": "sl-life-makarios-corinth",
+          "url": "https://www.oca.org/saints/lives/2026/04/17/101134-venerable-makarius-of-corinth",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "Heading: April 17.",
+            "Birth 1731, episcopal appointment 1764, Athos 1777, final Chios residence 1790–1805, death April 17, 1805, recovery of relics 1808."
+          ],
+          "issuesOrOmissions": [
+            "Reason for his replacement at Corinth is uncertain even in the source’s footnote; no definitive motive asserted.",
+            "The biography describes his connection with New Martyrs; it does not make Makarios himself a martyr."
+          ],
+          "paraphraseWordCount": 176,
+          "modernSourceWordLimit": 200
+        },
+        {
+          "saintId": "sl-nikodemos-hagiorite",
+          "sourceId": "sl-life-nikodemos-hagiorite",
+          "url": "https://www.oca.org/saints/lives/4465/07/14/102028-repose-of-venerable-nikodemos-the-hagiorite",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "Heading: July 14.",
+            "OCA biography identifies Naxos, 1748, Dionysiou, Philokalia collaboration, Great Schema 1783, publications, repose July 14, 1809, glorification 1955."
+          ],
+          "issuesOrOmissions": [
+            "Birth year 1748 follows OCA. Other reference traditions use 1749, so the date label identifies the source chronology.",
+            "A source sentence calls the seven Catholic Epistles Saint Paul’s; that apparent error is not repeated.",
+            "The source year 4465 appears only in the calendar route, not as a publication date or historical claim."
+          ],
+          "paraphraseWordCount": 167,
+          "modernSourceWordLimit": 200
+        },
+        {
+          "saintId": "sl-andrew-rublev",
+          "sourceId": "sl-life-andrew-rublev",
+          "url": "https://www.oca.org/saints/lives/2026/07/04/101893-venerable-andrew-rublev-the-iconographer",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "Heading: July 4.",
+            "Opening birth range, first chronicle mention 1405, Vladimir 1408, Trinity icon, death range 1427–1430 and Andronikov burial."
+          ],
+          "issuesOrOmissions": [
+            "OCA also says he was over seventy at death; this is not reconciled with its approximate birth/death ranges, so that age is omitted.",
+            "No plague cause or precise January death date asserted from unsourced reference lists."
+          ],
+          "paraphraseWordCount": 184,
+          "modernSourceWordLimit": 200
+        },
+        {
+          "saintId": "sl-alypius-kiev",
+          "sourceId": "sl-life-alypius-kiev",
+          "url": "https://www.oca.org/saints/all-lives/9999/08/17",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "The entry under August 17 is explicitly for Alypios the iconographer of the Kiev Near Caves, not Alypius of Tagaste or a modern Russian painter.",
+            "Greek teachers 1083, priest-monk, charity, traditional miracles, repose 1114, burial, September 28 and second Sunday of Great Lent."
+          ],
+          "issuesOrOmissions": [
+            "Miraculous details are explicitly attributed to the ecclesiastical life and not presented as independently documented historical events.",
+            "The URL’s year 9999 is an OCA calendar-route value; it is not the date of the events or a publication date."
+          ],
+          "paraphraseWordCount": 176,
+          "modernSourceWordLimit": 200
+        },
+        {
+          "saintId": "sl-constantine-great",
+          "sourceId": "sl-life-constantine-great",
+          "url": "https://www.oca.org/saints/lives/1953/05/21/101452-equal-of-the-apostles-and-emperor-constantine-with-his-mother-he",
+          "retrieved": "2026-11-21",
+          "result": "Official ecclesiastical source retrieved; name and fixed commemoration verified",
+          "evidence": [
+            "Heading: May 21; title Equal of the Apostles; son of Constantius and Helena, York accession 306, Milan 313, Council 325, Baptism and death 337."
+          ],
+          "issuesOrOmissions": [
+            "Precise birth year omitted because the ecclesiastical source gives 274 whereas historical references vary.",
+            "The source’s reported Cross vision retains explicit attribution; political actions do not make every action of his reign a doctrinal ruling.",
+            "No modern ecclesiastical worship directions are inferred from the narrative."
+          ],
+          "paraphraseWordCount": 184,
+          "modernSourceWordLimit": 200
+        }
+      ],
+      "validation": {
+        "saints": 7,
+        "profiles": 7,
+        "sources": 8,
+        "allIdsUnique": true,
+        "allProfileRefsPresent": true,
+        "allModernBiographyParaphrasesUnder200Words": true
+      },
+      "retrievalDetails": {
+        "primarySourceRetrieval": "OCA life text was read through web search results and/or direct page opens. Duplicate all-lives and individual-life routes are treated as one copyrighted work.",
+        "unavailableAttempts": [
+          "Philaret 2026 individual-life URL returned internal error; the indexed 2010 route supplied the full life.",
+          "Alypios individual-life route returned a cache miss; the indexed August17 all-lives entry supplied the full named life."
+        ],
+        "images": "File-specific Commons metadata, not category license claims, is recorded in new-image-candidates.json. Images were not installed or downloaded."
+      }
+    },
+    "byzantine-russian-audit.json": {
+      "retrieved": "2026-11-21",
+      "entries": [
+        {
+          "saintId": "sl-andrew-fool-christ",
+          "sourceIds": [
+            "sl-life-andrew-fool-christ"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/2018/10/02/102838-blessed-andrew-the-fool-for-christ-at-constantinople"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA title explicitly names the fool-for-Christ at Constantinople; feast October 2; Slav; traditional tenth century and death936; Blachernae vision and Protection feast."
+          ],
+          "issuesOrOmissions": [
+            "Chronology follows the liturgical biography; no independent historical certainty is claimed for the hagiographic episodes.",
+            "No imitation of this exceptional ascetic life is presented as a prayer rule or beginner instruction."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-andrew-fool-christ": 172
+          }
+        },
+        {
+          "saintId": "sl-barlaam-serpukhov",
+          "sourceIds": [
+            "sl-life-barlaam-serpukhov",
+            "sl-calendar-barlaam-serpukhov"
+          ],
+          "urls": [
+            "https://monasterium.ru/monastyri/prazdniki/den-pamyati-prepodobnogo-varlaama-serpukhovskogo/",
+            "https://www.oca.org/saints/lives/1951/05/05/100118-venerable-barlaam-of-serpukhov"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "Official Russian Synodal Department publication gives5/18May, unknown origins, Alexis relationship, founding narrative, peaceful May5,1377repose.",
+            "OCA calendar confirmsMay5 but supplies no biography."
+          ],
+          "issuesOrOmissions": [
+            "Dates in the late founding tradition have been questioned by ecclesiastical reference scholarship; this profile labels them traditional.",
+            "The story’s speculative journeys with Alexis and hypothetical monastic rules are not asserted as facts."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-barlaam-serpukhov": 167
+          }
+        },
+        {
+          "saintId": "sl-basil-ryazan",
+          "sourceIds": [
+            "sl-life-basil-ryazan"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/2026/07/03/101876-saint-basil-bishop-of-ryazan"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA title identifies Bishop of Ryazan; July3andJune10commemorations;1295repose;1609uncovering; Laurentian Chronicle; mantle miracle is tradition."
+          ],
+          "issuesOrOmissions": [
+            "Miraculous travel is explicitly attributed to the ecclesiastical life.",
+            "Not conflated with Basil of RyazanII or Basil of Ancyra."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-basil-ryazan": 171
+          }
+        },
+        {
+          "saintId": "sl-basil-elder",
+          "sourceIds": [
+            "sl-family-basil-elder",
+            "sl-calendar-basil-elder"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/2015/01/01/100003-saint-basil-the-great-archbishop-of-caesarea-in-cappadocia",
+            "https://antiochianprodsa.blob.core.windows.net/websiteattachments/St.%20Emilia%2C%20Mother%20of%20Sts.%20Basil%20and%20Gregory.pdf"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA biography of his son identifies the elder Basil as lawyer/rhetorician, father of ten and initial educator.",
+            "Antiochian-hosted sheet explicitly gives Saint title and Greek May30commemoration."
+          ],
+          "issuesOrOmissions": [
+            "The Antiochian sheet is a permitted republication from OrthodoxWiki; the official host confirms ecclesiastical reception, not a newly discovered ancient biography.",
+            "No birthdate, deathyear350, episcopal office, ordination, written treatise, or invented martyrdom added.",
+            "The Antiochian sheet’s January3phrase concerns Emilia and is not used to assign that feast to Basil the Elder."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-family-basil-elder": 160,
+            "sl-calendar-basil-elder": 24
+          }
+        },
+        {
+          "saintId": "sl-benedict-nursia",
+          "sourceIds": [
+            "sl-life-benedict-nursia"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/1952/03/14/100800-venerable-benedict-of-nursia"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA Orthodox calendarMarch14;480birth; Subiaco; communities; Monte Cassino; Rule;547repose and GregoryDialogues."
+          ],
+          "issuesOrOmissions": [
+            "No claim that he invented all Western monasticism; he was an influential organizer and Rule writer.",
+            "Later Roman Catholic observances are not substituted for the OrthodoxMarch14feast."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-benedict-nursia": 168
+          }
+        },
+        {
+          "saintId": "sl-sophronius-jerusalem",
+          "sourceIds": [
+            "sl-life-sophronius-jerusalem",
+            "sl-history-sophronius-jerusalem"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/20112022/03/11/100777-saint-sophronius-patriarch-of-jerusalem",
+            "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/seventh-century/monoenergism-monothelitism"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA Saint life: March11; Damascus c560; monastic travel; JohnMoschus; writings; Jerusalem siege.",
+            "OCA Church History: c560–638, patriarch634–638, anti-monoenergist633andanti-monotheliteposition."
+          ],
+          "issuesOrOmissions": [
+            "There is an internal OCA source discrepancy: the Saint life gives634–644, while Church History gives634–638. Dates here explicitly follow Church History.",
+            "The app does not present all traditional literary attributions as established modern authorship.",
+            "No claim that Sophronius attended the Sixth Council, which occurred after his death."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-sophronius-jerusalem": 157,
+            "sl-history-sophronius-jerusalem": 42
+          }
+        },
+        {
+          "saintId": "sl-peter-moscow",
+          "sourceIds": [
+            "sl-life-peter-moscow",
+            "sl-writings-peter-moscow"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/all-lives/2032/12/21",
+            "https://www.oca.org/saints/lives/2044/08/24/102384-translation-of-the-relics-of-saint-peter-metropolitan-of-moscow"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "Named OCA December21entry: Volhynia; monk; iconographer; Rata monastery; metropolitan;Moscow1325;death1326;veneration1339.",
+            "August24OCAentry: threeepistleswithpastoralthemes."
+          ],
+          "issuesOrOmissions": [
+            "The OCA life contains complicated chronology around his appointment; exact consecration year omitted.",
+            "Residence transfer is described in readable terms without claiming that the historical metropolitan title immediately became Moscow in every usage."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-peter-moscow": 164,
+            "sl-writings-peter-moscow": 30
+          }
+        },
+        {
+          "saintId": "sl-peter-mogila",
+          "sourceIds": [
+            "sl-history-peter-mogila",
+            "sl-calendar-peter-mogila"
+          ],
+          "urls": [
+            "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/seventeenth-century/saint-peter-mogila",
+            "https://basilica.ro/en/orthodox-calendar-december-22/"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA history explicitly titles him Saint Peter Mogila; school,1632selection,1640and1642councils, criticism of Latin influence and recognition by Churches.",
+            "Romanian Patriarchate agency gives December22calendar, Suceava family, death and Kiev Cavesburial."
+          ],
+          "issuesOrOmissions": [
+            "Commemoration follows the verified Romanian Patriarchate December22record. Other local Church calendars differ; the app must not claim a universally identical feast.",
+            "OCA and Romanian paragraphs partly overlap, so all biography paraphrase words are kept concise even across sources.",
+            "No role as an Ecumenical Council father is asserted."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-history-peter-mogila": 102,
+            "sl-calendar-peter-mogila": 55
+          },
+          "wholeAppBudgetRevision": {
+            "sourceUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/seventeenth-century/saint-peter-mogila",
+            "oldProfileWords": 167,
+            "newProfileWords": 102,
+            "wordsRemoved": 65,
+            "estimatedCombinedWords": 168,
+            "note": "Shortened this source-derived profile prose; no source references reassigned and Romanian calendar material unchanged. Existing app and timeline files were not changed.",
+            "existingTimelineWordsInferredFromRootTotal": 66,
+            "rootReportedPreviousCombinedWords": 233
+          }
+        },
+        {
+          "saintId": "sl-flavian-constantinople",
+          "sourceIds": [
+            "sl-life-flavian-constantinople",
+            "sl-context-flavian-constantinople"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/0202/02/18/100556-saint-flavian-the-confessor-patriarch-of-constantinople",
+            "https://www.goarch.org/chapel/saints?contentid=111&type=saints"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA Feb18SaintFlaviantheConfessor; formerpresbyter;448council;449Ephesusbeating;Augustdeath; relicsreturnunderPulcheria.",
+            "GOARCH life of Anatolios explicitly says Flavian died from the beatings."
+          ],
+          "issuesOrOmissions": [
+            "Death is classified as martyrdom-related violence on the explicit GOARCH account while preserving the OCA title Confessor.",
+            "Greek calendars also commemorate himFebruary16; this profile’s main feast followsOCAFebruary18.",
+            "Not confused with Flavian of Antioch."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-flavian-constantinople": 181,
+            "sl-context-flavian-constantinople": 18
+          }
+        },
+        {
+          "saintId": "sl-pulcheria",
+          "sourceIds": [
+            "sl-life-pulcheria"
+          ],
+          "urls": [
+            "https://www.oca.org/saints/lives/4463/09/10/102566-right-believing-pulcheria-byzantine-empress"
+          ],
+          "retrieved": "2026-11-21",
+          "result": "Named Orthodox Saint and ecclesiastical commemoration verified in the sources",
+          "supportedEvidence": [
+            "OCA titleRightBelieving;September10;Arcadiusdaughter;Theodosiuscoregent;Marcianmarriage;Ephesus431andChalcedon451;peacefuldeath453age54."
+          ],
+          "issuesOrOmissions": [
+            "No precise birth date asserted; the source gives age54in453.",
+            "Descriptions of court intrigue and virgin marriage follow the ecclesiastical life.",
+            "No imperial authority to define doctrine independently of the councils is implied."
+          ],
+          "paraphraseWordsBySource": {
+            "sl-life-pulcheria": 171
+          }
+        }
+      ],
+      "validation": {
+        "saints": 10,
+        "profiles": 10,
+        "sources": 16,
+        "uniqueIds": true,
+        "noExistingIdDuplicates": true,
+        "allParaphraseSourcesUnder200Words": true,
+        "wordCountsBySource": {
+          "sl-life-andrew-fool-christ": 172,
+          "sl-life-barlaam-serpukhov": 167,
+          "sl-life-basil-ryazan": 171,
+          "sl-family-basil-elder": 160,
+          "sl-calendar-basil-elder": 24,
+          "sl-life-benedict-nursia": 168,
+          "sl-life-sophronius-jerusalem": 157,
+          "sl-history-sophronius-jerusalem": 42,
+          "sl-life-peter-moscow": 164,
+          "sl-writings-peter-moscow": 30,
+          "sl-history-peter-mogila": 102,
+          "sl-calendar-peter-mogila": 55,
+          "sl-life-flavian-constantinople": 181,
+          "sl-context-flavian-constantinople": 18,
+          "sl-life-pulcheria": 171
+        }
+      },
+      "retrievalDetails": {
+        "primarySourceRetrieval": "Official page text was read through web search results and/or direct opens. OCA, Russian Synodal Department, Romanian Patriarchate, GOARCH and the Antiochian-hosted PDF are identified separately.",
+        "unavailableAttempts": [
+          "Pulcheria individual-life direct open returned cache miss; the indexed official page supplied its named biography and September10commemoration."
+        ],
+        "calendarScope": "Mogila December22is explicitly the Romanian Patriarchate record; Basil Elder May30is explicitly a Greek-calendar commemoration in the Antiochian-hosted sheet."
+      }
+    },
+    "source-budget-corrections.json": {
+      "scope": "Corrections to new research packets only. Original app content, old source text, and old profiles were not modified.",
+      "checks": [
+        {
+          "sourceUrl": "https://www.oca.org/saints/lives/2026/07/19/102055-venerable-macrina-sister-of-saint-basil-the-great",
+          "sourceId": "sl-gap-emilia-macrina-life",
+          "newBodyWords": 18,
+          "oldBodyWordsReportedByRoot": 160,
+          "estimatedCombinedBodyWords": 178,
+          "maximumNewWords": 35,
+          "change": "Shortened only new Emilia life, death and chronology text. Her summary now uses only family facts actually present in the separate January 1 Emilia source."
+        },
+        {
+          "sourceUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/seventeenth-century/cyril-lukaris",
+          "sourceId": "ts-o-oca-lucaris",
+          "newBodyWords": 0,
+          "oldBodyWordsReportedByRoot": 197,
+          "estimatedCombinedBodyWords": 197,
+          "change": "Removed newly derived OCA wording and source reference from Cyril profile and summary. Replaced controversy text with a fresh concise account of the independently checked public-domain Synod of Jerusalem text."
+        },
+        {
+          "sourceId": "ts-o-jerusalem",
+          "newBodyWords": 27,
+          "verifiedEvidenceFile": "work/timeline/evidence/orthodox/jerusalem.txt",
+          "verifiedLocator": "Printed pages 16–17, introductory first and third propositions; evidence lines 787–817",
+          "verifiedFacts": [
+            "The Synod did not admit the chapters to be Cyril’s composition.",
+            "The Synod distinguished the confession from the Eastern Church’s faith."
+          ],
+          "change": "The new paragraph states the Synod’s position and directs readers to the existing timeline for the historical dispute; it does not settle authorship."
+        }
+      ]
+    }
+  },
+  "identityLimits": {
+    "scope": "Named saint audit outside lesson-explanations editorial layer; content payloads, not all Bible verses. Includes exact paths and source contexts. Original quotations and source/institution titles must remain intact.",
+    "unresolved": [
+      {
+        "name": "Doulough",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Doulough",
+            "path": "saints-additions.json.profiles[65].sections[1].blocks[1].text",
+            "sourceId": "sx-c-wace",
+            "context": " anchorite, and raised his cell to avoid the honours paid to him (cf. Reeves on church of St. Doulough, pp. 8-11, with Evagr. H. E. i. 21). The fashion rapidly spread even to the sects, as we learn from Joannes Moschus (Prat. Spirit. cxxix.; ",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-c-wace",
+                "locator": "Entry Simeon Stylites, paragraphs 1; anchor s-p181.2"
+              }
+            ],
+            "sourceUrl": "https://ccel.org/w/wace/biodict/cache/biodict.html3",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Only church-name citation in a historical study of stylites; no devotional biographical reference. Preserve citation as written."
+      },
+      {
+        "name": "Morienna",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Morienna",
+            "path": "saints-biographies.json.profiles[52].sections[3].blocks[1].text",
+            "sourceId": "sb-b-ce-brigid",
+            "context": "s of Queen Meave (Medhbh), was the scene of her birth; and Faughart Church was founded by St. Morienna in honour of St. Brigid. The old well of St. Brigid's adjoining the ruined church is of the most venerable antiquity, and still attracts pi",
+            "sourceRefs": [
+              {
+                "sourceId": "sb-b-ce-brigid",
+                "locator": "Article ‘St. Brigid of Ireland’; paragraph beginning ‘Viewing the biography of St. Brigid from a critical standpoint we must’; bounded selection"
+              }
+            ],
+            "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Brigid_of_Ireland",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Only a church-foundation claim in quoted Brigid biography. Do not silently change to Monenna or Morwenna; identity not established."
+      },
+      {
+        "name": "Severinus",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Severinus and Juliana",
+            "path": "saints-additions.json.profiles[26].sections[1].blocks[1].text",
+            "sourceId": "sx-c-ce-juliana",
+            "context": "nctuaria, that is to say, objects which had been brought into contact with the graves) of Sts. Severinus and Juliana. Gregory wrote to Fortunatus, Bishop of Naples, telling him to accede to the wishes of Januaria (\"Gregorii Magni epist.\", lib. IX, ep. xxxv",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-c-ce-juliana",
+                "locator": "Historical encyclopedia body paragraph beginning Suffered martyrdom during the Diocletian persecution. Both the Latin and Greek Churches mention a ho"
+              }
+            ],
+            "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Juliana",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Quoted report of Neapolitan relics; bare name does not establish Severinus of Noricum rather than another saint."
+      },
+      {
+        "name": "Juliana of Cumae",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Juliana of Cumae",
+            "path": "saints-additions.json.profiles[26].sections[1].blocks[1].text",
+            "sourceId": "sx-c-ce-juliana",
+            "context": "ranslation that caused the martyred Juliana, honoured in Nicomedia, to be identified with St. Juliana of Cumae, although they are quite distinct persons. The veneration of St. Juliana of Cumae became very widespread, especially in the Netherlands. At",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-c-ce-juliana",
+                "locator": "Historical encyclopedia body paragraph beginning Suffered martyrdom during the Diocletian persecution. Both the Latin and Greek Churches mention a ho"
+              }
+            ],
+            "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Juliana",
+            "contextType": "verbatim-quotation"
+          },
+          {
+            "name": "Juliana of Cumae",
+            "path": "saints-additions.json.profiles[26].sections[1].blocks[1].text",
+            "sourceId": "sx-c-ce-juliana",
+            "context": "ed with St. Juliana of Cumae, although they are quite distinct persons. The veneration of St. Juliana of Cumae became very widespread, especially in the Netherlands. At the beginning of the thirteenth century her remains were transferred to Naples. T",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-c-ce-juliana",
+                "locator": "Historical encyclopedia body paragraph beginning Suffered martyrdom during the Diocletian persecution. Both the Latin and Greek Churches mention a ho"
+              }
+            ],
+            "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Juliana",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Quoted source explicitly distinguishes her from Juliana of Nicomedia. Never alias to existing juliana-nicomedia."
+      },
+      {
+        "name": "Passarion",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Passarion",
+            "path": "saints-additions.json.profiles[51].sections[0].blocks[0].text",
+            "sourceId": "sx-a-wace1911",
+            "context": "t 18 went a pilgrimage to the holy places at Jerusalem, where he entered the monastery of St. Passarion. At 30 he established himself as an anchorite in a cavern in the desert. Several persons joining him, he laid the foundations of his monast",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-a-wace1911",
+                "locator": "Article Sabas,opening life and foundation"
+              }
+            ],
+            "sourceUrl": "https://ccel.org/w/wace/biodict/cache/biodict.html3",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Only monastery name inside quoted Sabbas background. Do not infer a particular founder or saint from the institution title."
+      },
+      {
+        "name": "Sixtus III",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Sixtus III",
+            "path": "saints-biographies.json.profiles[31].sections[2].blocks[0].text",
+            "sourceId": "sb-b-ce-cyril-alexandria",
+            "context": "Meanwhile Pope Celestine was dead. His successor, St. Sixtus III, confirmed the council and attempted to get John of Antioch to anathematize Nestorius. For some time the strongest opponent of Cyril was Th",
+            "sourceRefs": [
+              {
+                "sourceId": "sb-b-ce-cyril-alexandria",
+                "locator": "Article ‘St. Cyril of Alexandria’; paragraph beginning ‘Meanwhile Pope Celestine was dead. His successor, St. Sixtus III, conf’; bounded selection"
+              }
+            ],
+            "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Cyril_of_Alexandria",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Source-title/quoted historical reference. OCA Leo life calls him holy Pope Sixtus III, so he is not a Catholic-only exclusion; separate recognition/commemoration evidence still needed for a dedicated full profile."
+      },
+      {
+        "name": "Pancratius",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Pancratius",
+            "path": "saints-additions.json.profiles[31].sections[3].blocks[0].text",
+            "sourceId": "sx-b-pd-sophia",
+            "context": "on the Aurelian Way, where their tomb in a crypt beneath the church afterwards erected to St. Pancratius was long a place of resort for pilgrims, as we learn from various indubitable documents of the seventh century, such as an Itinerarium (or ",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-b-pd-sophia",
+                "locator": "Sts. Faith, Hope and Charity, main article; modern site navigation and footer excluded"
+              }
+            ],
+            "sourceUrl": "https://www.newadvent.org/cathen/05766a.htm",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Church dedicated to Pancratius on the Aurelian Way in historical quotation; likely Roman martyr, not Pancratius of Taormina. Verify before any person-level automatic alias."
+      },
+      {
+        "name": "Callistus",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Callistus",
+            "path": "saints-additions.json.profiles[31].sections[3].blocks[0].text",
+            "sourceId": "sx-b-pd-sophia",
+            "context": " Charity), suffered death and were buried near the tomb of St. Cecilia in the cemetery of St. Callistus on the Appian Way. Despite the meagreness of these authentic details, the explicit references in the documents cited to a band of martyrs, ",
+            "sourceRefs": [
+              {
+                "sourceId": "sx-b-pd-sophia",
+                "locator": "Sts. Faith, Hope and Charity, main article; modern site navigation and footer excluded"
+              }
+            ],
+            "sourceUrl": "https://www.newadvent.org/cathen/05766a.htm",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "Cemetery name only in a quoted historical article. Leave institution name unchanged; do not infer the saint solely from cemetery title."
+      },
+      {
+        "name": "Cyprian",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Cyprian",
+            "path": "saints-biographies.json.profiles[28].sections[1].blocks[0].text",
+            "sourceId": "sb-b-ce-gregory-theologian",
+            "context": "tle of Theologus or the Divine. He also delivered at this time the eloquent panegyrics on St. Cyprian, St. Athanasius, and the Machabees, which are among his finest oratorical works.",
+            "sourceRefs": [
+              {
+                "sourceId": "sb-b-ce-gregory-theologian",
+                "locator": "Article ‘St. Gregory of Nazianzus’; paragraph beginning ‘Three weeks after Basil's death, Theodosius was advanced by the Empero’; bounded selection"
+              }
+            ],
+            "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/St._Gregory_of_Nazianzus",
+            "contextType": "verbatim-quotation"
+          }
+        ],
+        "auditNote": "A panegyric attributed to Gregory the Theologian; its literary tradition can conflate Cyprian of Carthage and the magician-martyr of Antioch. Do not resolve from a bare name."
+      },
+      {
+        "name": "Demetrius of Protat",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Demetrius of Protat",
+            "path": "icon-library.json.sources[193].title",
+            "sourceId": "ix-b-art-saint-demetrius",
+            "context": "Saint Demetrius of Protat.JPG — artwork record",
+            "sourceRefs": [],
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Demetrius_of_Protat.JPG",
+            "contextType": "source-metadata"
+          }
+        ],
+        "auditNote": "Artwork filename only; location Protat/Protaton does not create a different saint. Inspect icon inscription and current relatedSaintIds before linking."
+      },
+      {
+        "name": "Mamas",
+        "existingSaintId": null,
+        "occurrences": [
+          {
+            "name": "Mamas",
+            "path": "saints-biographies.json.profiles[47].sections[1].blocks[0].text",
+            "sourceId": "sb-b-vatican-symeon",
+            "context": "The biographical address distinguishes the Studite monastery, his move to Saint Mamas, and his eventual leadership there. It connects difficulties at the Studion with his unusual devotion to his elder and his mystical experie",
+            "sourceRefs": [
+              {
+                "sourceId": "sb-b-vatican-symeon",
+                "locator": "Biographical reading / named life section"
+              }
+            ],
+            "sourceUrl": "https://www.vatican.va/content/benedict-xvi/en/audiences/2009/documents/hf_ben-xvi_aud_20090916.html",
+            "contextType": "editorial-or-summary-content"
+          },
+          {
+            "name": "Mamas",
+            "path": "saints-biographies.json.profiles[47].sections[1].blocks[1].text",
+            "sourceId": "sa-life-symeon-new-theologian",
+            "context": "At Saint Mamas, Symeon’s reform met resistance and an attack by some monks; the Life says he sought leniency for them. He later resigned the abbacy to wri",
+            "sourceRefs": [
+              {
+                "sourceId": "sa-life-symeon-new-theologian",
+                "locator": "Published life; biographical narrative and concluding account"
+              }
+            ],
+            "sourceUrl": "https://www.oca.org/saints/lives/2026/03/12/100790-venerable-simeon-the-new-theologian",
+            "contextType": "editorial-or-summary-content"
+          }
+        ],
+        "auditNote": "Monastery name in Symeon New Theologian biography. Institution reference alone does not identify a new biographical subject."
+      }
+    ],
+    "exclusions": [
+      {
+        "name": "Pope Gregory VII",
+        "reason": "Post-schism Roman pope; not to be given an Orthodox Saint title automatically."
+      },
+      {
+        "name": "John Paul II",
+        "reason": "Roman Catholic pope; Vatican authorship/source title does not establish Orthodox sainthood."
+      },
+      {
+        "name": "Origen",
+        "reason": "Ancient Christian author, not to be titled Saint in this app."
+      },
+      {
+        "name": "Tertullian",
+        "reason": "Ancient Christian author, not to be titled Saint in this app."
+      },
+      {
+        "name": "Living clergy",
+        "reason": "Do not add Saint to Fathers Josiah Trenham, Thomas Hopko, Kallistos Ware or other authors merely because they teach Orthodox material; even deceased clergy require verified Church recognition."
+      },
+      {
+        "name": "Saint Petersburg",
+        "reason": "Geographical place-name, not a personal saint reference."
+      },
+      {
+        "name": "Saint Sophia Cathedral",
+        "reason": "In this context Holy Wisdom, not automatically the martyr Sophia and her daughters."
+      },
+      {
+        "name": "Saint John Lateran / Saint Mary Major",
+        "reason": "Names of Roman basilicas; preserve institution titles, and never replace Mary Mother of God with a different Mary."
+      },
+      {
+        "name": "Christ and the Theotokos",
+        "reason": "Preserve Christ’s proper titles and Mary’s Theotokos / Mother of God / Ever-Virgin titles. Do not mechanically prepend Saint to these titles."
+      }
+    ],
+    "cassianInterlocutors": "The historical abbots Moses, Isaac, Paphnutius and Serapion remain unlinked where the cited text does not establish the required saintly identity. They are not matched to a familiar namesake."
+  }
+}

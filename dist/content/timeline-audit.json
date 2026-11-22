@@ -1,0 +1,554 @@
+{
+  "version": "history-2026-11-20",
+  "events": 108,
+  "keyEvents": 42,
+  "sources": 140,
+  "branches": 25,
+  "connections": 30,
+  "bookNotes": 5,
+  "exactChecks": 60,
+  "matchedChecks": 60,
+  "checks": [
+    {
+      "key": "to-pentecost/reading/0",
+      "sourceId": "ts-o-ebible-acts2",
+      "locator": "Acts 2:42–47 (KJV)",
+      "textSHA256": "99ed999f5d64bfa859b77926c9700d405adfb8ee97c18609749a99de58799dea",
+      "evidenceFile": "timeline/evidence/orthodox/ebible-acts2.txt",
+      "evidenceSHA256": "8362e33be61295af8835ec52724ee8fe5da6a1d3507a8c21290423ddbe331bee",
+      "match": true
+    },
+    {
+      "key": "to-jerusalem-apostolic/reading/0",
+      "sourceId": "ts-o-ebible-acts15",
+      "locator": "Acts 15:28–29 (KJV)",
+      "textSHA256": "732aa3a03100ed313f1c3e0cae1045bf839045a1f834b6e4da35b32fbc1df42e",
+      "evidenceFile": "timeline/evidence/orthodox/ebible-acts15.txt",
+      "evidenceSHA256": "7ce8c22707e4cae84d4d5421769bdfdd13106b2b217fee89306ef5cda389474b",
+      "match": true
+    },
+    {
+      "key": "to-ignatius/reading/0",
+      "sourceId": "ts-o-ignatius",
+      "locator": "Epistle to the Smyrnaeans, chapter 8",
+      "textSHA256": "121fac3ffd5a357d79f32a72df3a2cd63c22dbceb141264cbe4fc1e7f46e1547",
+      "evidenceFile": "timeline/evidence/orthodox/ignatius.txt",
+      "evidenceSHA256": "ae975b3dceeba487cf10ad57ce9adae1e0f880822de0a4d43e0a104ce2b80064",
+      "match": true
+    },
+    {
+      "key": "to-irenaeus/reading/0",
+      "sourceId": "ts-o-irenaeus",
+      "locator": "Against Heresies III.3.1",
+      "textSHA256": "e793da9a08b26f66c8fe288cb42f3e6c15fb81771101592aa47967453d0348a3",
+      "evidenceFile": "timeline/evidence/orthodox/irenaeus.txt",
+      "evidenceSHA256": "21a413ee98956147bc63bac6f07eacf2e4e018522de4aafb3d18a4392c24f895",
+      "match": true
+    },
+    {
+      "key": "to-nicaea-325/reading/0",
+      "sourceId": "ts-o-nicaea1",
+      "locator": "The Creed",
+      "textSHA256": "28537f111772335db0825205e259c49ebc3f37b3c4aa68537b60142868f4dc6d",
+      "evidenceFile": "timeline/evidence/orthodox/nicaea1.txt",
+      "evidenceSHA256": "7bb06792f538c7c5ec0b7d747d77028ba10127558ee233b8ea30a13b7d0ea52b",
+      "match": true
+    },
+    {
+      "key": "to-athanasius-367/reading/0",
+      "sourceId": "ts-o-festal",
+      "locator": "Festal Letter 39, section 5",
+      "textSHA256": "4f6a07042092d98548c6b19b41e3662aaa82e7d751b025209f521abf54024361",
+      "evidenceFile": "timeline/evidence/orthodox/festal.txt",
+      "evidenceSHA256": "cd3dd7941a7542c2a4aec5d48cb853699262f3bb5dd18a3a008330bca3e3091b",
+      "match": true
+    },
+    {
+      "key": "to-constantinople-381/reading/0",
+      "sourceId": "ts-o-constantinople1",
+      "locator": "Creed received as Nicene–Constantinopolitan",
+      "textSHA256": "e2199668bf069594f8d6149fb3d91e01095caea554441dcd625e114a6e04e989",
+      "evidenceFile": "timeline/evidence/orthodox/constantinople1.txt",
+      "evidenceSHA256": "c2a3cbe619d8451beec7e20d9e415db0cf05521dc9579f22b00ef9e2788744c6",
+      "match": true
+    },
+    {
+      "key": "to-ephesus-431/reading/0",
+      "sourceId": "ts-o-ephesus",
+      "locator": "Cyril’s second letter to Nestorius, read and approved at the council",
+      "textSHA256": "68e88317841db1d12725d2acb86bc7550fa62b8e92026c7b8d38e24d01c3ace0",
+      "evidenceFile": "timeline/evidence/orthodox/ephesus.txt",
+      "evidenceSHA256": "01fe9d05e4653c3db34551f6c1804afb6e3799a908d0391d3116390644f2bf39",
+      "match": true
+    },
+    {
+      "key": "to-chalcedon-451/reading/0",
+      "sourceId": "ts-o-chalcedon",
+      "locator": "Definition of Faith",
+      "textSHA256": "753c9412e338e95cac20469f72bbdb5339cdbf254f2c7680d43efa12a6897a8d",
+      "evidenceFile": "timeline/evidence/orthodox/chalcedon.txt",
+      "evidenceSHA256": "7deed14210179a6a346e472a68a84e5224125b32d424381d1c55a706e41d4b1c",
+      "match": true
+    },
+    {
+      "key": "to-constantinople-553/reading/0",
+      "sourceId": "ts-o-constantinople2",
+      "locator": "Capitula, 10",
+      "textSHA256": "2bdb1afe3d1b78583bf12d5df7bd842c9e98eda3dcdb8c71acccedf6479bcdeb",
+      "evidenceFile": "timeline/evidence/orthodox/constantinople2.txt",
+      "evidenceSHA256": "8fcc14698a58bba8ab2166f62e4b2b55cb7f61e666a689de1dfa9ba11c4349bd",
+      "match": true
+    },
+    {
+      "key": "to-constantinople-553/reading/1",
+      "sourceId": "ts-o-constantinople2",
+      "locator": "Capitula, 3",
+      "textSHA256": "fd8c5e56f2b7e5db665a27b982c69a64bc7467c41b2d811dc21fcf21ca067ce9",
+      "evidenceFile": "timeline/evidence/orthodox/constantinople2.txt",
+      "evidenceSHA256": "8fcc14698a58bba8ab2166f62e4b2b55cb7f61e666a689de1dfa9ba11c4349bd",
+      "match": true
+    },
+    {
+      "key": "to-constantinople-681/reading/0",
+      "sourceId": "ts-o-constantinople3",
+      "locator": "Definition of Faith",
+      "textSHA256": "959e64bdbc79dbba7c40bdad42d7a4fad677e955bc30c3ff8c2f0b986472c861",
+      "evidenceFile": "timeline/evidence/orthodox/constantinople3.txt",
+      "evidenceSHA256": "ee1687b069bf904919a2406dddd6f1acf011fd610ef185e6104da19863d16b9b",
+      "match": true
+    },
+    {
+      "key": "to-trullo-692/reading/0",
+      "sourceId": "ts-o-trullo",
+      "locator": "Canon 1, opening paragraph",
+      "textSHA256": "aad32cb84deba92479c4ab2526aa9b67448d875e6d9f94a9de40a155a0648bd8",
+      "evidenceFile": "timeline/evidence/orthodox/trullo.txt",
+      "evidenceSHA256": "160186e355869869636115aad8f36d32c65348ccf0436b344ace2e8193926096",
+      "match": true
+    },
+    {
+      "key": "to-nicaea-787/reading/0",
+      "sourceId": "ts-o-nicaea2",
+      "locator": "Definition of Faith",
+      "textSHA256": "42a182af0470f7886e4db07c5657c2413e75e8cb0f4c74eb78c7ccf084c8ab10",
+      "evidenceFile": "timeline/evidence/orthodox/nicaea2.txt",
+      "evidenceSHA256": "378fa3ad19b1e7ae55320c005f0844d0c9eb90f34f5f190a7e8e3a688c2edebd",
+      "match": true
+    },
+    {
+      "key": "tw-filioque-rome/reading/1",
+      "sourceId": "ts-w-filioque-catechism",
+      "locator": "Catechism §247",
+      "textSHA256": "21ff1bf20f59b8d0b501a23e9778e18ea33b156a3f9013661b28de7295498bb6",
+      "evidenceFile": "timeline/evidence/west-book/filioque-catechism.txt",
+      "evidenceSHA256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834",
+      "match": true
+    },
+    {
+      "key": "tw-dictatus/reading/0",
+      "sourceId": "ts-w-dictatus",
+      "locator": "Propositions 1–3",
+      "textSHA256": "0883e095e2988b5c73f45113edc9baed88f0577ec3874455d9c6d053951055a3",
+      "evidenceFile": "timeline/evidence/west-book/dictatus.txt",
+      "evidenceSHA256": "acb87b40db420e3a3d7551939f401948bd8f15395c564869ddd5eb16c19f17df",
+      "match": true
+    },
+    {
+      "key": "tw-dictatus/reading/1",
+      "sourceId": "ts-w-dictatus",
+      "locator": "Proposition 12",
+      "textSHA256": "0649901f9a786b3ad3ab6af9b1f2138e655a1443529a0e168f9e41e3086710be",
+      "evidenceFile": "timeline/evidence/west-book/dictatus.txt",
+      "evidenceSHA256": "acb87b40db420e3a3d7551939f401948bd8f15395c564869ddd5eb16c19f17df",
+      "match": true
+    },
+    {
+      "key": "tw-dictatus/reading/2",
+      "sourceId": "ts-w-dictatus",
+      "locator": "Proposition 19",
+      "textSHA256": "a7b77d5eb2a40a3b90108c404daec62cfda7561a186dcfcb592c68bb8f526621",
+      "evidenceFile": "timeline/evidence/west-book/dictatus.txt",
+      "evidenceSHA256": "acb87b40db420e3a3d7551939f401948bd8f15395c564869ddd5eb16c19f17df",
+      "match": true
+    },
+    {
+      "key": "tw-worms/reading/0",
+      "sourceId": "ts-w-worms",
+      "locator": "Imperial privilege",
+      "textSHA256": "d158faa816a41fbf4a15ac0f7b1a3b2f4644838ad361fe2c377390f6299c8dae",
+      "evidenceFile": "timeline/evidence/west-book/worms.txt",
+      "evidenceSHA256": "6d420270550ffa0ab8b654ca9c2382860981953c1c1d7bd4cddba07c1612f527",
+      "match": true
+    },
+    {
+      "key": "tw-lateran1215/reading/0",
+      "sourceId": "ts-w-lateran4",
+      "locator": "Constitution 1",
+      "textSHA256": "04c7ac480a85c07dcf65d4feb3b500282b580ca6ae96aaf6628bc6da80ec5e61",
+      "evidenceFile": "timeline/evidence/west-book/lateran4.txt",
+      "evidenceSHA256": "06edb7f58c9606a095faa742deb0c4d7bd167f61953302023d471340f8209147",
+      "match": true
+    },
+    {
+      "key": "tw-aquinas-summa/reading/0",
+      "sourceId": "ts-w-summa",
+      "locator": "I, q.1, a.1, response",
+      "textSHA256": "a690ac1cb5168a46617467d40dfcfd7e010602d0edbdae2b6eb83155bd060680",
+      "evidenceFile": "timeline/evidence/west-book/summa.txt",
+      "evidenceSHA256": "b3732e0ef8cdadc4cd23a3cd4c6c83645e875b4b9f1d262992ba576b691425e8",
+      "match": true
+    },
+    {
+      "key": "tw-lyons1274/reading/0",
+      "sourceId": "ts-w-lyons2",
+      "locator": "Constitution 1",
+      "textSHA256": "490f28aeff4072225d1113a85c79fa1f37b42611252abaf911103d4f5e3e41e4",
+      "evidenceFile": "timeline/evidence/west-book/lyons2.txt",
+      "evidenceSHA256": "d6453962d380c7302181213d2a23cf51a34769b16236b5b46cb607a44704ff62",
+      "match": true
+    },
+    {
+      "key": "tw-unam1302/reading/0",
+      "sourceId": "ts-w-unam",
+      "locator": "Final paragraph",
+      "textSHA256": "e8fb0df97f9bcd3860e7aa00879a4c6fe8cb8b433079f989e0bf5bb0f8221149",
+      "evidenceFile": "timeline/evidence/west-book/unam.txt",
+      "evidenceSHA256": "455e476acd25aac07ca761edcb77095ff5b15fb808c2acbfac860a57c77ba927",
+      "match": true
+    },
+    {
+      "key": "tw-constance/reading/0",
+      "sourceId": "ts-w-constance",
+      "locator": "Session 5, Haec Sancta",
+      "textSHA256": "4c6e2141585235a712aa3f18b001d4493d1b322d4110ee74698271ead93abaa3",
+      "evidenceFile": "timeline/evidence/west-book/constance.txt",
+      "evidenceSHA256": "985754959305dded6995535d81845f2e81cab6a8a601972a1547392fa7808482",
+      "match": true
+    },
+    {
+      "key": "tw-florence1439/reading/0",
+      "sourceId": "ts-w-florence",
+      "locator": "Decree of union with the Greeks",
+      "textSHA256": "b18153bad0f7edddda1e1b96c2d12eb73932721eb19b51a724d75dcf437dc15e",
+      "evidenceFile": "timeline/evidence/west-book/florence.txt",
+      "evidenceSHA256": "289b7138a2a5ebdd8d345707959fa608ac352ff1ba143c3fd499d2de6c5c0553",
+      "match": true
+    },
+    {
+      "key": "tw-valla/reading/0",
+      "sourceId": "ts-w-valla",
+      "locator": "Coleman translation, printed p.27",
+      "textSHA256": "bd8faec4e2cd2d7c50a54e010739cfb87ce5fb1d85a787094c65c91fda4afc6c",
+      "evidenceFile": "timeline/evidence/west-book/valla-hanover.txt",
+      "evidenceSHA256": "7ba336f5df2d746cf33a3924c7ca9d5fe71f6e01e3ed1bc4b5d24b7afe813e36",
+      "match": true
+    },
+    {
+      "key": "tp-theses/reading/0",
+      "sourceId": "ts-p-luther",
+      "locator": "Ninety-five Theses, thesis 1",
+      "textSHA256": "994480becdf38807631dcdce4ed113f7920156af04863e3af3cf535f371c4ace",
+      "evidenceFile": "timeline/evidence/protestant/luther-first-principles.txt",
+      "evidenceSHA256": "4ef8b2aeb73db09107896c90f0e6c12578ada3297edb4be7991107e54617ffb5",
+      "match": true
+    },
+    {
+      "key": "tp-treatises/reading/0",
+      "sourceId": "ts-p-luther",
+      "locator": "Concerning Christian Liberty: opening propositions",
+      "textSHA256": "046c39c883a033df5e06589c21ba8d55cd03bbf39469440b9d3a03d56bb05c87",
+      "evidenceFile": "timeline/evidence/protestant/luther-first-principles.txt",
+      "evidenceSHA256": "4ef8b2aeb73db09107896c90f0e6c12578ada3297edb4be7991107e54617ffb5",
+      "match": true
+    },
+    {
+      "key": "tp-zurich/reading/0",
+      "sourceId": "ts-p-zwingli-en",
+      "locator": "Sixty-Seven Articles, article 1; English text in the 1901 collection",
+      "textSHA256": "99a729fd04318502ead34fe41fd55e0fae863b98ee1298062913149fccacdf7b",
+      "evidenceFile": "timeline/evidence/protestant/zwingli-en.txt",
+      "evidenceSHA256": "d2bd7f197ce111bbb81b274ccb8f4dd0f61f34f1d4f0d47f00a3402d256dcc46",
+      "match": true
+    },
+    {
+      "key": "tp-schleitheim/reading/0",
+      "sourceId": "ts-p-schleitheim-text",
+      "locator": "Schleitheim Articles I, opening clause; Estep source-book translation, 1976",
+      "textSHA256": "74c07459c5fede446fe31408e7d45e0958faf35b5e2e049a879e5625c852ac50",
+      "evidenceFile": "timeline/evidence/protestant/schleitheim-text.txt",
+      "evidenceSHA256": "5130c5169f9b8ed523eec7623e88c71dde3cecd37b3bf35b675db76a16c6ec80",
+      "match": true
+    },
+    {
+      "key": "tp-augsburg/reading/0",
+      "sourceId": "ts-p-augsburg",
+      "locator": "Augsburg Confession IV; historic Krauth English translation in Schaff",
+      "textSHA256": "ba9cd19daad0b833dd066e27ba2c2a9881bff499fb7d7200892310721ce246d5",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-augsburg/reading/1",
+      "sourceId": "ts-p-augsburg",
+      "locator": "Augsburg Confession X; historic Krauth English translation in Schaff",
+      "textSHA256": "e6bcba5cbad0038656e90517cbb775629823349e334bab2e4c196eced9132b25",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-first-helvetic/reading/0",
+      "sourceId": "ts-p-first-helvetic-en",
+      "locator": "First Helvetic Confession, article 2; Peter Chapman translation, CC BY 4.0",
+      "textSHA256": "0568201eba762aa3783f9fecbffe8388ec4df2385868fe8d4b6b5088e4f69566",
+      "evidenceFile": "timeline/evidence/protestant/first-helvetic-en.txt",
+      "evidenceSHA256": "0de5eed77b279d2b2bfffaff80deedde16d7b8818a4d57e4dd86cdbc5b9a6e40",
+      "match": true
+    },
+    {
+      "key": "tw-trent/reading/0",
+      "sourceId": "ts-w-trent4",
+      "locator": "Session IV, decree concerning the canonical Scriptures",
+      "textSHA256": "de4c58cbbf34d2e8fbe2329f16b36863e4ddc21ff55957d90bf02061a1adbdf0",
+      "evidenceFile": "timeline/evidence/west-book/trent-4.txt",
+      "evidenceSHA256": "34f566c9ca7246f9b344831b7d2cc51f1c922b65f566e6a5bcd0cef4a437f8d2",
+      "match": true
+    },
+    {
+      "key": "tw-trent/reading/1",
+      "sourceId": "ts-w-trent6",
+      "locator": "Session VI, chapter VII",
+      "textSHA256": "e2950b32110be3cdab2713c67ab7feb596c1c2c80dd1d5cca3f02c43ab7e25b7",
+      "evidenceFile": "timeline/evidence/west-book/trent-6.txt",
+      "evidenceSHA256": "982423f5190acecfd0acacd3901efb668a74b06e5079bb5605fb570f09bffd17",
+      "match": true
+    },
+    {
+      "key": "tw-trent/reading/2",
+      "sourceId": "ts-w-trent6",
+      "locator": "Session VI, chapter VIII",
+      "textSHA256": "c5c0f40775a4b2d150534adcd83fb031566fcdaa3a84ee375ea26f87bb824684",
+      "evidenceFile": "timeline/evidence/west-book/trent-6.txt",
+      "evidenceSHA256": "982423f5190acecfd0acacd3901efb668a74b06e5079bb5605fb570f09bffd17",
+      "match": true
+    },
+    {
+      "key": "tw-trent/reading/3",
+      "sourceId": "ts-w-trent13",
+      "locator": "Session XIII, chapter IV",
+      "textSHA256": "e369e2878330090c40a5493a486bcf6bffbc039f98d147e334f9be26b4afd1b2",
+      "evidenceFile": "timeline/evidence/west-book/trent-13.txt",
+      "evidenceSHA256": "eca7e2465b8f59fdac9c9cbb31269f24a98d39a84aabc9af22665cad8d51d614",
+      "match": true
+    },
+    {
+      "key": "tp-french/reading/0",
+      "sourceId": "ts-p-french",
+      "locator": "French Confession XXXIII; Schaff historical English translation",
+      "textSHA256": "4472af013279cc8266940d8df36205b594d80288de644fe4ea7cadaed92fc811",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-scots/reading/0",
+      "sourceId": "ts-p-scots",
+      "locator": "Scots Confession XVIII, opening statement of criteria; original Scots wording retained",
+      "textSHA256": "6a8677ce9668add19123b0d603bb10c241a3f58df4d1e2f3f48b6bbb13b6d157",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-belgic/reading/0",
+      "sourceId": "ts-p-belgic",
+      "locator": "Belgic Confession VII; uninterrupted English excerpt in Schaff",
+      "textSHA256": "7603ebcd09cd4bcd57857c0042e71db172ffe0ebd675d674ebd7c8c073806a22",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-heidelberg/reading/0",
+      "sourceId": "ts-p-heidelberg",
+      "locator": "Heidelberg Catechism, answer 64; historical English translation in Schaff",
+      "textSHA256": "a0e3c281049c730800bdd016daf744ef1b2c5eecb93e861e976f771b5110fc2f",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-second-helvetic/reading/0",
+      "sourceId": "ts-p-second-helvetic",
+      "locator": "Appendix: English Second Helvetic Confession, chapter I; historic translation in Schaff",
+      "textSHA256": "ca40cf759643b4b2a25aec0a965fc1b01d04ecbf14a1ec533c3dfed3942dc317",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-articles/reading/0",
+      "sourceId": "ts-p-articles",
+      "locator": "Thirty-Nine Articles XIX; original 1571 English column in Schaff",
+      "textSHA256": "af2fc17b455e2f22ce1c806d89eb7f928a60561088f1b2c26209b0bb5d734f20",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-concord/reading/0",
+      "sourceId": "ts-p-concord",
+      "locator": "Formula of Concord, Epitome I, affirmative thesis 1; Schaff English translation",
+      "textSHA256": "2d70c98f6771580c056e2fdd56f4043bb830a0d7db3bf789ea1c3a468ef0e435",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-remonstrance/reading/0",
+      "sourceId": "ts-p-remonstrance",
+      "locator": "Five Articles of the Remonstrants II; opening clause, historical English translation in Schaff",
+      "textSHA256": "5e098693f877d10d2ad9b9b53ef0cf6e1f9b5cf65d057fc492aabff5c1715cac",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-dort/reading/0",
+      "sourceId": "ts-p-dort",
+      "locator": "Canons of Dort, first head of doctrine, article 7; historic English in Schaff",
+      "textSHA256": "46e6bfcdbe072e8b040966a3254ddeebb2be26721a6ca080847e3098d9cced48",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "to-lucaris-1629/reading/1",
+      "sourceId": "ts-o-jerusalem",
+      "locator": "Robertson’s introduction, printed page vi",
+      "textSHA256": "e10eb8c79d08d3e0409ae9e07c2d7a39c35099eac7a0c97c734a9d9cdd4a5d86",
+      "evidenceFile": "timeline/evidence/orthodox/jerusalem.txt",
+      "evidenceSHA256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3",
+      "match": true
+    },
+    {
+      "key": "tp-first-london/reading/0",
+      "sourceId": "ts-p-first-london",
+      "locator": "Article 39.1, opening clause; Comprehensive Edition (2022), not an asserted facsimile of 1644",
+      "textSHA256": "d6d6f447c21b7a7ffd9336ab49a20472bba848f2580f5e18c5b2f14406e80e72",
+      "evidenceFile": "timeline/evidence/protestant/first-london.txt",
+      "evidenceSHA256": "145f0e9cfb9054ea542a88e43733c34b71490965ad2d01ffa2bf41f075f30cd1",
+      "match": true
+    },
+    {
+      "key": "tp-westminster/reading/0",
+      "sourceId": "ts-p-westminster",
+      "locator": "Westminster Confession I.6; historical text in Schaff",
+      "textSHA256": "71e37a0175f0cc32086b45a82e69d7698b20e09f8e0acf0c878d6ed8e9f0c8d7",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-savoy/reading/0",
+      "sourceId": "ts-p-savoy",
+      "locator": "Savoy Declaration: Of the Institution of Churches, and the Order Appointed in Them by Jesus Christ, paragraph IV",
+      "textSHA256": "087154a57963aa6e9f492556491fc57e806c49fc064b44a4b439f85b4e11bbf8",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "to-jerusalem-1672/reading/0",
+      "sourceId": "ts-o-jerusalem",
+      "locator": "Decree XIII, printed page 132",
+      "textSHA256": "b96941abaefa827f6abc621c4f90cb83684a1290657f8d8472f9cf1118e300c4",
+      "evidenceFile": "timeline/evidence/orthodox/jerusalem.txt",
+      "evidenceSHA256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3",
+      "match": true
+    },
+    {
+      "key": "to-jerusalem-1672/reading/1",
+      "sourceId": "ts-o-jerusalem",
+      "locator": "Decree III, printed page 114",
+      "textSHA256": "5d79583b44460e935b9d8087b48d9cfdd8cbe162b700cb2b6584a4846efacd79",
+      "evidenceFile": "timeline/evidence/orthodox/jerusalem.txt",
+      "evidenceSHA256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3",
+      "match": true
+    },
+    {
+      "key": "tp-second-london/reading/0",
+      "sourceId": "ts-p-second-london",
+      "locator": "Second London Baptist Confession XXIX.2; Schaff’s Baptist Confession of 1688/1689 section",
+      "textSHA256": "433c1a9b76db8ccffd1c424b37532c57fd87b3962d3bcf05e8e95c3a3075623e",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "tp-second-london/reading/1",
+      "sourceId": "ts-p-second-london",
+      "locator": "Second London Baptist Confession XXIX.4",
+      "textSHA256": "709c3f623085284fee731767607333a13b75301946a40e151904ccb43e33dac1",
+      "evidenceFile": "timeline/evidence/protestant/creeds3.txt",
+      "evidenceSHA256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e",
+      "match": true
+    },
+    {
+      "key": "to-encyclical-1848/reading/0",
+      "sourceId": "ts-o-1848",
+      "locator": "Encyclical, section 17",
+      "textSHA256": "d4a19a12728c850819a59b60b768860e5a327a1a7dbcc4b394adda5ce279c019",
+      "evidenceFile": "timeline/evidence/orthodox/1848.txt",
+      "evidenceSHA256": "2e4aa3b54f727a7c294f49248b2981d8ba8264c3bff4254397a73f7d5593c5af",
+      "match": true
+    },
+    {
+      "key": "tw-vatican1/reading/0",
+      "sourceId": "ts-w-vatican1",
+      "locator": "Pastor Aeternus, chapter IV, definition; Schaff vol.II, pp.270–271, English column",
+      "textSHA256": "ecfac4348e517ac5073468ca5df79000d767a78974a70e373f84a3b659e8ad06",
+      "evidenceFile": "timeline/evidence/root/vatican1-english-definition.txt",
+      "evidenceSHA256": "033dd437ebf57290bdb16d497773f9425017b4064209787c48ff81d2631d9ed6",
+      "match": true
+    },
+    {
+      "key": "tp-barmen/reading/0",
+      "sourceId": "ts-p-barmen-text",
+      "locator": "Barmen Declaration, thesis 1, opening clause",
+      "textSHA256": "327c5d2adac1d31750a9b4f68ca39f67c15cc73bc70854e57bd483e74f2d2da3",
+      "evidenceFile": "timeline/evidence/protestant/barmen-text.txt",
+      "evidenceSHA256": "af0aa1c39f6a16da08d5b11abcaef8c77d87f5b3b764d25f442cbfc4ae654bad",
+      "match": true
+    },
+    {
+      "key": "tw-vatican2/reading/0",
+      "sourceId": "ts-w-unitatis",
+      "locator": "Unitatis Redintegratio §1",
+      "textSHA256": "257c2ec52909708f19cac2311666f5c014898abbaf47a8e769a48975d704ffbc",
+      "evidenceFile": "timeline/evidence/west-book/unitatis.txt",
+      "evidenceSHA256": "b65863b155ffc5f7aa1fed1159326082e4f8c72ed2a62841ee67641e13f80ce7",
+      "match": true
+    },
+    {
+      "key": "tw-vatican2/reading/2",
+      "sourceId": "ts-w-dignitatis",
+      "locator": "Dignitatis Humanae §2",
+      "textSHA256": "244817a3f9660533c4843e7394716edfb23d3ac19f1aa3922712730d8c1f6e27",
+      "evidenceFile": "timeline/evidence/west-book/dignitatis.txt",
+      "evidenceSHA256": "6534e682223080703710f0fc8ee72e891c0c1c4ff883d41698c32110bf98f6f0",
+      "match": true
+    },
+    {
+      "key": "book/jt-innovation-quote",
+      "sourceId": "ts-jt-excerpt",
+      "locator": "2015 excerpt, introduction, printed p.5 (PDF p.19)",
+      "textSHA256": "6339305fb384a14c4b0e93bfb791e0e9b503324c034fc65c63104280ebdb822d",
+      "evidenceFile": "timeline/evidence/west-book/rock-sand-2015-excerpt.txt",
+      "evidenceSHA256": "10c7f8552f12e4967dccbd66d8cd634d44b024412f0706ab753387dd99319439",
+      "match": true
+    }
+  ],
+  "issues": []
+}

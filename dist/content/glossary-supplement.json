@@ -1,0 +1,1034 @@
+{
+  "revision": "formation-2026-11-20",
+  "terms": [
+    {
+      "id": "fg-apostolic-fathers",
+      "term": "Apostolic Fathers",
+      "aliases": [],
+      "category": "Church and history",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "A conventional collection-name for early Christian writings such as First Clement, the letters of Ignatius, and Polycarp’s letter. The collection title is not a claim that every work was written by an apostle.",
+        "sourceId": "fc-s-clement",
+        "locator": "ANF1 volume title and named works",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "Apostolic Fathers"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-clement-repentance",
+        "fc-polycarp-faith"
+      ]
+    },
+    {
+      "id": "fg-didache",
+      "term": "Didache",
+      "aliases": [
+        "Teaching of the Twelve Apostles"
+      ],
+      "category": "Church and history",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The Teaching of the Twelve Apostles: an anonymous early Christian text presenting the two ways, initiation, thanksgiving, community order, and watchfulness.",
+        "sourceId": "fc-s-didache",
+        "locator": "Title;chaptersI–XVI",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+        "evidenceAnchor": "Teaching of the Twelve Apostles"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-didache-two-ways",
+        "fc-didache-baptism-prayer"
+      ]
+    },
+    {
+      "id": "fg-two-ways",
+      "term": "Two Ways",
+      "aliases": [],
+      "category": "Spiritual life",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The Didache’s contrast between the way of life and the way of death, followed by concrete teaching about conduct.",
+        "sourceId": "fc-s-didache",
+        "locator": "ChapterI.1–2",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+        "evidenceAnchor": "There are two ways"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-didache-two-ways"
+      ]
+    },
+    {
+      "id": "fg-recapitulation",
+      "term": "Recapitulation",
+      "aliases": [],
+      "category": "Theology",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Irenaeus’s account of Christ gathering up and renewing human life in himself, undoing disobedience through his obedience and uniting humanity to God.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII.18–19",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "recapitulated"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-recapitulation"
+      ]
+    },
+    {
+      "id": "fg-gnosticism",
+      "term": "Gnostic teachings",
+      "aliases": [
+        "Gnosticism"
+      ],
+      "category": "Church and history",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The systems opposed by Irenaeus that claimed superior, hidden knowledge and distinguished their teaching from the public apostolic proclamation. The title covers varied opponents, not one identical system.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII.1–4",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "perfect knowledge"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-scripture"
+      ]
+    },
+    {
+      "id": "fg-rule-of-faith",
+      "term": "Rule of faith",
+      "aliases": [
+        "Rule of truth"
+      ],
+      "category": "Theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The received confession or teaching of Christian faith used in patristic argument; in Irenaeus’s account the apostolic proclamation is public and preserved in the churches.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII.3–4",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "tradition of the apostles"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-succession"
+      ]
+    },
+    {
+      "id": "fg-illumination",
+      "term": "Illumination",
+      "aliases": [],
+      "category": "Sacraments",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "A name Justin uses for baptism, connecting the washing with the understanding received by those learning these things.",
+        "sourceId": "fc-s-justin",
+        "locator": "First ApologyLXI",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "illumination"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-justin-baptism"
+      ]
+    },
+    {
+      "id": "fg-regeneration",
+      "term": "Regeneration",
+      "aliases": [
+        "New birth"
+      ],
+      "category": "Sacraments",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "New birth; Justin describes baptismal washing in relation to being born again through Christ and receiving remission of sins.",
+        "sourceId": "fc-s-justin",
+        "locator": "First ApologyLXI",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "regenerated"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-justin-baptism"
+      ]
+    },
+    {
+      "id": "fg-apology",
+      "term": "Apology",
+      "aliases": [],
+      "category": "Church and history",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "A defense or reasoned presentation of Christian faith, as in Justin’s address to the imperial authorities. Here the word does not mean an admission of fault.",
+        "sourceId": "fc-s-justin",
+        "locator": "First Apology,address andchaptersI–II",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "address and petition"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-justin-worship"
+      ]
+    },
+    {
+      "id": "fg-epistle",
+      "term": "Epistle",
+      "aliases": [],
+      "category": "Scripture",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "A letter, such as Clement’s letter to the Corinthians or Polycarp’s letter to the Philippians. The literary label itself does not establish scriptural status.",
+        "sourceId": "fc-s-clement",
+        "locator": "Title andsalutation",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "Epistle"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-clement-repentance"
+      ]
+    },
+    {
+      "id": "fg-hospitality",
+      "term": "Hospitality",
+      "aliases": [],
+      "category": "Spiritual life",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Receiving and caring for others; the Didache discusses welcoming travelers while also testing claims and avoiding exploitation.",
+        "sourceId": "fc-s-didache",
+        "locator": "ChaptersXI–XII",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+        "evidenceAnchor": "traveller"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-didache-discernment"
+      ]
+    },
+    {
+      "id": "fg-prophet",
+      "term": "Prophet",
+      "aliases": [],
+      "category": "Scripture",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "One who speaks a message from God. Justin appeals to the ancient prophets as witnesses to Christ; the Didache also discusses prophets within Christian communities.",
+        "sourceId": "fc-s-justin",
+        "locator": "First ApologyXXXI–XXXII",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "prophets"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-justin-prophecy"
+      ]
+    },
+    {
+      "id": "fg-messiah",
+      "term": "Messiah",
+      "aliases": [
+        "Anointed One"
+      ],
+      "category": "Theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The anointed one; Cyril relates the name Christ to anointing while explaining the names Jesus and Christ.",
+        "sourceId": "fc-s-cyril",
+        "locator": "Catechetical LectureX",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+        "evidenceAnchor": "Anointed"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-cyril-jesus-christ"
+      ]
+    },
+    {
+      "id": "fg-adoption",
+      "term": "Adoption",
+      "aliases": [],
+      "category": "Theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Becoming God’s children by grace; Cyril distinguishes the Father’s relation to his Only-begotten Son from the adoption given to believers.",
+        "sourceId": "fc-s-cyril",
+        "locator": "Catechetical LectureVII",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+        "evidenceAnchor": "adoption"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-cyril-father"
+      ]
+    },
+    {
+      "id": "fg-demiurge",
+      "term": "Demiurge",
+      "aliases": [],
+      "category": "Church and history",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "A maker or craftsman; in the systems Irenaeus opposes, the term appears in a separation of the maker of the world from higher divine realities. Irenaeus argues for the one Creator.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII.2",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "Demiurge"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-scripture"
+      ]
+    },
+    {
+      "id": "fg-pleroma",
+      "term": "Pleroma",
+      "aliases": [],
+      "category": "Church and history",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Fullness; in the opposing systems described by Irenaeus, a name for a supposed higher divine realm. Its sense there must be distinguished from Christian uses of fullness.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII.2",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "Pleroma"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-scripture"
+      ]
+    },
+    {
+      "id": "fg-valentinian",
+      "term": "Valentinian",
+      "aliases": [],
+      "category": "Church and history",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Pertaining to Valentinus or the teachings criticized under that name in Irenaeus’s Against Heresies. The label identifies the historical opponent in that work.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII,preface",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "Valentinian"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-scripture"
+      ]
+    },
+    {
+      "id": "fg-docetism",
+      "term": "Docetism",
+      "aliases": [],
+      "category": "Theology",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The claim that Christ’s humanity or suffering was only an appearance. Irenaeus defends the reality of the Incarnation and Christ’s saving human life.",
+        "sourceId": "fc-s-irenaeus",
+        "locator": "Against HeresiesIII.18",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+        "evidenceAnchor": "appearance"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "fc-irenaeus-recapitulation"
+      ]
+    },
+    {
+      "id": "fg-imputation",
+      "term": "Imputation",
+      "aliases": [
+        "Imputed righteousness"
+      ],
+      "category": "Comparative theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Accounting or reckoning to someone; Westminster uses the term in its account of justification, distinguishing imputed righteousness from righteousness infused into the believer.",
+        "sourceId": "rq-wcf",
+        "locator": "Westminster ConfessionXI.1",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/history/wcf.txt",
+        "evidenceAnchor": "imputing"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "r-justification"
+      ]
+    },
+    {
+      "id": "fg-effectual-calling",
+      "term": "Effectual calling",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Westminster’s term for God’s calling of those predestined to life through his Word and Spirit, including renewal of the will and an effectual drawing to Christ.",
+        "sourceId": "rq-wcf",
+        "locator": "Westminster ConfessionX.1",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/history/wcf.txt",
+        "evidenceAnchor": "effectually call"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "r-election-freedom"
+      ]
+    },
+    {
+      "id": "fg-perseverance",
+      "term": "Perseverance of the saints",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "In Westminster’s teaching, those accepted in Christ, effectually called, and sanctified cannot totally or finally fall from grace. This is a specific confessional claim, not simply a synonym for endurance.",
+        "sourceId": "rq-wcf",
+        "locator": "Westminster ConfessionXVII.1",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/history/wcf.txt",
+        "evidenceAnchor": "finally fall"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "r-assurance"
+      ]
+    },
+    {
+      "id": "fg-invisible-church",
+      "term": "Invisible church",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Westminster’s designation for the whole number of the elect gathered under Christ. Its definition is distinct from its account of the visible church.",
+        "sourceId": "rq-wcf",
+        "locator": "Westminster ConfessionXXV.1",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/history/wcf.txt",
+        "evidenceAnchor": "invisible"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "d-church",
+        "r-councils-certainty"
+      ]
+    },
+    {
+      "id": "fg-visible-church",
+      "term": "Visible church",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Westminster’s designation for those throughout the world who profess the true religion, together with their children. Read alongside its separate account of the invisible church.",
+        "sourceId": "rq-wcf",
+        "locator": "Westminster ConfessionXXV.2",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/history/wcf.txt",
+        "evidenceAnchor": "visible"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "d-church",
+        "r-councils-certainty"
+      ]
+    },
+    {
+      "id": "fg-sacramental-union",
+      "term": "Sacramental union",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Westminster’s phrase for the relation between the sign and the thing signified in a sacrament, allowing their names and effects to be attributed to one another.",
+        "sourceId": "rq-wcf",
+        "locator": "Westminster ConfessionXXVII.2",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/history/wcf.txt",
+        "evidenceAnchor": "sacramental union"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "r-eucharist"
+      ]
+    },
+    {
+      "id": "fg-adiaphora",
+      "term": "Adiaphora",
+      "aliases": [
+        "Things indifferent"
+      ],
+      "category": "Comparative theology",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Church rites treated as neither commanded nor forbidden in God’s Word. The Formula of Concord discusses their use, Christian liberty, and limits in times of persecution.",
+        "sourceId": "fc-s-formula",
+        "locator": "Formula of Concord,Epitome,ArticleX,§§1–7",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/formula.txt",
+        "evidenceAnchor": "neither commanded nor forbidden"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "r-images-saints"
+      ]
+    },
+    {
+      "id": "fg-concupiscence",
+      "term": "Concupiscence",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Disordered desire; the Augsburg Confession includes it in its description of the inherited condition of sin. Read this term within that confession’s account rather than assuming identical usage in every tradition.",
+        "sourceId": "fc-s-augsburg",
+        "locator": "Augsburg ConfessionII",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+        "evidenceAnchor": "concupiscence"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "d-creation-fall"
+      ]
+    },
+    {
+      "id": "fg-new-obedience",
+      "term": "New obedience",
+      "aliases": [],
+      "category": "Comparative theology",
+      "depth": "intermediate",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The Augsburg Confession’s title for its teaching that faith should bring forth good fruits and commanded good works, while denying that works merit justification.",
+        "sourceId": "fc-s-augsburg",
+        "locator": "Augsburg ConfessionVI",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+        "evidenceAnchor": "good fruits"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "r-faith-works",
+        "fc-clement-faith-works"
+      ]
+    },
+    {
+      "id": "fg-orthodoxy",
+      "term": "Orthodoxy",
+      "aliases": [
+        "Right belief",
+        "Orthodox"
+      ],
+      "category": "Church and history",
+      "depth": "introductory",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "Right belief; Philaret calls the Church Orthodox or rightly-believing in connection with the apostolic doctrine and succession.",
+        "sourceId": "dq-philaret",
+        "locator": "Longer Catechism,question274",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/doctrine/philaret-readable.txt",
+        "evidenceAnchor": "Rightly-believing"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "d-start",
+        "d-church"
+      ]
+    },
+    {
+      "id": "fg-pentateuch",
+      "term": "Pentateuch",
+      "aliases": [
+        "Five books of Moses"
+      ],
+      "category": "Scripture",
+      "depth": "introductory",
+      "stages": [
+        "catechumen",
+        "parish-life"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The five books of Moses: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+        "sourceId": "dq-philaret",
+        "locator": "Longer Catechism,question37",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/doctrine/philaret-readable.txt",
+        "evidenceAnchor": "five books written by Moses"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "d-scripture",
+        "fc-sinai-commandment"
+      ]
+    },
+    {
+      "id": "fg-hypostatic-union",
+      "term": "Hypostatic union",
+      "aliases": [],
+      "category": "Theology",
+      "depth": "advanced",
+      "stages": [
+        "advanced-study"
+      ],
+      "definition": {
+        "kind": "summary",
+        "text": "The union of divinity and humanity in the one person or hypostasis of Christ, without dividing him into two persons or confusing his two natures.",
+        "sourceId": "ex-s-damascene3",
+        "locator": "Exposition of the Orthodox Faith,BookIII,chapterIII",
+        "reason": "Necessary concise definition of terminology encountered in the linked published reading.",
+        "evidenceFile": "work/revision/evidence/doctrine/npnf209-readable.txt",
+        "evidenceAnchor": "two natures were united"
+      },
+      "relatedTermIds": [],
+      "lessonIds": [
+        "ex-nature-person",
+        "ex-two-wills"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "fc-s-clement",
+      "title": "Clement of Rome: First Epistle to the Corinthians",
+      "author": "St. Clement of Rome",
+      "work": "First Epistle to the Corinthians",
+      "translator": "Alexander Roberts and James Donaldson",
+      "edition": "Ante-Nicene Fathers, vol.1; Buffalo: Christian Literature Publishing Co.,1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Church at Corinth",
+      "context": "Letter addressing dissension, repentance, and church order; published historical translation."
+    },
+    {
+      "id": "fc-s-diognetus",
+      "title": "Epistle to Diognetus",
+      "author": "Anonymous (traditionally designated Mathetes)",
+      "work": "Epistle to Diognetus",
+      "translator": "Alexander Roberts and James Donaldson",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Diognetus, as addressed by the anonymous work",
+      "context": "Early Christian explanation of faith and life; author identification remains uncertain."
+    },
+    {
+      "id": "fc-s-polycarp",
+      "title": "Polycarp: Epistle to the Philippians",
+      "author": "St. Polycarp of Smyrna",
+      "work": "Epistle to the Philippians",
+      "translator": "Alexander Roberts and James Donaldson",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Church at Philippi",
+      "context": "Pastoral letter; historical English translation."
+    },
+    {
+      "id": "fc-s-justin",
+      "title": "Justin Martyr: First Apology",
+      "author": "St. Justin Martyr",
+      "work": "First Apology",
+      "translator": "Marcus Dods and George Reith",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Roman emperor, Senate, and people named in the address",
+      "context": "Defense of Christians against accusations, with accounts of faith and worship."
+    },
+    {
+      "id": "fc-s-irenaeus",
+      "title": "Irenaeus: Against Heresies",
+      "author": "St. Irenaeus of Lyons",
+      "work": "Against Heresies",
+      "translator": "Alexander Roberts and William Rambaut",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "The recipient addressed in the preface; readers confronting the systems opposed by the work",
+      "context": "Polemic against varied second-century teachings; quotations retain the historical author’s language."
+    },
+    {
+      "id": "fc-s-didache",
+      "title": "The Teaching of the Twelve Apostles (Didache)",
+      "author": "Anonymous early Christian church order",
+      "work": "The Teaching of the Twelve Apostles",
+      "translator": "Isaac H. Hall and John T. Napier; slight revisions in the ANF edition",
+      "edition": "Ante-Nicene Fathers, vol.7;Buffalo: Christian Literature Publishing Co.,1886;1884 translation reprinted and annotated by M. B. Riddle",
+      "url": "https://www.ccel.org/ccel/schaff/anf07.html",
+      "year": 1886,
+      "type": "Historical church order",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf07.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Communities addressed by an early Christian church order",
+      "context": "Historical witness to conduct, initiation, thanksgiving, and community order; not a newly issued parish rule."
+    },
+    {
+      "id": "fc-s-cyril",
+      "title": "Cyril of Jerusalem: Catechetical Lectures",
+      "author": "St. Cyril of Jerusalem",
+      "work": "Catechetical Lectures",
+      "translator": "Edwin Hamilton Gifford",
+      "edition": "NPNF, Second Series, vol.7;New York: Christian Literature Publishing Co.,1893",
+      "url": "https://www.ccel.org/ccel/schaff/npnf207.html",
+      "year": 1893,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf207.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Baptismal candidates and hearers addressed in the catechetical lectures",
+      "context": "Fourth-century catechetical teaching in a nineteenth-century English translation."
+    },
+    {
+      "id": "fc-s-augsburg",
+      "title": "The Augsburg Confession",
+      "author": "Lutheran confessors; presented1530",
+      "work": "The Augsburg Confession",
+      "translator": "English text of the Concordia Triglotta",
+      "edition": "Concordia Triglotta,1921;BookOfConcord.org transcription",
+      "url": "https://bookofconcord.org/augsburg-confession/",
+      "year": 1921,
+      "type": "Lutheran confession",
+      "tradition": "Lutheran",
+      "rights": "Public domain",
+      "rightsUrl": "https://bookofconcord.org/about-the-translation/",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Emperor CharlesV and the Diet of Augsburg",
+      "context": "Lutheran confession presented1530;1921 English translation."
+    },
+    {
+      "id": "fc-s-formula",
+      "title": "Formula of Concord: Church Rites",
+      "author": "Lutheran confessors;1577",
+      "work": "Formula of Concord,Epitome,ArticleX",
+      "translator": "English text of the Concordia Triglotta",
+      "edition": "Concordia Triglotta,1921;BookOfConcord.org transcription",
+      "url": "https://bookofconcord.org/epitome/church-rites/",
+      "year": 1921,
+      "type": "Lutheran confession",
+      "tradition": "Lutheran",
+      "rights": "Public domain",
+      "rightsUrl": "https://bookofconcord.org/about-the-translation/",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive."
+    },
+    {
+      "id": "fc-s-anglican",
+      "title": "Articles of Religion",
+      "author": "Church of England",
+      "work": "Articles of Religion",
+      "translator": "Historical English text",
+      "edition": "Book of Common Prayer;Church of England website",
+      "url": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "year": 1662,
+      "type": "Anglican confession",
+      "tradition": "Anglican",
+      "rights": "Historical text; brief excerpts only",
+      "rightsUrl": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Church of England",
+      "context": "Historic Anglican articles; identify the individual article and its reception context."
+    },
+    {
+      "id": "dq-philaret",
+      "title": "The Longer Catechism of the Orthodox, Catholic, Eastern Church",
+      "url": "https://www.pravoslavieto.com/docs/eng/Orthodox_Catechism_of_Philaret.htm",
+      "author": "St. Philaret of Moscow",
+      "work": "The Longer Catechism",
+      "edition": "R. W. Blackmore translation (1845), reprinted with Philip Schaff’s question numbering",
+      "translator": "R. W. Blackmore",
+      "year": 1845,
+      "tradition": "Orthodox",
+      "type": "Historic Orthodox catechism",
+      "rights": "Public domain",
+      "rightsUrl": "https://archive.org/details/doctrineofrussia00blac",
+      "rightsNote": "Blackmore’s English translation was published in 1845. The Library of Congress scan is recorded as having no known copyright restrictions. Historic electronic transcription, with its spelling retained. This is not a current parish directive."
+    },
+    {
+      "id": "rq-wcf",
+      "title": "Westminster Confession of Faith",
+      "url": "https://www.pcaac.org/bco/westminster-confession/westminster-confession-of-faith/",
+      "author": "Westminster Assembly; American Presbyterian revisions",
+      "work": "Westminster Confession of Faith",
+      "edition": "Historical confession (1647), with American revisions; text posted by the PCA Administrative Committee",
+      "translator": "",
+      "year": "1647 / 1788",
+      "tradition": "PCA / Westminster",
+      "type": "Confessional standard",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/westminster-confession-of-faith/",
+      "rightsNote": "Historical public-domain confessional text. The linked official PCA page identifies the posted version; modern site navigation and commentary are not included.",
+      "attribution": ""
+    },
+    {
+      "id": "rq-wlc",
+      "title": "Westminster Larger Catechism",
+      "url": "https://www.pcaac.org/bco/westminster-confession/westminster-larger-catechism/",
+      "author": "Westminster Assembly",
+      "work": "Westminster Larger Catechism",
+      "edition": "Historical catechism (1647); text posted by the PCA Administrative Committee",
+      "translator": "",
+      "year": "1647",
+      "tradition": "PCA / Westminster",
+      "type": "Confessional standard",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/westminster-larger-catechism/",
+      "rightsNote": "Historical public-domain catechism text; the linked official PCA page is used for the wording.",
+      "attribution": ""
+    },
+    {
+      "id": "dq-vincent",
+      "title": "Vincent of Lérins: Commonitory",
+      "url": "https://www.ccel.org/ccel/schaff/npnf211.iii.html",
+      "author": "St. Vincent of Lérins",
+      "work": "Commonitory",
+      "edition": "Nicene and Post-Nicene Fathers, Second Series, vol. 11; 1894",
+      "translator": "C. A. Heurtley",
+      "year": 1894,
+      "tradition": "Orthodox",
+      "type": "Patristic text",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf211/cache/npnf211.txt",
+      "rightsNote": "Historical English edition published before 1931; CCEL labels the downloaded source Public Domain. Editorial footnote callouts omitted."
+    },
+    {
+      "id": "ex-s-damascene4",
+      "title": "John of Damascus: Exposition of the Orthodox Faith, Book IV",
+      "url": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "author": "St. John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, Book IV",
+      "translator": "S. D. F. Salmond",
+      "year": 1898,
+      "edition": "NPNF, Second Series, vol.9; Edinburgh: T. & T. Clark, 1898",
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "rightsNote": "Historical English edition published before 1931. The retained source identifies the translation and public-domain basis. Quoted as a source reading, not a newly composed parish instruction."
+    },
+    {
+      "id": "ex-s-cassian",
+      "title": "John Cassian: Conferences",
+      "url": "https://www.ccel.org/ccel/schaff/npnf211.html",
+      "author": "St. John Cassian",
+      "work": "Conferences",
+      "translator": "Edgar C. S. Gibson",
+      "year": 1894,
+      "edition": "NPNF, Second Series, vol.11; 1894",
+      "type": "Historic monastic conferences",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf211.html",
+      "rightsNote": "Historical English edition published before 1931. The retained source identifies the translation and public-domain basis. Quoted as a source reading, not a newly composed parish instruction."
+    },
+    {
+      "id": "sp-kjv",
+      "title": "King James Version (1769), with Apocrypha",
+      "author": "King James Bible translators; standardized text 1769",
+      "work": "The Holy Bible",
+      "edition": "Standardized 1769 English text; eBible.org/Crosswire digital edition withApocrypha, source 2026-11-15",
+      "translator": "King James translators",
+      "year": 1769,
+      "url": "https://ebible.org/eng-kjv/",
+      "tradition": "Scripture:English KJV",
+      "type": "Public-domain Bible translation",
+      "rights": "Public domain outside the United Kingdom",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "Publisher permits free copying and identifies UK royal printing privileges; no worldwide-rights claim. Local app source wording retains this digital edition’s Psalm superscriptions."
+    },
+    {
+      "id": "ex-s-damascene3",
+      "title": "John of Damascus: Exposition of the Orthodox Faith, Book III",
+      "url": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "author": "St. John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, Book III",
+      "translator": "S. D. F. Salmond",
+      "year": 1898,
+      "edition": "NPNF, Second Series, vol.9; Edinburgh: T. & T. Clark, 1898",
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "rightsNote": "Historical English edition published before 1931. The retained source identifies the translation and public-domain basis. Quoted as a source reading, not a newly composed parish instruction."
+    }
+  ]
+}

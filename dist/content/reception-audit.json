@@ -1,0 +1,3367 @@
+{
+  "version": "reception-2026-11-20",
+  "events": 108,
+  "doctrinal": 50,
+  "historical": 58,
+  "positions": 162,
+  "additionalSources": 32,
+  "evidenceRecords": 162,
+  "annotations": [
+    {
+      "eventId": "to-pentecost",
+      "sha256": "b77e834e9158d608f6701d24d4ca80cc525065357e0d476b25912a4c8a148eb2"
+    },
+    {
+      "eventId": "to-jerusalem-apostolic",
+      "sha256": "8d62e045f0636806e05ddbd6581358b37391291676971b64b84fc810a025feb0"
+    },
+    {
+      "eventId": "to-ignatius",
+      "sha256": "5853ad8854be154e73e49baf4de0bed143a46d61bd704a924a19baec77eda3da"
+    },
+    {
+      "eventId": "to-irenaeus",
+      "sha256": "59cfb6cbc1156992116d3c26f5297d79f7420f658957da22d330aefe0347336b"
+    },
+    {
+      "eventId": "to-milan-313",
+      "sha256": "90b9b34e893a434a47aafc034cea31686ee792a7209427b76583e3f2de5cdbdf"
+    },
+    {
+      "eventId": "to-nicaea-325",
+      "sha256": "7598276f13f737d4646d4df9f1ee4ca661f8ce05d9470f0430ce19089cf4c526"
+    },
+    {
+      "eventId": "to-athanasius-367",
+      "sha256": "9670360716af2e13e540a3d93f90813bd56acdad18335e60d4bd49fc29719fe7"
+    },
+    {
+      "eventId": "to-constantinople-381",
+      "sha256": "5be4c29a42eee7e1d42f98f7d406b6ff3b17491a983564b699ed65ed87a80a3c"
+    },
+    {
+      "eventId": "to-ephesus-431",
+      "sha256": "ccd3ca02ec32b582efbd8af12f35853934828c1e6b01a9a009d9c3b44963167f"
+    },
+    {
+      "eventId": "to-chalcedon-451",
+      "sha256": "9a260db5aa60249d5bd3d874637955cb9b227c6f6854dd1de7db8964bce99cd0"
+    },
+    {
+      "eventId": "to-constantinople-553",
+      "sha256": "f7210d98d6c0b59583a9b10bebe5282a999c4cbc37a5c9c0f96bbd166402b8d4"
+    },
+    {
+      "eventId": "to-constantinople-681",
+      "sha256": "b247ca5006c32eb12011e44486edc031723a3a5bb3d2432158eeb9a432c7f79f"
+    },
+    {
+      "eventId": "to-trullo-692",
+      "sha256": "ed2db77e4aaff0bbd6b15ec7885dd600ced84bdb7be6a2ad463ac4ec980f06df"
+    },
+    {
+      "eventId": "to-iconoclasm",
+      "sha256": "e9e2d89c5149e7a55f6b5b1d5089ee6e273c558e482dadd6155a06fe0c5d2a13"
+    },
+    {
+      "eventId": "to-nicaea-787",
+      "sha256": "aeb83362ba5f9715419773ae528dc4af1d0bf21c33f2567fae8ccc41632d9ee0"
+    },
+    {
+      "eventId": "to-icons-843",
+      "sha256": "464a0aac37e05014ebb956b4208b0c15b1839ad19ce4d62b4cded29c4790a521"
+    },
+    {
+      "eventId": "tw-pseudoisidor",
+      "sha256": "f0a3774fc1db02d7a8babf99ce6c89af8c5f0fdce536fae7cb9e232c0291b3ea"
+    },
+    {
+      "eventId": "to-cyril-methodius",
+      "sha256": "703c99a11909686143fbe3696f8f4885efb6169092388a951ec66dfd2d6e12d4"
+    },
+    {
+      "eventId": "to-photius-879",
+      "sha256": "8697ffe59357018b58be76fcf0b5efe4fb736620b63e91701dbc9729d5534267"
+    },
+    {
+      "eventId": "to-rus-988",
+      "sha256": "c444527d1b5b736b010d7c20e1321a93eb7cff3097e4383662661c6a3b3167ce"
+    },
+    {
+      "eventId": "tw-filioque-rome",
+      "sha256": "2617d2577a48125c7b5b1e12a6743c702777c64ec1b758cfadaa3095253594ff"
+    },
+    {
+      "eventId": "to-schism-1054",
+      "sha256": "e518a337cb187f942e0c79ecb3d9baf18f4f876667ab4a63722092aba0731f3a"
+    },
+    {
+      "eventId": "tw-dictatus",
+      "sha256": "13dab092e311f8dd88406d45742ce42f49a614f89d7d0b5b67ac902abfd94554"
+    },
+    {
+      "eventId": "tw-worms",
+      "sha256": "39eb048cb47b1ab2d8bbe206a193f22e779bb38345cdf44c7cc980ec8fddd7ce"
+    },
+    {
+      "eventId": "to-crusade-1204",
+      "sha256": "5c9aecc8ed71ef550d74601b5d4999318a4899abe4d96b912b1df653e65fae08"
+    },
+    {
+      "eventId": "tw-lateran1215",
+      "sha256": "ab114243f61f2cbe32f7ba5a120bf1ccdb96474aeccdb2198800deb87e75ab9e"
+    },
+    {
+      "eventId": "tw-aquinas-summa",
+      "sha256": "b86e617cf58f73ea3cf2775727b4da8f935e84f0f5ef2b69cdad3cc1ba8bad49"
+    },
+    {
+      "eventId": "tw-lyons1274",
+      "sha256": "484ffc5c909420d358c43ae194c2d4ce58599468685b42a8e2f1b0a495bb10e9"
+    },
+    {
+      "eventId": "tw-unam1302",
+      "sha256": "22bcd523a102df23c35beeec607800250e44a8ff64eb9e162d2f8cd1e4dfcf6b"
+    },
+    {
+      "eventId": "to-palamas-1351",
+      "sha256": "d432083069135ce56d8a2d4a09e006fc8921c17ec85fd87f08395a9c736e5ce4"
+    },
+    {
+      "eventId": "tw-western-schism",
+      "sha256": "dec6e691165d6b542980b05b310ddc2b3f367128d77421ad4eed1d1591cfb6a2"
+    },
+    {
+      "eventId": "tw-constance",
+      "sha256": "6011d989d02a90547bd5f9cb74d72f646687b54abee109e2433cff12c0696a28"
+    },
+    {
+      "eventId": "tw-florence1439",
+      "sha256": "1a795ed2153e8f27e491457a94111507b622e689d700a902b80dc9a989d60f37"
+    },
+    {
+      "eventId": "tw-valla",
+      "sha256": "bd3f44f2238f3ec3dc1bdabdb5f2d73a53078d85134e395b2a6f99cfec3a876d"
+    },
+    {
+      "eventId": "to-fall-1453",
+      "sha256": "ae4cc41e3fd5d66e9ddb139dd903490b8c53efbc2a61b295764c1d2b5088075d"
+    },
+    {
+      "eventId": "to-constantinople-1484",
+      "sha256": "b01ba517327bd8e92d42c6ac531ad05a4261058651473532fd647de3bbd60546"
+    },
+    {
+      "eventId": "tw-lateran1512",
+      "sha256": "c34fb88ff6ff0abb0d1706cd491f8f8505e2e83c9ef83e6c33a33bbe9f0dc7f3"
+    },
+    {
+      "eventId": "tp-theses",
+      "sha256": "d7dd6a42939e1b4e92819d69866442858e6eee9de8fa7387a97d2b16995cd173"
+    },
+    {
+      "eventId": "tp-treatises",
+      "sha256": "f95a067844edc2e855d70173a90d2eea964fa19f4935148068c12a414db96c5a"
+    },
+    {
+      "eventId": "tp-worms",
+      "sha256": "ac7e85066ab078151a91d3267ba6f0ddc53af3e07d052fa8106b1c2159a2e491"
+    },
+    {
+      "eventId": "tp-german-nt",
+      "sha256": "72abb19479844e59c2afb88ff976426cee72d4a30e78fa00b49d078dab85891e"
+    },
+    {
+      "eventId": "tp-zurich",
+      "sha256": "9ec079f7eca45e517924058e6bcd93e61b3bcc8dd3732083e741b61d98113741"
+    },
+    {
+      "eventId": "tp-swiss-baptisms",
+      "sha256": "86d35d23746316cdd45f2f75cbd9aecbc10fdf7bd1f5044f65a6c4c4b62af8c1"
+    },
+    {
+      "eventId": "tp-schleitheim",
+      "sha256": "6327f3e59fea5de0ca75dc55fde8f9cf0f337706df59d07bf3196092a123b149"
+    },
+    {
+      "eventId": "tp-marburg",
+      "sha256": "a7e8aa23d8f46123490818c50088164276f24057752376b3145b437f5603be47"
+    },
+    {
+      "eventId": "tp-speyer",
+      "sha256": "4833a9b7d58e74f7b9b4382f74d22c37296b66ce1911e7d89e590a3f7e0ea2f6"
+    },
+    {
+      "eventId": "tp-augsburg",
+      "sha256": "849b7c1e7121efe3b2d7de408d9976a7098232668f924b7b868648fdfe378aa9"
+    },
+    {
+      "eventId": "tp-supremacy",
+      "sha256": "319fe084502f3585b151684054fd6860dbd0958b9152734a73eaaf8e50f39e3d"
+    },
+    {
+      "eventId": "tp-first-helvetic",
+      "sha256": "5a9d10dee75bbc62cc5b46d10f65be142b556e0dae658d73e4da8b5ebdcbc241"
+    },
+    {
+      "eventId": "tp-institutes",
+      "sha256": "619e5b0604f2155a4eb30c9b82bd2298476da2a62d198e6f46c285dbcfbb87f6"
+    },
+    {
+      "eventId": "tw-jesuits1540",
+      "sha256": "f864cb55a35804b9ba315879b5596d7ef560345b2d3dd3ed0cd3dd1345c724ab"
+    },
+    {
+      "eventId": "tp-geneva",
+      "sha256": "dabf2ceb2c39ef635e1c82d8867cc2c896c40c3e588aa99cfed93127cf01f0d4"
+    },
+    {
+      "eventId": "tw-trent",
+      "sha256": "7c8599d88c07d18ffa2d7ad2e112a5c669f20a735871f3abb32e74f945ad2f8f"
+    },
+    {
+      "eventId": "tp-prayer-book",
+      "sha256": "1a018c5b58402d5ef5cbc93fe33beb581ffde9a5cd44c8e903dcc55c9854fbcb"
+    },
+    {
+      "eventId": "tp-peace-augsburg",
+      "sha256": "87d1a7c7af5f82c91199685a05b052d7b823607cf43aa55a08174a510e793b05"
+    },
+    {
+      "eventId": "tp-elizabeth",
+      "sha256": "296833d6594936c162c62fcdcb1dbc949629b59c8000c9959d6bde260adabd2e"
+    },
+    {
+      "eventId": "tp-french",
+      "sha256": "5bf404b2cfd6abc8fbd15e93f5a0d96f50bab3dab9ef83571a36d845ba306afe"
+    },
+    {
+      "eventId": "tp-scots",
+      "sha256": "a30c5b24ebf52bd64d7b2cb7e155b7062a5535d31d1226dfe3831c4fd3007859"
+    },
+    {
+      "eventId": "tp-belgic",
+      "sha256": "2cbfccdeadbc9f3c9e9b10520e71dec5008242580d6ea42b90e711536b5b35f6"
+    },
+    {
+      "eventId": "tp-heidelberg",
+      "sha256": "c4d3003e05a573783d36ecb725b1ce0996dac30c8b761a8b5ede9b9c6fc7e9dc"
+    },
+    {
+      "eventId": "tp-second-helvetic",
+      "sha256": "31dbc601c6e777697b7b9080b97e8dc94a0453dcff3cc4199f41ae985236b49c"
+    },
+    {
+      "eventId": "tp-articles",
+      "sha256": "82f7f654df74fffcfe652fc0be2844b16627b5169c01a396e9a29e5fa6f917eb"
+    },
+    {
+      "eventId": "to-tubingen",
+      "sha256": "7b5a58d071e116fe0f4341d3e9de52b5de23c205a3f56a666b7dd0cd3cc48fcd"
+    },
+    {
+      "eventId": "tp-concord",
+      "sha256": "41d60a9ad0204a04a581779035b6ed501670396cadd31b3105bc28ffd49a60d4"
+    },
+    {
+      "eventId": "to-moscow-1589",
+      "sha256": "44cb59e38b97d03bbec005bbb5795f6ac26d0fc355337a658a53f47d6c7593ec"
+    },
+    {
+      "eventId": "to-brest-1596",
+      "sha256": "7227ced1b14fd1fd50ac30cf5db58f797298be33df71a350b3cd81c448022c4f"
+    },
+    {
+      "eventId": "tp-general-baptists",
+      "sha256": "addc7129ed10c96cfd1e8227980c01c885113aaccc508305826adb5860103ab3"
+    },
+    {
+      "eventId": "tp-remonstrance",
+      "sha256": "acb19451292948e9036b0939b350c4b4d0226f95eb0ae116ab48ccc754bca33c"
+    },
+    {
+      "eventId": "tp-helwys",
+      "sha256": "4355502fea5db6a4cc13d10c9da270541e21ec7a246dbbbf809628d6ee9990b7"
+    },
+    {
+      "eventId": "tp-dort",
+      "sha256": "9313743da6682631b3a22840a9465d5334e0aa1a2817bf0d8afb6e1924271dd0"
+    },
+    {
+      "eventId": "to-lucaris-1629",
+      "sha256": "b22732f72a0409f1c548dd200892d62f0bab2a611247ecd903c4a35b37c4b177"
+    },
+    {
+      "eventId": "tp-particular-baptists",
+      "sha256": "4b10303d501c9b50ba8958a7dbec419c402ee73424f0285e2908d052c336e9de"
+    },
+    {
+      "eventId": "to-mogila-1642",
+      "sha256": "7bae8bf01adddd3c3ae1b61a5eff6d96f65cd68d88b8a9867b2be5db2bd88e5f"
+    },
+    {
+      "eventId": "tp-first-london",
+      "sha256": "7971d3866ba4991fa2d672faeedab58f528dc48381fc3c771798ff00905e3992"
+    },
+    {
+      "eventId": "tp-westminster",
+      "sha256": "f33a46f343bc185bf3adc298eac21b04569ebd47d26c7176ddba6b41f02b5a72"
+    },
+    {
+      "eventId": "tp-savoy",
+      "sha256": "e7bee9ff5d98dab85340f7d11eaea16fdef94997c9fa2f07dea2088631acbc87"
+    },
+    {
+      "eventId": "to-old-believers",
+      "sha256": "9f6c36d4234d345bc1d4efe7d09485ba0630d62a5871976109912ede9748e6cb"
+    },
+    {
+      "eventId": "to-jerusalem-1672",
+      "sha256": "29a69f34590a61a5fa80bcb259dc92f32682ad5b0d16ad8f443a858930bf60d4"
+    },
+    {
+      "eventId": "tp-pietism",
+      "sha256": "8a2106bccef33a01f87c01c1d42f7c116258d5d22ffde05d7788aa4b83b982f5"
+    },
+    {
+      "eventId": "tp-second-london",
+      "sha256": "24cfde775655f108f56fc4b327e1f69eea8f0c9d2c78c3fa9fd5b14f8df262bc"
+    },
+    {
+      "eventId": "to-nonjurors-1716",
+      "sha256": "fa532e4d89605fd63642eb86ddbf35fa1a4d223a587c756848c8605ad57415d5"
+    },
+    {
+      "eventId": "to-russia-1721",
+      "sha256": "1e8fdcf13410da5c3f261bcb9e544c55c887ea13f821697138572b71a8cf0c6b"
+    },
+    {
+      "eventId": "tp-moravian",
+      "sha256": "2e875b98e2ca284e06325b95bfc5888f8d78fbd180340cc5020e7d08107c9ca5"
+    },
+    {
+      "eventId": "tp-great-awakening",
+      "sha256": "fc7a3d6b05188ec888a3113ac086b5280aed980be245f6f91454f6b02d075922"
+    },
+    {
+      "eventId": "tp-aldersgate",
+      "sha256": "4b86b53eae689354a93b116fc1a7f9a425d889124f022f0cbda17c1274fc3dd2"
+    },
+    {
+      "eventId": "tp-methodist-societies",
+      "sha256": "b324e6c9d8a57319ba54f5dce7744ab2f46fc3b5b6013b9f2a27b5aa30e511a1"
+    },
+    {
+      "eventId": "to-philokalia-1782",
+      "sha256": "67900c6ba78d6b7620d65bd9cd76faa012910487a205d4823d1c3d594e7b6304"
+    },
+    {
+      "eventId": "tp-mec",
+      "sha256": "765e2ecfa3297d6c6e3b6bc16c4f0aa5ea5c1d87d602c7359b8eb8879ffbc9e7"
+    },
+    {
+      "eventId": "to-alaska-1794",
+      "sha256": "16204f9cf2a8eceb19df7d646031fb1898f85bdcd10860649a7a39cfea77c7bb"
+    },
+    {
+      "eventId": "tp-cane-ridge",
+      "sha256": "ee09230fe381e526908d3bd0f6d7631cd441ed37032b2857be3aa99943c02f92"
+    },
+    {
+      "eventId": "tp-springfield",
+      "sha256": "8fd9f33ccc1753423395e29e71f0de6faa26ed291d2fbe99f13e77ac0615bfbc"
+    },
+    {
+      "eventId": "tp-stone-campbell",
+      "sha256": "f48cb10dca217889c78a91bea9f3ca919f594301a3b89bd6bc2bb9e3afffd96e"
+    },
+    {
+      "eventId": "tp-sbc",
+      "sha256": "6094806b519676415c22e0b4269320229460056e3a0a218ef9606f94c768d654"
+    },
+    {
+      "eventId": "to-encyclical-1848",
+      "sha256": "5cabd98e341d41132f93a9e5c3f9bcc41aeca0ca62c8938a9ee8c1f9efb6c949"
+    },
+    {
+      "eventId": "tw-vatican1",
+      "sha256": "1193db91241689e273c156f57443846460b6424611c0872a81d3d5b2a16e06d4"
+    },
+    {
+      "eventId": "tp-azusa",
+      "sha256": "16e49db767e0cd00eb0905464bb08f397a9a279b4af3696a0e807615efd4210a"
+    },
+    {
+      "eventId": "tp-assemblies",
+      "sha256": "61b6035b9994f96a5975b430ec09cac0c23b39960f1bb441820d3839bee0bacc"
+    },
+    {
+      "eventId": "to-russian-council-1917",
+      "sha256": "a468334dfecb96eda44517b2ebad7e51ae5a456daf91aad8fe8c1f7fbaa99550"
+    },
+    {
+      "eventId": "to-rocor-origins",
+      "sha256": "6603f64a3a3c4cb07e2aec4c674835eccee1f998f10966702ae3f28f8801df65"
+    },
+    {
+      "eventId": "to-ukaz-1920",
+      "sha256": "58ea74225d7e683860e687360b1a5789290080bf9218516dcd081cccf8f4b78a"
+    },
+    {
+      "eventId": "tp-barmen",
+      "sha256": "375466131992a0a73c67b784b51391c91cd81c52b6afb05c9ecc681a3892713d"
+    },
+    {
+      "eventId": "tw-vatican2",
+      "sha256": "4ae3bde2658ffda4613608f114a462c9d813f36cf2d548edd1f1ed315f16d6e5"
+    },
+    {
+      "eventId": "to-anathemas-1965",
+      "sha256": "b5a4fa7dcc7d156e98093ca3dcc554e064aa3e679a3239ac6373b26a9ddea386"
+    },
+    {
+      "eventId": "tp-pca",
+      "sha256": "6a47c09191f331193a49a0494b18ab0369ad971692aedf77561252ae0333ec99"
+    },
+    {
+      "eventId": "tp-piper",
+      "sha256": "cb65c52ecec3849a3e9a73179bda228b54bcd430d96fd23b2656456e632be40f"
+    },
+    {
+      "eventId": "tp-jddj",
+      "sha256": "e0a4e12f41f0bea6d3015fdd4544a59bb5c5735a59c84d3f63d4213a1ac60393"
+    },
+    {
+      "eventId": "to-rocor-2007",
+      "sha256": "5afd015d0e326ee6bd61185d1560e1361bd3103a6e720f513c23c5b39b2b2f06"
+    },
+    {
+      "eventId": "tp-wcrc",
+      "sha256": "c29f21ded90293da395ab248b5f87dd9919e32f62e0894ffca583508416b8c27"
+    }
+  ],
+  "evidence": [
+    {
+      "eventId": "to-jerusalem-apostolic",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-oca-church"
+      ],
+      "locators": [
+        "The Church, first century: paragraph on the Gentile question"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-church.txt",
+          "sha256": "bae8a56790efceb1ea4b3aec2e4e3b07f269021bb3c368244613c08aca7c138a"
+        }
+      ]
+    },
+    {
+      "eventId": "to-jerusalem-apostolic",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-catholic-jerusalem"
+      ],
+      "locators": [
+        "General Audience, discussion of the assembly in Acts 15 and Galatians 2"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-catholic-jerusalem.txt",
+          "sha256": "5b63d081067dc835c72680e85ebaaf551d8b95d9186d8215b60cb049ebc06d3e"
+        }
+      ]
+    },
+    {
+      "eventId": "to-jerusalem-apostolic",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession XIX.3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-jerusalem-apostolic",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Article VII"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-325",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-nicaea1"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-nicaea1.txt",
+          "sha256": "757f2ea7f41cdc3bc12b6f44653d636493ee81b980c2308e32efe64e173db1fc"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-325",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-christology"
+      ],
+      "locators": [
+        "Catechism §465"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-christology.txt",
+          "sha256": "61b7983fc701d529cdda83aae34d2d808f852d35db16d3e7350231391ae21af4"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-325",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession II.3; VIII.2; XXXI.2–3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-325",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Articles I–II, VIII and XXI"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-325",
+      "group": "Coptic Orthodox (Oriental Orthodox family)",
+      "sourceIds": [
+        "rc-e-coptic-councils"
+      ],
+      "locators": [
+        "The Ecumenical Councils: list of the three councils and comparison with Greek Orthodox councils"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-coptic-councils.txt",
+          "sha256": "9207cc62f78a6ba3451bea501b3719d75492c4fb348afc5d7dbeefa66fcb0300"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-381",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-const1"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-const1.txt",
+          "sha256": "37b7b59f1796562f82b90ffcc2b5388f28c2339f059538d1500c9ab56b420ea1"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-381",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-filioque-catechism"
+      ],
+      "locators": [
+        "Catechism §§245–248"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-w-filioque-catechism.txt",
+          "sha256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-381",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession II.3; XXXI.2–3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-381",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Articles I, V, VIII and XXI"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-381",
+      "group": "Coptic Orthodox (Oriental Orthodox family)",
+      "sourceIds": [
+        "rc-e-coptic-councils"
+      ],
+      "locators": [
+        "The Ecumenical Councils: list of the three councils and comparison with Greek Orthodox councils"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-coptic-councils.txt",
+          "sha256": "9207cc62f78a6ba3451bea501b3719d75492c4fb348afc5d7dbeefa66fcb0300"
+        }
+      ]
+    },
+    {
+      "eventId": "to-ephesus-431",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-ephesus"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-ephesus.txt",
+          "sha256": "58cc78456fb9392ea82eafac0a4a9d4dc80184d5e5fc27ee28e2588a892949f5"
+        }
+      ]
+    },
+    {
+      "eventId": "to-ephesus-431",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-christology"
+      ],
+      "locators": [
+        "Catechism §466"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-christology.txt",
+          "sha256": "61b7983fc701d529cdda83aae34d2d808f852d35db16d3e7350231391ae21af4"
+        }
+      ]
+    },
+    {
+      "eventId": "to-ephesus-431",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession VIII.2; XXXI.2–3 (American numbering)"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-ephesus-431",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Articles II and XXI"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-ephesus-431",
+      "group": "Coptic Orthodox (Oriental Orthodox family)",
+      "sourceIds": [
+        "rc-e-coptic-councils"
+      ],
+      "locators": [
+        "The Ecumenical Councils: list of the three councils and comparison with Greek Orthodox councils"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-coptic-councils.txt",
+          "sha256": "9207cc62f78a6ba3451bea501b3719d75492c4fb348afc5d7dbeefa66fcb0300"
+        }
+      ]
+    },
+    {
+      "eventId": "to-chalcedon-451",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-chalcedon"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-chalcedon.txt",
+          "sha256": "42c7a251b562d5fd132c54c96dce850e948e35f9e3ec2778261c46820fb38f3b"
+        }
+      ]
+    },
+    {
+      "eventId": "to-chalcedon-451",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-christology"
+      ],
+      "locators": [
+        "Catechism §467"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-christology.txt",
+          "sha256": "61b7983fc701d529cdda83aae34d2d808f852d35db16d3e7350231391ae21af4"
+        }
+      ]
+    },
+    {
+      "eventId": "to-chalcedon-451",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession VIII.2; XXXI.2–3 (American numbering)"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-chalcedon-451",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Articles II and XXI"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-chalcedon-451",
+      "group": "Coptic Orthodox (Oriental Orthodox family)",
+      "sourceIds": [
+        "rc-e-coptic-councils",
+        "rc-e-coptic-catholic-1973"
+      ],
+      "locators": [
+        "The Ecumenical Councils: list of the three councils and comparison with Greek Orthodox councils",
+        "Common Declaration, paragraph beginning “In accordance with our apostolic traditions”"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-coptic-councils.txt",
+          "sha256": "9207cc62f78a6ba3451bea501b3719d75492c4fb348afc5d7dbeefa66fcb0300"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-coptic-catholic-1973.txt",
+          "sha256": "bf8f199d770c9899d719d4a3b0231f066ea4b736ca66120af4e2602407c54e02"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-553",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-const2"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-const2.txt",
+          "sha256": "70fc49af3ab08c5dc5f1cdf87d5ab196560aab4aab3fff2773cb1f0c7d681d33"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-553",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-christology"
+      ],
+      "locators": [
+        "Catechism §468"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-christology.txt",
+          "sha256": "61b7983fc701d529cdda83aae34d2d808f852d35db16d3e7350231391ae21af4"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-553",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession VIII.2; XXXI.2–3 (American numbering)"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-681",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-const3"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-const3.txt",
+          "sha256": "30859cb9e1459b18aad94105208cb9cfec8ce8f1628891363a777e48cadee975"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-681",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-christology"
+      ],
+      "locators": [
+        "Catechism §475"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-christology.txt",
+          "sha256": "61b7983fc701d529cdda83aae34d2d808f852d35db16d3e7350231391ae21af4"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-681",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession VIII.2; XXXI.2–3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-trullo-692",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-oca-trullo"
+      ],
+      "locators": [
+        "Opening paragraphs; canon 13 and concluding clerical-discipline discussion"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-trullo.txt",
+          "sha256": "85a6a5d32cb786c468ecdf884fcbd405c49e8bd34dad00743f5e59124f9efeb2"
+        }
+      ]
+    },
+    {
+      "eventId": "to-trullo-692",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-orders"
+      ],
+      "locators": [
+        "Catechism §§1579–1580"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-orders.txt",
+          "sha256": "4cdf2d3b39d8c40a048b797c97bb0187be1b2c1217ea69969bddd7bf57e4ab21"
+        }
+      ]
+    },
+    {
+      "eventId": "to-trullo-692",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Articles XXI and XXXII"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-787",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-e-oca-councils",
+        "ts-o-oca-icons"
+      ],
+      "locators": [
+        "The Councils: seven-council table and explanation of reception",
+        "Event-specific OCA council history"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-oca-councils.txt",
+          "sha256": "b953ef4f02b2c220ad3aecf240b69a47e05482776b153ff37ebbdf289ef98f8c"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-icons.txt",
+          "sha256": "d5d74e52abd1b7f8aae597cf4033b244b861379cf435d14139017f392431718f"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-787",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-images"
+      ],
+      "locators": [
+        "Catechism §§2131–2132"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-images.txt",
+          "sha256": "5eddf78e32ea9be2a0a9bed52a42abe90c8d5c9d07e1071e0e073491e3bf9431"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-787",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wlc"
+      ],
+      "locators": [
+        "Larger Catechism Q.109"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wlc.txt",
+          "sha256": "d7ff36becb44057cfe73c826662fdc2882bea962c9c0f2dd62cbe9160315fd15"
+        }
+      ]
+    },
+    {
+      "eventId": "to-nicaea-787",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Article XXII"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-photius-879",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-oca-photius"
+      ],
+      "locators": [
+        "Concluding paragraphs on the council of 879"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-photius.txt",
+          "sha256": "f5796229f83019fb38526296a76c6e2fdc6c9b7847fd123f9850f6dae38e4359"
+        }
+      ]
+    },
+    {
+      "eventId": "to-photius-879",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-filioque-catechism"
+      ],
+      "locators": [
+        "Catechism §§245–248"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-w-filioque-catechism.txt",
+          "sha256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834"
+        }
+      ]
+    },
+    {
+      "eventId": "to-palamas-1351",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-oca-palamas"
+      ],
+      "locators": [
+        "Essence and Energies; concluding paragraph before Nicholas Cabasilas extract"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-palamas.txt",
+          "sha256": "16e20dc2a905347d6487d9fb796d365afc17f650719d6974a5f9589fb0277eb3"
+        }
+      ]
+    },
+    {
+      "eventId": "to-palamas-1351",
+      "group": "Other churches",
+      "sourceIds": [
+        "ts-o-oca-palamas"
+      ],
+      "locators": [
+        "Essence and Energies"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-palamas.txt",
+          "sha256": "16e20dc2a905347d6487d9fb796d365afc17f650719d6974a5f9589fb0277eb3"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-1484",
+      "group": "Eastern patriarchs in the 1482–1484 synod",
+      "sourceIds": [
+        "ts-o-dragas-1484"
+      ],
+      "locators": [
+        "Section 2, opening paragraphs and translated Acolouthy"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-dragas-1484.txt",
+          "sha256": "c6285d74cbbdf3acaf146bca6ad9f41a19dd33ba4c6696f62c8e5f0e19d885cd"
+        }
+      ]
+    },
+    {
+      "eventId": "to-constantinople-1484",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-filioque-catechism"
+      ],
+      "locators": [
+        "Catechism §246"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-w-filioque-catechism.txt",
+          "sha256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834"
+        }
+      ]
+    },
+    {
+      "eventId": "to-lucaris-1629",
+      "group": "Orthodox councils at Iași and Jerusalem",
+      "sourceIds": [
+        "ts-o-oca-lucaris",
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Cyril Lukaris, final two paragraphs; Acts and Decrees, decree XIII"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-lucaris.txt",
+          "sha256": "cf50ec6ffade1065559b1db7680c2c70c9087eafb28ae4ec7294291578a21975"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-jerusalem.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "to-lucaris-1629",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession III.5; XI.1–2"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-mogila-1642",
+      "group": "Orthodox bishops at Iași",
+      "sourceIds": [
+        "ts-o-oca-mogila"
+      ],
+      "locators": [
+        "Saint Peter Mogila, paragraphs on the councils of Kiev and Iași"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-mogila.txt",
+          "sha256": "d8ac4938da03d85f5a2957e0102566a24a70517ffbeccfd13344f25159fb648d"
+        }
+      ]
+    },
+    {
+      "eventId": "to-mogila-1642",
+      "group": "Other churches",
+      "sourceIds": [
+        "ts-o-oca-mogila"
+      ],
+      "locators": [
+        "Saint Peter Mogila, council-approval paragraph"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-mogila.txt",
+          "sha256": "d8ac4938da03d85f5a2957e0102566a24a70517ffbeccfd13344f25159fb648d"
+        }
+      ]
+    },
+    {
+      "eventId": "to-old-believers",
+      "group": "Moscow council of 1666–1667",
+      "sourceIds": [
+        "ts-o-oca-russia1667"
+      ],
+      "locators": [
+        "The Council of 1666–1667"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-russia1667.txt",
+          "sha256": "7e7616c2e03c26037cc286cd58291c37343f84daeb423077fa2522326221782c"
+        }
+      ]
+    },
+    {
+      "eventId": "to-old-believers",
+      "group": "Old Believer opponents",
+      "sourceIds": [
+        "ts-o-oca-russia1667"
+      ],
+      "locators": [
+        "The Old Believer Schism"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-russia1667.txt",
+          "sha256": "7e7616c2e03c26037cc286cd58291c37343f84daeb423077fa2522326221782c"
+        }
+      ]
+    },
+    {
+      "eventId": "to-jerusalem-1672",
+      "group": "Orthodox synod of Jerusalem/Bethlehem",
+      "sourceIds": [
+        "ts-o-jerusalem",
+        "ts-o-oca-lucaris"
+      ],
+      "locators": [
+        "Confession of Dositheus, decrees III, XIII and XVII; Cyril Lukaris, final paragraph"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-jerusalem.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-oca-lucaris.txt",
+          "sha256": "cf50ec6ffade1065559b1db7680c2c70c9087eafb28ae4ec7294291578a21975"
+        }
+      ]
+    },
+    {
+      "eventId": "to-jerusalem-1672",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession III.5; XI.1–2; XVI.2; XXIX.6–7"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "to-jerusalem-1672",
+      "group": "Anglican Articles",
+      "sourceIds": [
+        "rc-e-anglican-articles"
+      ],
+      "locators": [
+        "Articles XI–XII and XXVIII"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-anglican-articles.txt",
+          "sha256": "00be4bb7a956f359d8997750540bcab99a52fc5cffd9e1e7ecedf00978eb8275"
+        }
+      ]
+    },
+    {
+      "eventId": "to-encyclical-1848",
+      "group": "Eastern patriarchs and synods signing in 1848",
+      "sourceIds": [
+        "ts-o-1848"
+      ],
+      "locators": [
+        "Encyclical §§5, 12–17"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-o-1848.txt",
+          "sha256": "2e4aa3b54f727a7c294f49248b2981d8ba8264c3bff4254397a73f7d5593c5af"
+        }
+      ]
+    },
+    {
+      "eventId": "to-encyclical-1848",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-filioque-catechism",
+        "ts-w-vatican1-official"
+      ],
+      "locators": [
+        "Catechism §§246–248; Pastor Aeternus, chapter III"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-w-filioque-catechism.txt",
+          "sha256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834"
+        },
+        {
+          "file": "timeline-clarity/evidence/early-east/ts-w-vatican1-official.txt",
+          "sha256": "7fa51f5258f3ae9a6e432064572a49e45f9997537985baa8e18601cc33729c52"
+        }
+      ]
+    },
+    {
+      "eventId": "to-encyclical-1848",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-e-pca-wcf"
+      ],
+      "locators": [
+        "Westminster Confession II.3 and XXV.6"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-pca-wcf.txt",
+          "sha256": "d526167473a3f9c156d5a1eab2005ae7434044a17a3206ebef6a8bd476610f31"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-filioque-rome",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-filioque-catechism"
+      ],
+      "locators": [
+        "Catechism §§246–248"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/filioque-catechism.txt",
+          "sha256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-filioque-rome",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-spirit"
+      ],
+      "locators": [
+        "Holy Spirit, paragraphs beginning “Orthodox doctrine confesses” and “At this point”"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-spirit.html",
+          "sha256": "58238487242134c966d5344656decf55878dda7be1d19cd9540126b36098949b"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-spirit.txt",
+          "sha256": "10f060aa6ebeb2113fa087ed126789f61d58fd81954e3c1a7871938efe23cfa2"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-filioque-rome",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter II.3, printed p.12 / PDF page 12"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-dictatus",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-w-lumen",
+        "ts-w-dictatus"
+      ],
+      "locators": [
+        "Lumen Gentium §22",
+        "Dictatus Papae, propositions 2–3, 12, 19"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.html",
+          "sha256": "7e0dccd5d56d433a3530defc93eb765ddea634e75269d7619467f32fec5ce1b0"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.txt",
+          "sha256": "920c7cb81920e1051c365bfe1356a6a0f34308e8af2727d1a4fb5505296b3e10"
+        },
+        {
+          "file": "timeline/evidence/west-book/dictatus.txt",
+          "sha256": "acb87b40db420e3a3d7551939f401948bd8f15395c564869ddd5eb16c19f17df"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-dictatus",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-beliefs"
+      ],
+      "locators": [
+        "Chapter 11, PDF page 191"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.pdf",
+          "sha256": "bd5da136858aa76fd6c02c6bf46b3b19d28f62f2ba8f06613f3f3d79204fd197"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-dictatus",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXV.6, printed p.128 / PDF page 128"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lateran1215",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-lateran4"
+      ],
+      "locators": [
+        "Constitution 1"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/lateran4.txt",
+          "sha256": "06edb7f58c9606a095faa742deb0c4d7bd167f61953302023d471340f8209147"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lateran1215",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-eucharist",
+        "rc-w-oca-councils"
+      ],
+      "locators": [
+        "Holy Eucharist, paragraphs on real presence and mystery",
+        "The Councils, seven-council list"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-eucharist.html",
+          "sha256": "dee907cd7cf65f151b10b94c7c11f8908f7038e0420c8657bbb04af1b2d4acb3"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-eucharist.txt",
+          "sha256": "d3507ee2dc45704b5c0f5226631488273c9afdb35e8bcc61ad77428bd45b79b6"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.html",
+          "sha256": "f350b3776e95f8f1e0dcacef764086dfe76a3d126fa4277006df5cad269dcdf3"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.txt",
+          "sha256": "1cb26a4065553fd024a7992e8161eae99f2b9f1d40336e73516bac3b0920cc64"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lateran1215",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXIX.6–7, printed p.141 / PDF page 141"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lateran1215",
+      "group": "Lutheran (Augsburg Confession)",
+      "sourceIds": [
+        "rc-w-augsburg10"
+      ],
+      "locators": [
+        "Article X.1–2"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-augsburg10.html",
+          "sha256": "1e8db86207b5239c89746836d0bdccfab641563a4209b1be4b011b771f7ea84a"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-augsburg10.txt",
+          "sha256": "b33bc74fcf3340316d08cce7b1239582ff790c3f1fe48c25a7b82d8ac21ac174"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lyons1274",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-lyons2",
+        "ts-w-filioque-catechism"
+      ],
+      "locators": [
+        "Lyons II, constitution 1",
+        "Catechism §§246–248"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/lyons2.txt",
+          "sha256": "d6453962d380c7302181213d2a23cf51a34769b16236b5b46cb607a44704ff62"
+        },
+        {
+          "file": "timeline/evidence/west-book/filioque-catechism.txt",
+          "sha256": "ce45fcc400dafc3d067986f94f1a38cf765e85b5e206701e02d669c41cbdb834"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lyons1274",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-spirit",
+        "ts-w-lyons2"
+      ],
+      "locators": [
+        "Holy Spirit, paragraph beginning “At this point”",
+        "Lyons II, constitution 1"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-spirit.html",
+          "sha256": "58238487242134c966d5344656decf55878dda7be1d19cd9540126b36098949b"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-spirit.txt",
+          "sha256": "10f060aa6ebeb2113fa087ed126789f61d58fd81954e3c1a7871938efe23cfa2"
+        },
+        {
+          "file": "timeline/evidence/west-book/lyons2.txt",
+          "sha256": "d6453962d380c7302181213d2a23cf51a34769b16236b5b46cb607a44704ff62"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-lyons1274",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter II.3; chapter XXXI.2–3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-unam1302",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-w-lumen",
+        "rc-w-ccc-church"
+      ],
+      "locators": [
+        "Lumen Gentium §22",
+        "Catechism §§846–848"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.html",
+          "sha256": "7e0dccd5d56d433a3530defc93eb765ddea634e75269d7619467f32fec5ce1b0"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.txt",
+          "sha256": "920c7cb81920e1051c365bfe1356a6a0f34308e8af2727d1a4fb5505296b3e10"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-ccc-church.html",
+          "sha256": "35a5eab978ca7635cda4d5c1a35a70f4725d78a10097d22185e875ec154533fc"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-ccc-church.txt",
+          "sha256": "2964b45357f528b4fddaebd255e1b2c287332ad62f8930eeea3def4eba8d920a"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-unam1302",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-papacy",
+        "rc-w-oca-beliefs"
+      ],
+      "locators": [
+        "Anti-Catholic, answer paragraphs 2–3",
+        "Essential Orthodox Christian Beliefs, chapter 11, PDF page 191"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-papacy.html",
+          "sha256": "48ba36a7c19f93d3fe77fd21ece213a91dac6dde1e3d7141859188c065ded1a1"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-papacy.txt",
+          "sha256": "6cedaf9193da0bf9df7c36721c6911aa3a9db23a3e5b9ca1a89cc64759e20a25"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.pdf",
+          "sha256": "bd5da136858aa76fd6c02c6bf46b3b19d28f62f2ba8f06613f3f3d79204fd197"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-unam1302",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXV.6"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-constance",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-constance-context",
+        "ts-w-vatican1"
+      ],
+      "locators": [
+        "Catholic Encyclopedia, “The extinction of the so-called Western Schism,” discussion of sessions 3–5",
+        "Pastor Aeternus, chapter III, paragraph rejecting appeal to a higher general council"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/constance-history.txt",
+          "sha256": "6e60e0e4882f569af6ddf2aa5fd7530137cf332551cada262343f037aa031219"
+        },
+        {
+          "file": "timeline/evidence/root/vatican1-english-definition.txt",
+          "sha256": "033dd437ebf57290bdb16d497773f9425017b4064209787c48ff81d2631d9ed6"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-constance",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-w-constance",
+        "rc-w-oca-councils"
+      ],
+      "locators": [
+        "Haec Sancta, session 5",
+        "The Councils, account of Orthodox reception"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/constance.txt",
+          "sha256": "985754959305dded6995535d81845f2e81cab6a8a601972a1547392fa7808482"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.html",
+          "sha256": "f350b3776e95f8f1e0dcacef764086dfe76a3d126fa4277006df5cad269dcdf3"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.txt",
+          "sha256": "1cb26a4065553fd024a7992e8161eae99f2b9f1d40336e73516bac3b0920cc64"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-constance",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXXI.2–3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-florence1439",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-florence",
+        "rc-w-lumen"
+      ],
+      "locators": [
+        "Laetentur caeli, definition of Roman primacy",
+        "Lumen Gentium §22"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/florence.txt",
+          "sha256": "289b7138a2a5ebdd8d345707959fa608ac352ff1ba143c3fd499d2de6c5c0553"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.html",
+          "sha256": "7e0dccd5d56d433a3530defc93eb765ddea634e75269d7619467f32fec5ce1b0"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.txt",
+          "sha256": "920c7cb81920e1051c365bfe1356a6a0f34308e8af2727d1a4fb5505296b3e10"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-florence1439",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-oca-florence-context",
+        "rc-w-oca-beliefs"
+      ],
+      "locators": [
+        "Fifteenth-century history, Florence and Mark of Ephesus",
+        "Essential Orthodox Christian Beliefs, chapter 11, PDF page 191"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.pdf",
+          "sha256": "bd5da136858aa76fd6c02c6bf46b3b19d28f62f2ba8f06613f3f3d79204fd197"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-florence1439",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXV.6"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-trent",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent4",
+        "ts-w-trent6",
+        "ts-w-trent13"
+      ],
+      "locators": [
+        "Session IV, decree on canonical Scriptures",
+        "Session VI, chapters VII–VIII",
+        "Session XIII, chapter IV"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-4.txt",
+          "sha256": "34f566c9ca7246f9b344831b7d2cc51f1c922b65f566e6a5bcd0cef4a437f8d2"
+        },
+        {
+          "file": "timeline/evidence/west-book/trent-6.txt",
+          "sha256": "982423f5190acecfd0acacd3901efb668a74b06e5079bb5605fb570f09bffd17"
+        },
+        {
+          "file": "timeline/evidence/west-book/trent-13.txt",
+          "sha256": "eca7e2465b8f59fdac9c9cbb31269f24a98d39a84aabc9af22665cad8d51d614"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-trent",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-councils",
+        "rc-w-oca-eucharist"
+      ],
+      "locators": [
+        "The Councils, seven-council list",
+        "Holy Eucharist, real presence and mystery"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.html",
+          "sha256": "f350b3776e95f8f1e0dcacef764086dfe76a3d126fa4277006df5cad269dcdf3"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.txt",
+          "sha256": "1cb26a4065553fd024a7992e8161eae99f2b9f1d40336e73516bac3b0920cc64"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-eucharist.html",
+          "sha256": "dee907cd7cf65f151b10b94c7c11f8908f7038e0420c8657bbb04af1b2d4acb3"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-eucharist.txt",
+          "sha256": "d3507ee2dc45704b5c0f5226631488273c9afdb35e8bcc61ad77428bd45b79b6"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-trent",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter I.6; chapter XI.1; chapter XXIX.6"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-vatican1",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-vatican1",
+        "rc-w-lumen"
+      ],
+      "locators": [
+        "Pastor Aeternus, chapters III–IV",
+        "Lumen Gentium §§22, 25"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/root/vatican1-english-definition.txt",
+          "sha256": "033dd437ebf57290bdb16d497773f9425017b4064209787c48ff81d2631d9ed6"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.html",
+          "sha256": "7e0dccd5d56d433a3530defc93eb765ddea634e75269d7619467f32fec5ce1b0"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-lumen.txt",
+          "sha256": "920c7cb81920e1051c365bfe1356a6a0f34308e8af2727d1a4fb5505296b3e10"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-vatican1",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-beliefs",
+        "rc-w-oca-infallibility"
+      ],
+      "locators": [
+        "Essential Orthodox Christian Beliefs, chapter 11, PDF page 191",
+        "Infallibility, answer"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.pdf",
+          "sha256": "bd5da136858aa76fd6c02c6bf46b3b19d28f62f2ba8f06613f3f3d79204fd197"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-beliefs.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-infallibility.html",
+          "sha256": "7d005cb5f59153d6d947643188d197445d56721559c02f2569b0caf480a66adc"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-infallibility.txt",
+          "sha256": "9dc0ac771cc446795ce6915b67d5bb8765d2947e05c8b7917b6906a228a7ad28"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-vatican1",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXV.6; chapter XXXI.3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-vatican2",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-unitatis",
+        "ts-w-dignitatis"
+      ],
+      "locators": [
+        "Unitatis Redintegratio §§1–4, 13–24",
+        "Dignitatis Humanae §§1–3"
+      ],
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/unitatis.txt",
+          "sha256": "b65863b155ffc5f7aa1fed1159326082e4f8c72ed2a62841ee67641e13f80ce7"
+        },
+        {
+          "file": "timeline/evidence/west-book/dignitatis.txt",
+          "sha256": "6534e682223080703710f0fc8ee72e891c0c1c4ff883d41698c32110bf98f6f0"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-vatican2",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-w-oca-councils"
+      ],
+      "locators": [
+        "The Councils, seven-council list and account of reception"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.html",
+          "sha256": "f350b3776e95f8f1e0dcacef764086dfe76a3d126fa4277006df5cad269dcdf3"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-oca-councils.txt",
+          "sha256": "1cb26a4065553fd024a7992e8161eae99f2b9f1d40336e73516bac3b0920cc64"
+        }
+      ]
+    },
+    {
+      "eventId": "tw-vatican2",
+      "group": "Reformed / Presbyterian (Westminster)",
+      "sourceIds": [
+        "rc-w-westminster-pca"
+      ],
+      "locators": [
+        "Chapter XXXI.2–3"
+      ],
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.pdf",
+          "sha256": "d24cbbcdd3e581f24830e7da88ca670d0ab5da7a1d644d1eb42c7bd115556955"
+        },
+        {
+          "file": "timeline-clarity/evidence/west/rc-w-westminster-pca.txt",
+          "sha256": "8487b7ca995fdec3120ff6fc9abe276b6177cf3234a212af28ce26828065eebc"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-theses",
+      "group": "Martin Luther in 1517",
+      "sourceIds": [
+        "ts-p-luther"
+      ],
+      "locators": [
+        "Ninety-Five Theses, especially 5–6, 21, 36 and 71–72"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/luther-first-principles.txt",
+          "sha256": "4ef8b2aeb73db09107896c90f0e6c12578ada3297edb4be7991107e54617ffb5"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-theses",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-indulgences"
+      ],
+      "locators": [
+        "Catechism §§1471–1473"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/ccc-indulgences.txt",
+          "sha256": "cf99546c339453e37830d3ab6aa5df5a1b3c847399ef52e288d96ba09f926e44"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-theses",
+      "group": "Eastern Orthodox",
+      "sourceIds": [],
+      "locators": [],
+      "files": [],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "assessment": "not-established",
+      "reason": "No reception claim is made for this group; the entry explicitly states this research limit."
+    },
+    {
+      "eventId": "tp-treatises",
+      "group": "Luther’s 1520 treatise",
+      "sourceIds": [
+        "ts-p-luther"
+      ],
+      "locators": [
+        "A Treatise on Christian Liberty, argument on faith and justification"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/luther-first-principles.txt",
+          "sha256": "4ef8b2aeb73db09107896c90f0e6c12578ada3297edb4be7991107e54617ffb5"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-treatises",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XIII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-treatises",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent6"
+      ],
+      "locators": [
+        "Session VI, chapter V and Canon IX"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-6.txt",
+          "sha256": "982423f5190acecfd0acacd3901efb668a74b06e5079bb5605fb570f09bffd17"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-zurich",
+      "group": "Zwingli’s Zurich Articles",
+      "sourceIds": [
+        "ts-p-zwingli-en"
+      ],
+      "locators": [
+        "Sixty-Seven Articles, XVIII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/zwingli-en.txt",
+          "sha256": "d2bd7f197ce111bbb81b274ccb8f4dd0f61f34f1d4f0d47f00a3402d256dcc46"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-zurich",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-zurich",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-trent-sacrifice"
+      ],
+      "locators": [
+        "Session XXII, chapters I–II and Canons I–III"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/trent22.txt",
+          "sha256": "b34b67fdde2054e3fa8c5a9eb78aa0145a6a6041c614d53bf6aa618a967efcc4"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-schleitheim",
+      "group": "Schleitheim Anabaptists",
+      "sourceIds": [
+        "ts-p-schleitheim-text"
+      ],
+      "locators": [
+        "Schleitheim Confession, Article I"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/schleitheim-text.txt",
+          "sha256": "5130c5169f9b8ed523eec7623e88c71dde3cecd37b3bf35b675db76a16c6ec80"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-schleitheim",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-schleitheim",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-infant-baptism"
+      ],
+      "locators": [
+        "Catechism §§1250–1252"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/ccc-infant.txt",
+          "sha256": "cf65a1115de40040c22ff57e54f7d4a26edb9bd7b03b9dbc296abeab7d3f78e7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-schleitheim",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-p-westminster"
+      ],
+      "locators": [
+        "Westminster Confession XXVIII.4"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcf.txt",
+          "sha256": "b88a999f3f5b45d59f4c3436482d45e4d7b78c6866b2a743a06e01d6a9140a10"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-marburg",
+      "group": "Luther’s party at Marburg",
+      "sourceIds": [
+        "ts-p-marburg"
+      ],
+      "locators": [
+        "Osiander’s report, negotiations concerning the principal article of the sacrament"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/marburg.txt",
+          "sha256": "97260628df6e2991aea75496373846afe90634f365e7b7fd3a6b0091310e1ae7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-marburg",
+      "group": "Zwingli and Oecolampadius at Marburg",
+      "sourceIds": [
+        "ts-p-marburg"
+      ],
+      "locators": [
+        "Osiander’s report, negotiations with the Swiss participants"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/marburg.txt",
+          "sha256": "97260628df6e2991aea75496373846afe90634f365e7b7fd3a6b0091310e1ae7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-marburg",
+      "group": "Later Protestant confessions",
+      "sourceIds": [
+        "rc-p-concord-supper",
+        "rc-p-westminster"
+      ],
+      "locators": [
+        "Formula of Concord, Epitome VII, Affirmative Theses 2 and 6; Westminster XXIX.7–8"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/concord-supper.txt",
+          "sha256": "f3cf897c3150a7dbef46f4d197fa7165719a1484bd2bee23e7b12d15ffa732e7"
+        },
+        {
+          "file": "timeline-clarity/evidence/protestant/wcf.txt",
+          "sha256": "b88a999f3f5b45d59f4c3436482d45e4d7b78c6866b2a743a06e01d6a9140a10"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-augsburg",
+      "group": "Augsburg Lutheran confession",
+      "sourceIds": [
+        "rc-p-augsburg"
+      ],
+      "locators": [
+        "Augsburg Confession IV; VI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/augsburg.txt",
+          "sha256": "74fcd7a4edcc38d120e95ef43a4e96e8b852782aaab504f933f918cfd51d74a0"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-augsburg",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XIII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-augsburg",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent6"
+      ],
+      "locators": [
+        "Session VI, chapter V and Canon IX"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-6.txt",
+          "sha256": "982423f5190acecfd0acacd3901efb668a74b06e5079bb5605fb570f09bffd17"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-helvetic",
+      "group": "First Helvetic confession",
+      "sourceIds": [
+        "ts-p-first-helvetic-en"
+      ],
+      "locators": [
+        "First Helvetic Confession, Article XXII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/first-helvetic-en.txt",
+          "sha256": "0de5eed77b279d2b2bfffaff80deedde16d7b8818a4d57e4dd86cdbc5b9a6e40"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-helvetic",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-helvetic",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-infant-baptism"
+      ],
+      "locators": [
+        "Catechism §§1250–1252"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/ccc-infant.txt",
+          "sha256": "cf65a1115de40040c22ff57e54f7d4a26edb9bd7b03b9dbc296abeab7d3f78e7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-helvetic",
+      "group": "Schleitheim Anabaptists",
+      "sourceIds": [
+        "ts-p-schleitheim-text"
+      ],
+      "locators": [
+        "Schleitheim Confession I"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/schleitheim-text.txt",
+          "sha256": "5130c5169f9b8ed523eec7623e88c71dde3cecd37b3bf35b675db76a16c6ec80"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-french",
+      "group": "French Reformed confession",
+      "sourceIds": [
+        "ts-p-french"
+      ],
+      "locators": [
+        "French Confession XVIII–XX"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/creeds3.txt",
+          "sha256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-french",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XIII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-french",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent6"
+      ],
+      "locators": [
+        "Session VI, chapter V and Canon IX"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-6.txt",
+          "sha256": "982423f5190acecfd0acacd3901efb668a74b06e5079bb5605fb570f09bffd17"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-scots",
+      "group": "Scots Reformed confession",
+      "sourceIds": [
+        "ts-p-scots"
+      ],
+      "locators": [
+        "Scots Confession VI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/creeds3.txt",
+          "sha256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-scots",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-oca-chalcedon"
+      ],
+      "locators": [
+        "The Fourth Ecumenical Council, explanation of Chalcedon’s definition"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/oca-chalcedon.txt",
+          "sha256": "42c7a251b562d5fd132c54c96dce850e948e35f9e3ec2778261c46820fb38f3b"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-scots",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-e-ccc-christology"
+      ],
+      "locators": [
+        "Catechism §467"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/early-east/rc-e-ccc-christology.txt",
+          "sha256": "61b7983fc701d529cdda83aae34d2d808f852d35db16d3e7350231391ae21af4"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-belgic",
+      "group": "Belgic Reformed confession",
+      "sourceIds": [
+        "ts-p-belgic-current"
+      ],
+      "locators": [
+        "Belgic Confession VII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/belgic.txt",
+          "sha256": "a0471a8caa02a385254e3df36b7dcd82395467c2188f93a746a835d48be96e30"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-belgic",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree II"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-belgic",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent4"
+      ],
+      "locators": [
+        "Session IV, Decree concerning canonical Scriptures"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-4.txt",
+          "sha256": "34f566c9ca7246f9b344831b7d2cc51f1c922b65f566e6a5bcd0cef4a437f8d2"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-heidelberg",
+      "group": "Heidelberg Reformed catechism",
+      "sourceIds": [
+        "ts-p-heidelberg-current"
+      ],
+      "locators": [
+        "Heidelberg Catechism Q78–79"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/heidelberg.txt",
+          "sha256": "ebe1d5e75be389ebe8364efbe61cfb0e3a4362681032e9fbbb940ccccb830e8e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-heidelberg",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-heidelberg",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent13"
+      ],
+      "locators": [
+        "Session XIII, chapter IV and Canon II"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-13.txt",
+          "sha256": "eca7e2465b8f59fdac9c9cbb31269f24a98d39a84aabc9af22665cad8d51d614"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-helvetic",
+      "group": "Second Helvetic Reformed confession",
+      "sourceIds": [
+        "ts-p-second-helvetic"
+      ],
+      "locators": [
+        "Second Helvetic Confession XXI, paragraph rejecting the Mass"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/creeds3.txt",
+          "sha256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-helvetic",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-helvetic",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-trent-sacrifice"
+      ],
+      "locators": [
+        "Session XXII, chapters I–II and Canons I–III"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/trent22.txt",
+          "sha256": "b34b67fdde2054e3fa8c5a9eb78aa0145a6a6041c614d53bf6aa618a967efcc4"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-articles",
+      "group": "Church of England’s Articles",
+      "sourceIds": [
+        "rc-p-anglican-articles"
+      ],
+      "locators": [
+        "Articles of Religion XXVIII–XXIX"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/anglican-articles.txt",
+          "sha256": "280050dbd6abce1a834624112b5a62f49885ed59fe14e6f3eeab77f54859850d"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-articles",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-articles",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent13"
+      ],
+      "locators": [
+        "Session XIII, chapter IV and Canon II"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-13.txt",
+          "sha256": "eca7e2465b8f59fdac9c9cbb31269f24a98d39a84aabc9af22665cad8d51d614"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-concord",
+      "group": "Formula of Concord Lutherans",
+      "sourceIds": [
+        "rc-p-concord-supper"
+      ],
+      "locators": [
+        "Epitome VII, Affirmative Theses 2, 6–7"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/concord-supper.txt",
+          "sha256": "f3cf897c3150a7dbef46f4d197fa7165719a1484bd2bee23e7b12d15ffa732e7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-concord",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-p-westminster"
+      ],
+      "locators": [
+        "Westminster XXIX.7–8"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcf.txt",
+          "sha256": "b88a999f3f5b45d59f4c3436482d45e4d7b78c6866b2a743a06e01d6a9140a10"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-concord",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVII"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-concord",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "ts-w-trent13"
+      ],
+      "locators": [
+        "Session XIII, chapters I and IV"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/west-book/trent-13.txt",
+          "sha256": "eca7e2465b8f59fdac9c9cbb31269f24a98d39a84aabc9af22665cad8d51d614"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-remonstrance",
+      "group": "Remonstrants of 1610",
+      "sourceIds": [
+        "ts-p-remonstrance"
+      ],
+      "locators": [
+        "Five Articles of the Remonstrants I"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/creeds3.txt",
+          "sha256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-remonstrance",
+      "group": "Synod of Dort Reformed",
+      "sourceIds": [
+        "ts-p-dort-current"
+      ],
+      "locators": [
+        "Canons of Dort I.7 and I.9"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/dort.txt",
+          "sha256": "2b05016c1cfcd4956f17bf40598435135669ff924233076a09b9b2a6cfdcb179"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-remonstrance",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree III"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-dort",
+      "group": "Dort Reformed confession",
+      "sourceIds": [
+        "ts-p-dort-current"
+      ],
+      "locators": [
+        "Canons of Dort I.7 and I.9"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/dort.txt",
+          "sha256": "2b05016c1cfcd4956f17bf40598435135669ff924233076a09b9b2a6cfdcb179"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-dort",
+      "group": "Remonstrants of 1610",
+      "sourceIds": [
+        "ts-p-remonstrance"
+      ],
+      "locators": [
+        "Five Articles of the Remonstrants I"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/creeds3.txt",
+          "sha256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-dort",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree III"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-dort",
+      "group": "Roman Catholic",
+      "sourceIds": [],
+      "locators": [],
+      "files": [],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "assessment": "not-established",
+      "reason": "No reception claim is made for this group; the entry explicitly states this research limit."
+    },
+    {
+      "eventId": "tp-first-london",
+      "group": "First London Baptist confession",
+      "sourceIds": [
+        "ts-p-first-london"
+      ],
+      "locators": [
+        "First London Confession XXXIX"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/first-london.txt",
+          "sha256": "145f0e9cfb9054ea542a88e43733c34b71490965ad2d01ffa2bf41f075f30cd1"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-london",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-london",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-infant-baptism"
+      ],
+      "locators": [
+        "Catechism §§1250–1252"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/ccc-infant.txt",
+          "sha256": "cf65a1115de40040c22ff57e54f7d4a26edb9bd7b03b9dbc296abeab7d3f78e7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-first-london",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-p-westminster"
+      ],
+      "locators": [
+        "Westminster XXVIII.4"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcf.txt",
+          "sha256": "b88a999f3f5b45d59f4c3436482d45e4d7b78c6866b2a743a06e01d6a9140a10"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-westminster",
+      "group": "Westminster Reformed; PCA edition",
+      "sourceIds": [
+        "rc-p-westminster"
+      ],
+      "locators": [
+        "Westminster XXVII.4"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcf.txt",
+          "sha256": "b88a999f3f5b45d59f4c3436482d45e4d7b78c6866b2a743a06e01d6a9140a10"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-westminster",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XV"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-westminster",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-seven"
+      ],
+      "locators": [
+        "Catechism §1210"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/ccc-sacraments.txt",
+          "sha256": "161a57a617a57122544bb9a2fed1a6679fb6a9837ac56c96759ee9e3701608e5"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-savoy",
+      "group": "Savoy Congregational confession",
+      "sourceIds": [
+        "ts-p-savoy"
+      ],
+      "locators": [
+        "Of the Institution of Churches and the Order Appointed in Them, IV–VI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/creeds3.txt",
+          "sha256": "33efc2cd94daaff5eb6bbbecc1adadd1a55700f80f9ed55135eb573febce775e"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-savoy",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree X"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-savoy",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-episcopacy"
+      ],
+      "locators": [
+        "Lumen gentium §§20–23"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/lumen-gentium.txt",
+          "sha256": "17740757972e8f9f508d0632be002f25f0eaf50344f8665f31d39ed4f688a551"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-london",
+      "group": "Second London Particular Baptist confession",
+      "sourceIds": [
+        "ts-p-second-london-full"
+      ],
+      "locators": [
+        "Second London Confession XXIX.2"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/london1689.txt",
+          "sha256": "8c42cc06e20e5e4e7d17ef57510adaa505ebae4511dd5d95ac6c7121e987d2ae"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-london",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "ts-o-jerusalem"
+      ],
+      "locators": [
+        "Confession of Dositheus, Decree XVI"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline/evidence/orthodox/jerusalem-original.txt",
+          "sha256": "c7deb14bd30a0e6739a90738d08980ec0b897184b8a6685c036b198c8c29b7d3"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-london",
+      "group": "Roman Catholic",
+      "sourceIds": [
+        "rc-p-catholic-infant-baptism"
+      ],
+      "locators": [
+        "Catechism §§1250–1252"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/ccc-infant.txt",
+          "sha256": "cf65a1115de40040c22ff57e54f7d4a26edb9bd7b03b9dbc296abeab7d3f78e7"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-second-london",
+      "group": "Westminster Reformed",
+      "sourceIds": [
+        "rc-p-westminster"
+      ],
+      "locators": [
+        "Westminster XXVIII.4"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcf.txt",
+          "sha256": "b88a999f3f5b45d59f4c3436482d45e4d7b78c6866b2a743a06e01d6a9140a10"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-barmen",
+      "group": "Barmen Confessing Synod, 1934",
+      "sourceIds": [
+        "ts-p-barmen-text"
+      ],
+      "locators": [
+        "Barmen Theological Declaration, Thesis I"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/reused/barmen-text.txt",
+          "sha256": "af0aa1c39f6a16da08d5b11abcaef8c77d87f5b3b764d25f442cbfc4ae654bad"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-barmen",
+      "group": "Eastern Orthodox",
+      "sourceIds": [],
+      "locators": [],
+      "files": [],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "assessment": "not-established",
+      "reason": "No reception claim is made for this group; the entry explicitly states this research limit."
+    },
+    {
+      "eventId": "tp-barmen",
+      "group": "Roman Catholic",
+      "sourceIds": [],
+      "locators": [],
+      "files": [],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "assessment": "not-established",
+      "reason": "No reception claim is made for this group; the entry explicitly states this research limit."
+    },
+    {
+      "eventId": "tp-jddj",
+      "group": "Subscribing Lutheran churches and Roman Catholic Church",
+      "sourceIds": [
+        "rc-p-jddj-text"
+      ],
+      "locators": [
+        "Joint Declaration §§5, 40–43"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/jddj.txt",
+          "sha256": "76e84332b46a1d31a1c017dfe3dfa5bbfce8282eb576ec3ef5fd6d56b358f39a"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-jddj",
+      "group": "Wisconsin Evangelical Lutheran Synod",
+      "sourceIds": [
+        "rc-p-wels-jddj"
+      ],
+      "locators": [
+        "Questions on Salvation, question beginning “Concerning the Joint Declaration”"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wels-jddj-web.json",
+          "sha256": "2bf58126814614703b1be6e75a85771cdb795719af9fe34deba7a8906112e774"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-jddj",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-p-jddj-text"
+      ],
+      "locators": [
+        "Joint Declaration §5 and title"
+      ],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/jddj.txt",
+          "sha256": "76e84332b46a1d31a1c017dfe3dfa5bbfce8282eb576ec3ef5fd6d56b358f39a"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-wcrc",
+      "group": "World Communion of Reformed Churches",
+      "sourceIds": [
+        "rc-p-wcrc-association"
+      ],
+      "locators": [
+        "Official common affirmation, 2017"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcrc-association.txt",
+          "sha256": "6861dbc22be1f0f3c01e039faf54d01b129ea96bbb28ffde1d69a3f251ba5873"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-wcrc",
+      "group": "Lutheran, Methodist, Roman Catholic and Anglican partners",
+      "sourceIds": [
+        "rc-p-wcrc-association"
+      ],
+      "locators": [
+        "Official common affirmation, partner welcome"
+      ],
+      "basis": "Primary-source comparison; no full-document reception inferred",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcrc-association.txt",
+          "sha256": "6861dbc22be1f0f3c01e039faf54d01b129ea96bbb28ffde1d69a3f251ba5873"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-wcrc",
+      "group": "All Reformed churches, including PCA",
+      "sourceIds": [
+        "rc-p-wcrc-association"
+      ],
+      "locators": [
+        "Official common affirmation: named participating communion and partners"
+      ],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcrc-association.txt",
+          "sha256": "6861dbc22be1f0f3c01e039faf54d01b129ea96bbb28ffde1d69a3f251ba5873"
+        }
+      ]
+    },
+    {
+      "eventId": "tp-wcrc",
+      "group": "Eastern Orthodox",
+      "sourceIds": [
+        "rc-p-wcrc-association"
+      ],
+      "locators": [
+        "Official common affirmation: named participating partners"
+      ],
+      "basis": "Explicit research boundary, not a doctrinal judgment or inference from silence",
+      "files": [
+        {
+          "file": "timeline-clarity/evidence/protestant/wcrc-association.txt",
+          "sha256": "6861dbc22be1f0f3c01e039faf54d01b129ea96bbb28ffde1d69a3f251ba5873"
+        }
+      ]
+    }
+  ],
+  "scope": "Integrity and retained-source provenance for AI-written reception comparisons; not a verbatim quotation audit or ecclesiastical review.",
+  "issues": []
+}

@@ -1,0 +1,1926 @@
+{
+  "version": "authority-research-2026-11-20",
+  "title": "Church authority and service",
+  "sources": [
+    {
+      "id": "sp-kjv",
+      "title": "King James Version (1769), with Apocrypha",
+      "author": "King James Bible translators; standardized text 1769",
+      "work": "The Holy Bible",
+      "edition": "Standardized 1769 English text; eBible.org/Crosswire digital edition withApocrypha, source 2026-11-15",
+      "translator": "King James translators",
+      "year": 1769,
+      "url": "https://ebible.org/eng-kjv/",
+      "tradition": "Scripture:English KJV",
+      "type": "Public-domain Bible translation",
+      "rights": "Public domain outside the United Kingdom",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "Publisher permits free copying and identifies UK royal printing privileges; no worldwide-rights claim. Local app source wording retains this digital edition’s Psalm superscriptions."
+    },
+    {
+      "id": "dq-philaret",
+      "title": "The Longer Catechism of the Orthodox, Catholic, Eastern Church",
+      "url": "https://www.pravoslavieto.com/docs/eng/Orthodox_Catechism_of_Philaret.htm",
+      "author": "St. Philaret of Moscow",
+      "work": "The Longer Catechism",
+      "edition": "R. W. Blackmore translation (1845), reprinted with Philip Schaff’s question numbering",
+      "translator": "R. W. Blackmore",
+      "year": 1845,
+      "tradition": "Orthodox",
+      "type": "Historic Orthodox catechism",
+      "rights": "Public domain",
+      "rightsUrl": "https://archive.org/details/doctrineofrussia00blac",
+      "rightsNote": "Blackmore’s English translation was published in 1845. The Library of Congress scan is recorded as having no known copyright restrictions. Historic electronic transcription, with its spelling retained. This is not a current parish directive."
+    },
+    {
+      "id": "auth-rocor-regulations",
+      "title": "Regulations of the Russian Orthodox Church Outside of Russia",
+      "author": "ROCOR Council and Synod of Bishops",
+      "url": "https://www.synod.com/synod/engdocuments/enov_polozhenierocor.html",
+      "edition": "Official English web text; header lists confirmations in 1956, 1964 and 16 May 2011; retrieved 20 November 2026",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-canonical-act-final",
+      "title": "Act of Canonical Communion — signed text",
+      "author": "Patriarch Alexy II; Metropolitan Laurus; the Russian Orthodox Church and ROCOR",
+      "url": "https://orthodox-europe.org/english/rocor/act/",
+      "edition": "Signed in Moscow, 4/17 May 2007; full text reproduced by the ROCOR Diocese of Great Britain and Western Europe",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-parish-bylaws",
+      "title": "Normal Parish By-Laws",
+      "author": "ROCOR Synod of Bishops",
+      "url": "https://www.synod.com/synod/engdocuments/enov_normparishbylaws.html",
+      "edition": "English text; authorizations printed for 1951, 1955 and 1971; retrieved 20 November 2026",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-deans",
+      "title": "Regulations for Deaneries and Deans",
+      "author": "ROCOR Council of Bishops",
+      "url": "https://www.synod.com/synod/engdocuments/enov_deans.html",
+      "edition": "Approved 29 October/11 November 1959; official English text",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-rectors",
+      "title": "Regulations on the Rights and Duties of Parish Rectors",
+      "author": "ROCOR Council of Bishops",
+      "url": "https://www.synod.com/synod/engdocuments/enov_rectors.html",
+      "edition": "Established 23 October/5 November 1959, Protocol 15; official English text",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-wardens",
+      "title": "Instructions to Church Wardens",
+      "author": "ROCOR Council of Bishops",
+      "url": "https://www.synod.com/english/pages/regulations/wardens.html",
+      "edition": "Confirmed 23 October/5 November 1959, Protocol 15; official English text",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-monasteries",
+      "title": "Statutes for Monasteries of the Russian Orthodox Church Outside of Russia",
+      "author": "ROCOR Synod of Bishops",
+      "url": "https://www.synod.com/synod/engdocuments/enov_polmon.html",
+      "edition": "Confirmed 30 October/12 November 1959; official English text",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-minor-orders",
+      "title": "Examination of a Candidate for Tonsure as Reader or Ordination as Subdeacon",
+      "author": "ROCOR Diocese of Great Britain and Western Europe",
+      "url": "https://orthodox-europe.org/documents/examination-for-reader-or-subdeacon/",
+      "edition": "English portions of the published multilingual application; undated, retrieved 20 November 2026",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-serving-clergy",
+      "title": "General information on serving in the Clergy of the Church Abroad, in this Diocese",
+      "author": "ROCOR Diocese of Great Britain and Western Europe",
+      "url": "https://orthodox-europe.org/english/diocese/chancellery/key-documents/clergy/",
+      "edition": "Published diocesan guidance; undated, retrieved 20 November 2026",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-clergy-reception",
+      "title": "Examination for the Reception into the Diocese of a Clergyman Coming from Another Jurisdiction",
+      "author": "ROCOR Diocese of Great Britain and Western Europe",
+      "url": "https://orthodox-europe.org/documents/examination-for-clergy-reception-into-diocese/",
+      "edition": "English portions of the published multilingual application; undated, retrieved 20 November 2026",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-altar-service",
+      "title": "To Serve in My Father’s House: Reflections on the Service of the Holy Altar",
+      "author": "Bishop Irenei of London and Western Europe",
+      "url": "https://orthodox-europe.org/english/liturgics/in-my-fathers-house/",
+      "edition": "Written in 2011 as Archimandrite Irenei; official diocesan republication, paragraphs numbered by the author",
+      "type": "Published Orthodox pastoral and liturgical explanation",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-visitors",
+      "title": "Who may receive the Holy Mysteries at St Nicholas Orthodox Church?",
+      "author": "St Nicholas Russian Orthodox Church; Fr Seraphim Holland",
+      "url": "https://orthodox.net/aboutus/who-may-receive-the-holy-mysteries.html",
+      "edition": "Published parish policy, McKinney/Dallas area, Texas; page undated, retrieved 20 November 2026",
+      "type": "Local ROCOR parish Communion policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-mark-interview",
+      "title": "Archbishop Mark of Berlin and Great Britain Speaks With the Students of Sretensky Theological Seminary",
+      "author": "Archbishop Mark (Arndt)",
+      "url": "https://www.synod.com/synod/engdocuments/enart_arbpmarkbio.html",
+      "edition": "Interview of 24 March 2011; official ROCOR English publication",
+      "type": "Named hierarch’s published interview, not a universal decree",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-fasting-norms",
+      "title": "Fasting Norms for Parishes in the Western Rite Vicariate",
+      "author": "Antiochian Western Rite Vicariate; Bishop John and V. Rev. Edward W. Hughes",
+      "url": "https://www.orthodoxwest.com/fasting-norms",
+      "edition": "Published norms and explanation referring to an August 2012 clergy meeting; page undated, retrieved 20 November 2026",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — Antiochian Western Rite",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-family-social-concept",
+      "title": "The Basis of the Social Concept — X. Personal, Family and Public Morality",
+      "author": "Russian Orthodox Church, Council of Bishops",
+      "url": "https://old.mospat.ru/en/documents/social-concepts/kh/",
+      "edition": "Document adopted in 2000; official English web edition, sections X.2–3",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — Russian Orthodox Church",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-calendar-conference",
+      "title": "Inter-Orthodox Cooperation in the Preparations for a Holy and Great Council of the Orthodox Church",
+      "author": "Metropolitan Hilarion of Volokolamsk",
+      "url": "https://old.mospat.ru/en/2011/11/03/news50923/",
+      "edition": "Doctoral lecture delivered 2 November 2011, published 3 November 2011; official DECR archive; retrieved 20 November 2026",
+      "type": "Named hierarch’s historical report; not the decree of an ecumenical council",
+      "tradition": "Eastern Orthodox — Moscow Patriarchate historical perspective",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-misconduct",
+      "title": "Guidelines on Issues of Sexual Misconduct",
+      "author": "ROCOR Synod of Bishops",
+      "url": "https://www.synod.com/synod/pdf/AbusePolicySYNOD.pdf",
+      "edition": "Adopted and effective 9 December 2014; official ten-page PDF",
+      "type": "Official Orthodox published policy",
+      "tradition": "Eastern Orthodox — ROCOR",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only.",
+      "attribution": "Source: The Official Website of the Synod of Bishops of the Russian Orthodox Church Outside of Russia."
+    },
+    {
+      "id": "auth-council-glossary",
+      "title": "Glossary of Terms — Holy and Great Council",
+      "author": "Ecumenical Patriarchate, Holy and Great Council communications site",
+      "url": "https://www.orthodoxcouncil.org/glossary-of-terms.html",
+      "edition": "Published council-era glossary; selected entries only, retrieved 20 November 2026",
+      "type": "Official Orthodox terminology glossary",
+      "tradition": "Eastern Orthodox — Ecumenical Patriarchate",
+      "rights": "Copyright retained by issuing institution or author; necessary labelled summaries and any separately counted brief quotation only."
+    },
+    {
+      "id": "auth-anf01",
+      "title": "Ante-Nicene Fathers, Volume I — Clement and Ignatius",
+      "author": "Clement of Rome; Ignatius of Antioch; editors Alexander Roberts, James Donaldson and A. Cleveland Coxe",
+      "url": "https://www.ccel.org/ccel/schaff/anf01/cache/anf01.txt",
+      "edition": "American edition, Christian Literature Publishing Co., 1885; CCEL plain-text transcription",
+      "type": "Ancient Christian letters in a public-domain English edition",
+      "tradition": "Ancient Christian primary texts; historic English editorial apparatus",
+      "rights": "Public domain",
+      "translator": "English translations as printed in ANF I, edited by Roberts and Donaldson",
+      "rightsNote": "Historic English edition, published more than a century ago; CCEL identifies the volume as public domain. Editorial commentary has its own named author and is distinguished from the ancient texts."
+    },
+    {
+      "id": "auth-npnf214",
+      "title": "Nicene and Post-Nicene Fathers, Second Series, Volume XIV — The Seven Ecumenical Councils",
+      "author": "Ancient councils and canonical collections; Henry R. Percival, editor",
+      "url": "https://www.ccel.org/ccel/schaff/npnf214/cache/npnf214.txt",
+      "edition": "Christian Literature Publishing Co., 1900; CCEL plain-text transcription",
+      "type": "Ancient conciliar and canonical texts in a public-domain English edition",
+      "tradition": "Historic Christian canonical texts; Henry R. Percival’s editorial commentary is Anglican",
+      "rights": "Public domain",
+      "translator": "English translation and editing as printed in NPNF II.14, Henry R. Percival",
+      "rightsNote": "Historic English edition, published more than a century ago; CCEL identifies the volume as public domain. Editorial commentary has its own named author and is distinguished from the ancient texts."
+    }
+  ],
+  "roles": [
+    {
+      "id": "christ",
+      "title": "Jesus Christ — Head of the Church",
+      "category": "foundation",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "title": "Ephesians 1:20–23",
+          "text": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,\n\nFar above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:\n\nAnd hath put all things under his feet, and gave him to be the head over all things to the church,\n\nWhich is his body, the fulness of him that filleth all in all.",
+          "sourceId": "sp-kjv",
+          "locator": "Ephesians 1:20–23",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Ephesians 1:20–23"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "title": "Colossians 1:18",
+          "text": "And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.",
+          "sourceId": "sp-kjv",
+          "locator": "Colossians 1:18",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Colossians 1:18"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "259. Are we still more expressly assured that Jesus Christ is the one only Head of the one Church?\nThe Apostle Paul writes, that for the Church, as the building of God, other foundation can no man lay than that is laid, which is Jesus Christ.\n1 Cor. iii. 10, 11. Wherefore the Church, as the Body of\nChrist, can have no other Head than Jesus Christ.\nThe Church, being to abide through all generations of time, needs also an ever-abiding head; and such is Jesus Christ alone.\nWherefore, also, the Apostles take no higher title than that of ministers of the Church. Col. i. 24, 25.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 259",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 259"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apostles",
+      "title": "Apostles and apostolic succession",
+      "category": "foundation",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "title": "Matthew 28:18–20",
+          "text": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.\n\nGo ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:\n\nTeaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+          "sourceId": "sp-kjv",
+          "locator": "Matthew 28:18–20",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Matthew 28:18–20"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "274. Why is the Church called Apostolic?\nBecause she has from the Apostles, without break or change, both her doctrine and the succession of the gifts of the Holy Ghost, through the laying on of\nconsecrated, hands. In the same sense the Church is called also Orthodox, or Rightly-believing.\nYe are no more strangers and foreigners, but fellow-citizens with the saints, and of the household of God, and are built on the foundation of the\nApostles and Prophets, Jesus Christ himself being the chief corner-stone. Eph. ii. 19, 20.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 274",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 274"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "277. Whence originates the Hierarchy of the Orthodox Christian Church?\nFrom Jesus Christ himself, and from the descent of the Holy Ghost on the Apostles; from which time it is continued, in unbroken succession, through the\nlaying on of hands, in the Sacrament of Orders. And he gave some, Apostles; and some, Prophets; and some, Evangelists; and some, Pastors and Teachers; for the perfecting of the\nsaints, for the work of the ministry, for the edifying of the Body of Christ. Eph. iv. 11, 12.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 277",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 277"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "For this reason, therefore, inasmuch as they had obtained a perfect fore-knowledge of this, they appointed those [ministers] already mentioned, and afterwards gave instructions, [190] that when these should fall asleep, other approved men should succeed them in their ministry.",
+          "sourceId": "auth-anf01",
+          "locator": "Clement of Rome, First Epistle to the Corinthians, 44, after the first sentence; Chapter XLIV.—The ordinances of the apostles",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-anf01",
+              "locator": "Clement of Rome, First Epistle to the Corinthians, 44, after the first sentence; Chapter XLIV.—The ordinances of the apostles"
+            }
+          ],
+          "title": "Clement of Rome, First Epistle to the Corinthians, 44, after the first sentence"
+        }
+      ]
+    },
+    {
+      "id": "holy-orders",
+      "title": "Holy Orders — bishop, priest and deacon",
+      "category": "sacramental-overview",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "357. What are Orders\nOrders are a Sacrament, in which the Holy Ghost, by the laying on of the Bishop's hands, ordains them that be rightly chosen to minister sacraments, and\nto feed the flock of Christ.\nLet a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. 1 Cor. iv. 1.\nTake heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the Church of God, which he\nhath purchased with his own blood. Acts xx. 28.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 357",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 357"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "358. What is it to feed the Church?\nTo instruct the people in faith, piety, and good works.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 358",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 358"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "359. How many necessary degrees are there of Orders?\nThree: those of Bishop, Priest, and Deacon.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 359",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 359"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "360. What difference is there between them?\nThe Deacon serves at the Sacraments; the Priest hallows Sacraments in dependence on the Bishop; the Bishop not only hallows the Sacraments himself, but\nhas power also to impart to others, by the laying on of his hands, the gift and grace to hallow them.\nOf the Episcopal power the Apostle Paul thus writes to Titus: For this cause left I thee in Crete, that thou shouldest set in order the things that are\nwanting, and ordain elders in every city. Titus i. 5. And to\nTimothy: Lay hands suddenly on no man. 1 Tim. v. 22.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 360",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 360"
+            }
+          ]
+        }
+      ],
+      "nodeType": "overview"
+    },
+    {
+      "id": "bishop",
+      "title": "Bishop — episkopos",
+      "category": "sacramental-orders",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "title": "Acts 20:28",
+          "text": "Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood.",
+          "sourceId": "sp-kjv",
+          "locator": "Acts 20:28",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Acts 20:28"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "It is by all means proper that a bishop should be appointed by all the bishops in the province; but should this be difficult, either on account of urgent necessity or because of distance, three at least should meet together, and the suffrages of the absent [bishops] also being given and communicated in writing, then the ordination should take place. But in every province the ratification of what is done should be left to the Metropolitan.",
+          "sourceId": "auth-npnf214",
+          "locator": "Nicaea I (325), Canon 4; Canon IV.",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-npnf214",
+              "locator": "Nicaea I (325), Canon 4; Canon IV."
+            }
+          ],
+          "title": "Nicaea I (325), Canon 4"
+        },
+        {
+          "kind": "summary",
+          "text": "The council glossary calls bishop the highest order of ordained ministry. Metropolitan, archbishop and patriarch name bishops with differing titles and responsibilities; they do not add a fourth sacramental order. Its account also distinguishes the ruling bishop of a diocese from an auxiliary bishop.",
+          "sourceId": "auth-council-glossary",
+          "locator": "Entries “bishop”, “archbishop” and “clergy titles”",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-council-glossary",
+              "locator": "Entries “bishop”, “archbishop” and “clergy titles”"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "priest",
+      "title": "Priest — presbyter",
+      "category": "sacramental-orders",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Let that be deemed a proper [1028] Eucharist, which is [administered] either by the bishop, or by one to whom he has entrusted it.",
+          "sourceId": "auth-anf01",
+          "locator": "Ignatius of Antioch, To the Smyrnaeans 8, first/shorter-recension text; Chapter VIII.—Let nothing be done without the bishop.",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-anf01",
+              "locator": "Ignatius of Antioch, To the Smyrnaeans 8, first/shorter-recension text; Chapter VIII.—Let nothing be done without the bishop."
+            }
+          ],
+          "title": "Ignatius of Antioch, To the Smyrnaeans 8, first/shorter-recension text"
+        },
+        {
+          "kind": "quotation",
+          "title": "Titus 1:5",
+          "text": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+          "sourceId": "sp-kjv",
+          "locator": "Titus 1:5",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "Titus 1:5"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "In Irenei’s published explanation, bishop, priest and deacon constitute the threefold ministry. Readers, subdeacons and altar servers assist that ministry. His distinction concerns orders and service; it is not a new list of higher sacramental degrees.",
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraphs 3–4",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-altar-service",
+              "locator": "Numbered paragraphs 3–4"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "deacon",
+      "title": "Deacon",
+      "category": "sacramental-orders",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "In like manner, let all reverence the deacons as an appointment [737] of Jesus Christ, and the bishop as Jesus Christ, who is the Son of the Father, and the presbyters as the sanhedrim of God, and assembly of the apostles. Apart from these, there is no Church. [738]",
+          "sourceId": "auth-anf01",
+          "locator": "Ignatius of Antioch, To the Trallians 3, first/shorter-recension text; Chapter III.—Honour the deacons, etc.",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-anf01",
+              "locator": "Ignatius of Antioch, To the Trallians 3, first/shorter-recension text; Chapter III.—Honour the deacons, etc."
+            }
+          ],
+          "title": "Ignatius of Antioch, To the Trallians 3, first/shorter-recension text"
+        },
+        {
+          "kind": "quotation",
+          "title": "1 Timothy 3:8–10",
+          "text": "Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;\n\nHolding the mystery of the faith in a pure conscience.\n\nAnd let these also first be proved; then let them use the office of a deacon, being found blameless.",
+          "sourceId": "sp-kjv",
+          "locator": "1 Timothy 3:8–10",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Timothy 3:8–10"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "The council glossary identifies deacon as the first degree of the major orders and describes the diaconate as a permanent office. Archdeacon is a distinction of administrative rank among deacons.",
+          "sourceId": "auth-council-glossary",
+          "locator": "Entry “deacon”",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-council-glossary",
+              "locator": "Entry “deacon”"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "clerical-titles",
+      "title": "Clerical ranks and titles",
+      "category": "terminology",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The glossary describes priests as sacramentally equal while distinguishing administrative ranks. It places archpriest and archimandrite among priestly titles; archdeacon belongs to the diaconate. Metropolitan, archbishop and patriarch belong to the episcopate. It distinguishes Slavonic and Antiochian precedence, where metropolitan outranks archbishop, from Greek usage.",
+          "sourceId": "auth-council-glossary",
+          "locator": "Entries “presbyter, priest”, “deacon”, “bishop” and “archbishop”",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-council-glossary",
+              "locator": "Entries “presbyter, priest”, “deacon”, “bishop” and “archbishop”"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "reader",
+      "title": "Reader",
+      "category": "minor-orders",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Irenei’s account places readers among the orders serving the ministers of the mysteries, distinct from the threefold ministry of bishop, priest and deacon.",
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraphs 3–4 and 12",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-altar-service",
+              "locator": "Numbered paragraphs 3–4 and 12"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The diocesan examination names tonsure as Reader and requests a parish priest’s and spiritual father’s involvement and the ruling bishop’s blessing.",
+          "sourceId": "auth-minor-orders",
+          "locator": "English title, introduction and candidate examination",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-minor-orders",
+              "locator": "English title, introduction and candidate examination"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "subdeacon",
+      "title": "Subdeacon",
+      "category": "minor-orders",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Irenei places subdeacons with readers and altar servers in the orders that assist the ministers of the mysteries.",
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraph 4; scope stated in the editorial introduction",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-altar-service",
+              "locator": "Numbered paragraph 4; scope stated in the editorial introduction"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The form distinguishes ordination as Subdeacon from tonsure as Reader. It names the candidate’s existing rank and asks for episcopal and pastoral information relevant to admission.",
+          "sourceId": "auth-minor-orders",
+          "locator": "English title and examination fields",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-minor-orders",
+              "locator": "English title and examination fields"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "laity",
+      "title": "Laity — members of the Body of Christ",
+      "category": "faithful",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "title": "1 Corinthians 12:12–27",
+          "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.\n\nFor by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.\n\nFor the body is not one member, but many.\n\nIf the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?\n\nAnd if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?\n\nIf the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?\n\nBut now hath God set the members every one of them in the body, as it hath pleased him.\n\nAnd if they were all one member, where were the body?\n\nBut now are they many members, yet but one body.\n\nAnd the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.\n\nNay, much more those members of the body, which seem to be more feeble, are necessary:\n\nAnd those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.\n\nFor our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:\n\nThat there should be no schism in the body; but that the members should have the same care one for another.\n\nAnd whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.\n\nNow ye are the body of Christ, and members in particular.",
+          "sourceId": "sp-kjv",
+          "locator": "1 Corinthians 12:12–27",
+          "edition": "kjv",
+          "sourceRefs": [
+            {
+              "sourceId": "sp-kjv",
+              "locator": "1 Corinthians 12:12–27"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "The Normal Parish By-Laws provide elected lay participation in the parish council, auditing committee and general meeting. The meeting’s competence includes reports and budgets, while canonical and jurisdictional questions are expressly excluded.",
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 19–20 and 28–29",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-parish-bylaws",
+              "locator": "Sections 19–20 and 28–29"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "councils",
+      "title": "Councils and synods",
+      "category": "conciliar-life",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "278. What hierarchical authority is there which can extend its sphere of action over the whole Catholic Church?\nAn œcumenical Council.",
+          "sourceId": "dq-philaret",
+          "locator": "Question 278",
+          "sourceRefs": [
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 278"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "The bishops of every nation must acknowledge him who is first among them and account him as their head, and do nothing of consequence without his consent; but each may do those things only which concern his own parish, and the country places which belong to it. But neither let him (who is the first) do anything without the consent of all; for so there will be unanimity, and God will be glorified through the Lord in the Holy Spirit. [572]",
+          "sourceId": "auth-npnf214",
+          "locator": "Apostolical Canons, Canon 34 — mutual responsibility of bishops and their first bishop; Canon XXXIV.  (XXXV.)",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-npnf214",
+              "locator": "Apostolical Canons, Canon 34 — mutual responsibility of bishops and their first bishop; Canon XXXIV.  (XXXV.)"
+            }
+          ],
+          "title": "Apostolical Canons, Canon 34 — mutual responsibility of bishops and their first bishop"
+        },
+        {
+          "kind": "summary",
+          "text": "Percival’s introduction distinguishes a collection bearing the name Apostolical Canons from a collection personally compiled by the apostles. This reading is an ancient canonical text in a 1900 historical edition, not a newly issued parish instruction.",
+          "sourceId": "auth-npnf214",
+          "locator": "Introduction to “The Apostolical Canons”",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-npnf214",
+              "locator": "Introduction to “The Apostolical Canons”"
+            }
+          ],
+          "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+        }
+      ]
+    },
+    {
+      "id": "local-churches",
+      "title": "Local Orthodox Churches",
+      "category": "conciliar-life",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The council glossary defines autocephaly as a local Orthodox Church’s internal self-government through its synod of bishops. Its definitions distinguish local, regional and wider councils. This explains a conciliar structure without depicting one administrative office as the ruler of every Orthodox Church.",
+          "sourceId": "auth-council-glossary",
+          "locator": "Entries “autocephaly” and “council”; definitions only, not the glossary’s dated lists of primates",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-council-glossary",
+              "locator": "Entries “autocephaly” and “council”; definitions only, not the glossary’s dated lists of primates"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "rocor-council",
+      "title": "ROCOR Council of Bishops — Sobor",
+      "category": "rocor-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The signed Act identifies ROCOR’s Council as its supreme authority within ROCOR, while providing for the wider Russian Church councils.",
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Act of 4/17 May 2007, sections 3 and 9",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-canonical-act-final",
+              "locator": "Act of 4/17 May 2007, sections 3 and 9"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "rocor-synod",
+      "title": "ROCOR Synod of Bishops",
+      "category": "rocor-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Regulations identify the Synod as the Council’s executive organ, chaired by the First Hierarch. An enlarged Synod hears first-instance proceedings concerning bishops.",
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 16–17",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rocor-regulations",
+              "locator": "Sections 16–17"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "first-hierarch",
+      "title": "ROCOR First Hierarch",
+      "category": "rocor-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The First Hierarch is a metropolitan elected by ROCOR’s Council and chairs both Council and Synod.",
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 8 and 33–37",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rocor-regulations",
+              "locator": "Sections 8 and 33–37"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The Act provides Moscow’s confirmation of that election, and ROCOR’s independence in pastoral, educational, administrative, management, property and civil matters.",
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Sections 2 and 4",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-canonical-act-final",
+              "locator": "Sections 2 and 4"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "diocese",
+      "title": "ROCOR diocesan bishop",
+      "category": "rocor-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The diocesan bishop teaches, serves and judges within his diocese, appoints clergy and deans, and ordains. Episcopal activity in another diocese requires its bishop’s permission.",
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 45, 47(b,e,f) and 52",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rocor-regulations",
+              "locator": "Sections 45, 47(b,e,f) and 52"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "dean",
+      "title": "Dean",
+      "category": "rocor-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "In the 1959 Regulations, the bishop may group parishes into a deanery and appoint one of their rectors as dean. The dean conveys the bishop’s concern for parish order and supervises specified practical and liturgical matters. This is an appointment, not another degree of Holy Orders.",
+          "sourceId": "auth-deans",
+          "locator": "Opening provisions and “A DEAN MUST”, I",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-deans",
+              "locator": "Opening provisions and “A DEAN MUST”, I"
+            },
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Question 359"
+            }
+          ],
+          "reason": "Necessary comparison of the cited published passages. The distinction between a sacramental degree and a monastic or administrative role is a labelled editorial inference from those sources."
+        }
+      ]
+    },
+    {
+      "id": "rector",
+      "title": "Parish rector",
+      "category": "rocor-administration",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The parish rector is responsible before the Diocesan Authorities as the direct head of the parish.",
+          "sourceId": "auth-rectors",
+          "locator": "Section 1",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rectors",
+              "locator": "Section 1"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "The published duties include the proper ordering of services, parish records, presidency of the parish council and meetings, communication with diocesan authorities, charity, religious education and the parish library.",
+          "sourceId": "auth-rectors",
+          "locator": "Sections 3, 6–7, 10–17",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rectors",
+              "locator": "Sections 3, 6–7, 10–17"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "parish-council",
+      "title": "Parish council",
+      "category": "parish-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The council combines the rector, other specified clergy and officers, and elected lay members. It cares for property, finances, educational and charitable work. The rector presides; the diocesan bishop confirms elected officers under the published By-Laws.",
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 28–30",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-parish-bylaws",
+              "locator": "Sections 28–30"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "warden",
+      "title": "Church warden",
+      "category": "parish-administration",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The 1959 Instructions describe the warden as an elected trusted parish member who works with rector and council on funds and property, under the rector’s and diocesan bishop’s oversight.",
+          "sourceId": "auth-wardens",
+          "locator": "Sections 1 and 3",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-wardens",
+              "locator": "Sections 1 and 3"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "monastics",
+      "title": "Monks, nuns and spiritual elders",
+      "category": "monastic-life",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Statutes describe monastic vows, experienced monks or nuns serving as elders or eldresses, and separately hieromonks and appointed confessors. Read alongside Philaret’s three orders, monastic life and an elder’s spiritual role are distinguished from sacramental ordination.",
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 2, 22–23 and 26–27",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-monasteries",
+              "locator": "Sections 2, 22–23 and 26–27"
+            },
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Questions 359–360"
+            }
+          ],
+          "reason": "Necessary comparison of the cited published passages. The distinction between a sacramental degree and a monastic or administrative role is a labelled editorial inference from those sources."
+        }
+      ]
+    },
+    {
+      "id": "abbot",
+      "title": "Abbot — father superior",
+      "category": "monastic-office",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "A male superior directs a monastic community. The Statutes provide election or episcopal appointment with the specified confirmations, and name abbot and archimandrite as monastic ranks. Some vicar bishops may also be appointed superiors.",
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 9–10",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-monasteries",
+              "locator": "Sections 9–10"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "abbess",
+      "title": "Abbess — mother superior",
+      "category": "monastic-office",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Statutes explicitly provide for a mother superior and for her elevation as abbess. Her governance of a convent is a monastic office, distinct from the catechism’s three sacramental orders.",
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 9–10 and 19",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-monasteries",
+              "locator": "Sections 9–10 and 19"
+            },
+            {
+              "sourceId": "dq-philaret",
+              "locator": "Questions 359–360"
+            }
+          ],
+          "reason": "Necessary comparison of the cited published passages. The distinction between a sacramental degree and a monastic or administrative role is a labelled editorial inference from those sources."
+        }
+      ]
+    },
+    {
+      "id": "russian-councils",
+      "title": "Russian Church Local Council and Council of Bishops",
+      "category": "wider-russian-church",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Act sections 8–9 provide ROCOR participation in these councils and identify their supreme ecclesiastical competence for ROCOR.",
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Sections 8–9",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-canonical-act-final",
+              "locator": "Sections 8–9"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "moscow-patriarch",
+      "title": "Patriarch of Moscow — the Act’s defined functions",
+      "category": "wider-russian-church",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Act assigns Moscow’s Patriarch and Holy Synod confirmation of ROCOR episcopal elections; the Patriarch receives specified court appeals.",
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Sections 4, 7 and 11",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-canonical-act-final",
+              "locator": "Sections 4, 7 and 11"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "rocor-court",
+      "title": "ROCOR supreme ecclesiastical court",
+      "category": "rocor-judicial",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Act section 11 names ROCOR’s supreme ecclesiastical court.",
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 11",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-canonical-act-final",
+              "locator": "Section 11"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "christ",
+      "to": "apostles",
+      "type": "commission",
+      "kind": "summary",
+      "text": "Christ sends His disciples to teach and baptize.",
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 28:18–20",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Matthew 28:18–20"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "christ",
+      "to": "laity",
+      "type": "headship",
+      "kind": "summary",
+      "text": "Christ is Head of the body, the Church.",
+      "sourceId": "sp-kjv",
+      "locator": "Colossians 1:18",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Colossians 1:18"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "apostles",
+      "to": "bishop",
+      "type": "apostolic-succession",
+      "kind": "summary",
+      "text": "Philaret describes succession through consecrated laying on of hands.",
+      "sourceId": "dq-philaret",
+      "locator": "Questions 274 and 277",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Questions 274 and 277"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "bishop",
+      "to": "priest",
+      "type": "ordination",
+      "kind": "summary",
+      "text": "The bishop imparts the grace to hallow the Sacraments.",
+      "sourceId": "dq-philaret",
+      "locator": "Question 360",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 360"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "bishop",
+      "to": "deacon",
+      "type": "ordination",
+      "kind": "summary",
+      "text": "The Apostolical Canons assign a deacon’s ordination to one bishop.",
+      "sourceId": "auth-npnf214",
+      "locator": "Apostolical Canons, Canon 2",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Apostolical Canons, Canon 2"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "bishop",
+      "to": "diocese",
+      "type": "office-not-new-order",
+      "kind": "summary",
+      "text": "Philaret places lesser provinces and cities under episcopal authority.",
+      "sourceId": "dq-philaret",
+      "locator": "Question 280",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 280"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "deacon",
+      "to": "priest",
+      "type": "liturgical-assistance",
+      "kind": "summary",
+      "text": "Philaret assigns the deacon service at the Sacraments and the priest their celebration under the bishop.",
+      "sourceId": "dq-philaret",
+      "locator": "Question 360",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 360"
+        }
+      ],
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately."
+    },
+    {
+      "from": "diocese",
+      "to": "reader",
+      "type": "minor-order-admission",
+      "kind": "summary",
+      "text": "The diocesan examination requires the ruling bishop’s blessing.",
+      "sourceId": "auth-minor-orders",
+      "locator": "Introduction to candidate examination",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "Introduction to candidate examination"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "diocese",
+      "to": "subdeacon",
+      "type": "minor-order-admission",
+      "kind": "summary",
+      "text": "The same examination covers candidates for subdeacon.",
+      "sourceId": "auth-minor-orders",
+      "locator": "English title and introduction",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "English title and introduction"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "reader",
+      "to": "priest",
+      "type": "liturgical-assistance",
+      "kind": "summary",
+      "text": "Readers serve the ministers of the mysteries.",
+      "sourceId": "auth-altar-service",
+      "locator": "Numbered paragraph 4",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraph 4"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "subdeacon",
+      "to": "priest",
+      "type": "liturgical-assistance",
+      "kind": "summary",
+      "text": "Subdeacons assist the ministers of the mysteries.",
+      "sourceId": "auth-altar-service",
+      "locator": "Numbered paragraph 4",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraph 4"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "rocor-council",
+      "to": "rocor-synod",
+      "type": "administration",
+      "kind": "summary",
+      "text": "The Synod executes the Council’s work.",
+      "sourceId": "auth-rocor-regulations",
+      "locator": "Section 16",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 16"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "rocor-council",
+      "to": "first-hierarch",
+      "type": "election",
+      "kind": "summary",
+      "text": "ROCOR’s Council elects the First Hierarch.",
+      "sourceId": "auth-canonical-act-final",
+      "locator": "Section 4",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 4"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "first-hierarch",
+      "to": "rocor-synod",
+      "type": "chairmanship",
+      "kind": "summary",
+      "text": "The First Hierarch chairs the executive Synod.",
+      "sourceId": "auth-rocor-regulations",
+      "locator": "Section 16",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 16"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "rocor-synod",
+      "to": "diocese",
+      "type": "administration",
+      "kind": "summary",
+      "text": "The Synod handles episcopal appointments and diocesan matters.",
+      "sourceId": "auth-rocor-regulations",
+      "locator": "Section 29(a–c)",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 29(a–c)"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "diocese",
+      "to": "dean",
+      "type": "appointment",
+      "kind": "summary",
+      "text": "The diocesan bishop appoints the dean.",
+      "sourceId": "auth-deans",
+      "locator": "Opening provisions",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-deans",
+          "locator": "Opening provisions"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "diocese",
+      "to": "rector",
+      "type": "appointment",
+      "kind": "summary",
+      "text": "The bishop appoints the parish rector.",
+      "sourceId": "auth-parish-bylaws",
+      "locator": "Section 1",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Section 1"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "dean",
+      "to": "rector",
+      "type": "deanery-oversight",
+      "kind": "summary",
+      "text": "The dean conveys episcopal oversight and gives brotherly instruction on liturgical order.",
+      "sourceId": "auth-deans",
+      "locator": "II.A, supervision of worship",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-deans",
+          "locator": "II.A, supervision of worship"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "rector",
+      "to": "parish-council",
+      "type": "chairmanship",
+      "kind": "summary",
+      "text": "The rector presides over the parish council.",
+      "sourceId": "auth-rectors",
+      "locator": "Section 7",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rectors",
+          "locator": "Section 7"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "laity",
+      "to": "parish-council",
+      "type": "elected-participation",
+      "kind": "summary",
+      "text": "The parish meeting elects specified council officers and lay members.",
+      "sourceId": "auth-parish-bylaws",
+      "locator": "Sections 20(a), 28(g) and 29",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 20(a), 28(g) and 29"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "warden",
+      "to": "rector",
+      "type": "parish-accountability",
+      "kind": "summary",
+      "text": "The warden acts under the rector’s supervision.",
+      "sourceId": "auth-wardens",
+      "locator": "Section 3",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-wardens",
+          "locator": "Section 3"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "diocese",
+      "to": "abbot",
+      "type": "monastic-oversight",
+      "kind": "summary",
+      "text": "Ordinary monasteries fall under the diocesan bishop; stavropegial communities are directly synodal.",
+      "sourceId": "auth-monasteries",
+      "locator": "Section 5",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Section 5"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "diocese",
+      "to": "abbess",
+      "type": "monastic-oversight",
+      "kind": "summary",
+      "text": "The same statute covers convents and female superiors.",
+      "sourceId": "auth-monasteries",
+      "locator": "Sections 5 and 9",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 5 and 9"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "abbot",
+      "to": "monastics",
+      "type": "monastic-governance",
+      "kind": "summary",
+      "text": "The superior directs duties and monastery discipline.",
+      "sourceId": "auth-monasteries",
+      "locator": "Section 22",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Section 22"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "abbess",
+      "to": "monastics",
+      "type": "monastic-governance",
+      "kind": "summary",
+      "text": "The mother superior governs within the bishop-confirmed rules.",
+      "sourceId": "auth-monasteries",
+      "locator": "Section 19",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Section 19"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "russian-councils",
+      "to": "rocor-council",
+      "type": "defined-canonical-relationship",
+      "kind": "summary",
+      "text": "The Act defines these councils’ ecclesiastical competence for ROCOR.",
+      "sourceId": "auth-canonical-act-final",
+      "locator": "Section 9",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 9"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    },
+    {
+      "from": "rocor-court",
+      "to": "moscow-patriarch",
+      "type": "appeal-route",
+      "kind": "summary",
+      "text": "Supreme ecclesiastical court appeals go to the Patriarch of Moscow.",
+      "sourceId": "auth-canonical-act-final",
+      "locator": "Section 11",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 11"
+        }
+      ],
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+    }
+  ],
+  "cases": [
+    {
+      "id": "receiving-converts",
+      "title": "Receiving a convert",
+      "jurisdiction": "ROCOR — Diocese of Great Britain and Western Europe",
+      "date": "Undated application; retrieved 20 November 2026",
+      "decisionMakerIds": [
+        "diocese",
+        "rector"
+      ],
+      "scope": "A diocesan examination’s actual reception statement; it does not prescribe the method for a particular Protestant visitor or claim that every jurisdiction uses identical practice.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The diocesan candidate examination identifies baptism as the regular means of reception and asks for details when another means was used by an Orthodox bishop’s canonical determination. It expressly allows the applicant to record reception by chrismation or another means. The published form therefore locates such a determination with the bishop rather than with the applicant or this website.",
+          "sourceId": "auth-minor-orders",
+          "locator": "English section on reception into the Orthodox Church",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-minor-orders",
+              "locator": "English section on reception into the Orthodox Church"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "communion-visitors",
+      "title": "Communion for a visitor",
+      "jurisdiction": "ROCOR — St Nicholas parish, McKinney/Dallas area, Texas",
+      "date": "Undated published parish page; retrieved 20 November 2026",
+      "decisionMakerIds": [
+        "rector",
+        "priest"
+      ],
+      "scope": "Local parish policy, including its own provision for pastoral exceptions; its wording is not generalized into one universal Orthodox preparation schedule.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "St Nicholas’s published policy lists Orthodox membership and preparation requirements, with exceptions at the pastor’s discretion in individual cases. Visitors unable to confess or introduce themselves before Liturgy are asked to speak with the priest after the service and not receive that morning. Recent confession is described in relation to the confessor’s direction. These are the parish’s published conditions, not a permission generated by this guide.",
+          "sourceId": "auth-visitors",
+          "locator": "Preparation list, exception paragraph and visitor paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-visitors",
+              "locator": "Preparation list, exception paragraph and visitor paragraph"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "confession-preparation",
+      "title": "Confession and Communion preparation",
+      "jurisdiction": "ROCOR — Archbishop Mark’s reported pastoral practice",
+      "date": "Interview, 24 March 2011",
+      "decisionMakerIds": [
+        "bishop",
+        "priest"
+      ],
+      "scope": "A named hierarch’s dated interview, not a substitute for the reader’s actual parish and confessor.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Archbishop Mark says preparation and frequency depend on the individual and the spiritual father’s blessing. He reports allowing regular Holy Week worshippers to receive repeatedly after an earlier confession unless something unusual intervenes. He distinguishes confession and Communion as two mysteries and explains that a penance depends on the person’s circumstances and ability to bear it. This is his published account of pastoral practice, not a synodal decree establishing the same interval for everyone.",
+          "sourceId": "auth-mark-interview",
+          "locator": "Questions on Holy Communion and penance",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-mark-interview",
+              "locator": "Questions on Holy Communion and penance"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "fasting-accommodations",
+      "title": "Fasting accommodations",
+      "jurisdiction": "Antiochian Orthodox Christian Archdiocese of North America — Western Rite Vicariate",
+      "date": "Published explanation refers to an August 2012 clergy meeting; retrieved 20 November 2026",
+      "decisionMakerIds": [
+        "priest",
+        "local-churches"
+      ],
+      "scope": "A specific current publication’s jurisdiction is named. The accompanying ancient canon is historical source reading, not an automatic individualized ruling or a web-issued penance.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Western Rite Vicariate’s norms recognize exemption by a father confessor for a legitimate reason. Their explanation places pastoral application in the setting of parish, archdiocese, family, health and age. The publication expressly distinguishes Western Rite fasting tradition from Byzantine practice. Its particular food rules and age thresholds therefore are not presented here as ROCOR’s rules.",
+          "sourceId": "auth-fasting-norms",
+          "locator": "“Fasting” and “Explanation of the Vicariate Fasting Norms”",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-fasting-norms",
+              "locator": "“Fasting” and “Explanation of the Vicariate Fasting Norms”"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "quotation",
+          "text": "If any bishop, presbyter, or deacon, or reader, or singer, does not fast the holy Quadragesimal fast of Easter, or the fourth day, or the day of Preparation, let him be deposed, unless he be hindered by some bodily infirmity. If he be a layman, let him be excommunicated.",
+          "sourceId": "auth-npnf214",
+          "locator": "Apostolical Canons, Canon 69 — historical text with an infirmity exception; Canon LXIX.",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-npnf214",
+              "locator": "Apostolical Canons, Canon 69 — historical text with an infirmity exception; Canon LXIX."
+            }
+          ],
+          "title": "Apostolical Canons, Canon 69 — historical text with an infirmity exception"
+        }
+      ]
+    },
+    {
+      "id": "marriage-questions",
+      "title": "Marriage and mixed-marriage questions",
+      "jurisdiction": "Russian Orthodox Church; ROCOR’s separately published allocation of marriage permissions",
+      "date": "Social Concept, 2000; ROCOR Regulations, English edition confirmed through 2011",
+      "decisionMakerIds": [
+        "priest",
+        "diocese",
+        "rocor-synod"
+      ],
+      "scope": "Named institutional documents and their conditions, not a verdict about this reader’s spouse, eligibility, civil marriage, divorce or remarriage.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Russian Church’s Social Concept describes pastoral oikonomia for marriages with Catholics, members of the Oriental Churches and Protestants confessing the Trinity, under the conditions it prints: an Orthodox church blessing and children raised Orthodox. It separately recognizes marriages with non-Christians as lawful while not blessing them as church marriages. This is the named Russian Church document’s account; it is not a personal finding about an existing marriage.",
+          "sourceId": "auth-family-social-concept",
+          "locator": "Section X.2, paragraphs on marriages with the non-Orthodox and non-Christians",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-family-social-concept",
+              "locator": "Section X.2, paragraphs on marriages with the non-Orthodox and non-Christians"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "A vicar bishop may handle marriage permissions under delegated authority from his ruling bishop, excepting matters reserved to the Synod.",
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 89",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rocor-regulations",
+              "locator": "Section 89"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "parish-administration",
+      "title": "Parish money, budgets and property",
+      "jurisdiction": "ROCOR — Normal Parish By-Laws and Instructions to Church Wardens",
+      "date": "By-Laws authorized in 1951/1955/1971; Warden Instructions, 1959",
+      "decisionMakerIds": [
+        "rector",
+        "parish-council",
+        "warden",
+        "laity",
+        "diocese",
+        "rocor-synod"
+      ],
+      "scope": "The published model documents allocate responsibility; a particular parish’s approved by-laws and applicable civil structure must be read in their own terms.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The By-Laws allocate budgets and reports to the parish meeting, property and capital management to the council, and budget ratification to diocesan authority. Acquisition of real estate requires diocesan permission; sale or alienation requires synodal authorization. Checks require at least two of the designated signatories.",
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 20(c–d), 46–48 and 53",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-parish-bylaws",
+              "locator": "Sections 20(c–d), 46–48 and 53"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The warden’s published instructions place financial and property work alongside the rector and council, under episcopal and rectorial oversight.",
+          "sourceId": "auth-wardens",
+          "locator": "Section 1",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-wardens",
+              "locator": "Section 1"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "ordination-transfer",
+      "title": "Ordination and reception of clergy",
+      "jurisdiction": "ROCOR — Diocese of Great Britain and Western Europe",
+      "date": "Undated diocesan guidance and application; retrieved 20 November 2026",
+      "decisionMakerIds": [
+        "diocese",
+        "priest"
+      ],
+      "scope": "Published diocesan process. The two diocesan pages give differing normal waiting periods for minor orders; no single waiting period is inferred here.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The diocesan guidance puts ordination and reception of already-ordained clergy ultimately with the diocesan bishop. The chancellery handles initial communications; the bishop discerns with the candidate’s spiritual father and the candidate. The text says ordination is a calling rather than an individual right.",
+          "sourceId": "auth-serving-clergy",
+          "locator": "Opening statement, “A general note” and “Factors considered”",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-serving-clergy",
+              "locator": "Opening statement, “A general note” and “Factors considered”"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The clergy-reception application requires a canonical release obtained through correspondence between bishops and records rank and awards. It warns that awards received elsewhere may not yet be permitted under ROCOR’s own timeline and episcopal blessing.",
+          "sourceId": "auth-clergy-reception",
+          "locator": "English questions on canonical release, clerical rank and awards",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-clergy-reception",
+              "locator": "English questions on canonical release, clerical rank and awards"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "clergy-appeals",
+      "title": "Church courts and appeals",
+      "jurisdiction": "ROCOR and the Russian Church relationship defined by the 2007 Act",
+      "date": "ROCOR Regulations; signed Act, 4/17 May 2007",
+      "decisionMakerIds": [
+        "diocese",
+        "rocor-synod",
+        "rocor-council",
+        "rocor-court",
+        "moscow-patriarch"
+      ],
+      "scope": "An ecclesiastical allocation of judicial competence; it is not a universal Orthodox appeals ladder or a description of a civil-law proceeding.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Synod hears clergy appeals and confirms diocesan defrocking judgments. An enlarged Synod hears first-instance proceedings concerning bishops.",
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 17 and 29(e–f)",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rocor-regulations",
+              "locator": "Sections 17 and 29(e–f)"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "Act section 11 directs appeals from ROCOR’s supreme ecclesiastical court to the Patriarch of Moscow.",
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 11",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-canonical-act-final",
+              "locator": "Section 11"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "clergy-accountability",
+      "title": "Published misconduct-complaint procedure",
+      "jurisdiction": "ROCOR Synod and its stavropegial communities; the document also addresses named episcopal categories in the United States",
+      "date": "Adopted and effective 9 December 2014",
+      "decisionMakerIds": [
+        "first-hierarch",
+        "rocor-synod",
+        "rocor-council"
+      ],
+      "scope": "A summary of this dated policy, not a claim that it exhausts later diocesan policies or all civil reporting requirements. Source reading preserves the document’s actual qualifications.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The 2014 policy defines its Synodal and stavropegial scope. It provides written complaints to the Synod’s President, an investigation coordinator and possible spiritual court. A complaint against the President goes to the Vice President and Council of Bishops. For an accused bishop it calls for withdrawal from administrative duties and an independent investigation. It also addresses referral of criminal evidence to law enforcement, with its stated confession-seal qualification. Suspension is expressly distinguished from a finding of guilt.",
+          "sourceId": "auth-misconduct",
+          "locator": "Official PDF, printed pages 3 and 6–9: Preface; Reports & Complaints, paragraphs 1–2, 6, 16–22",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-misconduct",
+              "locator": "Official PDF, printed pages 3 and 6–9: Preface; Reports & Complaints, paragraphs 1–2, 6, 16–22"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "monastic-admission",
+      "title": "Admission to a monastery and limits of obedience",
+      "jurisdiction": "ROCOR — Statutes for Monasteries",
+      "date": "Confirmed 30 October/12 November 1959",
+      "decisionMakerIds": [
+        "abbot",
+        "abbess",
+        "diocese"
+      ],
+      "scope": "The actual monastic statute’s allocation and exception. It is not an instruction to enter a monastery or to replace parish discernment with this guide.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Statutes assign admission to a joint decision of superior and Spiritual Council. They also require manifestly unfaithful or immoral orders to be reported to the next higher authority instead of obeyed.",
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 20 and 25",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-monasteries",
+              "locator": "Sections 20 and 25"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "liturgical-texts",
+      "title": "Services, translations and parish liturgical order",
+      "jurisdiction": "ROCOR",
+      "date": "Regulations confirmed through 2011; Rector and Dean Regulations, 1959",
+      "decisionMakerIds": [
+        "rocor-synod",
+        "dean",
+        "rector"
+      ],
+      "scope": "The published distribution of liturgical responsibility; any historical local custom or translation question requires its own source and scope.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Synod approves newly composed services, rites and prayer books, and safeguards and oversees correction, translation and publication of service texts.",
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 29(j–k)",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rocor-regulations",
+              "locator": "Section 29(j–k)"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The rector supervises correct services in the parish. The dean’s duties include brotherly guidance for inexperienced clergy concerning the Typikon. These are published responsibilities, not permission for this app to invent worship instructions.",
+          "sourceId": "auth-rectors",
+          "locator": "Section 3",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-rectors",
+              "locator": "Section 3"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        },
+        {
+          "kind": "summary",
+          "text": "The Dean Regulations identify supervision of worship and brotherly instruction about the Typikon among the dean’s duties.",
+          "sourceId": "auth-deans",
+          "locator": "II.A, supervision of services",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-deans",
+              "locator": "II.A, supervision of services"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    },
+    {
+      "id": "calendar-differences",
+      "title": "Calendar differences and wider Church deliberation",
+      "jurisdiction": "Second Pan-Orthodox Pre-Council Conference, as reported by Metropolitan Hilarion",
+      "date": "Conference decision, 1982; lecture, 2 November 2011, published 3 November 2011",
+      "decisionMakerIds": [
+        "local-churches",
+        "councils"
+      ],
+      "scope": "A named historical conference and a named reporter, distinguished from an ecumenical council or the reader’s present parish calendar.",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Hilarion’s historical report says the 1982 conference did not find a common transition to the New Julian calendar feasible at that time. He reports its insistence that calendar anomalies should not create divisions or schisms, and its appeal to obedience to the canonical Church and Eucharistic communion. This is an attributed report of a pre-conciliar decision, not an announcement that all Orthodox Churches now share one calendar.",
+          "sourceId": "auth-calendar-conference",
+          "locator": "Section 5, “The problem of the calendar”, final paragraphs on the Second Pan-Orthodox Pre-Council Conference",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-calendar-conference",
+              "locator": "Section 5, “The problem of the calendar”, final paragraphs on the Second Pan-Orthodox Pre-Council Conference"
+            }
+          ],
+          "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit."
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "id": "pastoral-judgment",
+      "title": "Pastoral judgment in an ancient canon",
+      "date": "Council in Trullo, 691–692",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "It behoves those who have received from God the power to loose and bind, to consider the quality of the sin and the readiness of the sinner for conversion, and to apply medicine suitable for the disease, lest if he is injudicious in each of these respects he should fail in regard to the healing of the sick man. For the disease of sin is not simple, but various and multiform, and it germinates many mischievous offshoots, from which much evil is diffused, and it proceeds further until it is checked by the power of the physician. Wherefore he who professes the science of spiritual medicine ought first of all to consider the disposition of him who has sinned, and to see whether he tends to health or (on the contrary) provokes to himself disease by his own behaviour, and to look how he can care for his manner of life during the interval. And if he does not resist the physician, and if the ulcer of the soul is increased by the application of the imposed medicaments, then let him mete out mercy to him according as he is worthy of it. For the whole account is between God and him to whom the pastoral rule has been delivered, to lead back the wandering sheep and to cure that which is wounded by the serpent; and that he may neither cast them down into the precipices of despair, nor loosen the bridle towards dissolution or contempt of life; but in some way or other, either by means of sternness and astringency, or by greater softness and mild medicines, to resist this sickness and exert himself for the healing of the ulcer, now examining the fruits of his repentance and wisely managing the man who is called to higher illumination. For we ought to know two things, to wit, the things which belong to strictness and those which belong to custom, and to follow the traditional form in the case of those who are not fitted for the highest things, as holy Basil teaches us.",
+          "sourceId": "auth-npnf214",
+          "locator": "Council in Trullo, Canon 102; Canon CII.",
+          "sourceRefs": [
+            {
+              "sourceId": "auth-npnf214",
+              "locator": "Council in Trullo, Canon 102; Canon CII."
+            }
+          ],
+          "title": "Council in Trullo, Canon 102"
+        }
+      ]
+    }
+  ]
+}

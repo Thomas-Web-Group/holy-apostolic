@@ -1,0 +1,8 @@
+'use strict';
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const storage=new Map(),context={console,crypto:require('node:crypto').webcrypto,localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,String(v))}};context.window=context;context.OrthodoxAccounts={storageKey:k=>k,changed:()=>{}};vm.createContext(context);vm.runInContext(fs.readFileSync(require('node:path').join(__dirname,'../dist/study-tools.js'),'utf8'),context);
+const tools=context.OrthodoxStudyTools,blank=JSON.parse(JSON.stringify(tools.blank()));tools.get().questions.push({id:'fixture',text:'Retain this private question',route:'#/notebook',title:'Fixture'});const prior=JSON.stringify(tools.snapshot());
+assert.equal(tools.validate(blank),true);
+for(const invalid of ['corrupt',null,[],{version:2,...Object.fromEntries(Object.entries(blank).filter(([k])=>k!=='version'))},{...blank,passages:'corrupt'},{...blank,questions:[null]},{...blank,reviews:[]}]){let rejected=false;try{tools.validate(invalid);}catch{rejected=true;}assert.ok(rejected,'Malformed notebook must be rejected');assert.equal(JSON.stringify(tools.snapshot()),prior,'Validation must not mutate current notebook');}
+const app=fs.readFileSync(require('node:path').join(__dirname,'../dist/app.js'),'utf8');assert.ok(app.includes("if(Object.prototype.hasOwnProperty.call(data,'studyTools'))window.OrthodoxStudyTools.validate(data.studyTools)"));assert.ok(app.includes("if(Object.prototype.hasOwnProperty.call(value,'studyTools'))window.OrthodoxStudyTools.validate(value.studyTools)"));
+console.log(JSON.stringify({validNotebookAccepted:true,invalidVariantsRejected:7,currentNotebookPreserved:true,backupAndAccountApplyInvokeValidation:true,issues:[]},null,2));

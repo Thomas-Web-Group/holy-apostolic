@@ -1,0 +1,4 @@
+.saint-reference{color:var(--forest,#315a4f);text-decoration-color:#8a967f;text-decoration-thickness:1px;text-underline-offset:.16em}
+.saint-reference:hover,.saint-reference:focus-visible{color:var(--gold,#8e6c24);text-decoration-color:currentColor}
+h1 .saint-reference,h2 .saint-reference,h3 .saint-reference,h4 .saint-reference,.saint-reference:has(h2),.saint-reference:has(h3){color:inherit;text-decoration-thickness:1px;text-decoration-color:#ad95616b}
+.saint-reference:focus-visible{outline:2px solid #987435;outline-offset:3px;border-radius:2px}

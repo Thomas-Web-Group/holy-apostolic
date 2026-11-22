@@ -1,0 +1,6597 @@
+{
+  "schema": 1,
+  "pages": [
+    {
+      "url": "/",
+      "title": "Holy Apostolic",
+      "route": "#/home"
+    },
+    {
+      "url": "/lesson/d-start/",
+      "title": "Orthodox catechesis",
+      "route": "#/lesson/d-start"
+    },
+    {
+      "url": "/lesson/d-gospel/",
+      "title": "The Gospel and Jesus Christ",
+      "route": "#/lesson/d-gospel"
+    },
+    {
+      "url": "/lesson/d-scripture/",
+      "title": "Holy Scripture",
+      "route": "#/lesson/d-scripture"
+    },
+    {
+      "url": "/lesson/d-reading/",
+      "title": "Reading Scripture",
+      "route": "#/lesson/d-reading"
+    },
+    {
+      "url": "/lesson/cg-cyril-faith-examples/",
+      "title": "Cyril on faith, trust and biblical examples",
+      "route": "#/lesson/cg-cyril-faith-examples"
+    },
+    {
+      "url": "/lesson/cg-historical-editions/",
+      "title": "Published editions, Bible text and the service book",
+      "route": "#/lesson/cg-historical-editions"
+    },
+    {
+      "url": "/lesson/d-creed/",
+      "title": "The Nicene Creed",
+      "route": "#/lesson/d-creed"
+    },
+    {
+      "url": "/lesson/d-trinity/",
+      "title": "The Holy Trinity",
+      "route": "#/lesson/d-trinity"
+    },
+    {
+      "url": "/lesson/d-incarnation/",
+      "title": "The Incarnation",
+      "route": "#/lesson/d-incarnation"
+    },
+    {
+      "url": "/lesson/d-spirit/",
+      "title": "The Holy Spirit",
+      "route": "#/lesson/d-spirit"
+    },
+    {
+      "url": "/lesson/d-church/",
+      "title": "The Church",
+      "route": "#/lesson/d-church"
+    },
+    {
+      "url": "/lesson/d-tradition/",
+      "title": "Holy Tradition",
+      "route": "#/lesson/d-tradition"
+    },
+    {
+      "url": "/lesson/d-councils/",
+      "title": "Ecumenical councils",
+      "route": "#/lesson/d-councils"
+    },
+    {
+      "url": "/lesson/d-fathers/",
+      "title": "The Church Fathers",
+      "route": "#/lesson/d-fathers"
+    },
+    {
+      "url": "/lesson/cg-nicaea-provincial-order/",
+      "title": "Nicaea: bishops, provinces and synods",
+      "route": "#/lesson/cg-nicaea-provincial-order"
+    },
+    {
+      "url": "/lesson/cg-antioch-synods/",
+      "title": "Antioch: metropolitan and synodal judgment",
+      "route": "#/lesson/cg-antioch-synods"
+    },
+    {
+      "url": "/lesson/cg-apostolic-canons-synodality/",
+      "title": "The Apostolic Canons: primacy and mutual consent",
+      "route": "#/lesson/cg-apostolic-canons-synodality"
+    },
+    {
+      "url": "/lesson/cg-trullo-pastoral-judgment/",
+      "title": "Trullo: the pastoral application of a canon",
+      "route": "#/lesson/cg-trullo-pastoral-judgment"
+    },
+    {
+      "url": "/lesson/d-creation-fall/",
+      "title": "Creation and the fall",
+      "route": "#/lesson/d-creation-fall"
+    },
+    {
+      "url": "/lesson/d-cross/",
+      "title": "The cross, resurrection, and ascension",
+      "route": "#/lesson/d-cross"
+    },
+    {
+      "url": "/lesson/d-grace/",
+      "title": "Grace, faith, and works",
+      "route": "#/lesson/d-grace"
+    },
+    {
+      "url": "/lesson/d-theosis/",
+      "title": "Theosis",
+      "route": "#/lesson/d-theosis"
+    },
+    {
+      "url": "/lesson/d-initiation/",
+      "title": "Baptism and chrismation",
+      "route": "#/lesson/d-initiation"
+    },
+    {
+      "url": "/lesson/d-eucharist/",
+      "title": "The Eucharist",
+      "route": "#/lesson/d-eucharist"
+    },
+    {
+      "url": "/lesson/d-confession/",
+      "title": "Repentance and confession",
+      "route": "#/lesson/d-confession"
+    },
+    {
+      "url": "/lesson/d-sanctified-life/",
+      "title": "Marriage, orders, and anointing",
+      "route": "#/lesson/d-sanctified-life"
+    },
+    {
+      "url": "/lesson/cg-baptism-rite/",
+      "title": "Baptism: the published 1906 rite",
+      "route": "#/lesson/cg-baptism-rite"
+    },
+    {
+      "url": "/lesson/cg-baptism-sponsors/",
+      "title": "Sponsors and baptismal explanations",
+      "route": "#/lesson/cg-baptism-sponsors"
+    },
+    {
+      "url": "/lesson/cg-chrismation-ablution/",
+      "title": "Chrismation, ablution and tonsure",
+      "route": "#/lesson/cg-chrismation-ablution"
+    },
+    {
+      "url": "/lesson/cg-matrimony-betrothal/",
+      "title": "Marriage: betrothal and crowning",
+      "route": "#/lesson/cg-matrimony-betrothal"
+    },
+    {
+      "url": "/lesson/cg-minor-orders/",
+      "title": "Readers, chanters and subdeacons",
+      "route": "#/lesson/cg-minor-orders"
+    },
+    {
+      "url": "/lesson/cg-deacon-ordination/",
+      "title": "Ordination of a deacon",
+      "route": "#/lesson/cg-deacon-ordination"
+    },
+    {
+      "url": "/lesson/cg-presbyter-ordination/",
+      "title": "Ordination of a priest",
+      "route": "#/lesson/cg-presbyter-ordination"
+    },
+    {
+      "url": "/lesson/cg-bishop-consecration/",
+      "title": "A bishop’s profession and consecration",
+      "route": "#/lesson/cg-bishop-consecration"
+    },
+    {
+      "url": "/lesson/cg-holy-unction/",
+      "title": "Holy Unction and care of the sick",
+      "route": "#/lesson/cg-holy-unction"
+    },
+    {
+      "url": "/lesson/d-virtues/",
+      "title": "Christian virtues",
+      "route": "#/lesson/d-virtues"
+    },
+    {
+      "url": "/lesson/d-discernment/",
+      "title": "Humility and discernment",
+      "route": "#/lesson/d-discernment"
+    },
+    {
+      "url": "/lesson/d-suffering/",
+      "title": "Suffering and death",
+      "route": "#/lesson/d-suffering"
+    },
+    {
+      "url": "/lesson/d-last-things/",
+      "title": "Resurrection and judgment",
+      "route": "#/lesson/d-last-things"
+    },
+    {
+      "url": "/lesson/cg-speech-anger/",
+      "title": "Chrysostom on speech, anger and railing",
+      "route": "#/lesson/cg-speech-anger"
+    },
+    {
+      "url": "/lesson/cg-burial-source-reading/",
+      "title": "Burial and the published care of the departed",
+      "route": "#/lesson/cg-burial-source-reading"
+    },
+    {
+      "url": "/lesson/w-liturgy-beginning/",
+      "title": "Preparation and opening of the Divine Liturgy",
+      "route": "#/lesson/w-liturgy-beginning"
+    },
+    {
+      "url": "/lesson/w-liturgy-word/",
+      "title": "Gospel and Small Entrance",
+      "route": "#/lesson/w-liturgy-word"
+    },
+    {
+      "url": "/lesson/w-liturgy-offering/",
+      "title": "Great Entrance and anaphora",
+      "route": "#/lesson/w-liturgy-offering"
+    },
+    {
+      "url": "/lesson/w-liturgy-communion/",
+      "title": "Communion and thanksgiving",
+      "route": "#/lesson/w-liturgy-communion"
+    },
+    {
+      "url": "/lesson/cg-three-liturgies/",
+      "title": "Chrysostom, Basil and the Presanctified",
+      "route": "#/lesson/cg-three-liturgies"
+    },
+    {
+      "url": "/lesson/cg-prothesis-office/",
+      "title": "The Office of Oblation",
+      "route": "#/lesson/cg-prothesis-office"
+    },
+    {
+      "url": "/lesson/cg-liturgy-explanations/",
+      "title": "Entrances, readings, offering and Communion",
+      "route": "#/lesson/cg-liturgy-explanations"
+    },
+    {
+      "url": "/lesson/cg-presanctified-explanation/",
+      "title": "The Presanctified Gifts during Lent",
+      "route": "#/lesson/cg-presanctified-explanation"
+    },
+    {
+      "url": "/lesson/cg-liturgical-intercessions/",
+      "title": "The Great Litany and the catechumens",
+      "route": "#/lesson/cg-liturgical-intercessions"
+    },
+    {
+      "url": "/lesson/w-vespers/",
+      "title": "Vespers",
+      "route": "#/lesson/w-vespers"
+    },
+    {
+      "url": "/lesson/w-matins/",
+      "title": "Matins and All-Night Vigil",
+      "route": "#/lesson/w-matins"
+    },
+    {
+      "url": "/lesson/w-hours-compline/",
+      "title": "Hours, Compline, and Nocturne",
+      "route": "#/lesson/w-hours-compline"
+    },
+    {
+      "url": "/lesson/w-books-cycles/",
+      "title": "Liturgical books and cycles",
+      "route": "#/lesson/w-books-cycles"
+    },
+    {
+      "url": "/lesson/cg-vespers-complete-explanation/",
+      "title": "Great Vespers: the complete explanatory account",
+      "route": "#/lesson/cg-vespers-complete-explanation"
+    },
+    {
+      "url": "/lesson/cg-matins-complete-explanation/",
+      "title": "Matins: Six Psalms, polyeleos and canon",
+      "route": "#/lesson/cg-matins-complete-explanation"
+    },
+    {
+      "url": "/lesson/cg-first-hour-reading/",
+      "title": "The First Hour in the 1906 service book",
+      "route": "#/lesson/cg-first-hour-reading"
+    },
+    {
+      "url": "/lesson/cg-grand-compline-reading/",
+      "title": "Grand Compline in the 1906 service book",
+      "route": "#/lesson/cg-grand-compline-reading"
+    },
+    {
+      "url": "/lesson/w-prayer-rule/",
+      "title": "Prayer at home and in church",
+      "route": "#/lesson/w-prayer-rule"
+    },
+    {
+      "url": "/lesson/w-lords-prayer-psalms/",
+      "title": "The Lord’s Prayer and Psalms",
+      "route": "#/lesson/w-lords-prayer-psalms"
+    },
+    {
+      "url": "/lesson/w-jesus-prayer/",
+      "title": "Jesus Prayer and recollection of God",
+      "route": "#/lesson/w-jesus-prayer"
+    },
+    {
+      "url": "/lesson/w-intercession-lament/",
+      "title": "Intercessory prayer",
+      "route": "#/lesson/w-intercession-lament"
+    },
+    {
+      "url": "/lesson/w-fasting/",
+      "title": "Fasting",
+      "route": "#/lesson/w-fasting"
+    },
+    {
+      "url": "/lesson/w-alms-work/",
+      "title": "Almsgiving and work",
+      "route": "#/lesson/w-alms-work"
+    },
+    {
+      "url": "/lesson/w-family-peace/",
+      "title": "Marriage and family",
+      "route": "#/lesson/w-family-peace"
+    },
+    {
+      "url": "/lesson/w-repentance-daily/",
+      "title": "Repentance and confession",
+      "route": "#/lesson/w-repentance-daily"
+    },
+    {
+      "url": "/lesson/cg-chrysostom-marital-love/",
+      "title": "Chrysostom on marital love",
+      "route": "#/lesson/cg-chrysostom-marital-love"
+    },
+    {
+      "url": "/lesson/cg-money-contentment/",
+      "title": "Chrysostom on money and contentment",
+      "route": "#/lesson/cg-money-contentment"
+    },
+    {
+      "url": "/lesson/w-calendar-map/",
+      "title": "Church year and calendar",
+      "route": "#/lesson/w-calendar-map"
+    },
+    {
+      "url": "/lesson/w-incarnation-feasts/",
+      "title": "Nativity, Theophany, and Meeting of the Lord",
+      "route": "#/lesson/w-incarnation-feasts"
+    },
+    {
+      "url": "/lesson/w-lent-holy-week/",
+      "title": "Great Lent and Holy Week",
+      "route": "#/lesson/w-lent-holy-week"
+    },
+    {
+      "url": "/lesson/w-pascha-life/",
+      "title": "Pascha and Pentecost",
+      "route": "#/lesson/w-pascha-life"
+    },
+    {
+      "url": "/lesson/w-chant-hymns/",
+      "title": "Chant and hymns",
+      "route": "#/lesson/w-chant-hymns"
+    },
+    {
+      "url": "/lesson/w-church-space/",
+      "title": "Church building",
+      "route": "#/lesson/w-church-space"
+    },
+    {
+      "url": "/lesson/w-body-vestments/",
+      "title": "Vestments, incense, and the sign of the cross",
+      "route": "#/lesson/w-body-vestments"
+    },
+    {
+      "url": "/lesson/w-rocor-parish/",
+      "title": "ROCOR parish sources",
+      "route": "#/lesson/w-rocor-parish"
+    },
+    {
+      "url": "/lesson/h-apostolic-church/",
+      "title": "The apostolic Church",
+      "route": "#/lesson/h-apostolic-church"
+    },
+    {
+      "url": "/lesson/h-councils-history/",
+      "title": "Ecumenical councils",
+      "route": "#/lesson/h-councils-history"
+    },
+    {
+      "url": "/lesson/h-schism/",
+      "title": "The East–West schism",
+      "route": "#/lesson/h-schism"
+    },
+    {
+      "url": "/lesson/h-rocor/",
+      "title": "ROCOR and the 2007 Act",
+      "route": "#/lesson/h-rocor"
+    },
+    {
+      "url": "/lesson/cg-creeds-325-381/",
+      "title": "The creeds of Nicaea and Constantinople",
+      "route": "#/lesson/cg-creeds-325-381"
+    },
+    {
+      "url": "/lesson/cg-ephesus-cyril-letter/",
+      "title": "Ephesus: Cyril’s letter to Nestorius",
+      "route": "#/lesson/cg-ephesus-cyril-letter"
+    },
+    {
+      "url": "/lesson/cg-chalcedon-definition/",
+      "title": "Chalcedon: the Definition of Faith",
+      "route": "#/lesson/cg-chalcedon-definition"
+    },
+    {
+      "url": "/lesson/cg-constantinople-iii-definition/",
+      "title": "Constantinople III: two wills and operations",
+      "route": "#/lesson/cg-constantinople-iii-definition"
+    },
+    {
+      "url": "/lesson/cg-nicaea-ii-decree/",
+      "title": "Nicaea II: the decree on images",
+      "route": "#/lesson/cg-nicaea-ii-decree"
+    },
+    {
+      "url": "/lesson/h-martyrs/",
+      "title": "The Martyrdom of Polycarp",
+      "route": "#/lesson/h-martyrs"
+    },
+    {
+      "url": "/lesson/h-teaching-fathers/",
+      "title": "Athanasius and Basil",
+      "route": "#/lesson/h-teaching-fathers"
+    },
+    {
+      "url": "/lesson/h-repentant-saints/",
+      "title": "Mary of Egypt and Seraphim of Sarov",
+      "route": "#/lesson/h-repentant-saints"
+    },
+    {
+      "url": "/lesson/h-mercy-saints/",
+      "title": "Herman, John Maximovitch, and Olga",
+      "route": "#/lesson/h-mercy-saints"
+    },
+    {
+      "url": "/lesson/h-theotokos/",
+      "title": "Theotokos",
+      "route": "#/lesson/h-theotokos"
+    },
+    {
+      "url": "/lesson/h-icons/",
+      "title": "Icons",
+      "route": "#/lesson/h-icons"
+    },
+    {
+      "url": "/lesson/h-intercession/",
+      "title": "Intercession of the saints",
+      "route": "#/lesson/h-intercession"
+    },
+    {
+      "url": "/lesson/h-relics-discernment/",
+      "title": "Relics",
+      "route": "#/lesson/h-relics-discernment"
+    },
+    {
+      "url": "/lesson/r-pca-piper/",
+      "title": "PCA and John Piper",
+      "route": "#/lesson/r-pca-piper"
+    },
+    {
+      "url": "/lesson/r-scripture-tradition/",
+      "title": "Scripture and Tradition",
+      "route": "#/lesson/r-scripture-tradition"
+    },
+    {
+      "url": "/lesson/r-canon-reading/",
+      "title": "The biblical canon",
+      "route": "#/lesson/r-canon-reading"
+    },
+    {
+      "url": "/lesson/r-councils-certainty/",
+      "title": "Councils and authority",
+      "route": "#/lesson/r-councils-certainty"
+    },
+    {
+      "url": "/lesson/r-justification/",
+      "title": "Justification",
+      "route": "#/lesson/r-justification"
+    },
+    {
+      "url": "/lesson/r-faith-works/",
+      "title": "Faith and works",
+      "route": "#/lesson/r-faith-works"
+    },
+    {
+      "url": "/lesson/r-election-freedom/",
+      "title": "Election and freedom",
+      "route": "#/lesson/r-election-freedom"
+    },
+    {
+      "url": "/lesson/r-assurance/",
+      "title": "Assurance and perseverance",
+      "route": "#/lesson/r-assurance"
+    },
+    {
+      "url": "/lesson/r-baptism/",
+      "title": "Baptism",
+      "route": "#/lesson/r-baptism"
+    },
+    {
+      "url": "/lesson/r-eucharist/",
+      "title": "The Eucharist",
+      "route": "#/lesson/r-eucharist"
+    },
+    {
+      "url": "/lesson/r-images-saints/",
+      "title": "Images, saints, and Mary",
+      "route": "#/lesson/r-images-saints"
+    },
+    {
+      "url": "/lesson/r-family-conversations/",
+      "title": "Speech and disagreement",
+      "route": "#/lesson/r-family-conversations"
+    },
+    {
+      "url": "/lesson/ex-apophatic/",
+      "title": "Apophatic and affirmative language",
+      "route": "#/lesson/ex-apophatic"
+    },
+    {
+      "url": "/lesson/ex-divine-names/",
+      "title": "Divine names and scriptural images",
+      "route": "#/lesson/ex-divine-names"
+    },
+    {
+      "url": "/lesson/ex-hypostasis/",
+      "title": "Essence, hypostasis, and the Holy Trinity",
+      "route": "#/lesson/ex-hypostasis"
+    },
+    {
+      "url": "/lesson/ex-divine-properties/",
+      "title": "Divine properties and uncircumscribed presence",
+      "route": "#/lesson/ex-divine-properties"
+    },
+    {
+      "url": "/lesson/ex-aeon-creation/",
+      "title": "Age, eternity, and creation",
+      "route": "#/lesson/ex-aeon-creation"
+    },
+    {
+      "url": "/lesson/ex-angels-demons/",
+      "title": "Angels, demons, and created spirits",
+      "route": "#/lesson/ex-angels-demons"
+    },
+    {
+      "url": "/lesson/ex-image-likeness/",
+      "title": "The human person: image and likeness",
+      "route": "#/lesson/ex-image-likeness"
+    },
+    {
+      "url": "/lesson/ex-providence-freedom/",
+      "title": "Providence, foreknowledge, and freedom",
+      "route": "#/lesson/ex-providence-freedom"
+    },
+    {
+      "url": "/lesson/ex-nature-person/",
+      "title": "Nature, person, and the hypostatic union",
+      "route": "#/lesson/ex-nature-person"
+    },
+    {
+      "url": "/lesson/ex-theotokos-christology/",
+      "title": "Theotokos and the identity of Christ",
+      "route": "#/lesson/ex-theotokos-christology"
+    },
+    {
+      "url": "/lesson/ex-two-wills/",
+      "title": "The two natural wills of Christ",
+      "route": "#/lesson/ex-two-wills"
+    },
+    {
+      "url": "/lesson/ex-two-energies/",
+      "title": "The two energies and the theandric action",
+      "route": "#/lesson/ex-two-energies"
+    },
+    {
+      "url": "/lesson/ex-innocent-passions/",
+      "title": "Natural passions and divine impassibility",
+      "route": "#/lesson/ex-innocent-passions"
+    },
+    {
+      "url": "/lesson/ex-hades-victory/",
+      "title": "The descent to Hades and the risen body",
+      "route": "#/lesson/ex-hades-victory"
+    },
+    {
+      "url": "/lesson/ex-cross-east/",
+      "title": "The Cross and worship toward the East",
+      "route": "#/lesson/ex-cross-east"
+    },
+    {
+      "url": "/lesson/ex-resurrection-body/",
+      "title": "The resurrection of the body",
+      "route": "#/lesson/ex-resurrection-body"
+    },
+    {
+      "url": "/lesson/ex-repentance-cyril/",
+      "title": "Repentance in Cyril’s catechesis",
+      "route": "#/lesson/ex-repentance-cyril"
+    },
+    {
+      "url": "/lesson/ex-faith-baptism/",
+      "title": "Faith and the baptismal calling",
+      "route": "#/lesson/ex-faith-baptism"
+    },
+    {
+      "url": "/lesson/ex-canon-cyril/",
+      "title": "Scripture and canon in Cyril’s lectures",
+      "route": "#/lesson/ex-canon-cyril"
+    },
+    {
+      "url": "/lesson/ex-judgment-cyril/",
+      "title": "Resurrection and the life to come in Cyril",
+      "route": "#/lesson/ex-judgment-cyril"
+    },
+    {
+      "url": "/lesson/cg-procatechesis-purpose/",
+      "title": "Procatechesis: entering the catechumenate",
+      "route": "#/lesson/cg-procatechesis-purpose"
+    },
+    {
+      "url": "/lesson/cg-procatechesis-instruction/",
+      "title": "Procatechesis: the course of instruction",
+      "route": "#/lesson/cg-procatechesis-instruction"
+    },
+    {
+      "url": "/lesson/cg-cyril-catholic-church/",
+      "title": "Cyril on “Catholic Church”",
+      "route": "#/lesson/cg-cyril-catholic-church"
+    },
+    {
+      "url": "/lesson/cg-irenaeus-septuagint/",
+      "title": "Irenaeus on the Greek Scriptures",
+      "route": "#/lesson/cg-irenaeus-septuagint"
+    },
+    {
+      "url": "/lesson/ex-renunciation/",
+      "title": "Renunciation and baptismal confession",
+      "route": "#/lesson/ex-renunciation"
+    },
+    {
+      "url": "/lesson/ex-baptism-immersion/",
+      "title": "The threefold baptismal immersion",
+      "route": "#/lesson/ex-baptism-immersion"
+    },
+    {
+      "url": "/lesson/ex-chrismation-cyril/",
+      "title": "Chrismation and the seal of the Spirit",
+      "route": "#/lesson/ex-chrismation-cyril"
+    },
+    {
+      "url": "/lesson/ex-eucharist-cyril/",
+      "title": "Cyril on the Eucharistic gifts",
+      "route": "#/lesson/ex-eucharist-cyril"
+    },
+    {
+      "url": "/lesson/cg-cyril-anaphora/",
+      "title": "Cyril on the anaphora and intercessions",
+      "route": "#/lesson/cg-cyril-anaphora"
+    },
+    {
+      "url": "/lesson/cg-cyril-communion/",
+      "title": "Cyril on “Holy things” and Communion",
+      "route": "#/lesson/cg-cyril-communion"
+    },
+    {
+      "url": "/lesson/ex-first-commandment/",
+      "title": "The first commandment and trust in God",
+      "route": "#/lesson/ex-first-commandment"
+    },
+    {
+      "url": "/lesson/ex-second-commandment/",
+      "title": "Idolatry, icons, and the heart",
+      "route": "#/lesson/ex-second-commandment"
+    },
+    {
+      "url": "/lesson/ex-third-commandment/",
+      "title": "The name of God, reverence, and oaths",
+      "route": "#/lesson/ex-third-commandment"
+    },
+    {
+      "url": "/lesson/ex-fourth-commandment/",
+      "title": "Sabbath, Sunday, feasts, and work",
+      "route": "#/lesson/ex-fourth-commandment"
+    },
+    {
+      "url": "/lesson/ex-parents-pastors/",
+      "title": "Parents, children, pastors, and obedience",
+      "route": "#/lesson/ex-parents-pastors"
+    },
+    {
+      "url": "/lesson/ex-life-mercy/",
+      "title": "The life of the neighbor and works of mercy",
+      "route": "#/lesson/ex-life-mercy"
+    },
+    {
+      "url": "/lesson/ex-chastity-marriage/",
+      "title": "Chastity and the marriage covenant",
+      "route": "#/lesson/ex-chastity-marriage"
+    },
+    {
+      "url": "/lesson/ex-property-truth/",
+      "title": "Property, truth, and coveting",
+      "route": "#/lesson/ex-property-truth"
+    },
+    {
+      "url": "/lesson/cg-fifth-commandment-duties/",
+      "title": "Philaret on the fifth commandment and social duties",
+      "route": "#/lesson/cg-fifth-commandment-duties"
+    },
+    {
+      "url": "/lesson/cg-gangra-marriage-family/",
+      "title": "Gangra: asceticism, marriage and family",
+      "route": "#/lesson/cg-gangra-marriage-family"
+    },
+    {
+      "url": "/lesson/ex-poverty-mourning/",
+      "title": "Poverty of spirit and mourning",
+      "route": "#/lesson/ex-poverty-mourning"
+    },
+    {
+      "url": "/lesson/ex-meekness-righteousness/",
+      "title": "Meekness and hunger for righteousness",
+      "route": "#/lesson/ex-meekness-righteousness"
+    },
+    {
+      "url": "/lesson/ex-mercy-purity/",
+      "title": "Mercy and purity of heart",
+      "route": "#/lesson/ex-mercy-purity"
+    },
+    {
+      "url": "/lesson/ex-peace-persecution/",
+      "title": "Peacemaking and persecution",
+      "route": "#/lesson/ex-peace-persecution"
+    },
+    {
+      "url": "/lesson/ex-prayer-foundation/",
+      "title": "Prayer, humility, and the foundations of virtue",
+      "route": "#/lesson/ex-prayer-foundation"
+    },
+    {
+      "url": "/lesson/ex-four-prayers/",
+      "title": "Supplication, prayer, intercession, and thanksgiving",
+      "route": "#/lesson/ex-four-prayers"
+    },
+    {
+      "url": "/lesson/ex-lords-prayer-mystagogy/",
+      "title": "The Lord’s Prayer in mystagogical teaching",
+      "route": "#/lesson/ex-lords-prayer-mystagogy"
+    },
+    {
+      "url": "/lesson/ex-continual-prayer-cassian/",
+      "title": "Continual prayer and stability of thoughts",
+      "route": "#/lesson/ex-continual-prayer-cassian"
+    },
+    {
+      "url": "/lesson/ex-eight-faults/",
+      "title": "The eight principal faults",
+      "route": "#/lesson/ex-eight-faults"
+    },
+    {
+      "url": "/lesson/ex-gluttony-acedia/",
+      "title": "Gluttony, dejection, and acedia",
+      "route": "#/lesson/ex-gluttony-acedia"
+    },
+    {
+      "url": "/lesson/ex-vainglory-pride/",
+      "title": "Vainglory, pride, and their disguises",
+      "route": "#/lesson/ex-vainglory-pride"
+    },
+    {
+      "url": "/lesson/ex-grace-struggle/",
+      "title": "Struggle against the passions and the help of God",
+      "route": "#/lesson/ex-grace-struggle"
+    },
+    {
+      "url": "/lesson/ex-goal-purity/",
+      "title": "The goal and end of the spiritual life",
+      "route": "#/lesson/ex-goal-purity"
+    },
+    {
+      "url": "/lesson/ex-fear-love/",
+      "title": "From fear and reward to love",
+      "route": "#/lesson/ex-fear-love"
+    },
+    {
+      "url": "/lesson/ex-friendship-patience/",
+      "title": "Friendship, patience, and reconciliation",
+      "route": "#/lesson/ex-friendship-patience"
+    },
+    {
+      "url": "/lesson/ex-penitence/",
+      "title": "Repentance, remembrance, and humility",
+      "route": "#/lesson/ex-penitence"
+    },
+    {
+      "url": "/lesson/ex-baptism-spirit/",
+      "title": "Baptism and the work of the Spirit",
+      "route": "#/lesson/ex-baptism-spirit"
+    },
+    {
+      "url": "/lesson/ex-spirit-gifts/",
+      "title": "The Spirit’s glory and freedom",
+      "route": "#/lesson/ex-spirit-gifts"
+    },
+    {
+      "url": "/lesson/ex-unwritten-tradition/",
+      "title": "Written and unwritten apostolic traditions",
+      "route": "#/lesson/ex-unwritten-tradition"
+    },
+    {
+      "url": "/lesson/ex-doxology-basil/",
+      "title": "Doxology and the confession of divine glory",
+      "route": "#/lesson/ex-doxology-basil"
+    },
+    {
+      "url": "/lesson/ex-annunciation-feast/",
+      "title": "The Annunciation: service readings",
+      "route": "#/lesson/ex-annunciation-feast"
+    },
+    {
+      "url": "/lesson/ex-ascension-feast/",
+      "title": "The Ascension: service readings",
+      "route": "#/lesson/ex-ascension-feast"
+    },
+    {
+      "url": "/lesson/ex-transfiguration-feast/",
+      "title": "The Transfiguration: service readings",
+      "route": "#/lesson/ex-transfiguration-feast"
+    },
+    {
+      "url": "/lesson/ex-dormition-feast/",
+      "title": "The Dormition: service readings",
+      "route": "#/lesson/ex-dormition-feast"
+    },
+    {
+      "url": "/lesson/ex-antony-calling/",
+      "title": "Antony’s calling and early years",
+      "route": "#/lesson/ex-antony-calling"
+    },
+    {
+      "url": "/lesson/ex-antony-discernment/",
+      "title": "Antony on courage and discernment",
+      "route": "#/lesson/ex-antony-discernment"
+    },
+    {
+      "url": "/lesson/ex-martin-cloak/",
+      "title": "Martin of Tours and the divided cloak",
+      "route": "#/lesson/ex-martin-cloak"
+    },
+    {
+      "url": "/lesson/ex-martin-humility/",
+      "title": "Martin’s patience and humility",
+      "route": "#/lesson/ex-martin-humility"
+    },
+    {
+      "url": "/lesson/ex-passover-type/",
+      "title": "Passover and the saving Passion",
+      "route": "#/lesson/ex-passover-type"
+    },
+    {
+      "url": "/lesson/ex-red-sea-type/",
+      "title": "The Red Sea and deliverance",
+      "route": "#/lesson/ex-red-sea-type"
+    },
+    {
+      "url": "/lesson/ex-manna-type/",
+      "title": "Manna and the bread from heaven",
+      "route": "#/lesson/ex-manna-type"
+    },
+    {
+      "url": "/lesson/ex-sanctuary-type/",
+      "title": "The sanctuary and sacred images",
+      "route": "#/lesson/ex-sanctuary-type"
+    },
+    {
+      "url": "/lesson/ex-scripture-councils/",
+      "title": "Scripture, councils, and interpretation",
+      "route": "#/lesson/ex-scripture-councils"
+    },
+    {
+      "url": "/lesson/ex-election-reading/",
+      "title": "Predestination and human freedom: source readings",
+      "route": "#/lesson/ex-election-reading"
+    },
+    {
+      "url": "/lesson/ex-christology-reading/",
+      "title": "Christ’s two natures: patristic and confessional texts",
+      "route": "#/lesson/ex-christology-reading"
+    },
+    {
+      "url": "/lesson/ex-images-reading/",
+      "title": "Images and veneration: source readings",
+      "route": "#/lesson/ex-images-reading"
+    },
+    {
+      "url": "/lesson/ex-temple-symbolism/",
+      "title": "Temple, sanctuary, and holy table",
+      "route": "#/lesson/ex-temple-symbolism"
+    },
+    {
+      "url": "/lesson/ex-vestment-vocabulary/",
+      "title": "The names and symbolism of vestments",
+      "route": "#/lesson/ex-vestment-vocabulary"
+    },
+    {
+      "url": "/lesson/ex-books-vocabulary/",
+      "title": "Service books and the liturgical cycle",
+      "route": "#/lesson/ex-books-vocabulary"
+    },
+    {
+      "url": "/lesson/ex-chant-vocabulary/",
+      "title": "Liturgical hymn forms and the eight tones",
+      "route": "#/lesson/ex-chant-vocabulary"
+    },
+    {
+      "url": "/lesson/cg-sacred-vessels/",
+      "title": "The altar, antimension and sacred vessels",
+      "route": "#/lesson/cg-sacred-vessels"
+    },
+    {
+      "url": "/lesson/cg-episcopal-vestments/",
+      "title": "A bishop’s vestments and pastoral insignia",
+      "route": "#/lesson/cg-episcopal-vestments"
+    },
+    {
+      "url": "/lesson/cg-church-consecration/",
+      "title": "Consecration of a church and altar",
+      "route": "#/lesson/cg-church-consecration"
+    },
+    {
+      "url": "/lesson/cg-liturgical-books-catalogue/",
+      "title": "The published catalogue of liturgical books",
+      "route": "#/lesson/cg-liturgical-books-catalogue"
+    },
+    {
+      "url": "/lesson/fc-clement-repentance/",
+      "title": "Clement on repentance",
+      "route": "#/lesson/fc-clement-repentance"
+    },
+    {
+      "url": "/lesson/fc-clement-humility/",
+      "title": "Clement on humility and Christ",
+      "route": "#/lesson/fc-clement-humility"
+    },
+    {
+      "url": "/lesson/fc-clement-faith-works/",
+      "title": "Clement on faith and good works",
+      "route": "#/lesson/fc-clement-faith-works"
+    },
+    {
+      "url": "/lesson/fc-clement-ministry/",
+      "title": "Clement on apostolic ministry",
+      "route": "#/lesson/fc-clement-ministry"
+    },
+    {
+      "url": "/lesson/fc-diognetus-citizens/",
+      "title": "Christians and their neighbors in Diognetus",
+      "route": "#/lesson/fc-diognetus-citizens"
+    },
+    {
+      "url": "/lesson/fc-diognetus-salvation/",
+      "title": "The gift of salvation in Diognetus",
+      "route": "#/lesson/fc-diognetus-salvation"
+    },
+    {
+      "url": "/lesson/fc-polycarp-faith/",
+      "title": "Polycarp on faith and endurance",
+      "route": "#/lesson/fc-polycarp-faith"
+    },
+    {
+      "url": "/lesson/fc-polycarp-parish/",
+      "title": "Polycarp on household and parish life",
+      "route": "#/lesson/fc-polycarp-parish"
+    },
+    {
+      "url": "/lesson/fc-justin-worship/",
+      "title": "Justin on God and Christian worship",
+      "route": "#/lesson/fc-justin-worship"
+    },
+    {
+      "url": "/lesson/fc-justin-incarnation/",
+      "title": "Justin on Christ and the Incarnation",
+      "route": "#/lesson/fc-justin-incarnation"
+    },
+    {
+      "url": "/lesson/fc-justin-resurrection/",
+      "title": "Justin on bodily resurrection",
+      "route": "#/lesson/fc-justin-resurrection"
+    },
+    {
+      "url": "/lesson/fc-justin-prophecy/",
+      "title": "Justin on the prophets",
+      "route": "#/lesson/fc-justin-prophecy"
+    },
+    {
+      "url": "/lesson/fc-justin-baptism/",
+      "title": "Baptism in Justin’s First Apology",
+      "route": "#/lesson/fc-justin-baptism"
+    },
+    {
+      "url": "/lesson/fc-justin-eucharist/",
+      "title": "The Eucharist in Justin’s First Apology",
+      "route": "#/lesson/fc-justin-eucharist"
+    },
+    {
+      "url": "/lesson/fc-justin-sunday/",
+      "title": "Sunday gathering and care for those in need",
+      "route": "#/lesson/fc-justin-sunday"
+    },
+    {
+      "url": "/lesson/fc-justin-freedom/",
+      "title": "Justin on responsibility and foreknowledge",
+      "route": "#/lesson/fc-justin-freedom"
+    },
+    {
+      "url": "/lesson/fc-irenaeus-scripture/",
+      "title": "Irenaeus on Scripture and the apostolic proclamation",
+      "route": "#/lesson/fc-irenaeus-scripture"
+    },
+    {
+      "url": "/lesson/fc-irenaeus-succession/",
+      "title": "Irenaeus on the churches and apostolic succession",
+      "route": "#/lesson/fc-irenaeus-succession"
+    },
+    {
+      "url": "/lesson/fc-irenaeus-recapitulation/",
+      "title": "Irenaeus on the Incarnation and recapitulation",
+      "route": "#/lesson/fc-irenaeus-recapitulation"
+    },
+    {
+      "url": "/lesson/fc-irenaeus-growth/",
+      "title": "Irenaeus on creation and growth",
+      "route": "#/lesson/fc-irenaeus-growth"
+    },
+    {
+      "url": "/lesson/fc-didache-two-ways/",
+      "title": "The two ways in the Didache",
+      "route": "#/lesson/fc-didache-two-ways"
+    },
+    {
+      "url": "/lesson/fc-didache-mercy/",
+      "title": "The Didache on conduct and generosity",
+      "route": "#/lesson/fc-didache-mercy"
+    },
+    {
+      "url": "/lesson/fc-didache-baptism-prayer/",
+      "title": "Baptism and prayer in the Didache",
+      "route": "#/lesson/fc-didache-baptism-prayer"
+    },
+    {
+      "url": "/lesson/fc-didache-thanksgiving/",
+      "title": "Thanksgiving in the Didache",
+      "route": "#/lesson/fc-didache-thanksgiving"
+    },
+    {
+      "url": "/lesson/fc-didache-discernment/",
+      "title": "Teachers and hospitality in the Didache",
+      "route": "#/lesson/fc-didache-discernment"
+    },
+    {
+      "url": "/lesson/fc-didache-assembly/",
+      "title": "Offerings, reconciliation, and assembly in the Didache",
+      "route": "#/lesson/fc-didache-assembly"
+    },
+    {
+      "url": "/lesson/fc-didache-watchfulness/",
+      "title": "Ministry and watchfulness in the Didache",
+      "route": "#/lesson/fc-didache-watchfulness"
+    },
+    {
+      "url": "/lesson/fc-irenaeus-body-eucharist/",
+      "title": "Irenaeus on the Eucharist and bodily resurrection",
+      "route": "#/lesson/fc-irenaeus-body-eucharist"
+    },
+    {
+      "url": "/lesson/fc-cyril-father/",
+      "title": "Cyril on the Father",
+      "route": "#/lesson/fc-cyril-father"
+    },
+    {
+      "url": "/lesson/fc-cyril-almighty/",
+      "title": "Cyril on God Almighty",
+      "route": "#/lesson/fc-cyril-almighty"
+    },
+    {
+      "url": "/lesson/fc-cyril-creator/",
+      "title": "Cyril on the Creator",
+      "route": "#/lesson/fc-cyril-creator"
+    },
+    {
+      "url": "/lesson/fc-cyril-jesus-christ/",
+      "title": "Cyril on the names Jesus and Christ",
+      "route": "#/lesson/fc-cyril-jesus-christ"
+    },
+    {
+      "url": "/lesson/fc-cyril-incarnation/",
+      "title": "Cyril on the birth of Christ",
+      "route": "#/lesson/fc-cyril-incarnation"
+    },
+    {
+      "url": "/lesson/fc-cyril-cross/",
+      "title": "Cyril on the Cross",
+      "route": "#/lesson/fc-cyril-cross"
+    },
+    {
+      "url": "/lesson/fc-cyril-resurrection/",
+      "title": "Cyril on the Resurrection",
+      "route": "#/lesson/fc-cyril-resurrection"
+    },
+    {
+      "url": "/lesson/fc-cyril-spirit/",
+      "title": "Cyril on the Holy Spirit",
+      "route": "#/lesson/fc-cyril-spirit"
+    },
+    {
+      "url": "/lesson/fc-abraham-covenant/",
+      "title": "Abraham and the promise",
+      "route": "#/lesson/fc-abraham-covenant"
+    },
+    {
+      "url": "/lesson/fc-sinai-commandment/",
+      "title": "Sinai and the love of God",
+      "route": "#/lesson/fc-sinai-commandment"
+    },
+    {
+      "url": "/lesson/fc-david-promise/",
+      "title": "The promise to David and the Annunciation",
+      "route": "#/lesson/fc-david-promise"
+    },
+    {
+      "url": "/lesson/fc-servant-christ/",
+      "title": "The suffering servant and the Gospel",
+      "route": "#/lesson/fc-servant-christ"
+    },
+    {
+      "url": "/saint/theotokos/",
+      "title": "Mary, the Theotokos",
+      "route": "#/saint/theotokos"
+    },
+    {
+      "url": "/saint/john-baptist/",
+      "title": "St. John the Baptist",
+      "route": "#/saint/john-baptist"
+    },
+    {
+      "url": "/saint/peter-paul/",
+      "title": "Sts. Peter and Paul",
+      "route": "#/saint/peter-paul"
+    },
+    {
+      "url": "/saint/andrew/",
+      "title": "St. Andrew the First-Called",
+      "route": "#/saint/andrew"
+    },
+    {
+      "url": "/saint/john-theologian/",
+      "title": "St. John the Theologian",
+      "route": "#/saint/john-theologian"
+    },
+    {
+      "url": "/saint/matthew/",
+      "title": "St. Matthew the Evangelist",
+      "route": "#/saint/matthew"
+    },
+    {
+      "url": "/saint/mark/",
+      "title": "St. Mark the Evangelist",
+      "route": "#/saint/mark"
+    },
+    {
+      "url": "/saint/luke/",
+      "title": "St. Luke the Evangelist",
+      "route": "#/saint/luke"
+    },
+    {
+      "url": "/saint/thomas/",
+      "title": "St. Thomas the Apostle",
+      "route": "#/saint/thomas"
+    },
+    {
+      "url": "/saint/james-jerusalem/",
+      "title": "St. James, Brother of the Lord",
+      "route": "#/saint/james-jerusalem"
+    },
+    {
+      "url": "/saint/stephen/",
+      "title": "St. Stephen the First Martyr",
+      "route": "#/saint/stephen"
+    },
+    {
+      "url": "/saint/mary-magdalene/",
+      "title": "St. Mary Magdalene",
+      "route": "#/saint/mary-magdalene"
+    },
+    {
+      "url": "/saint/photini/",
+      "title": "St. Photini, the Samaritan Woman",
+      "route": "#/saint/photini"
+    },
+    {
+      "url": "/saint/thekla/",
+      "title": "St. Thekla",
+      "route": "#/saint/thekla"
+    },
+    {
+      "url": "/saint/ignatius/",
+      "title": "St. Ignatius of Antioch",
+      "route": "#/saint/ignatius"
+    },
+    {
+      "url": "/saint/polycarp/",
+      "title": "St. Polycarp of Smyrna",
+      "route": "#/saint/polycarp"
+    },
+    {
+      "url": "/saint/justin/",
+      "title": "St. Justin the Philosopher",
+      "route": "#/saint/justin"
+    },
+    {
+      "url": "/saint/irenaeus/",
+      "title": "St. Irenaeus of Lyons",
+      "route": "#/saint/irenaeus"
+    },
+    {
+      "url": "/saint/perpetua-felicity/",
+      "title": "Sts. Perpetua and Felicity",
+      "route": "#/saint/perpetua-felicity"
+    },
+    {
+      "url": "/saint/george/",
+      "title": "St. George the Trophy-bearer",
+      "route": "#/saint/george"
+    },
+    {
+      "url": "/saint/demetrius/",
+      "title": "St. Demetrius of Thessalonica",
+      "route": "#/saint/demetrius"
+    },
+    {
+      "url": "/saint/catherine/",
+      "title": "St. Catherine of Alexandria",
+      "route": "#/saint/catherine"
+    },
+    {
+      "url": "/saint/barbara/",
+      "title": "St. Barbara the Great Martyr",
+      "route": "#/saint/barbara"
+    },
+    {
+      "url": "/saint/panteleimon/",
+      "title": "St. Panteleimon the Healer",
+      "route": "#/saint/panteleimon"
+    },
+    {
+      "url": "/saint/cosmas-damian/",
+      "title": "Sts. Cosmas and Damian of Mesopotamia",
+      "route": "#/saint/cosmas-damian"
+    },
+    {
+      "url": "/saint/nicholas/",
+      "title": "St. Nicholas of Myra",
+      "route": "#/saint/nicholas"
+    },
+    {
+      "url": "/saint/spyridon/",
+      "title": "St. Spyridon of Trimythous",
+      "route": "#/saint/spyridon"
+    },
+    {
+      "url": "/saint/basil/",
+      "title": "St. Basil the Great",
+      "route": "#/saint/basil"
+    },
+    {
+      "url": "/saint/gregory-theologian/",
+      "title": "St. Gregory the Theologian",
+      "route": "#/saint/gregory-theologian"
+    },
+    {
+      "url": "/saint/gregory-nyssa/",
+      "title": "St. Gregory of Nyssa",
+      "route": "#/saint/gregory-nyssa"
+    },
+    {
+      "url": "/saint/athanasius/",
+      "title": "St. Athanasius of Alexandria",
+      "route": "#/saint/athanasius"
+    },
+    {
+      "url": "/saint/cyril-alexandria/",
+      "title": "St. Cyril of Alexandria",
+      "route": "#/saint/cyril-alexandria"
+    },
+    {
+      "url": "/saint/john-chrysostom/",
+      "title": "St. John Chrysostom",
+      "route": "#/saint/john-chrysostom"
+    },
+    {
+      "url": "/saint/antony/",
+      "title": "St. Anthony the Great",
+      "route": "#/saint/antony"
+    },
+    {
+      "url": "/saint/pachomius/",
+      "title": "St. Pachomius the Great",
+      "route": "#/saint/pachomius"
+    },
+    {
+      "url": "/saint/macarius/",
+      "title": "St. Macarius the Great",
+      "route": "#/saint/macarius"
+    },
+    {
+      "url": "/saint/arsenius/",
+      "title": "St. Arsenius the Great",
+      "route": "#/saint/arsenius"
+    },
+    {
+      "url": "/saint/moses-ethiopian/",
+      "title": "St. Moses the Ethiopian",
+      "route": "#/saint/moses-ethiopian"
+    },
+    {
+      "url": "/saint/mary-egypt/",
+      "title": "St. Mary of Egypt",
+      "route": "#/saint/mary-egypt"
+    },
+    {
+      "url": "/saint/syncletica/",
+      "title": "St. Syncletica of Alexandria",
+      "route": "#/saint/syncletica"
+    },
+    {
+      "url": "/saint/macrina/",
+      "title": "St. Macrina the Younger",
+      "route": "#/saint/macrina"
+    },
+    {
+      "url": "/saint/ephrem/",
+      "title": "St. Ephraim the Syrian",
+      "route": "#/saint/ephrem"
+    },
+    {
+      "url": "/saint/isaac-syrian/",
+      "title": "St. Isaac the Syrian",
+      "route": "#/saint/isaac-syrian"
+    },
+    {
+      "url": "/saint/john-ladder/",
+      "title": "St. John of the Ladder",
+      "route": "#/saint/john-ladder"
+    },
+    {
+      "url": "/saint/maximus/",
+      "title": "St. Maximus the Confessor",
+      "route": "#/saint/maximus"
+    },
+    {
+      "url": "/saint/john-damascene/",
+      "title": "St. John of Damascus",
+      "route": "#/saint/john-damascene"
+    },
+    {
+      "url": "/saint/gregory-palamas/",
+      "title": "St. Gregory Palamas",
+      "route": "#/saint/gregory-palamas"
+    },
+    {
+      "url": "/saint/symeon-new-theologian/",
+      "title": "St. Symeon the New Theologian",
+      "route": "#/saint/symeon-new-theologian"
+    },
+    {
+      "url": "/saint/romanus/",
+      "title": "St. Romanus the Melodist",
+      "route": "#/saint/romanus"
+    },
+    {
+      "url": "/saint/cyril-methodius/",
+      "title": "Sts. Cyril and Methodius",
+      "route": "#/saint/cyril-methodius"
+    },
+    {
+      "url": "/saint/nina/",
+      "title": "St. Nino (Nina) of Georgia",
+      "route": "#/saint/nina"
+    },
+    {
+      "url": "/saint/patrick/",
+      "title": "St. Patrick of Ireland",
+      "route": "#/saint/patrick"
+    },
+    {
+      "url": "/saint/brigid/",
+      "title": "St. Brigid of Kildare",
+      "route": "#/saint/brigid"
+    },
+    {
+      "url": "/saint/columba/",
+      "title": "St. Columba of Iona",
+      "route": "#/saint/columba"
+    },
+    {
+      "url": "/saint/olga-kiev/",
+      "title": "St. Olga of Kiev",
+      "route": "#/saint/olga-kiev"
+    },
+    {
+      "url": "/saint/vladimir/",
+      "title": "St. Vladimir of Kiev",
+      "route": "#/saint/vladimir"
+    },
+    {
+      "url": "/saint/sergius/",
+      "title": "St. Sergius of Radonezh",
+      "route": "#/saint/sergius"
+    },
+    {
+      "url": "/saint/alexander-nevsky/",
+      "title": "St. Alexander Nevsky",
+      "route": "#/saint/alexander-nevsky"
+    },
+    {
+      "url": "/saint/seraphim/",
+      "title": "St. Seraphim of Sarov",
+      "route": "#/saint/seraphim"
+    },
+    {
+      "url": "/saint/xenia/",
+      "title": "St. Xenia of Saint Petersburg",
+      "route": "#/saint/xenia"
+    },
+    {
+      "url": "/saint/silouan/",
+      "title": "St. Silouan of Mount Athos",
+      "route": "#/saint/silouan"
+    },
+    {
+      "url": "/saint/herman/",
+      "title": "St. Herman of Alaska",
+      "route": "#/saint/herman"
+    },
+    {
+      "url": "/saint/innocent/",
+      "title": "St. Innocent of Alaska",
+      "route": "#/saint/innocent"
+    },
+    {
+      "url": "/saint/tikhon/",
+      "title": "St. Tikhon, Patriarch of Moscow",
+      "route": "#/saint/tikhon"
+    },
+    {
+      "url": "/saint/john-shanghai/",
+      "title": "St. John of Shanghai and San Francisco",
+      "route": "#/saint/john-shanghai"
+    },
+    {
+      "url": "/saint/elizabeth/",
+      "title": "St. Elizabeth the New Martyr",
+      "route": "#/saint/elizabeth"
+    },
+    {
+      "url": "/saint/alexis-wilkes-barre/",
+      "title": "St. Alexis of Wilkes-Barre",
+      "route": "#/saint/alexis-wilkes-barre"
+    },
+    {
+      "url": "/saint/jacob-netsvetov/",
+      "title": "St. Jacob Netsvetov",
+      "route": "#/saint/jacob-netsvetov"
+    },
+    {
+      "url": "/saint/juvenaly/",
+      "title": "St. Juvenaly of Alaska",
+      "route": "#/saint/juvenaly"
+    },
+    {
+      "url": "/saint/olga-kwethluk/",
+      "title": "St. Olga of Kwethluk",
+      "route": "#/saint/olga-kwethluk"
+    },
+    {
+      "url": "/saint/cyril-jerusalem/",
+      "title": "St. Cyril of Jerusalem",
+      "route": "#/saint/cyril-jerusalem"
+    },
+    {
+      "url": "/saint/john-cassian/",
+      "title": "St. John Cassian",
+      "route": "#/saint/john-cassian"
+    },
+    {
+      "url": "/saint/vincent-lerins/",
+      "title": "St. Vincent of Lérins",
+      "route": "#/saint/vincent-lerins"
+    },
+    {
+      "url": "/saint/jerome/",
+      "title": "St. Jerome of Stridon",
+      "route": "#/saint/jerome"
+    },
+    {
+      "url": "/saint/paula/",
+      "title": "St. Paula of Rome",
+      "route": "#/saint/paula"
+    },
+    {
+      "url": "/saint/paul-thebes/",
+      "title": "St. Paul of Thebes",
+      "route": "#/saint/paul-thebes"
+    },
+    {
+      "url": "/saint/hilarion/",
+      "title": "St. Hilarion the Great",
+      "route": "#/saint/hilarion"
+    },
+    {
+      "url": "/saint/martin-tours/",
+      "title": "St. Martin of Tours",
+      "route": "#/saint/martin-tours"
+    },
+    {
+      "url": "/saint/augustine/",
+      "title": "St. Augustine of Hippo",
+      "route": "#/saint/augustine"
+    },
+    {
+      "url": "/saint/ambrose/",
+      "title": "St. Ambrose of Milan",
+      "route": "#/saint/ambrose"
+    },
+    {
+      "url": "/saint/philip-apostle/",
+      "title": "St. Philip the Apostle",
+      "route": "#/saint/philip-apostle"
+    },
+    {
+      "url": "/saint/bartholomew/",
+      "title": "St. Bartholomew the Apostle",
+      "route": "#/saint/bartholomew"
+    },
+    {
+      "url": "/saint/simon-zealot/",
+      "title": "St. Simon the Zealot",
+      "route": "#/saint/simon-zealot"
+    },
+    {
+      "url": "/saint/matthias/",
+      "title": "St. Matthias the Apostle",
+      "route": "#/saint/matthias"
+    },
+    {
+      "url": "/saint/james-zebedee/",
+      "title": "St. James, Son of Zebedee",
+      "route": "#/saint/james-zebedee"
+    },
+    {
+      "url": "/saint/jude-apostle/",
+      "title": "St. Jude the Apostle",
+      "route": "#/saint/jude-apostle"
+    },
+    {
+      "url": "/saint/barnabas/",
+      "title": "St. Barnabas the Apostle",
+      "route": "#/saint/barnabas"
+    },
+    {
+      "url": "/saint/timothy/",
+      "title": "St. Timothy of Ephesus",
+      "route": "#/saint/timothy"
+    },
+    {
+      "url": "/saint/titus/",
+      "title": "St. Titus of Crete",
+      "route": "#/saint/titus"
+    },
+    {
+      "url": "/saint/joachim-anna/",
+      "title": "Sts. Joachim and Anna",
+      "route": "#/saint/joachim-anna"
+    },
+    {
+      "url": "/saint/joseph-betrothed/",
+      "title": "St. Joseph the Betrothed",
+      "route": "#/saint/joseph-betrothed"
+    },
+    {
+      "url": "/saint/simeon-godreceiver/",
+      "title": "St. Simeon the God-receiver",
+      "route": "#/saint/simeon-godreceiver"
+    },
+    {
+      "url": "/saint/anna-prophetess/",
+      "title": "St. Anna the Prophetess",
+      "route": "#/saint/anna-prophetess"
+    },
+    {
+      "url": "/saint/zachariah-elizabeth/",
+      "title": "Sts. Zachariah and Elizabeth",
+      "route": "#/saint/zachariah-elizabeth"
+    },
+    {
+      "url": "/saint/moses-prophet/",
+      "title": "St. Moses the Prophet",
+      "route": "#/saint/moses-prophet"
+    },
+    {
+      "url": "/saint/david-king/",
+      "title": "St. David the Prophet and King",
+      "route": "#/saint/david-king"
+    },
+    {
+      "url": "/saint/elijah-prophet/",
+      "title": "St. Elijah the Prophet",
+      "route": "#/saint/elijah-prophet"
+    },
+    {
+      "url": "/saint/elisha-prophet/",
+      "title": "St. Elisha the Prophet",
+      "route": "#/saint/elisha-prophet"
+    },
+    {
+      "url": "/saint/daniel-prophet/",
+      "title": "St. Daniel the Prophet",
+      "route": "#/saint/daniel-prophet"
+    },
+    {
+      "url": "/saint/isaiah-prophet/",
+      "title": "St. Isaiah the Prophet",
+      "route": "#/saint/isaiah-prophet"
+    },
+    {
+      "url": "/saint/helena/",
+      "title": "St. Helena, Mother of Constantine",
+      "route": "#/saint/helena"
+    },
+    {
+      "url": "/saint/monica/",
+      "title": "St. Monica of Tagaste",
+      "route": "#/saint/monica"
+    },
+    {
+      "url": "/saint/irene-great-martyr/",
+      "title": "St. Irene the Great Martyr",
+      "route": "#/saint/irene-great-martyr"
+    },
+    {
+      "url": "/saint/marina-antioch/",
+      "title": "St. Marina of Antioch",
+      "route": "#/saint/marina-antioch"
+    },
+    {
+      "url": "/saint/paraskeva-rome/",
+      "title": "St. Paraskeva of Rome",
+      "route": "#/saint/paraskeva-rome"
+    },
+    {
+      "url": "/saint/anastasia-deliverer/",
+      "title": "St. Anastasia the Deliverer from Potions",
+      "route": "#/saint/anastasia-deliverer"
+    },
+    {
+      "url": "/saint/juliana-nicomedia/",
+      "title": "St. Juliana of Nicomedia",
+      "route": "#/saint/juliana-nicomedia"
+    },
+    {
+      "url": "/saint/agnes-rome/",
+      "title": "St. Agnes of Rome",
+      "route": "#/saint/agnes-rome"
+    },
+    {
+      "url": "/saint/cecilia-rome/",
+      "title": "St. Cecilia of Rome",
+      "route": "#/saint/cecilia-rome"
+    },
+    {
+      "url": "/saint/agatha-catania/",
+      "title": "St. Agatha of Catania",
+      "route": "#/saint/agatha-catania"
+    },
+    {
+      "url": "/saint/lucy-syracuse/",
+      "title": "St. Lucy of Syracuse",
+      "route": "#/saint/lucy-syracuse"
+    },
+    {
+      "url": "/saint/sophia-faith-hope-love/",
+      "title": "Sts. Sophia and her Daughters Faith, Hope and Love",
+      "route": "#/saint/sophia-faith-hope-love"
+    },
+    {
+      "url": "/saint/natalia-adrian/",
+      "title": "Sts. Adrian and Natalia",
+      "route": "#/saint/natalia-adrian"
+    },
+    {
+      "url": "/saint/euphrosyne-alexandria/",
+      "title": "St. Euphrosyne of Alexandria",
+      "route": "#/saint/euphrosyne-alexandria"
+    },
+    {
+      "url": "/saint/pelagia-penitent/",
+      "title": "St. Pelagia the Penitent",
+      "route": "#/saint/pelagia-penitent"
+    },
+    {
+      "url": "/saint/melania-younger/",
+      "title": "St. Melania the Younger",
+      "route": "#/saint/melania-younger"
+    },
+    {
+      "url": "/saint/olympias-deaconess/",
+      "title": "St. Olympias the Deaconess",
+      "route": "#/saint/olympias-deaconess"
+    },
+    {
+      "url": "/saint/juliana-lazarevo/",
+      "title": "St. Juliana of Lazarevo",
+      "route": "#/saint/juliana-lazarevo"
+    },
+    {
+      "url": "/saint/matrona-moscow/",
+      "title": "St. Matrona of Moscow",
+      "route": "#/saint/matrona-moscow"
+    },
+    {
+      "url": "/saint/maria-paris/",
+      "title": "St. Maria of Paris",
+      "route": "#/saint/maria-paris"
+    },
+    {
+      "url": "/saint/clement-rome/",
+      "title": "St. Clement of Rome",
+      "route": "#/saint/clement-rome"
+    },
+    {
+      "url": "/saint/dionysius-areopagite/",
+      "title": "St. Dionysius the Areopagite",
+      "route": "#/saint/dionysius-areopagite"
+    },
+    {
+      "url": "/saint/epiphanius-cyprus/",
+      "title": "St. Epiphanius of Cyprus",
+      "route": "#/saint/epiphanius-cyprus"
+    },
+    {
+      "url": "/saint/gregory-dialogist/",
+      "title": "St. Gregory the Dialogist",
+      "route": "#/saint/gregory-dialogist"
+    },
+    {
+      "url": "/saint/leo-rome/",
+      "title": "St. Leo the Great of Rome",
+      "route": "#/saint/leo-rome"
+    },
+    {
+      "url": "/saint/photios/",
+      "title": "St. Photios the Great",
+      "route": "#/saint/photios"
+    },
+    {
+      "url": "/saint/theodore-studite/",
+      "title": "St. Theodore the Studite",
+      "route": "#/saint/theodore-studite"
+    },
+    {
+      "url": "/saint/theodore-tyro/",
+      "title": "St. Theodore the Recruit",
+      "route": "#/saint/theodore-tyro"
+    },
+    {
+      "url": "/saint/theodore-stratelates/",
+      "title": "St. Theodore Stratelates",
+      "route": "#/saint/theodore-stratelates"
+    },
+    {
+      "url": "/saint/onuphrius/",
+      "title": "St. Onuphrius the Great",
+      "route": "#/saint/onuphrius"
+    },
+    {
+      "url": "/saint/dorotheus-gaza/",
+      "title": "St. Dorotheus of Gaza",
+      "route": "#/saint/dorotheus-gaza"
+    },
+    {
+      "url": "/saint/sabbas-sanctified/",
+      "title": "St. Sabbas the Sanctified",
+      "route": "#/saint/sabbas-sanctified"
+    },
+    {
+      "url": "/saint/euthymius-great/",
+      "title": "St. Euthymius the Great",
+      "route": "#/saint/euthymius-great"
+    },
+    {
+      "url": "/saint/theodosius-cenobiarch/",
+      "title": "St. Theodosius the Cenobiarch",
+      "route": "#/saint/theodosius-cenobiarch"
+    },
+    {
+      "url": "/saint/anthony-caves/",
+      "title": "St. Anthony of the Kiev Caves",
+      "route": "#/saint/anthony-caves"
+    },
+    {
+      "url": "/saint/theodosius-caves/",
+      "title": "St. Theodosius of the Kiev Caves",
+      "route": "#/saint/theodosius-caves"
+    },
+    {
+      "url": "/saint/savva-serbia/",
+      "title": "St. Sava of Serbia",
+      "route": "#/saint/savva-serbia"
+    },
+    {
+      "url": "/saint/paisius-velichkovsky/",
+      "title": "St. Paisius Velichkovsky",
+      "route": "#/saint/paisius-velichkovsky"
+    },
+    {
+      "url": "/saint/mark-ephesus/",
+      "title": "St. Mark of Ephesus",
+      "route": "#/saint/mark-ephesus"
+    },
+    {
+      "url": "/saint/andrew-crete/",
+      "title": "St. Andrew of Crete",
+      "route": "#/saint/andrew-crete"
+    },
+    {
+      "url": "/saint/john-kronstadt/",
+      "title": "St. John of Kronstadt",
+      "route": "#/saint/john-kronstadt"
+    },
+    {
+      "url": "/saint/theophan-recluse/",
+      "title": "St. Theophan the Recluse",
+      "route": "#/saint/theophan-recluse"
+    },
+    {
+      "url": "/saint/ignatius-brianchaninov/",
+      "title": "St. Ignatius Brianchaninov",
+      "route": "#/saint/ignatius-brianchaninov"
+    },
+    {
+      "url": "/saint/athanasius-athos/",
+      "title": "St. Athanasius the Athonite",
+      "route": "#/saint/athanasius-athos"
+    },
+    {
+      "url": "/saint/amphilochius-iconium/",
+      "title": "St. Amphilochius of Iconium",
+      "route": "#/saint/amphilochius-iconium"
+    },
+    {
+      "url": "/saint/symeon-stylite/",
+      "title": "St. Symeon the Stylite (the Elder)",
+      "route": "#/saint/symeon-stylite"
+    },
+    {
+      "url": "/saint/luke-crimea/",
+      "title": "St. Luke of Crimea",
+      "route": "#/saint/luke-crimea"
+    },
+    {
+      "url": "/saint/nektarios/",
+      "title": "St. Nektarios of Aegina",
+      "route": "#/saint/nektarios"
+    },
+    {
+      "url": "/saint/raphael-brooklyn/",
+      "title": "St. Raphael of Brooklyn",
+      "route": "#/saint/raphael-brooklyn"
+    },
+    {
+      "url": "/saint/peter-aleut/",
+      "title": "St. Peter the Aleut",
+      "route": "#/saint/peter-aleut"
+    },
+    {
+      "url": "/saint/sebastian-dabovich/",
+      "title": "St. Sebastian Dabovich",
+      "route": "#/saint/sebastian-dabovich"
+    },
+    {
+      "url": "/saint/mardarije/",
+      "title": "St. Mardarije of Libertyville",
+      "route": "#/saint/mardarije"
+    },
+    {
+      "url": "/saint/dimitri-rostov/",
+      "title": "St. Dimitri of Rostov",
+      "route": "#/saint/dimitri-rostov"
+    },
+    {
+      "url": "/saint/job-pochaev/",
+      "title": "St. Job of Pochaev",
+      "route": "#/saint/job-pochaev"
+    },
+    {
+      "url": "/saint/tikhon-zadonsk/",
+      "title": "St. Tikhon of Zadonsk",
+      "route": "#/saint/tikhon-zadonsk"
+    },
+    {
+      "url": "/saint/alexander-svir/",
+      "title": "St. Alexander of Svir",
+      "route": "#/saint/alexander-svir"
+    },
+    {
+      "url": "/saint/zosimas-savvaty/",
+      "title": "Sts. Zosimas and Savvaty of Solovki",
+      "route": "#/saint/zosimas-savvaty"
+    },
+    {
+      "url": "/saint/boris-gleb/",
+      "title": "Sts. Boris and Gleb",
+      "route": "#/saint/boris-gleb"
+    },
+    {
+      "url": "/saint/seraphim-vyritsa/",
+      "title": "St. Seraphim of Vyritsa",
+      "route": "#/saint/seraphim-vyritsa"
+    },
+    {
+      "url": "/saint/basil-moscow/",
+      "title": "St. Basil of Moscow",
+      "route": "#/saint/basil-moscow"
+    },
+    {
+      "url": "/saint/sl-philaret-moscow/",
+      "title": "St. Philaret of Moscow",
+      "route": "#/saint/sl-philaret-moscow"
+    },
+    {
+      "url": "/saint/sl-nikolai-zhicha/",
+      "title": "St. Nikolai of Zhicha",
+      "route": "#/saint/sl-nikolai-zhicha"
+    },
+    {
+      "url": "/saint/sl-makarios-corinth/",
+      "title": "St. Makarios of Corinth",
+      "route": "#/saint/sl-makarios-corinth"
+    },
+    {
+      "url": "/saint/sl-nikodemos-hagiorite/",
+      "title": "St. Nikodemos the Hagiorite",
+      "route": "#/saint/sl-nikodemos-hagiorite"
+    },
+    {
+      "url": "/saint/sl-andrew-rublev/",
+      "title": "St. Andrew Rublev",
+      "route": "#/saint/sl-andrew-rublev"
+    },
+    {
+      "url": "/saint/sl-alypius-kiev/",
+      "title": "St. Alypius of the Kiev Caves",
+      "route": "#/saint/sl-alypius-kiev"
+    },
+    {
+      "url": "/saint/sl-constantine-great/",
+      "title": "St. Constantine the Great",
+      "route": "#/saint/sl-constantine-great"
+    },
+    {
+      "url": "/saint/antiochus-palestine/",
+      "title": "St. Antiochus of Palestine",
+      "route": "#/saint/antiochus-palestine"
+    },
+    {
+      "url": "/saint/ioannikios-great/",
+      "title": "St. Ioannikios the Great",
+      "route": "#/saint/ioannikios-great"
+    },
+    {
+      "url": "/saint/symeon-metaphrastes/",
+      "title": "St. Symeon Metaphrastes",
+      "route": "#/saint/symeon-metaphrastes"
+    },
+    {
+      "url": "/saint/john-dwarf/",
+      "title": "St. John the Dwarf",
+      "route": "#/saint/john-dwarf"
+    },
+    {
+      "url": "/saint/gregory-thaumaturgus/",
+      "title": "St. Gregory the Wonderworker of Neocaesarea",
+      "route": "#/saint/gregory-thaumaturgus"
+    },
+    {
+      "url": "/saint/macrina-elder/",
+      "title": "St. Macrina the Elder",
+      "route": "#/saint/macrina-elder"
+    },
+    {
+      "url": "/saint/emilia-cappadocia/",
+      "title": "St. Emilia of Caesarea",
+      "route": "#/saint/emilia-cappadocia"
+    },
+    {
+      "url": "/saint/peter-sebaste/",
+      "title": "St. Peter of Sebaste",
+      "route": "#/saint/peter-sebaste"
+    },
+    {
+      "url": "/saint/procopius-caesarea/",
+      "title": "St. Procopius of Caesarea",
+      "route": "#/saint/procopius-caesarea"
+    },
+    {
+      "url": "/saint/macaille-croghan/",
+      "title": "St. Macaille of Croghan",
+      "route": "#/saint/macaille-croghan"
+    },
+    {
+      "url": "/saint/abraham-patriarch/",
+      "title": "St. Abraham the Righteous",
+      "route": "#/saint/abraham-patriarch"
+    },
+    {
+      "url": "/saint/isaac-patriarch/",
+      "title": "St. Isaac the Righteous",
+      "route": "#/saint/isaac-patriarch"
+    },
+    {
+      "url": "/saint/jacob-patriarch/",
+      "title": "St. Jacob the Righteous",
+      "route": "#/saint/jacob-patriarch"
+    },
+    {
+      "url": "/saint/sl-andrew-fool-christ/",
+      "title": "St. Andrew the Fool-for-Christ",
+      "route": "#/saint/sl-andrew-fool-christ"
+    },
+    {
+      "url": "/saint/sl-barlaam-serpukhov/",
+      "title": "St. Barlaam of Serpukhov",
+      "route": "#/saint/sl-barlaam-serpukhov"
+    },
+    {
+      "url": "/saint/sl-basil-ryazan/",
+      "title": "St. Basil of Ryazan",
+      "route": "#/saint/sl-basil-ryazan"
+    },
+    {
+      "url": "/saint/sl-basil-elder/",
+      "title": "St. Basil the Elder",
+      "route": "#/saint/sl-basil-elder"
+    },
+    {
+      "url": "/saint/sl-benedict-nursia/",
+      "title": "St. Benedict of Nursia",
+      "route": "#/saint/sl-benedict-nursia"
+    },
+    {
+      "url": "/saint/sl-sophronius-jerusalem/",
+      "title": "St. Sophronius of Jerusalem",
+      "route": "#/saint/sl-sophronius-jerusalem"
+    },
+    {
+      "url": "/saint/sl-peter-moscow/",
+      "title": "St. Peter of Moscow",
+      "route": "#/saint/sl-peter-moscow"
+    },
+    {
+      "url": "/saint/sl-peter-mogila/",
+      "title": "St. Peter Mogila",
+      "route": "#/saint/sl-peter-mogila"
+    },
+    {
+      "url": "/saint/sl-flavian-constantinople/",
+      "title": "St. Flavian of Constantinople",
+      "route": "#/saint/sl-flavian-constantinople"
+    },
+    {
+      "url": "/saint/sl-pulcheria/",
+      "title": "St. Pulcheria",
+      "route": "#/saint/sl-pulcheria"
+    },
+    {
+      "url": "/saint/conleth-kildare/",
+      "title": "St. Conleth of Kildare",
+      "route": "#/saint/conleth-kildare"
+    },
+    {
+      "url": "/saint/comgall-bangor/",
+      "title": "St. Comgall of Bangor",
+      "route": "#/saint/comgall-bangor"
+    },
+    {
+      "url": "/saint/finnian-moville/",
+      "title": "St. Finnian of Moville",
+      "route": "#/saint/finnian-moville"
+    },
+    {
+      "url": "/saint/canice-aghaboe/",
+      "title": "St. Canice of Aghaboe",
+      "route": "#/saint/canice-aghaboe"
+    },
+    {
+      "url": "/saint/mel-ardagh/",
+      "title": "St. Mel of Ardagh",
+      "route": "#/saint/mel-ardagh"
+    },
+    {
+      "url": "/saint/lawrence-rome/",
+      "title": "St. Lawrence of Rome",
+      "route": "#/saint/lawrence-rome"
+    },
+    {
+      "url": "/saint/chrysogonus-aquileia/",
+      "title": "St. Chrysogonus of Aquileia",
+      "route": "#/saint/chrysogonus-aquileia"
+    },
+    {
+      "url": "/saint/theodota-mother/",
+      "title": "St. Theodota, Mother of Cosmas and Damian",
+      "route": "#/saint/theodota-mother"
+    },
+    {
+      "url": "/saint/dovmont-timothy-pskov/",
+      "title": "St. Dovmont-Timothy of Pskov",
+      "route": "#/saint/dovmont-timothy-pskov"
+    },
+    {
+      "url": "/saint/martha-pskov/",
+      "title": "St. Martha of Pskov",
+      "route": "#/saint/martha-pskov"
+    },
+    {
+      "url": "/saint/adam-eve/",
+      "title": "Sts. Adam and Eve",
+      "route": "#/saint/adam-eve"
+    },
+    {
+      "url": "/saint/noah-righteous/",
+      "title": "St. Noah the Righteous",
+      "route": "#/saint/noah-righteous"
+    },
+    {
+      "url": "/saint/solomon-king/",
+      "title": "St. Solomon the Prophet-King",
+      "route": "#/saint/solomon-king"
+    },
+    {
+      "url": "/saint/aaron-prophet/",
+      "title": "St. Aaron the Righteous Priest",
+      "route": "#/saint/aaron-prophet"
+    },
+    {
+      "url": "/saint/nathan-prophet/",
+      "title": "St. Nathan the Prophet",
+      "route": "#/saint/nathan-prophet"
+    },
+    {
+      "url": "/saint/linus-rome/",
+      "title": "St. Linus of Rome",
+      "route": "#/saint/linus-rome"
+    },
+    {
+      "url": "/saint/paulinus-nola/",
+      "title": "St. Paulinus of Nola",
+      "route": "#/saint/paulinus-nola"
+    },
+    {
+      "url": "/saint/zosimas-palestine/",
+      "title": "St. Zosimas of Palestine",
+      "route": "#/saint/zosimas-palestine"
+    },
+    {
+      "url": "/saint/gabriel-archangel/",
+      "title": "Gabriel the Archangel",
+      "route": "#/saint/gabriel-archangel"
+    },
+    {
+      "url": "/saint/philip-deacon/",
+      "title": "St. Philip the Evangelist and Deacon",
+      "route": "#/saint/philip-deacon"
+    },
+    {
+      "url": "/saint/dionysius-paris/",
+      "title": "St. Dionysius of Paris",
+      "route": "#/saint/dionysius-paris"
+    },
+    {
+      "url": "/saint/ninian-whithorn/",
+      "title": "St. Ninian of Whithorn",
+      "route": "#/saint/ninian-whithorn"
+    },
+    {
+      "url": "/saint/cyril-lucaris/",
+      "title": "St. Cyril Lucaris",
+      "route": "#/saint/cyril-lucaris"
+    },
+    {
+      "url": "/icon/christ-pantocrator/",
+      "title": "Christ Pantocrator",
+      "route": "#/icon/christ-pantocrator"
+    },
+    {
+      "url": "/icon/savior-not-made-by-hands/",
+      "title": "The Savior Not Made by Hands",
+      "route": "#/icon/savior-not-made-by-hands"
+    },
+    {
+      "url": "/icon/christ-enthroned/",
+      "title": "Christ Enthroned",
+      "route": "#/icon/christ-enthroned"
+    },
+    {
+      "url": "/icon/christ-emmanuel/",
+      "title": "Christ Emmanuel",
+      "route": "#/icon/christ-emmanuel"
+    },
+    {
+      "url": "/icon/christ-bridegroom/",
+      "title": "Christ the Bridegroom",
+      "route": "#/icon/christ-bridegroom"
+    },
+    {
+      "url": "/icon/extreme-humility/",
+      "title": "Christ: Extreme Humility",
+      "route": "#/icon/extreme-humility"
+    },
+    {
+      "url": "/icon/christ-anapeson/",
+      "title": "Christ Anapeson",
+      "route": "#/icon/christ-anapeson"
+    },
+    {
+      "url": "/icon/hospitality-abraham/",
+      "title": "The Hospitality of Abraham: Holy Trinity",
+      "route": "#/icon/hospitality-abraham"
+    },
+    {
+      "url": "/icon/theotokos-vladimir/",
+      "title": "The Vladimir Icon of the Mother of God",
+      "route": "#/icon/theotokos-vladimir"
+    },
+    {
+      "url": "/icon/theotokos-kazan/",
+      "title": "The Kazan Icon of the Mother of God",
+      "route": "#/icon/theotokos-kazan"
+    },
+    {
+      "url": "/icon/theotokos-iveron/",
+      "title": "The Iveron Icon of the Mother of God",
+      "route": "#/icon/theotokos-iveron"
+    },
+    {
+      "url": "/icon/theotokos-tikhvin/",
+      "title": "The Tikhvin Icon of the Mother of God",
+      "route": "#/icon/theotokos-tikhvin"
+    },
+    {
+      "url": "/icon/theotokos-smolensk/",
+      "title": "The Smolensk Icon of the Mother of God",
+      "route": "#/icon/theotokos-smolensk"
+    },
+    {
+      "url": "/icon/theotokos-kursk-root/",
+      "title": "The Kursk Root Icon of the Mother of God",
+      "route": "#/icon/theotokos-kursk-root"
+    },
+    {
+      "url": "/icon/theotokos-don/",
+      "title": "The Don Icon of the Mother of God",
+      "route": "#/icon/theotokos-don"
+    },
+    {
+      "url": "/icon/theotokos-pochaev/",
+      "title": "The Pochaev Icon of the Mother of God",
+      "route": "#/icon/theotokos-pochaev"
+    },
+    {
+      "url": "/icon/theotokos-sign/",
+      "title": "The Mother of God of the Sign",
+      "route": "#/icon/theotokos-sign"
+    },
+    {
+      "url": "/icon/theotokos-quick-to-hear/",
+      "title": "The Mother of God: Quick to Hear",
+      "route": "#/icon/theotokos-quick-to-hear"
+    },
+    {
+      "url": "/icon/softener-evil-hearts/",
+      "title": "The Mother of God: Softener of Evil Hearts",
+      "route": "#/icon/softener-evil-hearts"
+    },
+    {
+      "url": "/icon/unexpected-joy/",
+      "title": "The Mother of God: Unexpected Joy",
+      "route": "#/icon/unexpected-joy"
+    },
+    {
+      "url": "/icon/inexhaustible-chalice/",
+      "title": "The Mother of God: Inexhaustible Chalice",
+      "route": "#/icon/inexhaustible-chalice"
+    },
+    {
+      "url": "/icon/joy-all-sorrow/",
+      "title": "The Mother of God: Joy of All Who Sorrow",
+      "route": "#/icon/joy-all-sorrow"
+    },
+    {
+      "url": "/icon/sweet-kissing/",
+      "title": "The Mother of God: Sweet Kissing",
+      "route": "#/icon/sweet-kissing"
+    },
+    {
+      "url": "/icon/hodigitria/",
+      "title": "The Mother of God: Hodegetria",
+      "route": "#/icon/hodigitria"
+    },
+    {
+      "url": "/icon/theotokos-orans/",
+      "title": "The Mother of God: Orans",
+      "route": "#/icon/theotokos-orans"
+    },
+    {
+      "url": "/icon/milk-giver/",
+      "title": "The Mother of God: Milk Giver",
+      "route": "#/icon/milk-giver"
+    },
+    {
+      "url": "/icon/protection-theotokos/",
+      "title": "The Protection of the Mother of God",
+      "route": "#/icon/protection-theotokos"
+    },
+    {
+      "url": "/icon/life-giving-spring/",
+      "title": "The Mother of God: Life-Giving Spring",
+      "route": "#/icon/life-giving-spring"
+    },
+    {
+      "url": "/icon/nativity-theotokos/",
+      "title": "The Nativity of the Mother of God",
+      "route": "#/icon/nativity-theotokos"
+    },
+    {
+      "url": "/icon/entrance-theotokos/",
+      "title": "The Entrance of the Mother of God into the Temple",
+      "route": "#/icon/entrance-theotokos"
+    },
+    {
+      "url": "/icon/annunciation/",
+      "title": "The Annunciation",
+      "route": "#/icon/annunciation"
+    },
+    {
+      "url": "/icon/nativity-christ/",
+      "title": "The Nativity of Christ",
+      "route": "#/icon/nativity-christ"
+    },
+    {
+      "url": "/icon/presentation-christ/",
+      "title": "The Meeting of the Lord in the Temple",
+      "route": "#/icon/presentation-christ"
+    },
+    {
+      "url": "/icon/theophany/",
+      "title": "The Theophany: Baptism of Christ",
+      "route": "#/icon/theophany"
+    },
+    {
+      "url": "/icon/transfiguration/",
+      "title": "The Transfiguration",
+      "route": "#/icon/transfiguration"
+    },
+    {
+      "url": "/icon/raising-lazarus/",
+      "title": "The Raising of Lazarus",
+      "route": "#/icon/raising-lazarus"
+    },
+    {
+      "url": "/icon/entry-jerusalem/",
+      "title": "The Entry into Jerusalem",
+      "route": "#/icon/entry-jerusalem"
+    },
+    {
+      "url": "/icon/crucifixion/",
+      "title": "The Crucifixion",
+      "route": "#/icon/crucifixion"
+    },
+    {
+      "url": "/icon/descent-hades/",
+      "title": "The Resurrection: Descent into Hades",
+      "route": "#/icon/descent-hades"
+    },
+    {
+      "url": "/icon/myrrh-bearers/",
+      "title": "The Myrrh-Bearing Women at the Tomb",
+      "route": "#/icon/myrrh-bearers"
+    },
+    {
+      "url": "/icon/ascension/",
+      "title": "The Ascension",
+      "route": "#/icon/ascension"
+    },
+    {
+      "url": "/icon/pentecost/",
+      "title": "Pentecost: The Descent of the Holy Spirit",
+      "route": "#/icon/pentecost"
+    },
+    {
+      "url": "/icon/dormition/",
+      "title": "The Dormition of the Mother of God",
+      "route": "#/icon/dormition"
+    },
+    {
+      "url": "/icon/exaltation-cross/",
+      "title": "The Exaltation of the Holy Cross",
+      "route": "#/icon/exaltation-cross"
+    },
+    {
+      "url": "/icon/all-saints/",
+      "title": "All Saints",
+      "route": "#/icon/all-saints"
+    },
+    {
+      "url": "/icon/deesis/",
+      "title": "The Deesis",
+      "route": "#/icon/deesis"
+    },
+    {
+      "url": "/icon/john-baptist-angel-desert/",
+      "title": "John the Forerunner: Angel of the Desert",
+      "route": "#/icon/john-baptist-angel-desert"
+    },
+    {
+      "url": "/icon/saint-nicholas/",
+      "title": "Saint Nicholas the Wonderworker",
+      "route": "#/icon/saint-nicholas"
+    },
+    {
+      "url": "/icon/saint-george/",
+      "title": "Saint George and the Dragon",
+      "route": "#/icon/saint-george"
+    },
+    {
+      "url": "/icon/saint-seraphim/",
+      "title": "Saint Seraphim of Sarov",
+      "route": "#/icon/saint-seraphim"
+    },
+    {
+      "url": "/icon/theotokos-jerusalem/",
+      "title": "The Jerusalem Icon of the Theotokos",
+      "route": "#/icon/theotokos-jerusalem"
+    },
+    {
+      "url": "/icon/theotokos-feodorov/",
+      "title": "The Feodorovskaya Icon of the Theotokos",
+      "route": "#/icon/theotokos-feodorov"
+    },
+    {
+      "url": "/icon/theotokos-bogolyubovo/",
+      "title": "The Bogolyubovo Icon of the Mother of God",
+      "route": "#/icon/theotokos-bogolyubovo"
+    },
+    {
+      "url": "/icon/theotokos-pantanassa/",
+      "title": "The Pantanassa Icon of the Theotokos",
+      "route": "#/icon/theotokos-pantanassa"
+    },
+    {
+      "url": "/icon/theotokos-axion-estin/",
+      "title": "The Axion Estin (It Is Truly Meet) Icon of the Theotokos",
+      "route": "#/icon/theotokos-axion-estin"
+    },
+    {
+      "url": "/icon/theotokos-three-hands/",
+      "title": "The Mother of God of the Three Hands",
+      "route": "#/icon/theotokos-three-hands"
+    },
+    {
+      "url": "/icon/theotokos-gerontissa/",
+      "title": "The Gerontissa Icon of the Theotokos",
+      "route": "#/icon/theotokos-gerontissa"
+    },
+    {
+      "url": "/icon/theotokos-paramythia/",
+      "title": "The Paramythia (Consolation) Icon of the Theotokos",
+      "route": "#/icon/theotokos-paramythia"
+    },
+    {
+      "url": "/icon/theotokos-koukouzelissa/",
+      "title": "The Mother of God Koukouzelissa",
+      "route": "#/icon/theotokos-koukouzelissa"
+    },
+    {
+      "url": "/icon/theotokos-laudation-akathist/",
+      "title": "Praise of the Theotokos with the Akathist",
+      "route": "#/icon/theotokos-laudation-akathist"
+    },
+    {
+      "url": "/icon/theotokos-akathist-hilandar/",
+      "title": "The Akathist of Hilandar Icon of the Theotokos",
+      "route": "#/icon/theotokos-akathist-hilandar"
+    },
+    {
+      "url": "/icon/theotokos-seven-arrows/",
+      "title": "The Mother of God of the Seven Arrows",
+      "route": "#/icon/theotokos-seven-arrows"
+    },
+    {
+      "url": "/icon/theotokos-belynich/",
+      "title": "The Belynich Icon of the Theotokos",
+      "route": "#/icon/theotokos-belynich"
+    },
+    {
+      "url": "/icon/theotokos-chernigov-elets/",
+      "title": "The Chernigov-Elets Icon of the Theotokos",
+      "route": "#/icon/theotokos-chernigov-elets"
+    },
+    {
+      "url": "/icon/theotokos-chernigov-gethsemane/",
+      "title": "The Chernigov-Gethsemane Icon of the Mother of God",
+      "route": "#/icon/theotokos-chernigov-gethsemane"
+    },
+    {
+      "url": "/icon/theotokos-pechersk-tenderness/",
+      "title": "The Pskov-Pechersk Tenderness Icon of the Theotokos",
+      "route": "#/icon/theotokos-pechersk-tenderness"
+    },
+    {
+      "url": "/icon/theotokos-murom/",
+      "title": "The Murom Icon of the Theotokos",
+      "route": "#/icon/theotokos-murom"
+    },
+    {
+      "url": "/icon/theotokos-konevets/",
+      "title": "The Konevets Icon of the Mother of God",
+      "route": "#/icon/theotokos-konevets"
+    },
+    {
+      "url": "/icon/theotokos-svensk/",
+      "title": "The Svensk Icon of the Theotokos",
+      "route": "#/icon/theotokos-svensk"
+    },
+    {
+      "url": "/icon/theotokos-yaroslavl/",
+      "title": "The Yaroslavl Great Panagia Icon of the Theotokos",
+      "route": "#/icon/theotokos-yaroslavl"
+    },
+    {
+      "url": "/icon/theotokos-tolga/",
+      "title": "The Tolga Icon of the Mother of God",
+      "route": "#/icon/theotokos-tolga"
+    },
+    {
+      "url": "/icon/theotokos-akhtyrka/",
+      "title": "The Akhtyrka Icon of the Theotokos",
+      "route": "#/icon/theotokos-akhtyrka"
+    },
+    {
+      "url": "/icon/theotokos-kasperov/",
+      "title": "The Kasperov Icon of the Theotokos",
+      "route": "#/icon/theotokos-kasperov"
+    },
+    {
+      "url": "/icon/theotokos-korsun/",
+      "title": "The Korsun Icon of the Mother of God",
+      "route": "#/icon/theotokos-korsun"
+    },
+    {
+      "url": "/icon/theotokos-unfading-flower/",
+      "title": "The Unfading Flower Icon of the Theotokos",
+      "route": "#/icon/theotokos-unfading-flower"
+    },
+    {
+      "url": "/icon/theotokos-burning-bush/",
+      "title": "The Burning Bush Icon of the Theotokos",
+      "route": "#/icon/theotokos-burning-bush"
+    },
+    {
+      "url": "/icon/theotokos-search-lost/",
+      "title": "The Mother of God, Seeker of the Lost",
+      "route": "#/icon/theotokos-search-lost"
+    },
+    {
+      "url": "/icon/theotokos-surety-sinners/",
+      "title": "The Surety of Sinners Icon of the Theotokos",
+      "route": "#/icon/theotokos-surety-sinners"
+    },
+    {
+      "url": "/icon/theotokos-deliverer/",
+      "title": "The Deliverer Icon of the Theotokos",
+      "route": "#/icon/theotokos-deliverer"
+    },
+    {
+      "url": "/icon/christ-great-high-priest/",
+      "title": "Christ the Great High Priest",
+      "route": "#/icon/christ-great-high-priest"
+    },
+    {
+      "url": "/icon/theotokos-assuage-sorrows/",
+      "title": "The Assuage My Sorrows Icon of the Theotokos",
+      "route": "#/icon/theotokos-assuage-sorrows"
+    },
+    {
+      "url": "/icon/theotokos-education/",
+      "title": "The Education Icon of the Theotokos",
+      "route": "#/icon/theotokos-education"
+    },
+    {
+      "url": "/icon/theotokos-helper-childbirth/",
+      "title": "The Mother of God, Helper in Childbirth",
+      "route": "#/icon/theotokos-helper-childbirth"
+    },
+    {
+      "url": "/icon/theotokos-lesna/",
+      "title": "The Lesna Icon of the Theotokos",
+      "route": "#/icon/theotokos-lesna"
+    },
+    {
+      "url": "/icon/theotokos-petrovskaya/",
+      "title": "The Petrovskaya Icon of the Theotokos",
+      "route": "#/icon/theotokos-petrovskaya"
+    },
+    {
+      "url": "/icon/raising-jairus-daughter/",
+      "title": "The Raising of Jairus’s Daughter",
+      "route": "#/icon/raising-jairus-daughter"
+    },
+    {
+      "url": "/icon/theotokos-georgian/",
+      "title": "The Georgian Icon of the Theotokos",
+      "route": "#/icon/theotokos-georgian"
+    },
+    {
+      "url": "/icon/theotokos-blachernae/",
+      "title": "The Blachernae Icon of the Theotokos",
+      "route": "#/icon/theotokos-blachernae"
+    },
+    {
+      "url": "/icon/theotokos-czestochowa/",
+      "title": "The Czestochowa Icon of the Mother of God",
+      "route": "#/icon/theotokos-czestochowa"
+    },
+    {
+      "url": "/icon/theotokos-mozdok/",
+      "title": "The Mozdok Icon of the Theotokos",
+      "route": "#/icon/theotokos-mozdok"
+    },
+    {
+      "url": "/icon/mystical-supper/",
+      "title": "The Mystical Supper",
+      "route": "#/icon/mystical-supper"
+    },
+    {
+      "url": "/icon/washing-feet/",
+      "title": "The Washing of the Feet",
+      "route": "#/icon/washing-feet"
+    },
+    {
+      "url": "/icon/gethsemane/",
+      "title": "Christ in Gethsemane",
+      "route": "#/icon/gethsemane"
+    },
+    {
+      "url": "/icon/betrayal-judas/",
+      "title": "The Betrayal of Judas",
+      "route": "#/icon/betrayal-judas"
+    },
+    {
+      "url": "/icon/descent-cross/",
+      "title": "The Descent from the Cross",
+      "route": "#/icon/descent-cross"
+    },
+    {
+      "url": "/icon/lamentation-christ/",
+      "title": "The Lamentation over Christ",
+      "route": "#/icon/lamentation-christ"
+    },
+    {
+      "url": "/icon/incredulity-thomas/",
+      "title": "The Assurance of Thomas",
+      "route": "#/icon/incredulity-thomas"
+    },
+    {
+      "url": "/icon/emmaus/",
+      "title": "The Road to Emmaus",
+      "route": "#/icon/emmaus"
+    },
+    {
+      "url": "/icon/noli-me-tangere/",
+      "title": "Christ Appears to Mary Magdalene",
+      "route": "#/icon/noli-me-tangere"
+    },
+    {
+      "url": "/icon/wedding-cana/",
+      "title": "The Wedding at Cana",
+      "route": "#/icon/wedding-cana"
+    },
+    {
+      "url": "/icon/healing-paralytic/",
+      "title": "The Healing of the Paralytic",
+      "route": "#/icon/healing-paralytic"
+    },
+    {
+      "url": "/icon/samaritan-woman/",
+      "title": "Christ and the Samaritan Woman",
+      "route": "#/icon/samaritan-woman"
+    },
+    {
+      "url": "/icon/man-born-blind/",
+      "title": "The Healing of the Man Born Blind",
+      "route": "#/icon/man-born-blind"
+    },
+    {
+      "url": "/icon/christ-among-doctors/",
+      "title": "Christ among the Teachers",
+      "route": "#/icon/christ-among-doctors"
+    },
+    {
+      "url": "/icon/mid-pentecost/",
+      "title": "Mid-Pentecost",
+      "route": "#/icon/mid-pentecost"
+    },
+    {
+      "url": "/icon/multiplication-loaves/",
+      "title": "The Multiplication of the Loaves",
+      "route": "#/icon/multiplication-loaves"
+    },
+    {
+      "url": "/icon/nativity-john-baptist/",
+      "title": "The Nativity of John the Forerunner",
+      "route": "#/icon/nativity-john-baptist"
+    },
+    {
+      "url": "/icon/good-shepherd/",
+      "title": "Christ the Good Shepherd",
+      "route": "#/icon/good-shepherd"
+    },
+    {
+      "url": "/icon/christ-true-vine/",
+      "title": "Christ the True Vine",
+      "route": "#/icon/christ-true-vine"
+    },
+    {
+      "url": "/icon/communion-apostles/",
+      "title": "The Communion of the Apostles",
+      "route": "#/icon/communion-apostles"
+    },
+    {
+      "url": "/icon/apostles-peter-paul/",
+      "title": "Peter and Paul",
+      "route": "#/icon/apostles-peter-paul"
+    },
+    {
+      "url": "/icon/saint-andrew/",
+      "title": "Andrew the First-Called",
+      "route": "#/icon/saint-andrew"
+    },
+    {
+      "url": "/icon/saint-john-theologian/",
+      "title": "John the Theologian",
+      "route": "#/icon/saint-john-theologian"
+    },
+    {
+      "url": "/icon/synaxis-apostles/",
+      "title": "The Synaxis of the Twelve Apostles",
+      "route": "#/icon/synaxis-apostles"
+    },
+    {
+      "url": "/icon/three-hierarchs/",
+      "title": "The Three Holy Hierarchs",
+      "route": "#/icon/three-hierarchs"
+    },
+    {
+      "url": "/icon/saint-basil/",
+      "title": "Basil the Great",
+      "route": "#/icon/saint-basil"
+    },
+    {
+      "url": "/icon/saint-john-chrysostom/",
+      "title": "John Chrysostom",
+      "route": "#/icon/saint-john-chrysostom"
+    },
+    {
+      "url": "/icon/saint-gregory-theologian/",
+      "title": "Gregory the Theologian",
+      "route": "#/icon/saint-gregory-theologian"
+    },
+    {
+      "url": "/icon/saint-spyridon/",
+      "title": "Spyridon of Trimythous",
+      "route": "#/icon/saint-spyridon"
+    },
+    {
+      "url": "/icon/saint-panteleimon/",
+      "title": "Panteleimon the Healer",
+      "route": "#/icon/saint-panteleimon"
+    },
+    {
+      "url": "/icon/saint-demetrius/",
+      "title": "Demetrius of Thessalonica",
+      "route": "#/icon/saint-demetrius"
+    },
+    {
+      "url": "/icon/saint-catherine/",
+      "title": "Catherine of Alexandria",
+      "route": "#/icon/saint-catherine"
+    },
+    {
+      "url": "/icon/saint-barbara/",
+      "title": "Barbara the Great Martyr",
+      "route": "#/icon/saint-barbara"
+    },
+    {
+      "url": "/icon/saint-mary-egypt/",
+      "title": "Mary of Egypt",
+      "route": "#/icon/saint-mary-egypt"
+    },
+    {
+      "url": "/icon/saint-sergius/",
+      "title": "Sergius of Radonezh",
+      "route": "#/icon/saint-sergius"
+    },
+    {
+      "url": "/icon/saint-ignatius/",
+      "title": "Ignatius of Antioch",
+      "route": "#/icon/saint-ignatius"
+    },
+    {
+      "url": "/icon/saint-athanasius/",
+      "title": "Athanasius the Great",
+      "route": "#/icon/saint-athanasius"
+    },
+    {
+      "url": "/icon/ladder-divine-ascent/",
+      "title": "The Ladder of Divine Ascent",
+      "route": "#/icon/ladder-divine-ascent"
+    },
+    {
+      "url": "/icon/synaxis-russian-saints/",
+      "title": "The Synaxis of All Saints of Russia",
+      "route": "#/icon/synaxis-russian-saints"
+    },
+    {
+      "url": "/icon/archangel-michael/",
+      "title": "The Archangel Michael",
+      "route": "#/icon/archangel-michael"
+    },
+    {
+      "url": "/prayer/np-before-sleep-long/",
+      "title": "Before Sleep",
+      "route": "#/prayer/np-before-sleep-long"
+    },
+    {
+      "url": "/prayer/np-daily-commemoration/",
+      "title": "Commemoration of the Living and the Dead",
+      "route": "#/prayer/np-daily-commemoration"
+    },
+    {
+      "url": "/prayer/np-three-canons/",
+      "title": "The Three Canons",
+      "route": "#/prayer/np-three-canons"
+    },
+    {
+      "url": "/prayer/np-thanksgiving-communion/",
+      "title": "Prayers of Thanksgiving After Communion",
+      "route": "#/prayer/np-thanksgiving-communion"
+    },
+    {
+      "url": "/prayer/np-morning-1/",
+      "title": "1st Prayer, by St. Macarius the Great. — Morning Prayers",
+      "route": "#/prayer/np-morning-1"
+    },
+    {
+      "url": "/prayer/np-morning-2/",
+      "title": "2nd Prayer, by St. Macarius the Great. — Morning Prayers",
+      "route": "#/prayer/np-morning-2"
+    },
+    {
+      "url": "/prayer/np-morning-3/",
+      "title": "3rd Prayer, by St. Macarius the Great. — Morning Prayers",
+      "route": "#/prayer/np-morning-3"
+    },
+    {
+      "url": "/prayer/np-morning-4/",
+      "title": "4th Prayer, by St. Macarius the Great. — Morning Prayers",
+      "route": "#/prayer/np-morning-4"
+    },
+    {
+      "url": "/prayer/np-morning-5/",
+      "title": "5th Prayer, by St. Macarius the Great. — Morning Prayers",
+      "route": "#/prayer/np-morning-5"
+    },
+    {
+      "url": "/prayer/np-morning-6/",
+      "title": "6th Prayer, by St. Basil the Great. — Morning Prayers",
+      "route": "#/prayer/np-morning-6"
+    },
+    {
+      "url": "/prayer/np-morning-7/",
+      "title": "7th Prayer, also by St. Basil. — Morning Prayers",
+      "route": "#/prayer/np-morning-7"
+    },
+    {
+      "url": "/prayer/np-morning-8/",
+      "title": "8th Prayer. A Midnight Song to the Most Holy Theotokos. — Morning Prayers",
+      "route": "#/prayer/np-morning-8"
+    },
+    {
+      "url": "/prayer/np-morning-9/",
+      "title": "9th Prayer, to Our Lord Jesus Christ. — Morning Prayers",
+      "route": "#/prayer/np-morning-9"
+    },
+    {
+      "url": "/prayer/np-morning-10/",
+      "title": "10th Prayer, to the Angel, the guardian of human life. — Morning Prayers",
+      "route": "#/prayer/np-morning-10"
+    },
+    {
+      "url": "/prayer/np-morning-11/",
+      "title": "11th Prayer, to the Most Holy Theotokos. — Morning Prayers",
+      "route": "#/prayer/np-morning-11"
+    },
+    {
+      "url": "/prayer/np-optina-morning/",
+      "title": "Morning Prayer of the Last Elders of Optina",
+      "route": "#/prayer/np-optina-morning"
+    },
+    {
+      "url": "/prayer/np-jesus/",
+      "title": "The Jesus Prayer",
+      "route": "#/prayer/np-jesus"
+    },
+    {
+      "url": "/prayer/np-heavenly-king/",
+      "title": "O Heavenly King",
+      "route": "#/prayer/np-heavenly-king"
+    },
+    {
+      "url": "/prayer/np-trisagion/",
+      "title": "Trisagion — Holy God",
+      "route": "#/prayer/np-trisagion"
+    },
+    {
+      "url": "/prayer/np-trinity/",
+      "title": "Prayer to the Most Holy Trinity",
+      "route": "#/prayer/np-trinity"
+    },
+    {
+      "url": "/prayer/np-our-father/",
+      "title": "The Lord’s Prayer",
+      "route": "#/prayer/np-our-father"
+    },
+    {
+      "url": "/prayer/np-creed/",
+      "title": "The Symbol of Faith",
+      "route": "#/prayer/np-creed"
+    },
+    {
+      "url": "/prayer/np-angelic-salutation/",
+      "title": "Rejoice, O Virgin Theotokos",
+      "route": "#/prayer/np-angelic-salutation"
+    },
+    {
+      "url": "/prayer/np-ever-virgin/",
+      "title": "Most glorious Ever-Virgin Mother",
+      "route": "#/prayer/np-ever-virgin"
+    },
+    {
+      "url": "/prayer/np-angels/",
+      "title": "Invocation of the heavenly hosts",
+      "route": "#/prayer/np-angels"
+    },
+    {
+      "url": "/prayer/np-saints/",
+      "title": "Invocation of the Apostles, Prophets, Martyrs, and Saints",
+      "route": "#/prayer/np-saints"
+    },
+    {
+      "url": "/prayer/np-patron/",
+      "title": "Prayer to one’s patron saint",
+      "route": "#/prayer/np-patron"
+    },
+    {
+      "url": "/prayer/np-cross-troparion/",
+      "title": "O Lord, save Thy people",
+      "route": "#/prayer/np-cross-troparion"
+    },
+    {
+      "url": "/prayer/np-it-is-truly-meet/",
+      "title": "It is truly meet",
+      "route": "#/prayer/np-it-is-truly-meet"
+    },
+    {
+      "url": "/prayer/np-meal-1/",
+      "title": "Before Breakfast",
+      "route": "#/prayer/np-meal-1"
+    },
+    {
+      "url": "/prayer/np-meal-2/",
+      "title": "After Breakfast",
+      "route": "#/prayer/np-meal-2"
+    },
+    {
+      "url": "/prayer/np-meal-3/",
+      "title": "Before Lunch",
+      "route": "#/prayer/np-meal-3"
+    },
+    {
+      "url": "/prayer/np-meal-4/",
+      "title": "After Lunch",
+      "route": "#/prayer/np-meal-4"
+    },
+    {
+      "url": "/prayer/np-evening-1/",
+      "title": "1st Prayer, to God the Father, by St. Macarius the Great — Before Sleep",
+      "route": "#/prayer/np-evening-1"
+    },
+    {
+      "url": "/prayer/np-evening-2/",
+      "title": "2nd Prayer, to Our Lord Jesus Christ by St. Antiochus — Before Sleep",
+      "route": "#/prayer/np-evening-2"
+    },
+    {
+      "url": "/prayer/np-evening-3/",
+      "title": "3rd Prayer, to the Holy Spirit — Before Sleep",
+      "route": "#/prayer/np-evening-3"
+    },
+    {
+      "url": "/prayer/np-evening-4/",
+      "title": "4th Prayer, of St. Macarius the Great — Before Sleep",
+      "route": "#/prayer/np-evening-4"
+    },
+    {
+      "url": "/prayer/np-evening-5/",
+      "title": "5th Prayer — Before Sleep",
+      "route": "#/prayer/np-evening-5"
+    },
+    {
+      "url": "/prayer/np-evening-6/",
+      "title": "6th Prayer — Before Sleep",
+      "route": "#/prayer/np-evening-6"
+    },
+    {
+      "url": "/prayer/np-evening-7/",
+      "title": "7th Prayer, by St. John Chrysostom — Before Sleep",
+      "route": "#/prayer/np-evening-7"
+    },
+    {
+      "url": "/prayer/np-evening-8/",
+      "title": "8th Prayer, to our Lord Jesus Christ — Before Sleep",
+      "route": "#/prayer/np-evening-8"
+    },
+    {
+      "url": "/prayer/np-evening-9/",
+      "title": "9th Prayer, to the Most Holy Theotokos, by Peter, the Studite monk — Before Sleep",
+      "route": "#/prayer/np-evening-9"
+    },
+    {
+      "url": "/prayer/np-evening-10/",
+      "title": "10th Prayer, to the Most Holy Theotokos — Before Sleep",
+      "route": "#/prayer/np-evening-10"
+    },
+    {
+      "url": "/prayer/np-evening-11/",
+      "title": "11th Prayer, to the Holy Guardian Angel — Before Sleep",
+      "route": "#/prayer/np-evening-11"
+    },
+    {
+      "url": "/prayer/np-ioannikios/",
+      "title": "Prayer of St. Ioannikios",
+      "route": "#/prayer/np-ioannikios"
+    },
+    {
+      "url": "/prayer/np-cross-prayer/",
+      "title": "Prayer to the Precious Cross",
+      "route": "#/prayer/np-cross-prayer"
+    },
+    {
+      "url": "/prayer/np-remit-forgive/",
+      "title": "Remit, absolve and forgive",
+      "route": "#/prayer/np-remit-forgive"
+    },
+    {
+      "url": "/prayer/np-intercession-evening/",
+      "title": "Evening intercessions",
+      "route": "#/prayer/np-intercession-evening"
+    },
+    {
+      "url": "/prayer/np-john-damascus-bed/",
+      "title": "Prayer of St. John of Damascus before sleep",
+      "route": "#/prayer/np-john-damascus-bed"
+    },
+    {
+      "url": "/prayer/np-church/",
+      "title": "Petition for the Church — from Commemoration",
+      "route": "#/prayer/np-church"
+    },
+    {
+      "url": "/prayer/np-civil-authorities/",
+      "title": "Petition for civil authorities — from Commemoration",
+      "route": "#/prayer/np-civil-authorities"
+    },
+    {
+      "url": "/prayer/np-spiritual-father/",
+      "title": "Petition for one’s spiritual father — from Commemoration",
+      "route": "#/prayer/np-spiritual-father"
+    },
+    {
+      "url": "/prayer/np-family/",
+      "title": "Petition for family and friends — from Commemoration",
+      "route": "#/prayer/np-family"
+    },
+    {
+      "url": "/prayer/np-sick-captives/",
+      "title": "Petition for the suffering and captives — from Commemoration",
+      "route": "#/prayer/np-sick-captives"
+    },
+    {
+      "url": "/prayer/np-benefactors/",
+      "title": "Petition for benefactors — from Commemoration",
+      "route": "#/prayer/np-benefactors"
+    },
+    {
+      "url": "/prayer/np-travellers/",
+      "title": "Petition for travellers — from Commemoration",
+      "route": "#/prayer/np-travellers"
+    },
+    {
+      "url": "/prayer/np-misled/",
+      "title": "Petition for those one has caused to stumble — from Commemoration",
+      "route": "#/prayer/np-misled"
+    },
+    {
+      "url": "/prayer/np-enemies/",
+      "title": "Petition for those who hate and offend us — from Commemoration",
+      "route": "#/prayer/np-enemies"
+    },
+    {
+      "url": "/prayer/np-departed-family/",
+      "title": "Petition for departed relatives — from Commemoration",
+      "route": "#/prayer/np-departed-family"
+    },
+    {
+      "url": "/prayer/np-all-departed/",
+      "title": "Petition for all departed Orthodox Christians — from Commemoration",
+      "route": "#/prayer/np-all-departed"
+    },
+    {
+      "url": "/prayer/np-remission-departed/",
+      "title": "Petition for remission and eternal memory — from Commemoration",
+      "route": "#/prayer/np-remission-departed"
+    },
+    {
+      "url": "/prayer/morning/",
+      "title": "Morning Prayers (longer rule)",
+      "route": "#/prayer/morning"
+    },
+    {
+      "url": "/prayer/work/",
+      "title": "Prayer for Work",
+      "route": "#/prayer/work"
+    },
+    {
+      "url": "/prayer/meals/",
+      "title": "Prayer at Meals",
+      "route": "#/prayer/meals"
+    },
+    {
+      "url": "/prayer/evening/",
+      "title": "Evening Prayers (longer rule)",
+      "route": "#/prayer/evening"
+    },
+    {
+      "url": "/term/g-abbot/",
+      "title": "Abbot",
+      "route": "#/term/g-abbot"
+    },
+    {
+      "url": "/term/g-acedia/",
+      "title": "Acedia",
+      "route": "#/term/g-acedia"
+    },
+    {
+      "url": "/term/g-aeon/",
+      "title": "Aeon",
+      "route": "#/term/g-aeon"
+    },
+    {
+      "url": "/term/g-aer/",
+      "title": "Aer",
+      "route": "#/term/g-aer"
+    },
+    {
+      "url": "/term/g-akathist/",
+      "title": "Akathist",
+      "route": "#/term/g-akathist"
+    },
+    {
+      "url": "/term/g-all-night-vigil/",
+      "title": "All-night Vigil",
+      "route": "#/term/g-all-night-vigil"
+    },
+    {
+      "url": "/term/g-almsgiving/",
+      "title": "Almsgiving",
+      "route": "#/term/g-almsgiving"
+    },
+    {
+      "url": "/term/g-altar-gospel/",
+      "title": "Altar Gospel",
+      "route": "#/term/g-altar-gospel"
+    },
+    {
+      "url": "/term/g-ambon/",
+      "title": "Ambon",
+      "route": "#/term/g-ambon"
+    },
+    {
+      "url": "/term/g-amen/",
+      "title": "Amen",
+      "route": "#/term/g-amen"
+    },
+    {
+      "url": "/term/g-anaphora/",
+      "title": "Anaphora",
+      "route": "#/term/g-anaphora"
+    },
+    {
+      "url": "/term/g-angel/",
+      "title": "Angel",
+      "route": "#/term/g-angel"
+    },
+    {
+      "url": "/term/g-anhypostatic/",
+      "title": "Anhypostatic",
+      "route": "#/term/g-anhypostatic"
+    },
+    {
+      "url": "/term/g-annunciation/",
+      "title": "Annunciation",
+      "route": "#/term/g-annunciation"
+    },
+    {
+      "url": "/term/g-anthropomorphism/",
+      "title": "Anthropomorphism",
+      "route": "#/term/g-anthropomorphism"
+    },
+    {
+      "url": "/term/g-antichrist/",
+      "title": "Antichrist",
+      "route": "#/term/g-antichrist"
+    },
+    {
+      "url": "/term/g-antidoron/",
+      "title": "Antidoron",
+      "route": "#/term/g-antidoron"
+    },
+    {
+      "url": "/term/g-antimension/",
+      "title": "Antimension",
+      "route": "#/term/g-antimension"
+    },
+    {
+      "url": "/term/g-antiphon/",
+      "title": "Antiphon",
+      "route": "#/term/g-antiphon"
+    },
+    {
+      "url": "/term/g-antitype/",
+      "title": "Antitype",
+      "route": "#/term/g-antitype"
+    },
+    {
+      "url": "/term/g-apocalypse/",
+      "title": "Apocalypse",
+      "route": "#/term/g-apocalypse"
+    },
+    {
+      "url": "/term/g-apophatic-theology/",
+      "title": "Apophatic theology",
+      "route": "#/term/g-apophatic-theology"
+    },
+    {
+      "url": "/term/g-apostasy/",
+      "title": "Apostasy",
+      "route": "#/term/g-apostasy"
+    },
+    {
+      "url": "/term/g-aposticha/",
+      "title": "Aposticha",
+      "route": "#/term/g-aposticha"
+    },
+    {
+      "url": "/term/g-apostle/",
+      "title": "Apostle",
+      "route": "#/term/g-apostle"
+    },
+    {
+      "url": "/term/g-apostol/",
+      "title": "Apostol",
+      "route": "#/term/g-apostol"
+    },
+    {
+      "url": "/term/g-apostolic/",
+      "title": "Apostolic",
+      "route": "#/term/g-apostolic"
+    },
+    {
+      "url": "/term/g-apostolic-succession/",
+      "title": "Apostolic succession",
+      "route": "#/term/g-apostolic-succession"
+    },
+    {
+      "url": "/term/g-appropriation/",
+      "title": "Appropriation",
+      "route": "#/term/g-appropriation"
+    },
+    {
+      "url": "/term/g-archimandrite/",
+      "title": "Archimandrite",
+      "route": "#/term/g-archimandrite"
+    },
+    {
+      "url": "/term/g-archpriest/",
+      "title": "Archpriest",
+      "route": "#/term/g-archpriest"
+    },
+    {
+      "url": "/term/g-artoklasia/",
+      "title": "Artoklasia",
+      "route": "#/term/g-artoklasia"
+    },
+    {
+      "url": "/term/g-ascension/",
+      "title": "Ascension",
+      "route": "#/term/g-ascension"
+    },
+    {
+      "url": "/term/g-askesis/",
+      "title": "Askesis",
+      "route": "#/term/g-askesis"
+    },
+    {
+      "url": "/term/g-asterisk/",
+      "title": "Asterisk",
+      "route": "#/term/g-asterisk"
+    },
+    {
+      "url": "/term/g-atheism/",
+      "title": "Atheism",
+      "route": "#/term/g-atheism"
+    },
+    {
+      "url": "/term/g-atonement/",
+      "title": "Atonement",
+      "route": "#/term/g-atonement"
+    },
+    {
+      "url": "/term/g-autocephaly/",
+      "title": "Autocephaly",
+      "route": "#/term/g-autocephaly"
+    },
+    {
+      "url": "/term/g-autonomy/",
+      "title": "Autonomy",
+      "route": "#/term/g-autonomy"
+    },
+    {
+      "url": "/term/g-avarice/",
+      "title": "Avarice",
+      "route": "#/term/g-avarice"
+    },
+    {
+      "url": "/term/g-avaton/",
+      "title": "Avaton",
+      "route": "#/term/g-avaton"
+    },
+    {
+      "url": "/term/g-axios/",
+      "title": "Axios",
+      "route": "#/term/g-axios"
+    },
+    {
+      "url": "/term/g-baptism/",
+      "title": "Baptism",
+      "route": "#/term/g-baptism"
+    },
+    {
+      "url": "/term/g-baptismal-garment/",
+      "title": "Baptismal garment",
+      "route": "#/term/g-baptismal-garment"
+    },
+    {
+      "url": "/term/g-beatitudes/",
+      "title": "Beatitudes",
+      "route": "#/term/g-beatitudes"
+    },
+    {
+      "url": "/term/g-bible/",
+      "title": "Bible",
+      "route": "#/term/g-bible"
+    },
+    {
+      "url": "/term/g-bishop/",
+      "title": "Bishop",
+      "route": "#/term/g-bishop"
+    },
+    {
+      "url": "/term/g-bright-week/",
+      "title": "Bright Week",
+      "route": "#/term/g-bright-week"
+    },
+    {
+      "url": "/term/g-canon-hymn/",
+      "title": "Canon (hymn)",
+      "route": "#/term/g-canon-hymn"
+    },
+    {
+      "url": "/term/g-cataphatic-theology/",
+      "title": "Cataphatic theology",
+      "route": "#/term/g-cataphatic-theology"
+    },
+    {
+      "url": "/term/g-catechism/",
+      "title": "Catechism",
+      "route": "#/term/g-catechism"
+    },
+    {
+      "url": "/term/g-catechumen/",
+      "title": "Catechumen",
+      "route": "#/term/g-catechumen"
+    },
+    {
+      "url": "/term/g-catholic/",
+      "title": "Catholic",
+      "route": "#/term/g-catholic"
+    },
+    {
+      "url": "/term/g-celibacy/",
+      "title": "Celibacy",
+      "route": "#/term/g-celibacy"
+    },
+    {
+      "url": "/term/g-censer/",
+      "title": "Censer",
+      "route": "#/term/g-censer"
+    },
+    {
+      "url": "/term/g-chalice/",
+      "title": "Chalice",
+      "route": "#/term/g-chalice"
+    },
+    {
+      "url": "/term/g-chastity/",
+      "title": "Chastity",
+      "route": "#/term/g-chastity"
+    },
+    {
+      "url": "/term/g-cherubic-hymn/",
+      "title": "Cherubic Hymn",
+      "route": "#/term/g-cherubic-hymn"
+    },
+    {
+      "url": "/term/g-chinovnik/",
+      "title": "Chinovnik",
+      "route": "#/term/g-chinovnik"
+    },
+    {
+      "url": "/term/g-chrismation/",
+      "title": "Chrismation",
+      "route": "#/term/g-chrismation"
+    },
+    {
+      "url": "/term/g-christ/",
+      "title": "Christ",
+      "route": "#/term/g-christ"
+    },
+    {
+      "url": "/term/g-christology/",
+      "title": "Christology",
+      "route": "#/term/g-christology"
+    },
+    {
+      "url": "/term/g-christotokos/",
+      "title": "Christotokos",
+      "route": "#/term/g-christotokos"
+    },
+    {
+      "url": "/term/g-church/",
+      "title": "Church",
+      "route": "#/term/g-church"
+    },
+    {
+      "url": "/term/g-circumscription/",
+      "title": "Circumscription",
+      "route": "#/term/g-circumscription"
+    },
+    {
+      "url": "/term/g-coenobium/",
+      "title": "Coenobium",
+      "route": "#/term/g-coenobium"
+    },
+    {
+      "url": "/term/g-communication-of-properties/",
+      "title": "Communication of properties",
+      "route": "#/term/g-communication-of-properties"
+    },
+    {
+      "url": "/term/g-communion-of-saints/",
+      "title": "Communion of saints",
+      "route": "#/term/g-communion-of-saints"
+    },
+    {
+      "url": "/term/g-communion-spoon/",
+      "title": "Communion spoon",
+      "route": "#/term/g-communion-spoon"
+    },
+    {
+      "url": "/term/g-compline/",
+      "title": "Compline",
+      "route": "#/term/g-compline"
+    },
+    {
+      "url": "/term/g-compound-hypostasis/",
+      "title": "Compound hypostasis",
+      "route": "#/term/g-compound-hypostasis"
+    },
+    {
+      "url": "/term/g-compunction/",
+      "title": "Compunction",
+      "route": "#/term/g-compunction"
+    },
+    {
+      "url": "/term/g-confession-of-faith/",
+      "title": "Confession of faith",
+      "route": "#/term/g-confession-of-faith"
+    },
+    {
+      "url": "/term/g-confessor/",
+      "title": "Confessor (Christian witness)",
+      "route": "#/term/g-confessor"
+    },
+    {
+      "url": "/term/g-confessor-saint-title/",
+      "title": "Confessor (saint title)",
+      "route": "#/term/g-confessor-saint-title"
+    },
+    {
+      "url": "/term/g-consecration-of-a-church/",
+      "title": "Consecration of a church",
+      "route": "#/term/g-consecration-of-a-church"
+    },
+    {
+      "url": "/term/g-consubstantial/",
+      "title": "Consubstantial",
+      "route": "#/term/g-consubstantial"
+    },
+    {
+      "url": "/term/g-corporal-works-of-mercy/",
+      "title": "Corporal works of mercy",
+      "route": "#/term/g-corporal-works-of-mercy"
+    },
+    {
+      "url": "/term/g-corruption/",
+      "title": "Corruption",
+      "route": "#/term/g-corruption"
+    },
+    {
+      "url": "/term/g-creation/",
+      "title": "Creation",
+      "route": "#/term/g-creation"
+    },
+    {
+      "url": "/term/g-creation-from-nothing/",
+      "title": "Creation from nothing",
+      "route": "#/term/g-creation-from-nothing"
+    },
+    {
+      "url": "/term/g-creed/",
+      "title": "Creed",
+      "route": "#/term/g-creed"
+    },
+    {
+      "url": "/term/g-cross-theotokion/",
+      "title": "Cross-Theotokion",
+      "route": "#/term/g-cross-theotokion"
+    },
+    {
+      "url": "/term/g-crucifying-the-passions/",
+      "title": "Crucifying the passions",
+      "route": "#/term/g-crucifying-the-passions"
+    },
+    {
+      "url": "/term/g-curse/",
+      "title": "Curse",
+      "route": "#/term/g-curse"
+    },
+    {
+      "url": "/term/g-daily-bread/",
+      "title": "Daily bread",
+      "route": "#/term/g-daily-bread"
+    },
+    {
+      "url": "/term/g-death/",
+      "title": "Death",
+      "route": "#/term/g-death"
+    },
+    {
+      "url": "/term/g-deification-of-christ-s-flesh/",
+      "title": "Deification of Christ's flesh",
+      "route": "#/term/g-deification-of-christ-s-flesh"
+    },
+    {
+      "url": "/term/g-deliverance-from-evil/",
+      "title": "Deliverance from evil",
+      "route": "#/term/g-deliverance-from-evil"
+    },
+    {
+      "url": "/term/g-descent-into-hades/",
+      "title": "Descent into Hades",
+      "route": "#/term/g-descent-into-hades"
+    },
+    {
+      "url": "/term/g-despair/",
+      "title": "Despair",
+      "route": "#/term/g-despair"
+    },
+    {
+      "url": "/term/g-devil/",
+      "title": "Devil",
+      "route": "#/term/g-devil"
+    },
+    {
+      "url": "/term/g-diakonia/",
+      "title": "Diakonia",
+      "route": "#/term/g-diakonia"
+    },
+    {
+      "url": "/term/g-dikirion/",
+      "title": "Dikirion",
+      "route": "#/term/g-dikirion"
+    },
+    {
+      "url": "/term/g-discretion/",
+      "title": "Discretion",
+      "route": "#/term/g-discretion"
+    },
+    {
+      "url": "/term/g-diskos/",
+      "title": "Diskos",
+      "route": "#/term/g-diskos"
+    },
+    {
+      "url": "/term/g-divine-attributes/",
+      "title": "Divine attributes",
+      "route": "#/term/g-divine-attributes"
+    },
+    {
+      "url": "/term/g-divine-economy/",
+      "title": "Divine economy",
+      "route": "#/term/g-divine-economy"
+    },
+    {
+      "url": "/term/g-divine-essence/",
+      "title": "Divine essence",
+      "route": "#/term/g-divine-essence"
+    },
+    {
+      "url": "/term/g-divine-immutability/",
+      "title": "Divine immutability",
+      "route": "#/term/g-divine-immutability"
+    },
+    {
+      "url": "/term/g-divine-impassibility/",
+      "title": "Divine impassibility",
+      "route": "#/term/g-divine-impassibility"
+    },
+    {
+      "url": "/term/g-divine-liturgy/",
+      "title": "Divine Liturgy",
+      "route": "#/term/g-divine-liturgy"
+    },
+    {
+      "url": "/term/g-divine-providence/",
+      "title": "Divine providence",
+      "route": "#/term/g-divine-providence"
+    },
+    {
+      "url": "/term/g-divine-revelation/",
+      "title": "Divine revelation",
+      "route": "#/term/g-divine-revelation"
+    },
+    {
+      "url": "/term/g-divine-simplicity/",
+      "title": "Divine simplicity",
+      "route": "#/term/g-divine-simplicity"
+    },
+    {
+      "url": "/term/g-dogma/",
+      "title": "Dogma",
+      "route": "#/term/g-dogma"
+    },
+    {
+      "url": "/term/g-dogmatikon/",
+      "title": "Dogmatikon",
+      "route": "#/term/g-dogmatikon"
+    },
+    {
+      "url": "/term/g-dormition/",
+      "title": "Dormition",
+      "route": "#/term/g-dormition"
+    },
+    {
+      "url": "/term/g-doxology/",
+      "title": "Doxology",
+      "route": "#/term/g-doxology"
+    },
+    {
+      "url": "/term/g-dyothelitism/",
+      "title": "Dyothelitism",
+      "route": "#/term/g-dyothelitism"
+    },
+    {
+      "url": "/term/g-ecumenical-council/",
+      "title": "Ecumenical council",
+      "route": "#/term/g-ecumenical-council"
+    },
+    {
+      "url": "/term/g-eight-principal-vices/",
+      "title": "Eight principal vices",
+      "route": "#/term/g-eight-principal-vices"
+    },
+    {
+      "url": "/term/g-eileton/",
+      "title": "Eileton",
+      "route": "#/term/g-eileton"
+    },
+    {
+      "url": "/term/g-eis-polla-eti-despota/",
+      "title": "Eis polla eti, Despota",
+      "route": "#/term/g-eis-polla-eti-despota"
+    },
+    {
+      "url": "/term/g-energy/",
+      "title": "Energy",
+      "route": "#/term/g-energy"
+    },
+    {
+      "url": "/term/g-enhypostatic/",
+      "title": "Enhypostatic",
+      "route": "#/term/g-enhypostatic"
+    },
+    {
+      "url": "/term/g-entrance-of-the-theotokos/",
+      "title": "Entrance of the Theotokos",
+      "route": "#/term/g-entrance-of-the-theotokos"
+    },
+    {
+      "url": "/term/g-epiclesis/",
+      "title": "Epiclesis",
+      "route": "#/term/g-epiclesis"
+    },
+    {
+      "url": "/term/g-epimanikia/",
+      "title": "Epimanikia",
+      "route": "#/term/g-epimanikia"
+    },
+    {
+      "url": "/term/g-epitaphios/",
+      "title": "Epitaphios",
+      "route": "#/term/g-epitaphios"
+    },
+    {
+      "url": "/term/g-epitimia/",
+      "title": "Epitimia",
+      "route": "#/term/g-epitimia"
+    },
+    {
+      "url": "/term/g-epitrachelion/",
+      "title": "Epitrachelion",
+      "route": "#/term/g-epitrachelion"
+    },
+    {
+      "url": "/term/g-eschatology/",
+      "title": "Eschatology",
+      "route": "#/term/g-eschatology"
+    },
+    {
+      "url": "/term/g-essenceenergies-distinction/",
+      "title": "Essence–energies distinction",
+      "route": "#/term/g-essenceenergies-distinction"
+    },
+    {
+      "url": "/term/g-eternal-life/",
+      "title": "Eternal life",
+      "route": "#/term/g-eternal-life"
+    },
+    {
+      "url": "/term/g-euchologion/",
+      "title": "Euchologion",
+      "route": "#/term/g-euchologion"
+    },
+    {
+      "url": "/term/g-ever-virgin/",
+      "title": "Ever-virgin",
+      "route": "#/term/g-ever-virgin"
+    },
+    {
+      "url": "/term/g-evergetinos/",
+      "title": "Evergetinos",
+      "route": "#/term/g-evergetinos"
+    },
+    {
+      "url": "/term/g-evil/",
+      "title": "Evil",
+      "route": "#/term/g-evil"
+    },
+    {
+      "url": "/term/g-exaltation-of-the-cross/",
+      "title": "Exaltation of the Cross",
+      "route": "#/term/g-exaltation-of-the-cross"
+    },
+    {
+      "url": "/term/g-exapostilarion/",
+      "title": "Exapostilarion",
+      "route": "#/term/g-exapostilarion"
+    },
+    {
+      "url": "/term/g-exorcism/",
+      "title": "Exorcism",
+      "route": "#/term/g-exorcism"
+    },
+    {
+      "url": "/term/g-extortion/",
+      "title": "Extortion",
+      "route": "#/term/g-extortion"
+    },
+    {
+      "url": "/term/g-faith/",
+      "title": "Faith",
+      "route": "#/term/g-faith"
+    },
+    {
+      "url": "/term/g-fasting/",
+      "title": "Fasting",
+      "route": "#/term/g-fasting"
+    },
+    {
+      "url": "/term/g-festal-menaion/",
+      "title": "Festal Menaion",
+      "route": "#/term/g-festal-menaion"
+    },
+    {
+      "url": "/term/g-first-hour/",
+      "title": "First Hour",
+      "route": "#/term/g-first-hour"
+    },
+    {
+      "url": "/term/g-foreknowledge/",
+      "title": "Foreknowledge",
+      "route": "#/term/g-foreknowledge"
+    },
+    {
+      "url": "/term/g-free-will/",
+      "title": "Free will",
+      "route": "#/term/g-free-will"
+    },
+    {
+      "url": "/term/g-general-menaion/",
+      "title": "General Menaion",
+      "route": "#/term/g-general-menaion"
+    },
+    {
+      "url": "/term/g-general-resurrection/",
+      "title": "General resurrection",
+      "route": "#/term/g-general-resurrection"
+    },
+    {
+      "url": "/term/g-gerontas/",
+      "title": "Gerontas",
+      "route": "#/term/g-gerontas"
+    },
+    {
+      "url": "/term/g-gifts-of-the-holy-spirit/",
+      "title": "Gifts of the Holy Spirit",
+      "route": "#/term/g-gifts-of-the-holy-spirit"
+    },
+    {
+      "url": "/term/g-giver-of-life/",
+      "title": "Giver of life",
+      "route": "#/term/g-giver-of-life"
+    },
+    {
+      "url": "/term/g-gluttony/",
+      "title": "Gluttony",
+      "route": "#/term/g-gluttony"
+    },
+    {
+      "url": "/term/g-gnomic-will/",
+      "title": "Gnomic will",
+      "route": "#/term/g-gnomic-will"
+    },
+    {
+      "url": "/term/g-good-works/",
+      "title": "Good works",
+      "route": "#/term/g-good-works"
+    },
+    {
+      "url": "/term/g-gospel/",
+      "title": "Gospel",
+      "route": "#/term/g-gospel"
+    },
+    {
+      "url": "/term/g-grace/",
+      "title": "Grace",
+      "route": "#/term/g-grace"
+    },
+    {
+      "url": "/term/g-great-blessing-of-waters/",
+      "title": "Great Blessing of Waters",
+      "route": "#/term/g-great-blessing-of-waters"
+    },
+    {
+      "url": "/term/g-great-doxology/",
+      "title": "Great Doxology",
+      "route": "#/term/g-great-doxology"
+    },
+    {
+      "url": "/term/g-great-entrance/",
+      "title": "Great Entrance",
+      "route": "#/term/g-great-entrance"
+    },
+    {
+      "url": "/term/g-great-lent/",
+      "title": "Great Lent",
+      "route": "#/term/g-great-lent"
+    },
+    {
+      "url": "/term/g-guardian-angel/",
+      "title": "Guardian angel",
+      "route": "#/term/g-guardian-angel"
+    },
+    {
+      "url": "/term/g-hades/",
+      "title": "Hades",
+      "route": "#/term/g-hades"
+    },
+    {
+      "url": "/term/g-heresy/",
+      "title": "Heresy",
+      "route": "#/term/g-heresy"
+    },
+    {
+      "url": "/term/g-hesychia/",
+      "title": "Hesychia",
+      "route": "#/term/g-hesychia"
+    },
+    {
+      "url": "/term/g-hierarchy/",
+      "title": "Hierarchy",
+      "route": "#/term/g-hierarchy"
+    },
+    {
+      "url": "/term/g-hieratikon/",
+      "title": "Hieratikon",
+      "route": "#/term/g-hieratikon"
+    },
+    {
+      "url": "/term/g-high-place/",
+      "title": "High Place",
+      "route": "#/term/g-high-place"
+    },
+    {
+      "url": "/term/g-holiness-of-the-church/",
+      "title": "Holiness of the Church",
+      "route": "#/term/g-holiness-of-the-church"
+    },
+    {
+      "url": "/term/g-holy-chrism/",
+      "title": "Holy chrism",
+      "route": "#/term/g-holy-chrism"
+    },
+    {
+      "url": "/term/g-holy-communion/",
+      "title": "Holy Communion",
+      "route": "#/term/g-holy-communion"
+    },
+    {
+      "url": "/term/g-holy-cross/",
+      "title": "Holy Cross",
+      "route": "#/term/g-holy-cross"
+    },
+    {
+      "url": "/term/g-holy-friday/",
+      "title": "Holy Friday",
+      "route": "#/term/g-holy-friday"
+    },
+    {
+      "url": "/term/g-holy-orders/",
+      "title": "Holy Orders",
+      "route": "#/term/g-holy-orders"
+    },
+    {
+      "url": "/term/g-holy-saturday/",
+      "title": "Holy Saturday",
+      "route": "#/term/g-holy-saturday"
+    },
+    {
+      "url": "/term/g-holy-scripture/",
+      "title": "Holy Scripture",
+      "route": "#/term/g-holy-scripture"
+    },
+    {
+      "url": "/term/g-holy-spirit/",
+      "title": "Holy Spirit",
+      "route": "#/term/g-holy-spirit"
+    },
+    {
+      "url": "/term/g-holy-table/",
+      "title": "Holy Table",
+      "route": "#/term/g-holy-table"
+    },
+    {
+      "url": "/term/g-holy-thursday/",
+      "title": "Holy Thursday",
+      "route": "#/term/g-holy-thursday"
+    },
+    {
+      "url": "/term/g-holy-tradition/",
+      "title": "Holy Tradition",
+      "route": "#/term/g-holy-tradition"
+    },
+    {
+      "url": "/term/g-holy-trinity/",
+      "title": "Holy Trinity",
+      "route": "#/term/g-holy-trinity"
+    },
+    {
+      "url": "/term/g-holy-unction/",
+      "title": "Holy Unction",
+      "route": "#/term/g-holy-unction"
+    },
+    {
+      "url": "/term/g-holy-week/",
+      "title": "Holy Week",
+      "route": "#/term/g-holy-week"
+    },
+    {
+      "url": "/term/g-hope/",
+      "title": "Hope",
+      "route": "#/term/g-hope"
+    },
+    {
+      "url": "/term/g-horologion/",
+      "title": "Horologion",
+      "route": "#/term/g-horologion"
+    },
+    {
+      "url": "/term/g-hours/",
+      "title": "Hours",
+      "route": "#/term/g-hours"
+    },
+    {
+      "url": "/term/g-humility/",
+      "title": "Humility",
+      "route": "#/term/g-humility"
+    },
+    {
+      "url": "/term/g-hypakoe/",
+      "title": "Hypakoe",
+      "route": "#/term/g-hypakoe"
+    },
+    {
+      "url": "/term/g-hypocrisy/",
+      "title": "Hypocrisy",
+      "route": "#/term/g-hypocrisy"
+    },
+    {
+      "url": "/term/g-hypostasis/",
+      "title": "Hypostasis",
+      "route": "#/term/g-hypostasis"
+    },
+    {
+      "url": "/term/g-icon/",
+      "title": "Icon",
+      "route": "#/term/g-icon"
+    },
+    {
+      "url": "/term/g-iconostasis/",
+      "title": "Iconostasis",
+      "route": "#/term/g-iconostasis"
+    },
+    {
+      "url": "/term/g-idolatry/",
+      "title": "Idolatry",
+      "route": "#/term/g-idolatry"
+    },
+    {
+      "url": "/term/g-ikos/",
+      "title": "Ikos",
+      "route": "#/term/g-ikos"
+    },
+    {
+      "url": "/term/g-image-of-god/",
+      "title": "Image of God",
+      "route": "#/term/g-image-of-god"
+    },
+    {
+      "url": "/term/g-incarnation/",
+      "title": "Incarnation",
+      "route": "#/term/g-incarnation"
+    },
+    {
+      "url": "/term/g-incense/",
+      "title": "Incense",
+      "route": "#/term/g-incense"
+    },
+    {
+      "url": "/term/g-inditia/",
+      "title": "Inditia",
+      "route": "#/term/g-inditia"
+    },
+    {
+      "url": "/term/g-infallibility-of-the-church/",
+      "title": "Infallibility of the Church",
+      "route": "#/term/g-infallibility-of-the-church"
+    },
+    {
+      "url": "/term/g-inner-prayer/",
+      "title": "Inner prayer",
+      "route": "#/term/g-inner-prayer"
+    },
+    {
+      "url": "/term/g-intercession-of-saints/",
+      "title": "Intercession of saints",
+      "route": "#/term/g-intercession-of-saints"
+    },
+    {
+      "url": "/term/g-intermediate-state/",
+      "title": "Intermediate state",
+      "route": "#/term/g-intermediate-state"
+    },
+    {
+      "url": "/term/g-invocation-of-saints/",
+      "title": "Invocation of saints",
+      "route": "#/term/g-invocation-of-saints"
+    },
+    {
+      "url": "/term/g-irmologion/",
+      "title": "Irmologion",
+      "route": "#/term/g-irmologion"
+    },
+    {
+      "url": "/term/g-irmos/",
+      "title": "Irmos",
+      "route": "#/term/g-irmos"
+    },
+    {
+      "url": "/term/g-jesus/",
+      "title": "Jesus",
+      "route": "#/term/g-jesus"
+    },
+    {
+      "url": "/term/g-katabasia/",
+      "title": "Katabasia",
+      "route": "#/term/g-katabasia"
+    },
+    {
+      "url": "/term/g-kathisma/",
+      "title": "Kathisma",
+      "route": "#/term/g-kathisma"
+    },
+    {
+      "url": "/term/g-kellion/",
+      "title": "Kellion",
+      "route": "#/term/g-kellion"
+    },
+    {
+      "url": "/term/g-kenosis/",
+      "title": "Kenosis",
+      "route": "#/term/g-kenosis"
+    },
+    {
+      "url": "/term/g-kingdom-of-god/",
+      "title": "Kingdom of God",
+      "route": "#/term/g-kingdom-of-god"
+    },
+    {
+      "url": "/term/g-kliros/",
+      "title": "Kliros",
+      "route": "#/term/g-kliros"
+    },
+    {
+      "url": "/term/g-koliva/",
+      "title": "Koliva",
+      "route": "#/term/g-koliva"
+    },
+    {
+      "url": "/term/g-kontakion/",
+      "title": "Kontakion",
+      "route": "#/term/g-kontakion"
+    },
+    {
+      "url": "/term/g-kyrie-eleison/",
+      "title": "Kyrie eleison",
+      "route": "#/term/g-kyrie-eleison"
+    },
+    {
+      "url": "/term/g-lamb/",
+      "title": "Lamb",
+      "route": "#/term/g-lamb"
+    },
+    {
+      "url": "/term/g-last-judgment/",
+      "title": "Last judgment",
+      "route": "#/term/g-last-judgment"
+    },
+    {
+      "url": "/term/g-lavra/",
+      "title": "Lavra",
+      "route": "#/term/g-lavra"
+    },
+    {
+      "url": "/term/g-little-entrance/",
+      "title": "Little Entrance",
+      "route": "#/term/g-little-entrance"
+    },
+    {
+      "url": "/term/g-liturgical-spear/",
+      "title": "Liturgical spear",
+      "route": "#/term/g-liturgical-spear"
+    },
+    {
+      "url": "/term/g-liturgy-of-the-catechumens/",
+      "title": "Liturgy of the Catechumens",
+      "route": "#/term/g-liturgy-of-the-catechumens"
+    },
+    {
+      "url": "/term/g-liturgy-of-the-faithful/",
+      "title": "Liturgy of the Faithful",
+      "route": "#/term/g-liturgy-of-the-faithful"
+    },
+    {
+      "url": "/term/g-litya/",
+      "title": "Litya",
+      "route": "#/term/g-litya"
+    },
+    {
+      "url": "/term/g-logos/",
+      "title": "Logos",
+      "route": "#/term/g-logos"
+    },
+    {
+      "url": "/term/g-lord/",
+      "title": "Lord",
+      "route": "#/term/g-lord"
+    },
+    {
+      "url": "/term/g-lord-s-prayer/",
+      "title": "Lord's Prayer",
+      "route": "#/term/g-lord-s-prayer"
+    },
+    {
+      "url": "/term/g-love/",
+      "title": "Love",
+      "route": "#/term/g-love"
+    },
+    {
+      "url": "/term/g-many-years/",
+      "title": "Many years",
+      "route": "#/term/g-many-years"
+    },
+    {
+      "url": "/term/g-martyr/",
+      "title": "Martyr",
+      "route": "#/term/g-martyr"
+    },
+    {
+      "url": "/term/g-martyrdom/",
+      "title": "Martyrdom",
+      "route": "#/term/g-martyrdom"
+    },
+    {
+      "url": "/term/g-matins/",
+      "title": "Matins",
+      "route": "#/term/g-matins"
+    },
+    {
+      "url": "/term/g-matrimony/",
+      "title": "Matrimony",
+      "route": "#/term/g-matrimony"
+    },
+    {
+      "url": "/term/g-meekness/",
+      "title": "Meekness",
+      "route": "#/term/g-meekness"
+    },
+    {
+      "url": "/term/g-meeting-of-the-lord/",
+      "title": "Meeting of the Lord",
+      "route": "#/term/g-meeting-of-the-lord"
+    },
+    {
+      "url": "/term/g-memory-eternal/",
+      "title": "Memory eternal",
+      "route": "#/term/g-memory-eternal"
+    },
+    {
+      "url": "/term/g-men-pleasing/",
+      "title": "Men-pleasing",
+      "route": "#/term/g-men-pleasing"
+    },
+    {
+      "url": "/term/g-menaion/",
+      "title": "Menaion",
+      "route": "#/term/g-menaion"
+    },
+    {
+      "url": "/term/g-mercy/",
+      "title": "Mercy",
+      "route": "#/term/g-mercy"
+    },
+    {
+      "url": "/term/g-midnight-office/",
+      "title": "Midnight Office",
+      "route": "#/term/g-midnight-office"
+    },
+    {
+      "url": "/term/g-miracle/",
+      "title": "Miracle",
+      "route": "#/term/g-miracle"
+    },
+    {
+      "url": "/term/g-mitre/",
+      "title": "Mitre",
+      "route": "#/term/g-mitre"
+    },
+    {
+      "url": "/term/g-moleben/",
+      "title": "Moleben",
+      "route": "#/term/g-moleben"
+    },
+    {
+      "url": "/term/g-monk/",
+      "title": "Monk",
+      "route": "#/term/g-monk"
+    },
+    {
+      "url": "/term/g-mystagogy/",
+      "title": "Mystagogy",
+      "route": "#/term/g-mystagogy"
+    },
+    {
+      "url": "/term/g-mystery/",
+      "title": "Mystery",
+      "route": "#/term/g-mystery"
+    },
+    {
+      "url": "/term/g-nabedrennik/",
+      "title": "Nabedrennik",
+      "route": "#/term/g-nabedrennik"
+    },
+    {
+      "url": "/term/g-narthex/",
+      "title": "Narthex",
+      "route": "#/term/g-narthex"
+    },
+    {
+      "url": "/term/g-nativity-of-christ/",
+      "title": "Nativity of Christ",
+      "route": "#/term/g-nativity-of-christ"
+    },
+    {
+      "url": "/term/g-nativity-of-the-theotokos/",
+      "title": "Nativity of the Theotokos",
+      "route": "#/term/g-nativity-of-the-theotokos"
+    },
+    {
+      "url": "/term/g-nativity-dormition-and-apostles-fasts/",
+      "title": "Nativity, Dormition and Apostles' fasts",
+      "route": "#/term/g-nativity-dormition-and-apostles-fasts"
+    },
+    {
+      "url": "/term/g-natural-and-innocent-passions/",
+      "title": "Natural and innocent passions",
+      "route": "#/term/g-natural-and-innocent-passions"
+    },
+    {
+      "url": "/term/g-natural-law/",
+      "title": "Natural law",
+      "route": "#/term/g-natural-law"
+    },
+    {
+      "url": "/term/g-natural-will/",
+      "title": "Natural will",
+      "route": "#/term/g-natural-will"
+    },
+    {
+      "url": "/term/g-nave/",
+      "title": "Nave",
+      "route": "#/term/g-nave"
+    },
+    {
+      "url": "/term/g-neighbor/",
+      "title": "Neighbor",
+      "route": "#/term/g-neighbor"
+    },
+    {
+      "url": "/term/g-nepsis/",
+      "title": "Nepsis",
+      "route": "#/term/g-nepsis"
+    },
+    {
+      "url": "/term/g-ninth-hour/",
+      "title": "Ninth Hour",
+      "route": "#/term/g-ninth-hour"
+    },
+    {
+      "url": "/term/g-nous/",
+      "title": "Nous",
+      "route": "#/term/g-nous"
+    },
+    {
+      "url": "/term/g-obedience/",
+      "title": "Obedience",
+      "route": "#/term/g-obedience"
+    },
+    {
+      "url": "/term/g-octoechos/",
+      "title": "Octoechos",
+      "route": "#/term/g-octoechos"
+    },
+    {
+      "url": "/term/g-ode/",
+      "title": "Ode",
+      "route": "#/term/g-ode"
+    },
+    {
+      "url": "/term/g-old-and-new-testaments/",
+      "title": "Old and New Testaments",
+      "route": "#/term/g-old-and-new-testaments"
+    },
+    {
+      "url": "/term/g-omophorion/",
+      "title": "Omophorion",
+      "route": "#/term/g-omophorion"
+    },
+    {
+      "url": "/term/g-one-person-of-christ/",
+      "title": "One person of Christ",
+      "route": "#/term/g-one-person-of-christ"
+    },
+    {
+      "url": "/term/g-only-begotten/",
+      "title": "Only-begotten",
+      "route": "#/term/g-only-begotten"
+    },
+    {
+      "url": "/term/g-orarion/",
+      "title": "Orarion",
+      "route": "#/term/g-orarion"
+    },
+    {
+      "url": "/term/g-outward-prayer/",
+      "title": "Outward prayer",
+      "route": "#/term/g-outward-prayer"
+    },
+    {
+      "url": "/term/g-palitsa/",
+      "title": "Palitsa",
+      "route": "#/term/g-palitsa"
+    },
+    {
+      "url": "/term/g-palm-sunday/",
+      "title": "Palm Sunday",
+      "route": "#/term/g-palm-sunday"
+    },
+    {
+      "url": "/term/g-panagia/",
+      "title": "Panagia",
+      "route": "#/term/g-panagia"
+    },
+    {
+      "url": "/term/g-panikhida/",
+      "title": "Panikhida",
+      "route": "#/term/g-panikhida"
+    },
+    {
+      "url": "/term/g-pantocrator/",
+      "title": "Pantocrator",
+      "route": "#/term/g-pantocrator"
+    },
+    {
+      "url": "/term/g-paradise/",
+      "title": "Paradise",
+      "route": "#/term/g-paradise"
+    },
+    {
+      "url": "/term/g-paroemia/",
+      "title": "Paroemia",
+      "route": "#/term/g-paroemia"
+    },
+    {
+      "url": "/term/g-pascha/",
+      "title": "Pascha",
+      "route": "#/term/g-pascha"
+    },
+    {
+      "url": "/term/g-passion/",
+      "title": "Passion",
+      "route": "#/term/g-passion"
+    },
+    {
+      "url": "/term/g-pastoral-staff/",
+      "title": "Pastoral staff",
+      "route": "#/term/g-pastoral-staff"
+    },
+    {
+      "url": "/term/g-patriarch/",
+      "title": "Patriarch",
+      "route": "#/term/g-patriarch"
+    },
+    {
+      "url": "/term/g-peacemaking/",
+      "title": "Peacemaking",
+      "route": "#/term/g-peacemaking"
+    },
+    {
+      "url": "/term/g-penitence/",
+      "title": "Penitence",
+      "route": "#/term/g-penitence"
+    },
+    {
+      "url": "/term/g-pentecost/",
+      "title": "Pentecost",
+      "route": "#/term/g-pentecost"
+    },
+    {
+      "url": "/term/g-pentecostarion/",
+      "title": "Pentecostarion",
+      "route": "#/term/g-pentecostarion"
+    },
+    {
+      "url": "/term/g-perichoresis/",
+      "title": "Perichoresis",
+      "route": "#/term/g-perichoresis"
+    },
+    {
+      "url": "/term/g-phelonion/",
+      "title": "Phelonion",
+      "route": "#/term/g-phelonion"
+    },
+    {
+      "url": "/term/g-phronema/",
+      "title": "Phronema",
+      "route": "#/term/g-phronema"
+    },
+    {
+      "url": "/term/g-polyeleos/",
+      "title": "Polyeleos",
+      "route": "#/term/g-polyeleos"
+    },
+    {
+      "url": "/term/g-polytheism/",
+      "title": "Polytheism",
+      "route": "#/term/g-polytheism"
+    },
+    {
+      "url": "/term/g-poverty-of-spirit/",
+      "title": "Poverty of spirit",
+      "route": "#/term/g-poverty-of-spirit"
+    },
+    {
+      "url": "/term/g-praxis/",
+      "title": "Praxis",
+      "route": "#/term/g-praxis"
+    },
+    {
+      "url": "/term/g-prayer/",
+      "title": "Prayer",
+      "route": "#/term/g-prayer"
+    },
+    {
+      "url": "/term/g-prayer-for-the-departed/",
+      "title": "Prayer for the departed",
+      "route": "#/term/g-prayer-for-the-departed"
+    },
+    {
+      "url": "/term/g-prayers-of-light/",
+      "title": "Prayers of Light",
+      "route": "#/term/g-prayers-of-light"
+    },
+    {
+      "url": "/term/g-predestination/",
+      "title": "Predestination",
+      "route": "#/term/g-predestination"
+    },
+    {
+      "url": "/term/g-prelest/",
+      "title": "Prelest",
+      "route": "#/term/g-prelest"
+    },
+    {
+      "url": "/term/g-presanctified-liturgy/",
+      "title": "Presanctified Liturgy",
+      "route": "#/term/g-presanctified-liturgy"
+    },
+    {
+      "url": "/term/g-presbyter/",
+      "title": "Presbyter",
+      "route": "#/term/g-presbyter"
+    },
+    {
+      "url": "/term/g-priest-confessor/",
+      "title": "Priest-confessor",
+      "route": "#/term/g-priest-confessor"
+    },
+    {
+      "url": "/term/g-procession/",
+      "title": "Procession",
+      "route": "#/term/g-procession"
+    },
+    {
+      "url": "/term/g-processional-cross/",
+      "title": "Processional cross",
+      "route": "#/term/g-processional-cross"
+    },
+    {
+      "url": "/term/g-prokeimenon/",
+      "title": "Prokeimenon",
+      "route": "#/term/g-prokeimenon"
+    },
+    {
+      "url": "/term/g-proskomedia/",
+      "title": "Proskomedia",
+      "route": "#/term/g-proskomedia"
+    },
+    {
+      "url": "/term/g-prosphora/",
+      "title": "Prosphora",
+      "route": "#/term/g-prosphora"
+    },
+    {
+      "url": "/term/g-psalter/",
+      "title": "Psalter",
+      "route": "#/term/g-psalter"
+    },
+    {
+      "url": "/term/g-purity-of-heart/",
+      "title": "Purity of heart",
+      "route": "#/term/g-purity-of-heart"
+    },
+    {
+      "url": "/term/g-relics/",
+      "title": "Relics",
+      "route": "#/term/g-relics"
+    },
+    {
+      "url": "/term/g-resurrection-of-christ/",
+      "title": "Resurrection of Christ",
+      "route": "#/term/g-resurrection-of-christ"
+    },
+    {
+      "url": "/term/g-righteousness/",
+      "title": "Righteousness",
+      "route": "#/term/g-righteousness"
+    },
+    {
+      "url": "/term/g-royal-doors/",
+      "title": "Royal Doors",
+      "route": "#/term/g-royal-doors"
+    },
+    {
+      "url": "/term/g-royal-hours/",
+      "title": "Royal Hours",
+      "route": "#/term/g-royal-hours"
+    },
+    {
+      "url": "/term/g-sabbath/",
+      "title": "Sabbath",
+      "route": "#/term/g-sabbath"
+    },
+    {
+      "url": "/term/g-sacrilege/",
+      "title": "Sacrilege",
+      "route": "#/term/g-sacrilege"
+    },
+    {
+      "url": "/term/g-sakkos/",
+      "title": "Sakkos",
+      "route": "#/term/g-sakkos"
+    },
+    {
+      "url": "/term/g-salvation/",
+      "title": "Salvation",
+      "route": "#/term/g-salvation"
+    },
+    {
+      "url": "/term/g-sanctuary/",
+      "title": "Sanctuary",
+      "route": "#/term/g-sanctuary"
+    },
+    {
+      "url": "/term/g-schism/",
+      "title": "Schism",
+      "route": "#/term/g-schism"
+    },
+    {
+      "url": "/term/g-second-coming/",
+      "title": "Second coming",
+      "route": "#/term/g-second-coming"
+    },
+    {
+      "url": "/term/g-self-denial/",
+      "title": "Self-denial",
+      "route": "#/term/g-self-denial"
+    },
+    {
+      "url": "/term/g-session-at-the-father-s-right-hand/",
+      "title": "Session at the Father's right hand",
+      "route": "#/term/g-session-at-the-father-s-right-hand"
+    },
+    {
+      "url": "/term/g-sessional-hymn/",
+      "title": "Sessional hymn",
+      "route": "#/term/g-sessional-hymn"
+    },
+    {
+      "url": "/term/g-seven-sacraments/",
+      "title": "Seven sacraments",
+      "route": "#/term/g-seven-sacraments"
+    },
+    {
+      "url": "/term/g-sign-of-the-cross/",
+      "title": "Sign of the Cross",
+      "route": "#/term/g-sign-of-the-cross"
+    },
+    {
+      "url": "/term/g-simony/",
+      "title": "Simony",
+      "route": "#/term/g-simony"
+    },
+    {
+      "url": "/term/g-sin/",
+      "title": "Sin",
+      "route": "#/term/g-sin"
+    },
+    {
+      "url": "/term/g-six-psalms/",
+      "title": "Six Psalms",
+      "route": "#/term/g-six-psalms"
+    },
+    {
+      "url": "/term/g-sixth-hour/",
+      "title": "Sixth Hour",
+      "route": "#/term/g-sixth-hour"
+    },
+    {
+      "url": "/term/g-skete/",
+      "title": "Skete",
+      "route": "#/term/g-skete"
+    },
+    {
+      "url": "/term/g-sloth/",
+      "title": "Sloth",
+      "route": "#/term/g-sloth"
+    },
+    {
+      "url": "/term/g-solea/",
+      "title": "Solea",
+      "route": "#/term/g-solea"
+    },
+    {
+      "url": "/term/g-sorcery/",
+      "title": "Sorcery",
+      "route": "#/term/g-sorcery"
+    },
+    {
+      "url": "/term/g-soul/",
+      "title": "Soul",
+      "route": "#/term/g-soul"
+    },
+    {
+      "url": "/term/g-spiritual-death/",
+      "title": "Spiritual death",
+      "route": "#/term/g-spiritual-death"
+    },
+    {
+      "url": "/term/g-spiritual-works-of-mercy/",
+      "title": "Spiritual works of mercy",
+      "route": "#/term/g-spiritual-works-of-mercy"
+    },
+    {
+      "url": "/term/g-sponsor/",
+      "title": "Sponsor",
+      "route": "#/term/g-sponsor"
+    },
+    {
+      "url": "/term/g-sticharion/",
+      "title": "Sticharion",
+      "route": "#/term/g-sticharion"
+    },
+    {
+      "url": "/term/g-sticheron/",
+      "title": "Sticheron",
+      "route": "#/term/g-sticheron"
+    },
+    {
+      "url": "/term/g-sunday/",
+      "title": "Sunday",
+      "route": "#/term/g-sunday"
+    },
+    {
+      "url": "/term/g-superstition/",
+      "title": "Superstition",
+      "route": "#/term/g-superstition"
+    },
+    {
+      "url": "/term/g-synergy/",
+      "title": "Synergy",
+      "route": "#/term/g-synergy"
+    },
+    {
+      "url": "/term/g-table-of-oblation/",
+      "title": "Table of Oblation",
+      "route": "#/term/g-table-of-oblation"
+    },
+    {
+      "url": "/term/g-tabor/",
+      "title": "Tabor",
+      "route": "#/term/g-tabor"
+    },
+    {
+      "url": "/term/g-taper/",
+      "title": "Taper",
+      "route": "#/term/g-taper"
+    },
+    {
+      "url": "/term/g-telos/",
+      "title": "Telos",
+      "route": "#/term/g-telos"
+    },
+    {
+      "url": "/term/g-temptation/",
+      "title": "Temptation",
+      "route": "#/term/g-temptation"
+    },
+    {
+      "url": "/term/g-ten-commandments/",
+      "title": "Ten Commandments",
+      "route": "#/term/g-ten-commandments"
+    },
+    {
+      "url": "/term/g-theandric/",
+      "title": "Theandric",
+      "route": "#/term/g-theandric"
+    },
+    {
+      "url": "/term/g-theophany/",
+      "title": "Theophany",
+      "route": "#/term/g-theophany"
+    },
+    {
+      "url": "/term/g-theoria/",
+      "title": "Theoria",
+      "route": "#/term/g-theoria"
+    },
+    {
+      "url": "/term/g-theosis/",
+      "title": "Theosis",
+      "route": "#/term/g-theosis"
+    },
+    {
+      "url": "/term/g-theotokion/",
+      "title": "Theotokion",
+      "route": "#/term/g-theotokion"
+    },
+    {
+      "url": "/term/g-theotokos/",
+      "title": "Theotokos",
+      "route": "#/term/g-theotokos"
+    },
+    {
+      "url": "/term/g-third-hour/",
+      "title": "Third Hour",
+      "route": "#/term/g-third-hour"
+    },
+    {
+      "url": "/term/g-thoughts/",
+      "title": "Thoughts",
+      "route": "#/term/g-thoughts"
+    },
+    {
+      "url": "/term/g-tone/",
+      "title": "Tone",
+      "route": "#/term/g-tone"
+    },
+    {
+      "url": "/term/g-transfiguration/",
+      "title": "Transfiguration",
+      "route": "#/term/g-transfiguration"
+    },
+    {
+      "url": "/term/g-transubstantiation/",
+      "title": "Transubstantiation",
+      "route": "#/term/g-transubstantiation"
+    },
+    {
+      "url": "/term/g-trebnik/",
+      "title": "Trebnik",
+      "route": "#/term/g-trebnik"
+    },
+    {
+      "url": "/term/g-trikirion/",
+      "title": "Trikirion",
+      "route": "#/term/g-trikirion"
+    },
+    {
+      "url": "/term/g-triodion/",
+      "title": "Triodion",
+      "route": "#/term/g-triodion"
+    },
+    {
+      "url": "/term/g-trisagion/",
+      "title": "Trisagion",
+      "route": "#/term/g-trisagion"
+    },
+    {
+      "url": "/term/g-troparion/",
+      "title": "Troparion",
+      "route": "#/term/g-troparion"
+    },
+    {
+      "url": "/term/g-two-energies-of-christ/",
+      "title": "Two energies of Christ",
+      "route": "#/term/g-two-energies-of-christ"
+    },
+    {
+      "url": "/term/g-two-natures-of-christ/",
+      "title": "Two natures of Christ",
+      "route": "#/term/g-two-natures-of-christ"
+    },
+    {
+      "url": "/term/g-type/",
+      "title": "Type",
+      "route": "#/term/g-type"
+    },
+    {
+      "url": "/term/g-typikon/",
+      "title": "Typikon",
+      "route": "#/term/g-typikon"
+    },
+    {
+      "url": "/term/g-uncreated/",
+      "title": "Uncreated",
+      "route": "#/term/g-uncreated"
+    },
+    {
+      "url": "/term/g-uncreated-light/",
+      "title": "Uncreated light",
+      "route": "#/term/g-uncreated-light"
+    },
+    {
+      "url": "/term/g-unity-of-the-church/",
+      "title": "Unity of the Church",
+      "route": "#/term/g-unity-of-the-church"
+    },
+    {
+      "url": "/term/g-vainglory/",
+      "title": "Vainglory",
+      "route": "#/term/g-vainglory"
+    },
+    {
+      "url": "/term/g-veneration-of-icons/",
+      "title": "Veneration of icons",
+      "route": "#/term/g-veneration-of-icons"
+    },
+    {
+      "url": "/term/g-veneration-of-saints/",
+      "title": "Veneration of saints",
+      "route": "#/term/g-veneration-of-saints"
+    },
+    {
+      "url": "/term/g-vespers/",
+      "title": "Vespers",
+      "route": "#/term/g-vespers"
+    },
+    {
+      "url": "/term/g-vigilance-of-the-heart/",
+      "title": "Vigilance of the heart",
+      "route": "#/term/g-vigilance-of-the-heart"
+    },
+    {
+      "url": "/term/g-virginity/",
+      "title": "Virginity",
+      "route": "#/term/g-virginity"
+    },
+    {
+      "url": "/term/g-voluntary-poverty/",
+      "title": "Voluntary poverty",
+      "route": "#/term/g-voluntary-poverty"
+    },
+    {
+      "url": "/term/g-wednesday-and-friday-fasts/",
+      "title": "Wednesday and Friday fasts",
+      "route": "#/term/g-wednesday-and-friday-fasts"
+    },
+    {
+      "url": "/term/g-wisdom-let-us-attend/",
+      "title": "Wisdom, let us attend",
+      "route": "#/term/g-wisdom-let-us-attend"
+    },
+    {
+      "url": "/term/g-worship-toward-the-east/",
+      "title": "Worship toward the East",
+      "route": "#/term/g-worship-toward-the-east"
+    },
+    {
+      "url": "/term/g-zeon/",
+      "title": "Zeon",
+      "route": "#/term/g-zeon"
+    },
+    {
+      "url": "/term/g-zone/",
+      "title": "Zone",
+      "route": "#/term/g-zone"
+    },
+    {
+      "url": "/term/fg-apostolic-fathers/",
+      "title": "Apostolic Fathers",
+      "route": "#/term/fg-apostolic-fathers"
+    },
+    {
+      "url": "/term/fg-didache/",
+      "title": "Didache",
+      "route": "#/term/fg-didache"
+    },
+    {
+      "url": "/term/fg-two-ways/",
+      "title": "Two Ways",
+      "route": "#/term/fg-two-ways"
+    },
+    {
+      "url": "/term/fg-recapitulation/",
+      "title": "Recapitulation",
+      "route": "#/term/fg-recapitulation"
+    },
+    {
+      "url": "/term/fg-gnosticism/",
+      "title": "Gnostic teachings",
+      "route": "#/term/fg-gnosticism"
+    },
+    {
+      "url": "/term/fg-rule-of-faith/",
+      "title": "Rule of faith",
+      "route": "#/term/fg-rule-of-faith"
+    },
+    {
+      "url": "/term/fg-illumination/",
+      "title": "Illumination",
+      "route": "#/term/fg-illumination"
+    },
+    {
+      "url": "/term/fg-regeneration/",
+      "title": "Regeneration",
+      "route": "#/term/fg-regeneration"
+    },
+    {
+      "url": "/term/fg-apology/",
+      "title": "Apology",
+      "route": "#/term/fg-apology"
+    },
+    {
+      "url": "/term/fg-epistle/",
+      "title": "Epistle",
+      "route": "#/term/fg-epistle"
+    },
+    {
+      "url": "/term/fg-hospitality/",
+      "title": "Hospitality",
+      "route": "#/term/fg-hospitality"
+    },
+    {
+      "url": "/term/fg-prophet/",
+      "title": "Prophet",
+      "route": "#/term/fg-prophet"
+    },
+    {
+      "url": "/term/fg-messiah/",
+      "title": "Messiah",
+      "route": "#/term/fg-messiah"
+    },
+    {
+      "url": "/term/fg-adoption/",
+      "title": "Adoption",
+      "route": "#/term/fg-adoption"
+    },
+    {
+      "url": "/term/fg-demiurge/",
+      "title": "Demiurge",
+      "route": "#/term/fg-demiurge"
+    },
+    {
+      "url": "/term/fg-pleroma/",
+      "title": "Pleroma",
+      "route": "#/term/fg-pleroma"
+    },
+    {
+      "url": "/term/fg-valentinian/",
+      "title": "Valentinian",
+      "route": "#/term/fg-valentinian"
+    },
+    {
+      "url": "/term/fg-docetism/",
+      "title": "Docetism",
+      "route": "#/term/fg-docetism"
+    },
+    {
+      "url": "/term/fg-imputation/",
+      "title": "Imputation",
+      "route": "#/term/fg-imputation"
+    },
+    {
+      "url": "/term/fg-effectual-calling/",
+      "title": "Effectual calling",
+      "route": "#/term/fg-effectual-calling"
+    },
+    {
+      "url": "/term/fg-perseverance/",
+      "title": "Perseverance of the saints",
+      "route": "#/term/fg-perseverance"
+    },
+    {
+      "url": "/term/fg-invisible-church/",
+      "title": "Invisible church",
+      "route": "#/term/fg-invisible-church"
+    },
+    {
+      "url": "/term/fg-visible-church/",
+      "title": "Visible church",
+      "route": "#/term/fg-visible-church"
+    },
+    {
+      "url": "/term/fg-sacramental-union/",
+      "title": "Sacramental union",
+      "route": "#/term/fg-sacramental-union"
+    },
+    {
+      "url": "/term/fg-adiaphora/",
+      "title": "Adiaphora",
+      "route": "#/term/fg-adiaphora"
+    },
+    {
+      "url": "/term/fg-concupiscence/",
+      "title": "Concupiscence",
+      "route": "#/term/fg-concupiscence"
+    },
+    {
+      "url": "/term/fg-new-obedience/",
+      "title": "New obedience",
+      "route": "#/term/fg-new-obedience"
+    },
+    {
+      "url": "/term/fg-orthodoxy/",
+      "title": "Orthodoxy",
+      "route": "#/term/fg-orthodoxy"
+    },
+    {
+      "url": "/term/fg-pentateuch/",
+      "title": "Pentateuch",
+      "route": "#/term/fg-pentateuch"
+    },
+    {
+      "url": "/term/fg-hypostatic-union/",
+      "title": "Hypostatic union",
+      "route": "#/term/fg-hypostatic-union"
+    },
+    {
+      "url": "/term/cg-g-metropolitan/",
+      "title": "Metropolitan",
+      "route": "#/term/cg-g-metropolitan"
+    },
+    {
+      "url": "/term/cg-g-synod/",
+      "title": "Synod",
+      "route": "#/term/cg-g-synod"
+    },
+    {
+      "url": "/term/cg-g-canon-discipline/",
+      "title": "Canon (church discipline)",
+      "route": "#/term/cg-g-canon-discipline"
+    },
+    {
+      "url": "/term/cg-g-ecclesiastical-province/",
+      "title": "Ecclesiastical province",
+      "route": "#/term/cg-g-ecclesiastical-province"
+    },
+    {
+      "url": "/term/cg-g-apostolic-canons/",
+      "title": "Apostolic Canons",
+      "route": "#/term/cg-g-apostolic-canons"
+    },
+    {
+      "url": "/term/cg-g-minor-orders/",
+      "title": "Minor orders",
+      "route": "#/term/cg-g-minor-orders"
+    },
+    {
+      "url": "/term/cg-g-major-orders/",
+      "title": "Major orders",
+      "route": "#/term/cg-g-major-orders"
+    },
+    {
+      "url": "/term/cg-g-reader/",
+      "title": "Reader",
+      "route": "#/term/cg-g-reader"
+    },
+    {
+      "url": "/term/cg-g-chanter/",
+      "title": "Chanter",
+      "route": "#/term/cg-g-chanter"
+    },
+    {
+      "url": "/term/cg-g-subdeacon/",
+      "title": "Subdeacon",
+      "route": "#/term/cg-g-subdeacon"
+    },
+    {
+      "url": "/term/cg-g-deacon/",
+      "title": "Deacon",
+      "route": "#/term/cg-g-deacon"
+    },
+    {
+      "url": "/term/cg-g-cheirothesia/",
+      "title": "Cheirothesia",
+      "route": "#/term/cg-g-cheirothesia"
+    },
+    {
+      "url": "/term/cg-g-ripidion/",
+      "title": "Ripidion",
+      "route": "#/term/cg-g-ripidion"
+    },
+    {
+      "url": "/term/cg-g-eagle-rug/",
+      "title": "Eagle rug",
+      "route": "#/term/cg-g-eagle-rug"
+    },
+    {
+      "url": "/term/cg-g-tabernacle/",
+      "title": "Tabernacle (reserved Gifts)",
+      "route": "#/term/cg-g-tabernacle"
+    },
+    {
+      "url": "/term/cg-g-mantle/",
+      "title": "Mantle (monastic)",
+      "route": "#/term/cg-g-mantle"
+    },
+    {
+      "url": "/term/cg-g-diakonnik/",
+      "title": "Diakonnik",
+      "route": "#/term/cg-g-diakonnik"
+    },
+    {
+      "url": "/term/cg-g-table-oblation/",
+      "title": "Table of Oblation",
+      "route": "#/term/cg-g-table-oblation"
+    },
+    {
+      "url": "/term/cg-g-baptismal-font/",
+      "title": "Baptismal font",
+      "route": "#/term/cg-g-baptismal-font"
+    },
+    {
+      "url": "/term/cg-g-prayer-manasseh/",
+      "title": "Prayer of Manasseh",
+      "route": "#/term/cg-g-prayer-manasseh"
+    },
+    {
+      "url": "/term/cg-g-anthologion/",
+      "title": "Anthologion",
+      "route": "#/term/cg-g-anthologion"
+    },
+    {
+      "url": "/term/cg-g-photizomenoi/",
+      "title": "Photizomenoi",
+      "route": "#/term/cg-g-photizomenoi"
+    },
+    {
+      "url": "/term/cg-g-disciplina-arcani/",
+      "title": "Disciplina arcani",
+      "route": "#/term/cg-g-disciplina-arcani"
+    },
+    {
+      "url": "/term/cg-g-catechumenate/",
+      "title": "Catechumenate",
+      "route": "#/term/cg-g-catechumenate"
+    },
+    {
+      "url": "/term/cg-g-trullo/",
+      "title": "Council in Trullo",
+      "route": "#/term/cg-g-trullo"
+    },
+    {
+      "url": "/term/cg-g-epitome/",
+      "title": "Epitome",
+      "route": "#/term/cg-g-epitome"
+    },
+    {
+      "url": "/term/cg-g-canonical-economia/",
+      "title": "Economia (canonical)",
+      "route": "#/term/cg-g-canonical-economia"
+    },
+    {
+      "url": "/term/cg-g-akribeia/",
+      "title": "Akribeia",
+      "route": "#/term/cg-g-akribeia"
+    },
+    {
+      "url": "/explore/",
+      "title": "Explore",
+      "route": "#/explore"
+    },
+    {
+      "url": "/learn/",
+      "title": "Learn",
+      "route": "#/learn"
+    },
+    {
+      "url": "/glossary/",
+      "title": "Glossary",
+      "route": "#/glossary"
+    },
+    {
+      "url": "/prayers/",
+      "title": "Prayers",
+      "route": "#/prayers"
+    },
+    {
+      "url": "/saints/",
+      "title": "Saints",
+      "route": "#/saints"
+    },
+    {
+      "url": "/icons/",
+      "title": "Icons",
+      "route": "#/icons"
+    },
+    {
+      "url": "/services/",
+      "title": "Services",
+      "route": "#/services"
+    },
+    {
+      "url": "/church-year/",
+      "title": "Church year",
+      "route": "#/church-year"
+    },
+    {
+      "url": "/church/",
+      "title": "Inside the church",
+      "route": "#/church"
+    },
+    {
+      "url": "/authority/",
+      "title": "Church authority",
+      "route": "#/authority"
+    },
+    {
+      "url": "/timeline/",
+      "title": "History timeline",
+      "route": "#/timeline"
+    },
+    {
+      "url": "/coverage/",
+      "title": "Learning map",
+      "route": "#/coverage"
+    },
+    {
+      "url": "/protestant-path/",
+      "title": "Protestant background",
+      "route": "#/protestant-path"
+    },
+    {
+      "url": "/scripture-library/",
+      "title": "Scripture and Fathers",
+      "route": "#/scripture-library"
+    },
+    {
+      "url": "/source-guide/",
+      "title": "Source guide",
+      "route": "#/source-guide"
+    },
+    {
+      "url": "/sources/",
+      "title": "Sources",
+      "route": "#/sources"
+    },
+    {
+      "url": "/about/",
+      "title": "About",
+      "route": "#/about"
+    },
+    {
+      "url": "/privacy/",
+      "title": "Privacy and saved data",
+      "route": "#/privacy"
+    },
+    {
+      "url": "/service/vespers/",
+      "title": "Great Vespers",
+      "route": "#/service/vespers"
+    },
+    {
+      "url": "/service/matins/",
+      "title": "Matins",
+      "route": "#/service/matins"
+    },
+    {
+      "url": "/service/divine-liturgy/",
+      "title": "Divine Liturgy of Saint John Chrysostom and Saint Basil the Great",
+      "route": "#/service/divine-liturgy"
+    },
+    {
+      "url": "/account/",
+      "title": "Account",
+      "route": "#/account"
+    },
+    {
+      "url": "/settings/",
+      "title": "Settings",
+      "route": "#/settings"
+    },
+    {
+      "url": "/notebook/",
+      "title": "Study notebook",
+      "route": "#/notebook"
+    },
+    {
+      "url": "/journal/",
+      "title": "Lesson notes",
+      "route": "#/journal"
+    },
+    {
+      "url": "/review-cards/",
+      "title": "Review cards",
+      "route": "#/review-cards"
+    },
+    {
+      "url": "/editorial/",
+      "title": "Editorial review",
+      "route": "#/editorial"
+    },
+    {
+      "url": "/release/",
+      "title": "Source inventory",
+      "route": "#/release"
+    },
+    {
+      "url": "/offline/",
+      "title": "Offline reading",
+      "route": "#/offline"
+    },
+    {
+      "url": "/library/",
+      "title": "Search",
+      "route": "#/library"
+    }
+  ],
+  "files": [
+    "index.html",
+    "lesson/d-start/index.html",
+    "lesson/d-gospel/index.html",
+    "lesson/d-scripture/index.html",
+    "lesson/d-reading/index.html",
+    "lesson/cg-cyril-faith-examples/index.html",
+    "lesson/cg-historical-editions/index.html",
+    "lesson/d-creed/index.html",
+    "lesson/d-trinity/index.html",
+    "lesson/d-incarnation/index.html",
+    "lesson/d-spirit/index.html",
+    "lesson/d-church/index.html",
+    "lesson/d-tradition/index.html",
+    "lesson/d-councils/index.html",
+    "lesson/d-fathers/index.html",
+    "lesson/cg-nicaea-provincial-order/index.html",
+    "lesson/cg-antioch-synods/index.html",
+    "lesson/cg-apostolic-canons-synodality/index.html",
+    "lesson/cg-trullo-pastoral-judgment/index.html",
+    "lesson/d-creation-fall/index.html",
+    "lesson/d-cross/index.html",
+    "lesson/d-grace/index.html",
+    "lesson/d-theosis/index.html",
+    "lesson/d-initiation/index.html",
+    "lesson/d-eucharist/index.html",
+    "lesson/d-confession/index.html",
+    "lesson/d-sanctified-life/index.html",
+    "lesson/cg-baptism-rite/index.html",
+    "lesson/cg-baptism-sponsors/index.html",
+    "lesson/cg-chrismation-ablution/index.html",
+    "lesson/cg-matrimony-betrothal/index.html",
+    "lesson/cg-minor-orders/index.html",
+    "lesson/cg-deacon-ordination/index.html",
+    "lesson/cg-presbyter-ordination/index.html",
+    "lesson/cg-bishop-consecration/index.html",
+    "lesson/cg-holy-unction/index.html",
+    "lesson/d-virtues/index.html",
+    "lesson/d-discernment/index.html",
+    "lesson/d-suffering/index.html",
+    "lesson/d-last-things/index.html",
+    "lesson/cg-speech-anger/index.html",
+    "lesson/cg-burial-source-reading/index.html",
+    "lesson/w-liturgy-beginning/index.html",
+    "lesson/w-liturgy-word/index.html",
+    "lesson/w-liturgy-offering/index.html",
+    "lesson/w-liturgy-communion/index.html",
+    "lesson/cg-three-liturgies/index.html",
+    "lesson/cg-prothesis-office/index.html",
+    "lesson/cg-liturgy-explanations/index.html",
+    "lesson/cg-presanctified-explanation/index.html",
+    "lesson/cg-liturgical-intercessions/index.html",
+    "lesson/w-vespers/index.html",
+    "lesson/w-matins/index.html",
+    "lesson/w-hours-compline/index.html",
+    "lesson/w-books-cycles/index.html",
+    "lesson/cg-vespers-complete-explanation/index.html",
+    "lesson/cg-matins-complete-explanation/index.html",
+    "lesson/cg-first-hour-reading/index.html",
+    "lesson/cg-grand-compline-reading/index.html",
+    "lesson/w-prayer-rule/index.html",
+    "lesson/w-lords-prayer-psalms/index.html",
+    "lesson/w-jesus-prayer/index.html",
+    "lesson/w-intercession-lament/index.html",
+    "lesson/w-fasting/index.html",
+    "lesson/w-alms-work/index.html",
+    "lesson/w-family-peace/index.html",
+    "lesson/w-repentance-daily/index.html",
+    "lesson/cg-chrysostom-marital-love/index.html",
+    "lesson/cg-money-contentment/index.html",
+    "lesson/w-calendar-map/index.html",
+    "lesson/w-incarnation-feasts/index.html",
+    "lesson/w-lent-holy-week/index.html",
+    "lesson/w-pascha-life/index.html",
+    "lesson/w-chant-hymns/index.html",
+    "lesson/w-church-space/index.html",
+    "lesson/w-body-vestments/index.html",
+    "lesson/w-rocor-parish/index.html",
+    "lesson/h-apostolic-church/index.html",
+    "lesson/h-councils-history/index.html",
+    "lesson/h-schism/index.html",
+    "lesson/h-rocor/index.html",
+    "lesson/cg-creeds-325-381/index.html",
+    "lesson/cg-ephesus-cyril-letter/index.html",
+    "lesson/cg-chalcedon-definition/index.html",
+    "lesson/cg-constantinople-iii-definition/index.html",
+    "lesson/cg-nicaea-ii-decree/index.html",
+    "lesson/h-martyrs/index.html",
+    "lesson/h-teaching-fathers/index.html",
+    "lesson/h-repentant-saints/index.html",
+    "lesson/h-mercy-saints/index.html",
+    "lesson/h-theotokos/index.html",
+    "lesson/h-icons/index.html",
+    "lesson/h-intercession/index.html",
+    "lesson/h-relics-discernment/index.html",
+    "lesson/r-pca-piper/index.html",
+    "lesson/r-scripture-tradition/index.html",
+    "lesson/r-canon-reading/index.html",
+    "lesson/r-councils-certainty/index.html",
+    "lesson/r-justification/index.html",
+    "lesson/r-faith-works/index.html",
+    "lesson/r-election-freedom/index.html",
+    "lesson/r-assurance/index.html",
+    "lesson/r-baptism/index.html",
+    "lesson/r-eucharist/index.html",
+    "lesson/r-images-saints/index.html",
+    "lesson/r-family-conversations/index.html",
+    "lesson/ex-apophatic/index.html",
+    "lesson/ex-divine-names/index.html",
+    "lesson/ex-hypostasis/index.html",
+    "lesson/ex-divine-properties/index.html",
+    "lesson/ex-aeon-creation/index.html",
+    "lesson/ex-angels-demons/index.html",
+    "lesson/ex-image-likeness/index.html",
+    "lesson/ex-providence-freedom/index.html",
+    "lesson/ex-nature-person/index.html",
+    "lesson/ex-theotokos-christology/index.html",
+    "lesson/ex-two-wills/index.html",
+    "lesson/ex-two-energies/index.html",
+    "lesson/ex-innocent-passions/index.html",
+    "lesson/ex-hades-victory/index.html",
+    "lesson/ex-cross-east/index.html",
+    "lesson/ex-resurrection-body/index.html",
+    "lesson/ex-repentance-cyril/index.html",
+    "lesson/ex-faith-baptism/index.html",
+    "lesson/ex-canon-cyril/index.html",
+    "lesson/ex-judgment-cyril/index.html",
+    "lesson/cg-procatechesis-purpose/index.html",
+    "lesson/cg-procatechesis-instruction/index.html",
+    "lesson/cg-cyril-catholic-church/index.html",
+    "lesson/cg-irenaeus-septuagint/index.html",
+    "lesson/ex-renunciation/index.html",
+    "lesson/ex-baptism-immersion/index.html",
+    "lesson/ex-chrismation-cyril/index.html",
+    "lesson/ex-eucharist-cyril/index.html",
+    "lesson/cg-cyril-anaphora/index.html",
+    "lesson/cg-cyril-communion/index.html",
+    "lesson/ex-first-commandment/index.html",
+    "lesson/ex-second-commandment/index.html",
+    "lesson/ex-third-commandment/index.html",
+    "lesson/ex-fourth-commandment/index.html",
+    "lesson/ex-parents-pastors/index.html",
+    "lesson/ex-life-mercy/index.html",
+    "lesson/ex-chastity-marriage/index.html",
+    "lesson/ex-property-truth/index.html",
+    "lesson/cg-fifth-commandment-duties/index.html",
+    "lesson/cg-gangra-marriage-family/index.html",
+    "lesson/ex-poverty-mourning/index.html",
+    "lesson/ex-meekness-righteousness/index.html",
+    "lesson/ex-mercy-purity/index.html",
+    "lesson/ex-peace-persecution/index.html",
+    "lesson/ex-prayer-foundation/index.html",
+    "lesson/ex-four-prayers/index.html",
+    "lesson/ex-lords-prayer-mystagogy/index.html",
+    "lesson/ex-continual-prayer-cassian/index.html",
+    "lesson/ex-eight-faults/index.html",
+    "lesson/ex-gluttony-acedia/index.html",
+    "lesson/ex-vainglory-pride/index.html",
+    "lesson/ex-grace-struggle/index.html",
+    "lesson/ex-goal-purity/index.html",
+    "lesson/ex-fear-love/index.html",
+    "lesson/ex-friendship-patience/index.html",
+    "lesson/ex-penitence/index.html",
+    "lesson/ex-baptism-spirit/index.html",
+    "lesson/ex-spirit-gifts/index.html",
+    "lesson/ex-unwritten-tradition/index.html",
+    "lesson/ex-doxology-basil/index.html",
+    "lesson/ex-annunciation-feast/index.html",
+    "lesson/ex-ascension-feast/index.html",
+    "lesson/ex-transfiguration-feast/index.html",
+    "lesson/ex-dormition-feast/index.html",
+    "lesson/ex-antony-calling/index.html",
+    "lesson/ex-antony-discernment/index.html",
+    "lesson/ex-martin-cloak/index.html",
+    "lesson/ex-martin-humility/index.html",
+    "lesson/ex-passover-type/index.html",
+    "lesson/ex-red-sea-type/index.html",
+    "lesson/ex-manna-type/index.html",
+    "lesson/ex-sanctuary-type/index.html",
+    "lesson/ex-scripture-councils/index.html",
+    "lesson/ex-election-reading/index.html",
+    "lesson/ex-christology-reading/index.html",
+    "lesson/ex-images-reading/index.html",
+    "lesson/ex-temple-symbolism/index.html",
+    "lesson/ex-vestment-vocabulary/index.html",
+    "lesson/ex-books-vocabulary/index.html",
+    "lesson/ex-chant-vocabulary/index.html",
+    "lesson/cg-sacred-vessels/index.html",
+    "lesson/cg-episcopal-vestments/index.html",
+    "lesson/cg-church-consecration/index.html",
+    "lesson/cg-liturgical-books-catalogue/index.html",
+    "lesson/fc-clement-repentance/index.html",
+    "lesson/fc-clement-humility/index.html",
+    "lesson/fc-clement-faith-works/index.html",
+    "lesson/fc-clement-ministry/index.html",
+    "lesson/fc-diognetus-citizens/index.html",
+    "lesson/fc-diognetus-salvation/index.html",
+    "lesson/fc-polycarp-faith/index.html",
+    "lesson/fc-polycarp-parish/index.html",
+    "lesson/fc-justin-worship/index.html",
+    "lesson/fc-justin-incarnation/index.html",
+    "lesson/fc-justin-resurrection/index.html",
+    "lesson/fc-justin-prophecy/index.html",
+    "lesson/fc-justin-baptism/index.html",
+    "lesson/fc-justin-eucharist/index.html",
+    "lesson/fc-justin-sunday/index.html",
+    "lesson/fc-justin-freedom/index.html",
+    "lesson/fc-irenaeus-scripture/index.html",
+    "lesson/fc-irenaeus-succession/index.html",
+    "lesson/fc-irenaeus-recapitulation/index.html",
+    "lesson/fc-irenaeus-growth/index.html",
+    "lesson/fc-didache-two-ways/index.html",
+    "lesson/fc-didache-mercy/index.html",
+    "lesson/fc-didache-baptism-prayer/index.html",
+    "lesson/fc-didache-thanksgiving/index.html",
+    "lesson/fc-didache-discernment/index.html",
+    "lesson/fc-didache-assembly/index.html",
+    "lesson/fc-didache-watchfulness/index.html",
+    "lesson/fc-irenaeus-body-eucharist/index.html",
+    "lesson/fc-cyril-father/index.html",
+    "lesson/fc-cyril-almighty/index.html",
+    "lesson/fc-cyril-creator/index.html",
+    "lesson/fc-cyril-jesus-christ/index.html",
+    "lesson/fc-cyril-incarnation/index.html",
+    "lesson/fc-cyril-cross/index.html",
+    "lesson/fc-cyril-resurrection/index.html",
+    "lesson/fc-cyril-spirit/index.html",
+    "lesson/fc-abraham-covenant/index.html",
+    "lesson/fc-sinai-commandment/index.html",
+    "lesson/fc-david-promise/index.html",
+    "lesson/fc-servant-christ/index.html",
+    "saint/theotokos/index.html",
+    "saint/john-baptist/index.html",
+    "saint/peter-paul/index.html",
+    "saint/andrew/index.html",
+    "saint/john-theologian/index.html",
+    "saint/matthew/index.html",
+    "saint/mark/index.html",
+    "saint/luke/index.html",
+    "saint/thomas/index.html",
+    "saint/james-jerusalem/index.html",
+    "saint/stephen/index.html",
+    "saint/mary-magdalene/index.html",
+    "saint/photini/index.html",
+    "saint/thekla/index.html",
+    "saint/ignatius/index.html",
+    "saint/polycarp/index.html",
+    "saint/justin/index.html",
+    "saint/irenaeus/index.html",
+    "saint/perpetua-felicity/index.html",
+    "saint/george/index.html",
+    "saint/demetrius/index.html",
+    "saint/catherine/index.html",
+    "saint/barbara/index.html",
+    "saint/panteleimon/index.html",
+    "saint/cosmas-damian/index.html",
+    "saint/nicholas/index.html",
+    "saint/spyridon/index.html",
+    "saint/basil/index.html",
+    "saint/gregory-theologian/index.html",
+    "saint/gregory-nyssa/index.html",
+    "saint/athanasius/index.html",
+    "saint/cyril-alexandria/index.html",
+    "saint/john-chrysostom/index.html",
+    "saint/antony/index.html",
+    "saint/pachomius/index.html",
+    "saint/macarius/index.html",
+    "saint/arsenius/index.html",
+    "saint/moses-ethiopian/index.html",
+    "saint/mary-egypt/index.html",
+    "saint/syncletica/index.html",
+    "saint/macrina/index.html",
+    "saint/ephrem/index.html",
+    "saint/isaac-syrian/index.html",
+    "saint/john-ladder/index.html",
+    "saint/maximus/index.html",
+    "saint/john-damascene/index.html",
+    "saint/gregory-palamas/index.html",
+    "saint/symeon-new-theologian/index.html",
+    "saint/romanus/index.html",
+    "saint/cyril-methodius/index.html",
+    "saint/nina/index.html",
+    "saint/patrick/index.html",
+    "saint/brigid/index.html",
+    "saint/columba/index.html",
+    "saint/olga-kiev/index.html",
+    "saint/vladimir/index.html",
+    "saint/sergius/index.html",
+    "saint/alexander-nevsky/index.html",
+    "saint/seraphim/index.html",
+    "saint/xenia/index.html",
+    "saint/silouan/index.html",
+    "saint/herman/index.html",
+    "saint/innocent/index.html",
+    "saint/tikhon/index.html",
+    "saint/john-shanghai/index.html",
+    "saint/elizabeth/index.html",
+    "saint/alexis-wilkes-barre/index.html",
+    "saint/jacob-netsvetov/index.html",
+    "saint/juvenaly/index.html",
+    "saint/olga-kwethluk/index.html",
+    "saint/cyril-jerusalem/index.html",
+    "saint/john-cassian/index.html",
+    "saint/vincent-lerins/index.html",
+    "saint/jerome/index.html",
+    "saint/paula/index.html",
+    "saint/paul-thebes/index.html",
+    "saint/hilarion/index.html",
+    "saint/martin-tours/index.html",
+    "saint/augustine/index.html",
+    "saint/ambrose/index.html",
+    "saint/philip-apostle/index.html",
+    "saint/bartholomew/index.html",
+    "saint/simon-zealot/index.html",
+    "saint/matthias/index.html",
+    "saint/james-zebedee/index.html",
+    "saint/jude-apostle/index.html",
+    "saint/barnabas/index.html",
+    "saint/timothy/index.html",
+    "saint/titus/index.html",
+    "saint/joachim-anna/index.html",
+    "saint/joseph-betrothed/index.html",
+    "saint/simeon-godreceiver/index.html",
+    "saint/anna-prophetess/index.html",
+    "saint/zachariah-elizabeth/index.html",
+    "saint/moses-prophet/index.html",
+    "saint/david-king/index.html",
+    "saint/elijah-prophet/index.html",
+    "saint/elisha-prophet/index.html",
+    "saint/daniel-prophet/index.html",
+    "saint/isaiah-prophet/index.html",
+    "saint/helena/index.html",
+    "saint/monica/index.html",
+    "saint/irene-great-martyr/index.html",
+    "saint/marina-antioch/index.html",
+    "saint/paraskeva-rome/index.html",
+    "saint/anastasia-deliverer/index.html",
+    "saint/juliana-nicomedia/index.html",
+    "saint/agnes-rome/index.html",
+    "saint/cecilia-rome/index.html",
+    "saint/agatha-catania/index.html",
+    "saint/lucy-syracuse/index.html",
+    "saint/sophia-faith-hope-love/index.html",
+    "saint/natalia-adrian/index.html",
+    "saint/euphrosyne-alexandria/index.html",
+    "saint/pelagia-penitent/index.html",
+    "saint/melania-younger/index.html",
+    "saint/olympias-deaconess/index.html",
+    "saint/juliana-lazarevo/index.html",
+    "saint/matrona-moscow/index.html",
+    "saint/maria-paris/index.html",
+    "saint/clement-rome/index.html",
+    "saint/dionysius-areopagite/index.html",
+    "saint/epiphanius-cyprus/index.html",
+    "saint/gregory-dialogist/index.html",
+    "saint/leo-rome/index.html",
+    "saint/photios/index.html",
+    "saint/theodore-studite/index.html",
+    "saint/theodore-tyro/index.html",
+    "saint/theodore-stratelates/index.html",
+    "saint/onuphrius/index.html",
+    "saint/dorotheus-gaza/index.html",
+    "saint/sabbas-sanctified/index.html",
+    "saint/euthymius-great/index.html",
+    "saint/theodosius-cenobiarch/index.html",
+    "saint/anthony-caves/index.html",
+    "saint/theodosius-caves/index.html",
+    "saint/savva-serbia/index.html",
+    "saint/paisius-velichkovsky/index.html",
+    "saint/mark-ephesus/index.html",
+    "saint/andrew-crete/index.html",
+    "saint/john-kronstadt/index.html",
+    "saint/theophan-recluse/index.html",
+    "saint/ignatius-brianchaninov/index.html",
+    "saint/athanasius-athos/index.html",
+    "saint/amphilochius-iconium/index.html",
+    "saint/symeon-stylite/index.html",
+    "saint/luke-crimea/index.html",
+    "saint/nektarios/index.html",
+    "saint/raphael-brooklyn/index.html",
+    "saint/peter-aleut/index.html",
+    "saint/sebastian-dabovich/index.html",
+    "saint/mardarije/index.html",
+    "saint/dimitri-rostov/index.html",
+    "saint/job-pochaev/index.html",
+    "saint/tikhon-zadonsk/index.html",
+    "saint/alexander-svir/index.html",
+    "saint/zosimas-savvaty/index.html",
+    "saint/boris-gleb/index.html",
+    "saint/seraphim-vyritsa/index.html",
+    "saint/basil-moscow/index.html",
+    "saint/sl-philaret-moscow/index.html",
+    "saint/sl-nikolai-zhicha/index.html",
+    "saint/sl-makarios-corinth/index.html",
+    "saint/sl-nikodemos-hagiorite/index.html",
+    "saint/sl-andrew-rublev/index.html",
+    "saint/sl-alypius-kiev/index.html",
+    "saint/sl-constantine-great/index.html",
+    "saint/antiochus-palestine/index.html",
+    "saint/ioannikios-great/index.html",
+    "saint/symeon-metaphrastes/index.html",
+    "saint/john-dwarf/index.html",
+    "saint/gregory-thaumaturgus/index.html",
+    "saint/macrina-elder/index.html",
+    "saint/emilia-cappadocia/index.html",
+    "saint/peter-sebaste/index.html",
+    "saint/procopius-caesarea/index.html",
+    "saint/macaille-croghan/index.html",
+    "saint/abraham-patriarch/index.html",
+    "saint/isaac-patriarch/index.html",
+    "saint/jacob-patriarch/index.html",
+    "saint/sl-andrew-fool-christ/index.html",
+    "saint/sl-barlaam-serpukhov/index.html",
+    "saint/sl-basil-ryazan/index.html",
+    "saint/sl-basil-elder/index.html",
+    "saint/sl-benedict-nursia/index.html",
+    "saint/sl-sophronius-jerusalem/index.html",
+    "saint/sl-peter-moscow/index.html",
+    "saint/sl-peter-mogila/index.html",
+    "saint/sl-flavian-constantinople/index.html",
+    "saint/sl-pulcheria/index.html",
+    "saint/conleth-kildare/index.html",
+    "saint/comgall-bangor/index.html",
+    "saint/finnian-moville/index.html",
+    "saint/canice-aghaboe/index.html",
+    "saint/mel-ardagh/index.html",
+    "saint/lawrence-rome/index.html",
+    "saint/chrysogonus-aquileia/index.html",
+    "saint/theodota-mother/index.html",
+    "saint/dovmont-timothy-pskov/index.html",
+    "saint/martha-pskov/index.html",
+    "saint/adam-eve/index.html",
+    "saint/noah-righteous/index.html",
+    "saint/solomon-king/index.html",
+    "saint/aaron-prophet/index.html",
+    "saint/nathan-prophet/index.html",
+    "saint/linus-rome/index.html",
+    "saint/paulinus-nola/index.html",
+    "saint/zosimas-palestine/index.html",
+    "saint/gabriel-archangel/index.html",
+    "saint/philip-deacon/index.html",
+    "saint/dionysius-paris/index.html",
+    "saint/ninian-whithorn/index.html",
+    "saint/cyril-lucaris/index.html",
+    "icon/christ-pantocrator/index.html",
+    "icon/savior-not-made-by-hands/index.html",
+    "icon/christ-enthroned/index.html",
+    "icon/christ-emmanuel/index.html",
+    "icon/christ-bridegroom/index.html",
+    "icon/extreme-humility/index.html",
+    "icon/christ-anapeson/index.html",
+    "icon/hospitality-abraham/index.html",
+    "icon/theotokos-vladimir/index.html",
+    "icon/theotokos-kazan/index.html",
+    "icon/theotokos-iveron/index.html",
+    "icon/theotokos-tikhvin/index.html",
+    "icon/theotokos-smolensk/index.html",
+    "icon/theotokos-kursk-root/index.html",
+    "icon/theotokos-don/index.html",
+    "icon/theotokos-pochaev/index.html",
+    "icon/theotokos-sign/index.html",
+    "icon/theotokos-quick-to-hear/index.html",
+    "icon/softener-evil-hearts/index.html",
+    "icon/unexpected-joy/index.html",
+    "icon/inexhaustible-chalice/index.html",
+    "icon/joy-all-sorrow/index.html",
+    "icon/sweet-kissing/index.html",
+    "icon/hodigitria/index.html",
+    "icon/theotokos-orans/index.html",
+    "icon/milk-giver/index.html",
+    "icon/protection-theotokos/index.html",
+    "icon/life-giving-spring/index.html",
+    "icon/nativity-theotokos/index.html",
+    "icon/entrance-theotokos/index.html",
+    "icon/annunciation/index.html",
+    "icon/nativity-christ/index.html",
+    "icon/presentation-christ/index.html",
+    "icon/theophany/index.html",
+    "icon/transfiguration/index.html",
+    "icon/raising-lazarus/index.html",
+    "icon/entry-jerusalem/index.html",
+    "icon/crucifixion/index.html",
+    "icon/descent-hades/index.html",
+    "icon/myrrh-bearers/index.html",
+    "icon/ascension/index.html",
+    "icon/pentecost/index.html",
+    "icon/dormition/index.html",
+    "icon/exaltation-cross/index.html",
+    "icon/all-saints/index.html",
+    "icon/deesis/index.html",
+    "icon/john-baptist-angel-desert/index.html",
+    "icon/saint-nicholas/index.html",
+    "icon/saint-george/index.html",
+    "icon/saint-seraphim/index.html",
+    "icon/theotokos-jerusalem/index.html",
+    "icon/theotokos-feodorov/index.html",
+    "icon/theotokos-bogolyubovo/index.html",
+    "icon/theotokos-pantanassa/index.html",
+    "icon/theotokos-axion-estin/index.html",
+    "icon/theotokos-three-hands/index.html",
+    "icon/theotokos-gerontissa/index.html",
+    "icon/theotokos-paramythia/index.html",
+    "icon/theotokos-koukouzelissa/index.html",
+    "icon/theotokos-laudation-akathist/index.html",
+    "icon/theotokos-akathist-hilandar/index.html",
+    "icon/theotokos-seven-arrows/index.html",
+    "icon/theotokos-belynich/index.html",
+    "icon/theotokos-chernigov-elets/index.html",
+    "icon/theotokos-chernigov-gethsemane/index.html",
+    "icon/theotokos-pechersk-tenderness/index.html",
+    "icon/theotokos-murom/index.html",
+    "icon/theotokos-konevets/index.html",
+    "icon/theotokos-svensk/index.html",
+    "icon/theotokos-yaroslavl/index.html",
+    "icon/theotokos-tolga/index.html",
+    "icon/theotokos-akhtyrka/index.html",
+    "icon/theotokos-kasperov/index.html",
+    "icon/theotokos-korsun/index.html",
+    "icon/theotokos-unfading-flower/index.html",
+    "icon/theotokos-burning-bush/index.html",
+    "icon/theotokos-search-lost/index.html",
+    "icon/theotokos-surety-sinners/index.html",
+    "icon/theotokos-deliverer/index.html",
+    "icon/christ-great-high-priest/index.html",
+    "icon/theotokos-assuage-sorrows/index.html",
+    "icon/theotokos-education/index.html",
+    "icon/theotokos-helper-childbirth/index.html",
+    "icon/theotokos-lesna/index.html",
+    "icon/theotokos-petrovskaya/index.html",
+    "icon/raising-jairus-daughter/index.html",
+    "icon/theotokos-georgian/index.html",
+    "icon/theotokos-blachernae/index.html",
+    "icon/theotokos-czestochowa/index.html",
+    "icon/theotokos-mozdok/index.html",
+    "icon/mystical-supper/index.html",
+    "icon/washing-feet/index.html",
+    "icon/gethsemane/index.html",
+    "icon/betrayal-judas/index.html",
+    "icon/descent-cross/index.html",
+    "icon/lamentation-christ/index.html",
+    "icon/incredulity-thomas/index.html",
+    "icon/emmaus/index.html",
+    "icon/noli-me-tangere/index.html",
+    "icon/wedding-cana/index.html",
+    "icon/healing-paralytic/index.html",
+    "icon/samaritan-woman/index.html",
+    "icon/man-born-blind/index.html",
+    "icon/christ-among-doctors/index.html",
+    "icon/mid-pentecost/index.html",
+    "icon/multiplication-loaves/index.html",
+    "icon/nativity-john-baptist/index.html",
+    "icon/good-shepherd/index.html",
+    "icon/christ-true-vine/index.html",
+    "icon/communion-apostles/index.html",
+    "icon/apostles-peter-paul/index.html",
+    "icon/saint-andrew/index.html",
+    "icon/saint-john-theologian/index.html",
+    "icon/synaxis-apostles/index.html",
+    "icon/three-hierarchs/index.html",
+    "icon/saint-basil/index.html",
+    "icon/saint-john-chrysostom/index.html",
+    "icon/saint-gregory-theologian/index.html",
+    "icon/saint-spyridon/index.html",
+    "icon/saint-panteleimon/index.html",
+    "icon/saint-demetrius/index.html",
+    "icon/saint-catherine/index.html",
+    "icon/saint-barbara/index.html",
+    "icon/saint-mary-egypt/index.html",
+    "icon/saint-sergius/index.html",
+    "icon/saint-ignatius/index.html",
+    "icon/saint-athanasius/index.html",
+    "icon/ladder-divine-ascent/index.html",
+    "icon/synaxis-russian-saints/index.html",
+    "icon/archangel-michael/index.html",
+    "prayer/np-before-sleep-long/index.html",
+    "prayer/np-daily-commemoration/index.html",
+    "prayer/np-three-canons/index.html",
+    "prayer/np-thanksgiving-communion/index.html",
+    "prayer/np-morning-1/index.html",
+    "prayer/np-morning-2/index.html",
+    "prayer/np-morning-3/index.html",
+    "prayer/np-morning-4/index.html",
+    "prayer/np-morning-5/index.html",
+    "prayer/np-morning-6/index.html",
+    "prayer/np-morning-7/index.html",
+    "prayer/np-morning-8/index.html",
+    "prayer/np-morning-9/index.html",
+    "prayer/np-morning-10/index.html",
+    "prayer/np-morning-11/index.html",
+    "prayer/np-optina-morning/index.html",
+    "prayer/np-jesus/index.html",
+    "prayer/np-heavenly-king/index.html",
+    "prayer/np-trisagion/index.html",
+    "prayer/np-trinity/index.html",
+    "prayer/np-our-father/index.html",
+    "prayer/np-creed/index.html",
+    "prayer/np-angelic-salutation/index.html",
+    "prayer/np-ever-virgin/index.html",
+    "prayer/np-angels/index.html",
+    "prayer/np-saints/index.html",
+    "prayer/np-patron/index.html",
+    "prayer/np-cross-troparion/index.html",
+    "prayer/np-it-is-truly-meet/index.html",
+    "prayer/np-meal-1/index.html",
+    "prayer/np-meal-2/index.html",
+    "prayer/np-meal-3/index.html",
+    "prayer/np-meal-4/index.html",
+    "prayer/np-evening-1/index.html",
+    "prayer/np-evening-2/index.html",
+    "prayer/np-evening-3/index.html",
+    "prayer/np-evening-4/index.html",
+    "prayer/np-evening-5/index.html",
+    "prayer/np-evening-6/index.html",
+    "prayer/np-evening-7/index.html",
+    "prayer/np-evening-8/index.html",
+    "prayer/np-evening-9/index.html",
+    "prayer/np-evening-10/index.html",
+    "prayer/np-evening-11/index.html",
+    "prayer/np-ioannikios/index.html",
+    "prayer/np-cross-prayer/index.html",
+    "prayer/np-remit-forgive/index.html",
+    "prayer/np-intercession-evening/index.html",
+    "prayer/np-john-damascus-bed/index.html",
+    "prayer/np-church/index.html",
+    "prayer/np-civil-authorities/index.html",
+    "prayer/np-spiritual-father/index.html",
+    "prayer/np-family/index.html",
+    "prayer/np-sick-captives/index.html",
+    "prayer/np-benefactors/index.html",
+    "prayer/np-travellers/index.html",
+    "prayer/np-misled/index.html",
+    "prayer/np-enemies/index.html",
+    "prayer/np-departed-family/index.html",
+    "prayer/np-all-departed/index.html",
+    "prayer/np-remission-departed/index.html",
+    "prayer/morning/index.html",
+    "prayer/work/index.html",
+    "prayer/meals/index.html",
+    "prayer/evening/index.html",
+    "term/g-abbot/index.html",
+    "term/g-acedia/index.html",
+    "term/g-aeon/index.html",
+    "term/g-aer/index.html",
+    "term/g-akathist/index.html",
+    "term/g-all-night-vigil/index.html",
+    "term/g-almsgiving/index.html",
+    "term/g-altar-gospel/index.html",
+    "term/g-ambon/index.html",
+    "term/g-amen/index.html",
+    "term/g-anaphora/index.html",
+    "term/g-angel/index.html",
+    "term/g-anhypostatic/index.html",
+    "term/g-annunciation/index.html",
+    "term/g-anthropomorphism/index.html",
+    "term/g-antichrist/index.html",
+    "term/g-antidoron/index.html",
+    "term/g-antimension/index.html",
+    "term/g-antiphon/index.html",
+    "term/g-antitype/index.html",
+    "term/g-apocalypse/index.html",
+    "term/g-apophatic-theology/index.html",
+    "term/g-apostasy/index.html",
+    "term/g-aposticha/index.html",
+    "term/g-apostle/index.html",
+    "term/g-apostol/index.html",
+    "term/g-apostolic/index.html",
+    "term/g-apostolic-succession/index.html",
+    "term/g-appropriation/index.html",
+    "term/g-archimandrite/index.html",
+    "term/g-archpriest/index.html",
+    "term/g-artoklasia/index.html",
+    "term/g-ascension/index.html",
+    "term/g-askesis/index.html",
+    "term/g-asterisk/index.html",
+    "term/g-atheism/index.html",
+    "term/g-atonement/index.html",
+    "term/g-autocephaly/index.html",
+    "term/g-autonomy/index.html",
+    "term/g-avarice/index.html",
+    "term/g-avaton/index.html",
+    "term/g-axios/index.html",
+    "term/g-baptism/index.html",
+    "term/g-baptismal-garment/index.html",
+    "term/g-beatitudes/index.html",
+    "term/g-bible/index.html",
+    "term/g-bishop/index.html",
+    "term/g-bright-week/index.html",
+    "term/g-canon-hymn/index.html",
+    "term/g-cataphatic-theology/index.html",
+    "term/g-catechism/index.html",
+    "term/g-catechumen/index.html",
+    "term/g-catholic/index.html",
+    "term/g-celibacy/index.html",
+    "term/g-censer/index.html",
+    "term/g-chalice/index.html",
+    "term/g-chastity/index.html",
+    "term/g-cherubic-hymn/index.html",
+    "term/g-chinovnik/index.html",
+    "term/g-chrismation/index.html",
+    "term/g-christ/index.html",
+    "term/g-christology/index.html",
+    "term/g-christotokos/index.html",
+    "term/g-church/index.html",
+    "term/g-circumscription/index.html",
+    "term/g-coenobium/index.html",
+    "term/g-communication-of-properties/index.html",
+    "term/g-communion-of-saints/index.html",
+    "term/g-communion-spoon/index.html",
+    "term/g-compline/index.html",
+    "term/g-compound-hypostasis/index.html",
+    "term/g-compunction/index.html",
+    "term/g-confession-of-faith/index.html",
+    "term/g-confessor/index.html",
+    "term/g-confessor-saint-title/index.html",
+    "term/g-consecration-of-a-church/index.html",
+    "term/g-consubstantial/index.html",
+    "term/g-corporal-works-of-mercy/index.html",
+    "term/g-corruption/index.html",
+    "term/g-creation/index.html",
+    "term/g-creation-from-nothing/index.html",
+    "term/g-creed/index.html",
+    "term/g-cross-theotokion/index.html",
+    "term/g-crucifying-the-passions/index.html",
+    "term/g-curse/index.html",
+    "term/g-daily-bread/index.html",
+    "term/g-death/index.html",
+    "term/g-deification-of-christ-s-flesh/index.html",
+    "term/g-deliverance-from-evil/index.html",
+    "term/g-descent-into-hades/index.html",
+    "term/g-despair/index.html",
+    "term/g-devil/index.html",
+    "term/g-diakonia/index.html",
+    "term/g-dikirion/index.html",
+    "term/g-discretion/index.html",
+    "term/g-diskos/index.html",
+    "term/g-divine-attributes/index.html",
+    "term/g-divine-economy/index.html",
+    "term/g-divine-essence/index.html",
+    "term/g-divine-immutability/index.html",
+    "term/g-divine-impassibility/index.html",
+    "term/g-divine-liturgy/index.html",
+    "term/g-divine-providence/index.html",
+    "term/g-divine-revelation/index.html",
+    "term/g-divine-simplicity/index.html",
+    "term/g-dogma/index.html",
+    "term/g-dogmatikon/index.html",
+    "term/g-dormition/index.html",
+    "term/g-doxology/index.html",
+    "term/g-dyothelitism/index.html",
+    "term/g-ecumenical-council/index.html",
+    "term/g-eight-principal-vices/index.html",
+    "term/g-eileton/index.html",
+    "term/g-eis-polla-eti-despota/index.html",
+    "term/g-energy/index.html",
+    "term/g-enhypostatic/index.html",
+    "term/g-entrance-of-the-theotokos/index.html",
+    "term/g-epiclesis/index.html",
+    "term/g-epimanikia/index.html",
+    "term/g-epitaphios/index.html",
+    "term/g-epitimia/index.html",
+    "term/g-epitrachelion/index.html",
+    "term/g-eschatology/index.html",
+    "term/g-essenceenergies-distinction/index.html",
+    "term/g-eternal-life/index.html",
+    "term/g-euchologion/index.html",
+    "term/g-ever-virgin/index.html",
+    "term/g-evergetinos/index.html",
+    "term/g-evil/index.html",
+    "term/g-exaltation-of-the-cross/index.html",
+    "term/g-exapostilarion/index.html",
+    "term/g-exorcism/index.html",
+    "term/g-extortion/index.html",
+    "term/g-faith/index.html",
+    "term/g-fasting/index.html",
+    "term/g-festal-menaion/index.html",
+    "term/g-first-hour/index.html",
+    "term/g-foreknowledge/index.html",
+    "term/g-free-will/index.html",
+    "term/g-general-menaion/index.html",
+    "term/g-general-resurrection/index.html",
+    "term/g-gerontas/index.html",
+    "term/g-gifts-of-the-holy-spirit/index.html",
+    "term/g-giver-of-life/index.html",
+    "term/g-gluttony/index.html",
+    "term/g-gnomic-will/index.html",
+    "term/g-good-works/index.html",
+    "term/g-gospel/index.html",
+    "term/g-grace/index.html",
+    "term/g-great-blessing-of-waters/index.html",
+    "term/g-great-doxology/index.html",
+    "term/g-great-entrance/index.html",
+    "term/g-great-lent/index.html",
+    "term/g-guardian-angel/index.html",
+    "term/g-hades/index.html",
+    "term/g-heresy/index.html",
+    "term/g-hesychia/index.html",
+    "term/g-hierarchy/index.html",
+    "term/g-hieratikon/index.html",
+    "term/g-high-place/index.html",
+    "term/g-holiness-of-the-church/index.html",
+    "term/g-holy-chrism/index.html",
+    "term/g-holy-communion/index.html",
+    "term/g-holy-cross/index.html",
+    "term/g-holy-friday/index.html",
+    "term/g-holy-orders/index.html",
+    "term/g-holy-saturday/index.html",
+    "term/g-holy-scripture/index.html",
+    "term/g-holy-spirit/index.html",
+    "term/g-holy-table/index.html",
+    "term/g-holy-thursday/index.html",
+    "term/g-holy-tradition/index.html",
+    "term/g-holy-trinity/index.html",
+    "term/g-holy-unction/index.html",
+    "term/g-holy-week/index.html",
+    "term/g-hope/index.html",
+    "term/g-horologion/index.html",
+    "term/g-hours/index.html",
+    "term/g-humility/index.html",
+    "term/g-hypakoe/index.html",
+    "term/g-hypocrisy/index.html",
+    "term/g-hypostasis/index.html",
+    "term/g-icon/index.html",
+    "term/g-iconostasis/index.html",
+    "term/g-idolatry/index.html",
+    "term/g-ikos/index.html",
+    "term/g-image-of-god/index.html",
+    "term/g-incarnation/index.html",
+    "term/g-incense/index.html",
+    "term/g-inditia/index.html",
+    "term/g-infallibility-of-the-church/index.html",
+    "term/g-inner-prayer/index.html",
+    "term/g-intercession-of-saints/index.html",
+    "term/g-intermediate-state/index.html",
+    "term/g-invocation-of-saints/index.html",
+    "term/g-irmologion/index.html",
+    "term/g-irmos/index.html",
+    "term/g-jesus/index.html",
+    "term/g-katabasia/index.html",
+    "term/g-kathisma/index.html",
+    "term/g-kellion/index.html",
+    "term/g-kenosis/index.html",
+    "term/g-kingdom-of-god/index.html",
+    "term/g-kliros/index.html",
+    "term/g-koliva/index.html",
+    "term/g-kontakion/index.html",
+    "term/g-kyrie-eleison/index.html",
+    "term/g-lamb/index.html",
+    "term/g-last-judgment/index.html",
+    "term/g-lavra/index.html",
+    "term/g-little-entrance/index.html",
+    "term/g-liturgical-spear/index.html",
+    "term/g-liturgy-of-the-catechumens/index.html",
+    "term/g-liturgy-of-the-faithful/index.html",
+    "term/g-litya/index.html",
+    "term/g-logos/index.html",
+    "term/g-lord/index.html",
+    "term/g-lord-s-prayer/index.html",
+    "term/g-love/index.html",
+    "term/g-many-years/index.html",
+    "term/g-martyr/index.html",
+    "term/g-martyrdom/index.html",
+    "term/g-matins/index.html",
+    "term/g-matrimony/index.html",
+    "term/g-meekness/index.html",
+    "term/g-meeting-of-the-lord/index.html",
+    "term/g-memory-eternal/index.html",
+    "term/g-men-pleasing/index.html",
+    "term/g-menaion/index.html",
+    "term/g-mercy/index.html",
+    "term/g-midnight-office/index.html",
+    "term/g-miracle/index.html",
+    "term/g-mitre/index.html",
+    "term/g-moleben/index.html",
+    "term/g-monk/index.html",
+    "term/g-mystagogy/index.html",
+    "term/g-mystery/index.html",
+    "term/g-nabedrennik/index.html",
+    "term/g-narthex/index.html",
+    "term/g-nativity-of-christ/index.html",
+    "term/g-nativity-of-the-theotokos/index.html",
+    "term/g-nativity-dormition-and-apostles-fasts/index.html",
+    "term/g-natural-and-innocent-passions/index.html",
+    "term/g-natural-law/index.html",
+    "term/g-natural-will/index.html",
+    "term/g-nave/index.html",
+    "term/g-neighbor/index.html",
+    "term/g-nepsis/index.html",
+    "term/g-ninth-hour/index.html",
+    "term/g-nous/index.html",
+    "term/g-obedience/index.html",
+    "term/g-octoechos/index.html",
+    "term/g-ode/index.html",
+    "term/g-old-and-new-testaments/index.html",
+    "term/g-omophorion/index.html",
+    "term/g-one-person-of-christ/index.html",
+    "term/g-only-begotten/index.html",
+    "term/g-orarion/index.html",
+    "term/g-outward-prayer/index.html",
+    "term/g-palitsa/index.html",
+    "term/g-palm-sunday/index.html",
+    "term/g-panagia/index.html",
+    "term/g-panikhida/index.html",
+    "term/g-pantocrator/index.html",
+    "term/g-paradise/index.html",
+    "term/g-paroemia/index.html",
+    "term/g-pascha/index.html",
+    "term/g-passion/index.html",
+    "term/g-pastoral-staff/index.html",
+    "term/g-patriarch/index.html",
+    "term/g-peacemaking/index.html",
+    "term/g-penitence/index.html",
+    "term/g-pentecost/index.html",
+    "term/g-pentecostarion/index.html",
+    "term/g-perichoresis/index.html",
+    "term/g-phelonion/index.html",
+    "term/g-phronema/index.html",
+    "term/g-polyeleos/index.html",
+    "term/g-polytheism/index.html",
+    "term/g-poverty-of-spirit/index.html",
+    "term/g-praxis/index.html",
+    "term/g-prayer/index.html",
+    "term/g-prayer-for-the-departed/index.html",
+    "term/g-prayers-of-light/index.html",
+    "term/g-predestination/index.html",
+    "term/g-prelest/index.html",
+    "term/g-presanctified-liturgy/index.html",
+    "term/g-presbyter/index.html",
+    "term/g-priest-confessor/index.html",
+    "term/g-procession/index.html",
+    "term/g-processional-cross/index.html",
+    "term/g-prokeimenon/index.html",
+    "term/g-proskomedia/index.html",
+    "term/g-prosphora/index.html",
+    "term/g-psalter/index.html",
+    "term/g-purity-of-heart/index.html",
+    "term/g-relics/index.html",
+    "term/g-resurrection-of-christ/index.html",
+    "term/g-righteousness/index.html",
+    "term/g-royal-doors/index.html",
+    "term/g-royal-hours/index.html",
+    "term/g-sabbath/index.html",
+    "term/g-sacrilege/index.html",
+    "term/g-sakkos/index.html",
+    "term/g-salvation/index.html",
+    "term/g-sanctuary/index.html",
+    "term/g-schism/index.html",
+    "term/g-second-coming/index.html",
+    "term/g-self-denial/index.html",
+    "term/g-session-at-the-father-s-right-hand/index.html",
+    "term/g-sessional-hymn/index.html",
+    "term/g-seven-sacraments/index.html",
+    "term/g-sign-of-the-cross/index.html",
+    "term/g-simony/index.html",
+    "term/g-sin/index.html",
+    "term/g-six-psalms/index.html",
+    "term/g-sixth-hour/index.html",
+    "term/g-skete/index.html",
+    "term/g-sloth/index.html",
+    "term/g-solea/index.html",
+    "term/g-sorcery/index.html",
+    "term/g-soul/index.html",
+    "term/g-spiritual-death/index.html",
+    "term/g-spiritual-works-of-mercy/index.html",
+    "term/g-sponsor/index.html",
+    "term/g-sticharion/index.html",
+    "term/g-sticheron/index.html",
+    "term/g-sunday/index.html",
+    "term/g-superstition/index.html",
+    "term/g-synergy/index.html",
+    "term/g-table-of-oblation/index.html",
+    "term/g-tabor/index.html",
+    "term/g-taper/index.html",
+    "term/g-telos/index.html",
+    "term/g-temptation/index.html",
+    "term/g-ten-commandments/index.html",
+    "term/g-theandric/index.html",
+    "term/g-theophany/index.html",
+    "term/g-theoria/index.html",
+    "term/g-theosis/index.html",
+    "term/g-theotokion/index.html",
+    "term/g-theotokos/index.html",
+    "term/g-third-hour/index.html",
+    "term/g-thoughts/index.html",
+    "term/g-tone/index.html",
+    "term/g-transfiguration/index.html",
+    "term/g-transubstantiation/index.html",
+    "term/g-trebnik/index.html",
+    "term/g-trikirion/index.html",
+    "term/g-triodion/index.html",
+    "term/g-trisagion/index.html",
+    "term/g-troparion/index.html",
+    "term/g-two-energies-of-christ/index.html",
+    "term/g-two-natures-of-christ/index.html",
+    "term/g-type/index.html",
+    "term/g-typikon/index.html",
+    "term/g-uncreated/index.html",
+    "term/g-uncreated-light/index.html",
+    "term/g-unity-of-the-church/index.html",
+    "term/g-vainglory/index.html",
+    "term/g-veneration-of-icons/index.html",
+    "term/g-veneration-of-saints/index.html",
+    "term/g-vespers/index.html",
+    "term/g-vigilance-of-the-heart/index.html",
+    "term/g-virginity/index.html",
+    "term/g-voluntary-poverty/index.html",
+    "term/g-wednesday-and-friday-fasts/index.html",
+    "term/g-wisdom-let-us-attend/index.html",
+    "term/g-worship-toward-the-east/index.html",
+    "term/g-zeon/index.html",
+    "term/g-zone/index.html",
+    "term/fg-apostolic-fathers/index.html",
+    "term/fg-didache/index.html",
+    "term/fg-two-ways/index.html",
+    "term/fg-recapitulation/index.html",
+    "term/fg-gnosticism/index.html",
+    "term/fg-rule-of-faith/index.html",
+    "term/fg-illumination/index.html",
+    "term/fg-regeneration/index.html",
+    "term/fg-apology/index.html",
+    "term/fg-epistle/index.html",
+    "term/fg-hospitality/index.html",
+    "term/fg-prophet/index.html",
+    "term/fg-messiah/index.html",
+    "term/fg-adoption/index.html",
+    "term/fg-demiurge/index.html",
+    "term/fg-pleroma/index.html",
+    "term/fg-valentinian/index.html",
+    "term/fg-docetism/index.html",
+    "term/fg-imputation/index.html",
+    "term/fg-effectual-calling/index.html",
+    "term/fg-perseverance/index.html",
+    "term/fg-invisible-church/index.html",
+    "term/fg-visible-church/index.html",
+    "term/fg-sacramental-union/index.html",
+    "term/fg-adiaphora/index.html",
+    "term/fg-concupiscence/index.html",
+    "term/fg-new-obedience/index.html",
+    "term/fg-orthodoxy/index.html",
+    "term/fg-pentateuch/index.html",
+    "term/fg-hypostatic-union/index.html",
+    "term/cg-g-metropolitan/index.html",
+    "term/cg-g-synod/index.html",
+    "term/cg-g-canon-discipline/index.html",
+    "term/cg-g-ecclesiastical-province/index.html",
+    "term/cg-g-apostolic-canons/index.html",
+    "term/cg-g-minor-orders/index.html",
+    "term/cg-g-major-orders/index.html",
+    "term/cg-g-reader/index.html",
+    "term/cg-g-chanter/index.html",
+    "term/cg-g-subdeacon/index.html",
+    "term/cg-g-deacon/index.html",
+    "term/cg-g-cheirothesia/index.html",
+    "term/cg-g-ripidion/index.html",
+    "term/cg-g-eagle-rug/index.html",
+    "term/cg-g-tabernacle/index.html",
+    "term/cg-g-mantle/index.html",
+    "term/cg-g-diakonnik/index.html",
+    "term/cg-g-table-oblation/index.html",
+    "term/cg-g-baptismal-font/index.html",
+    "term/cg-g-prayer-manasseh/index.html",
+    "term/cg-g-anthologion/index.html",
+    "term/cg-g-photizomenoi/index.html",
+    "term/cg-g-disciplina-arcani/index.html",
+    "term/cg-g-catechumenate/index.html",
+    "term/cg-g-trullo/index.html",
+    "term/cg-g-epitome/index.html",
+    "term/cg-g-canonical-economia/index.html",
+    "term/cg-g-akribeia/index.html",
+    "explore/index.html",
+    "learn/index.html",
+    "glossary/index.html",
+    "prayers/index.html",
+    "saints/index.html",
+    "icons/index.html",
+    "services/index.html",
+    "church-year/index.html",
+    "church/index.html",
+    "authority/index.html",
+    "timeline/index.html",
+    "coverage/index.html",
+    "protestant-path/index.html",
+    "scripture-library/index.html",
+    "source-guide/index.html",
+    "sources/index.html",
+    "about/index.html",
+    "privacy/index.html",
+    "service/vespers/index.html",
+    "service/matins/index.html",
+    "service/divine-liturgy/index.html",
+    "account/index.html",
+    "settings/index.html",
+    "notebook/index.html",
+    "journal/index.html",
+    "review-cards/index.html",
+    "editorial/index.html",
+    "release/index.html",
+    "offline/index.html",
+    "library/index.html"
+  ],
+  "counts": {
+    "lessons": 229,
+    "modules": 46,
+    "saints": 213,
+    "icons": 130,
+    "terms": 429,
+    "prayers": 61
+  }
+}

@@ -1,0 +1,37 @@
+/* Content first. Bibliographic records remain available after the reading. */
+:root{--reader:1.12rem}
+.reader-header{margin-bottom:1.3rem}
+.prayer-reader-header{margin-bottom:1rem;padding-bottom:0;border-bottom:0}
+.prayer-reader-header h1{margin-bottom:.6rem}
+.prayer-reader .native-prayer-text{margin-top:0}
+.prayer-reader .native-prayer-block:first-child{margin-top:0}
+.prayer-reader .native-prayer-block:first-child>h2{margin-top:.25rem}
+.prayer-options{margin:1.5rem 0;gap:.65rem}
+.prayer-options button,.prayer-options a{min-height:44px}
+.publication-details{margin:.7rem 0 1rem;font-size:.9rem;overflow-wrap:anywhere}
+.publication-details>summary{cursor:pointer;color:var(--green);padding:.35rem 0;font-size:.9rem}
+.publication-details>p{margin:.45rem 0}
+.publication-details .source-context{margin:1rem 0}
+.prayer-edition-details{margin-top:1.5rem}
+.daily-prayer-library{margin:1.5rem 0 2rem}
+.daily-prayer-library[hidden]{display:none}
+.daily-prayer-library>h2{font-size:1.55rem}
+.daily-prayer-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem}
+.daily-prayer-grid .card{padding:1.25rem;min-width:0;text-decoration:none;border:3px double #cdb783;background:#fffaf0}
+.daily-prayer-grid h3{font-size:1.3rem;margin:0;line-height:1.35}
+.daily-prayer-grid .card-meta{margin-top:.6rem}
+.other-prayer-orders{margin:2.5rem 0;padding-top:1.5rem;border-top:1px solid var(--line)}
+.other-prayer-orders>summary{font:1.3rem/1.4 Georgia,serif;color:var(--green);cursor:pointer}
+.other-prayer-orders .prayer-guide-grid{margin-top:1.2rem}
+.prayer-guide{padding:.65rem 1rem;margin:.75rem 0 1rem}
+.prayer-guide-status{margin:.25rem 0 .6rem;font-size:.9rem}
+.prayer-guide-actions button,.prayer-guide-actions a{font-size:.875rem;min-height:44px}
+.prayer-guide-actions a{display:flex;align-items:center}
+.page-study-tools{margin:2rem 0 1.25rem;padding-top:1.25rem;border-top:1px solid var(--line)}
+.source-reading>h2 .footnote-ref{font: .8rem 'Segoe UI',sans-serif;letter-spacing:normal;margin-left:.45rem}
+.artwork-source{margin:1.5rem 0;font-size:.9rem;overflow-wrap:anywhere}
+.artwork-source h3{font-size:1.2rem}
+@media(max-width:1100px){.daily-prayer-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.prayer-reader-header h1{font-size:1.9rem}.prayer-reader .native-prayer-text{padding:1.45rem 1.05rem}.daily-prayer-grid{gap:.75rem}.daily-prayer-grid .card{padding:1rem}.daily-prayer-grid h3{font-size:1.15rem}.prayer-guide-status{gap:.25rem .7rem}.prayer-guide-actions{gap:.5rem}.prayer-guide-actions a{margin-left:0}.page-study-tools{gap:.5rem}.publication-details>summary{min-height:44px;display:list-item}}
+@media(max-width:360px){.daily-prayer-grid{grid-template-columns:1fr 1fr}.daily-prayer-grid .card{padding:.85rem}.daily-prayer-grid h3{font-size:1.06rem}}
+@media print{.prayer-options,.page-study-tools,.other-prayer-orders,.daily-prayer-library{display:none}.publication-details{font-size:9pt}.prayer-reader .native-prayer-text{padding:0;border:0}.prayer-reader .native-prayer-text::before{display:none}}

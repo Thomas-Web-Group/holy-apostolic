@@ -1,0 +1,9 @@
+'use strict';
+window.OrthodoxReferences=(()=>{
+ const selector='.source-footnotes,#saint-sources,#icon-sources,.wy-credits,#authority-sources,#church-sources,.church-guide-sources';
+ function collapse(root){for(const section of [...(root.matches?.(selector)?[root]:[]),...root.querySelectorAll(selector)]){if(section.closest('.references-disclosure')||section.tagName==='DETAILS')continue;const panel=document.createElement('details'),summary=document.createElement('summary');panel.className='references-disclosure';summary.textContent='Sources and publication details';panel.append(summary);section.before(panel);panel.append(section);}}
+ function reveal(target){for(let parent=target?.parentElement;parent;parent=parent.parentElement)if(parent.tagName==='DETAILS')parent.open=true;}
+ if(window.OrthodoxSite){const main=document.getElementById('main');collapse(main);let queued=false;new MutationObserver(()=>{if(queued)return;queued=true;queueMicrotask(()=>{queued=false;collapse(main);});}).observe(main,{childList:true,subtree:true});document.addEventListener('click',event=>{const link=event.target.closest('a[href]');if(!link)return;const url=new URL(link.href,location.href);if(url.origin!==location.origin||url.pathname!==location.pathname||!url.hash||url.hash.startsWith('#/'))return;let id;try{id=decodeURIComponent(url.hash.slice(1));}catch{return;}reveal(document.getElementById(id));},true);}
+ let printPanels=[];if(window.OrthodoxSite){addEventListener('beforeprint',()=>{printPanels=[...document.querySelectorAll('.references-disclosure,.references-disclosure details')].map(element=>({element,open:element.open}));for(const item of printPanels)item.element.open=true;});addEventListener('afterprint',()=>{for(const item of printPanels)if(item.element.isConnected)item.element.open=item.open;printPanels=[];});}
+ return {collapse,reveal};
+})();

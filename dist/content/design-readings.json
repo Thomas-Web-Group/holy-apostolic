@@ -1,0 +1,15 @@
+{
+  "sources": [],
+  "readings": [
+    {
+      "id": "home-psalm-27-4",
+      "kind": "quotation",
+      "edition": "kjv",
+      "numbering": "mt",
+      "sourceId": "sp-kjv",
+      "locator": "Psalm 27:4",
+      "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple.",
+      "sourceUrl": "https://ebible.org/eng-kjv/PSA027.htm"
+    }
+  ]
+}

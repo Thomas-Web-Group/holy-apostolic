@@ -1,0 +1,19 @@
+[build]
+  publish = "dist"
+  functions = "netlify/functions"
+  command = "node scripts/prepare-netlify.cjs"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/api/account-config"
+  to = "/.netlify/functions/account-config"
+  status = 200
+  force = true
+
+# Public readings use generated directory URLs; legacy fragment links still resolve.
+# Missing assets must remain real 404 responses.

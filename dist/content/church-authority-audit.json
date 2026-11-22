@@ -1,0 +1,2933 @@
+{
+  "version": "4.4.0",
+  "basis": "Actual retained-source wording or necessary-summary source anchors independently checked before integration. Full modern source evidence is not distributed. No ecclesiastical approval claimed.",
+  "blocks": [
+    {
+      "path": "$.roles[0].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "8f89d6c6c6884933d16b4641440b7160111f385b90b71ef12d88824fde3fb43a",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Ephesians 1:20–23"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Fresh chapter evidence anchors plus independent local KJV range comparison",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Eph-1.txt",
+            "sha256": "1ac21f1e7f636e38524503981b39f8c3a3b6ec33dfc31cc40f431de9f1d47f5d",
+            "anchorSha256": "2a0ddc160f50ea2ccfa803cd8c58e7d5e0f158f71e46616f12c98cf1e625e588",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Eph-1.txt",
+            "sha256": "1ac21f1e7f636e38524503981b39f8c3a3b6ec33dfc31cc40f431de9f1d47f5d",
+            "anchorSha256": "ecc2dd40830250b7c6d8b740eb72668fbaa3fc268e5d167a1d7f112de10b8664",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Eph-1.txt",
+            "sha256": "1ac21f1e7f636e38524503981b39f8c3a3b6ec33dfc31cc40f431de9f1d47f5d",
+            "anchorSha256": "cd93cce1eec6cd34e2345225aeb03978c29db05aa8a52c9b1bb14f90a86261d5",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Eph-1.txt",
+            "sha256": "1ac21f1e7f636e38524503981b39f8c3a3b6ec33dfc31cc40f431de9f1d47f5d",
+            "anchorSha256": "198e57a774ba9ecff8183b2ed412072f76024f16db5814a3927332afced65465",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/Eph.json",
+            "addresses": [
+              "1:20",
+              "1:21",
+              "1:22",
+              "1:23"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[0].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "f45d410fe0f09f8b86a8322875b029f2d82fae1ab447db25cb6592b03e50feca",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Colossians 1:18"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Col-1.txt",
+            "sha256": "f3f68010990d583238693d371f6849162233344bf5bde94954b60f765805a64b",
+            "anchorSha256": "f45d410fe0f09f8b86a8322875b029f2d82fae1ab447db25cb6592b03e50feca",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/Col.json",
+            "addresses": [
+              "1:18"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[0].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "31a50b7b362497a85c8ca16caa54d1aed8c694efb33fa881078f8f5007516c26",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 259"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "31a50b7b362497a85c8ca16caa54d1aed8c694efb33fa881078f8f5007516c26",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[1].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "52df8bc41e41f02a660a8106232674c12f0d3067f4d1d75723aa329e7aba43d9",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Matthew 28:18–20"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Fresh chapter evidence anchors plus independent local KJV range comparison",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Matt-28.txt",
+            "sha256": "60b76533c6a5c76fb40aac6ff1461bf1b5959f1dd7f6508c699f70ead2875404",
+            "anchorSha256": "9b2aad03b6ce20a8c60a44caa418bde7ee75ce3f1592a4257d8a035c13226990",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Matt-28.txt",
+            "sha256": "60b76533c6a5c76fb40aac6ff1461bf1b5959f1dd7f6508c699f70ead2875404",
+            "anchorSha256": "63abe5e863b88fcfaa2aa89c3b7e02ace28d41b8904049f32c9373e302dadd10",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Matt-28.txt",
+            "sha256": "60b76533c6a5c76fb40aac6ff1461bf1b5959f1dd7f6508c699f70ead2875404",
+            "anchorSha256": "3e6ff77bb3c9cddd76021a612bd285d9db12f39f670573642e0ed188081502da",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/Matt.json",
+            "addresses": [
+              "28:18",
+              "28:19",
+              "28:20"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[1].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "cde3747484cf53f98026c5fbf91d560d48afc0deca0aefad462ec8d5c2f0a997",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 274"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "cde3747484cf53f98026c5fbf91d560d48afc0deca0aefad462ec8d5c2f0a997",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[1].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "4aaeefff2e07269241a00fd3a921989411689eab6cf2c5db46d0bb10cd0b2c6a",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 277"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "4aaeefff2e07269241a00fd3a921989411689eab6cf2c5db46d0bb10cd0b2c6a",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[1].blocks[3]",
+      "kind": "quotation",
+      "textSha256": "11de50a7540983a9f653da78ec90f1098a380a2d6a1e730c12517e04ec3655b3",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-anf01",
+          "locator": "Clement of Rome, First Epistle to the Corinthians, 44, after the first sentence; Chapter XLIV.—The ordinances of the apostles"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-anf01",
+            "file": "work/church-guide/authority/evidence/anf01.txt",
+            "sha256": "ee9c7f0ac3f4df08d07ddf81cd7e061e82a35e0d27de611cae06f1e05b2fb991",
+            "anchorSha256": "11de50a7540983a9f653da78ec90f1098a380a2d6a1e730c12517e04ec3655b3",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[2].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "993ca8a4024d86eb91dc2bf6ed24f79523aa63ee869087da34094ecf16ad21f3",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 357"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "993ca8a4024d86eb91dc2bf6ed24f79523aa63ee869087da34094ecf16ad21f3",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[2].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "dee8c3f4c0b86bfb973048a5ebc26ebe902a101a43c2985fe82ddd8268bbe197",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 358"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "dee8c3f4c0b86bfb973048a5ebc26ebe902a101a43c2985fe82ddd8268bbe197",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[2].blocks[2]",
+      "kind": "quotation",
+      "textSha256": "9cd9ca584dc46f98260e2306dfeb091d3b3eb9a6a522622704b9709961df2dda",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 359"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "9cd9ca584dc46f98260e2306dfeb091d3b3eb9a6a522622704b9709961df2dda",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[2].blocks[3]",
+      "kind": "quotation",
+      "textSha256": "20527c6d2851b5c373af25adfa88668c17d6851f588e6ec68dd30154de8be3c0",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 360"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "20527c6d2851b5c373af25adfa88668c17d6851f588e6ec68dd30154de8be3c0",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[3].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "ed1d1a7f8e88359c7418649b62773512932aff76167153179fbd0f4474fa4e53",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Acts 20:28"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Acts-20.txt",
+            "sha256": "6fa2636b6fe92a4a80d34c6ba46c8fede27f199dd21346385093b22094c9451a",
+            "anchorSha256": "ed1d1a7f8e88359c7418649b62773512932aff76167153179fbd0f4474fa4e53",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/Acts.json",
+            "addresses": [
+              "20:28"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[3].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "aa92418004d9dc1ebec4719b1feee049052d44c29f74eea975fe05087eeab859",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Nicaea I (325), Canon 4; Canon IV."
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-npnf214",
+            "file": "work/church-guide/authority/evidence/npnf214.txt",
+            "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+            "anchorSha256": "aa92418004d9dc1ebec4719b1feee049052d44c29f74eea975fe05087eeab859",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[3].blocks[2]",
+      "kind": "summary",
+      "textSha256": "eccb4e6835ddc57d343084713073d624ce72631bfed92f8c26f7c5f6af4563a4",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-council-glossary",
+          "locator": "Entries “bishop”, “archbishop” and “clergy titles”"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "4eebe40f062b717aade42703f99c5f21c9ecfb14a6d01c510edaac5bc8bdf2d4",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "5aa9537c365d5373dcd9b79fbe853b8607242c4c50a8b53eeb277c1a81da32d9",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "ab0849c6848ff2b092247c91771242d3beaf7921014e385f7c9059d73c2e2737",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[4].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "22c2885f1177ba0788d4f364dacd0c10b48804f919dbaca5c55f215842c5e104",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-anf01",
+          "locator": "Ignatius of Antioch, To the Smyrnaeans 8, first/shorter-recension text; Chapter VIII.—Let nothing be done without the bishop."
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-anf01",
+            "file": "work/church-guide/authority/evidence/anf01.txt",
+            "sha256": "ee9c7f0ac3f4df08d07ddf81cd7e061e82a35e0d27de611cae06f1e05b2fb991",
+            "anchorSha256": "22c2885f1177ba0788d4f364dacd0c10b48804f919dbaca5c55f215842c5e104",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[4].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "fb090c0136e36e07d300f0255466990f164dcf8446d0dd474532f7d8f58cb236",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Titus 1:5"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-Titus-1.txt",
+            "sha256": "060374a28c2c851c2a3cb2eda8256b566b7c95d1813a020c5b97b8bc4b26e45f",
+            "anchorSha256": "fb090c0136e36e07d300f0255466990f164dcf8446d0dd474532f7d8f58cb236",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/Titus.json",
+            "addresses": [
+              "1:5"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[4].blocks[2]",
+      "kind": "summary",
+      "textSha256": "f06d5394c9be6728b0bd4707f5630b9972deaf7ac349b36df07aca25fe295612",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraphs 3–4"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "27c594fc662b5ddc4111bc026823bfb2a3559ea164ea330e370ac1810141e115",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "a907b0d57f676f0f3fbf06bc5b85edc310cd7d4a5ddd42d9eecfecc9938c8b93",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[5].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "669e83fc35c1bea53eb6e8c0f0ed4ec1f4a6a0a728de92ec93e2a4e686d0c121",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-anf01",
+          "locator": "Ignatius of Antioch, To the Trallians 3, first/shorter-recension text; Chapter III.—Honour the deacons, etc."
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-anf01",
+            "file": "work/church-guide/authority/evidence/anf01.txt",
+            "sha256": "ee9c7f0ac3f4df08d07ddf81cd7e061e82a35e0d27de611cae06f1e05b2fb991",
+            "anchorSha256": "669e83fc35c1bea53eb6e8c0f0ed4ec1f4a6a0a728de92ec93e2a4e686d0c121",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[5].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "08f73b331c48259d1e20435a0bfe87a60e1598e94bf4bdbcc42aa951bfda53f8",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "1 Timothy 3:8–10"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Fresh chapter evidence anchors plus independent local KJV range comparison",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Tim-3.txt",
+            "sha256": "e2d28a2244c324f014ee6035b3cba8b6ccee8745d0f542e2df83db160650d35b",
+            "anchorSha256": "af3896869dff5f542a2695e23a0b2b2c074ed4654236b4eb31a335ff404816c5",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Tim-3.txt",
+            "sha256": "e2d28a2244c324f014ee6035b3cba8b6ccee8745d0f542e2df83db160650d35b",
+            "anchorSha256": "4a8cb3cf139677ad2049662ff902e4778435a104dbdea0fda4e6b5b22a5dbe25",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Tim-3.txt",
+            "sha256": "e2d28a2244c324f014ee6035b3cba8b6ccee8745d0f542e2df83db160650d35b",
+            "anchorSha256": "b93a08c2e872c4889d71ec885eb3c5444b7e17813a3ee527765da42550902816",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/1Tim.json",
+            "addresses": [
+              "3:8",
+              "3:9",
+              "3:10"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[5].blocks[2]",
+      "kind": "summary",
+      "textSha256": "a064e559cbed5be025fbd93d6273f719f7c09689f0b9c1a9fa252adcec5b6954",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-council-glossary",
+          "locator": "Entry “deacon”"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "a05043248485229eb2c503c0c0af673f663d87ec2a126c7eedebaba86a94450d",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "1b7df4774b1af2b350ebb7f5a5cf2650b73e636148b926cc97b0ccb5bb14300b",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "4032895fd3159dd7534fa1168ae6242b18877c5adb45f8d173dfe9034825391a",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[6].blocks[0]",
+      "kind": "summary",
+      "textSha256": "8db343a86ad05b13ad3db5708267fcd9f6d4547cb9cd666fe3a2b8031827d455",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-council-glossary",
+          "locator": "Entries “presbyter, priest”, “deacon”, “bishop” and “archbishop”"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "653f7d0c1e0c8ea7ae27758fa05393b1fc5a895064c433321ab04867199d3677",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "03c5e04a5020da39519167cc3b4e50f5fdc5faacbc9651d3b81cb67e8ad6a6ee",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "8b6b560f5678c8d6fd57f6f6a6e5e8b3cf104c29bb064cd69cb5c8a973672507",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "5aa9537c365d5373dcd9b79fbe853b8607242c4c50a8b53eeb277c1a81da32d9",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "0fa32e66a87fd89d2a7d8b0af2a5ecb6bb5ffe5fc9dc3d964123b9ec8b72a409",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[7].blocks[0]",
+      "kind": "summary",
+      "textSha256": "b82369fd6f74fcca605048310d8cb9df5b7328fd390e71d2e5160261054cadba",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraphs 3–4 and 12"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "ce2439b65ccec3b70648e0e33eb920aeb823cdb38fdd6f1a96dc19b0f57644ca",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "a907b0d57f676f0f3fbf06bc5b85edc310cd7d4a5ddd42d9eecfecc9938c8b93",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[7].blocks[1]",
+      "kind": "summary",
+      "textSha256": "d6f945583def9de1711a01a35be5ec33ade30dc08fdd401e380c574db7c53825",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "English title, introduction and candidate examination"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "43ed58f4fb8f60805276e9fe8dfd19c5618c4c96a6cdb41954eaf4b5430d616f",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "ec9c8640517696247e90de487b2b0cc54af0d43a8c6434ca737b91f39cc4b0d2",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "308e8319649b15dcb64cee03e123f0cd3cc2b74367ba0cd1473e078320a8a748",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[8].blocks[0]",
+      "kind": "summary",
+      "textSha256": "bae2632bcb2f38490a7f7b3ec93ad6f0f6d58036be2db9e6c10765e933e5d3a4",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraph 4; scope stated in the editorial introduction"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "a907b0d57f676f0f3fbf06bc5b85edc310cd7d4a5ddd42d9eecfecc9938c8b93",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[8].blocks[1]",
+      "kind": "summary",
+      "textSha256": "d2f92c2d753ab9b809b9a76accacbb1408eb0f17b11e14e3f203ada7058aacb2",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "English title and examination fields"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "67f2f7e79ad74cc23e119f43af39b76ce6097b3835332e09397dc85e3884d731",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "9bc2182d2d79e7ff0321a3e6b5debc336823bd3f9830872629ae355fa591de43",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[9].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "1dd37f1a1d06f36eacbd9e468eba9990b6d9267dc5e45f6b6c09d61bcef047b7",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "1 Corinthians 12:12–27"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Fresh chapter evidence anchors plus independent local KJV range comparison",
+        "sourceEvidence": [
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "b545fc64ba4483a2003223227c8248fab0673c1eb08d55a65e47d1f7a018c60f",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "3e0d6c659ebd11253461396f244a2a1743a87daa8f915f5a3a1c92c8b95b4a5a",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "1afdeab574ccdce047419148be9dc37c2c093598b15ca62e4f43aa3a2d074310",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "3d7a349b376ee1aebefca6184b7af73d9f2c8ed06338b13e07cec2a401e98dac",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "13bd62b7e4432ef5fb4532d44a8c972575614632495523468fa49b2d5b7194e5",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "a8c12ea2ad78372791852e37538f84bf5eddcb39a5e223efb98c9b8976fc2409",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "6f95ff9d56c8ef3588231bc91afa016541cc4462f30f4114fdd32a7585c7083d",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "b3932666dd0604e8811887dc1c345c69d1d4e1327834a83c6d417092a4f0ef94",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "2706f8e21da90fdc77f1fe343710c5bea5f6b42dbb6c31b9ee7117c6ed5fb1c2",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "58608805da0aaf7c4af0f6afa652a9c6d8a00261202525c3732c72c3f40b4e15",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "af4a2bc95672d7d20209ee7819a89a8579fe870635c5cdca30d79566d36815f7",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "555adfd94da638f1cf3a47b99fa2026ce68afdd7fd571172653f5140ae17f6b2",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "8c4e8d94f99465885741016c24fae3420e953fb2b8ceb150e039d1bb230ffdf6",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "cffa27d92b04b7e31ce67422a3f1deb01abcf3ddb60e36a660465244450a57b9",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "8e51d95446309137245ada56991c4224ce26db6cb41283cb5d30da957e887b47",
+            "anchorMatched": true
+          },
+          {
+            "sourceId": "sp-kjv",
+            "file": "work/church-guide/authority/evidence/kjv-1Cor-12.txt",
+            "sha256": "48cc28097aade1b6ed662455061209552547752ad394c67cd60dce57014b0deb",
+            "anchorSha256": "342401bfe2de57da6ea270ce061db008a980f98f2894fff12da16bb19e09303c",
+            "anchorMatched": true
+          }
+        ],
+        "edition": "kjv",
+        "parts": [
+          {
+            "file": "scripture/kjv/1Cor.json",
+            "addresses": [
+              "12:12",
+              "12:13",
+              "12:14",
+              "12:15",
+              "12:16",
+              "12:17",
+              "12:18",
+              "12:19",
+              "12:20",
+              "12:21",
+              "12:22",
+              "12:23",
+              "12:24",
+              "12:25",
+              "12:26",
+              "12:27"
+            ]
+          }
+        ],
+        "excerpt": false
+      }
+    },
+    {
+      "path": "$.roles[9].blocks[1]",
+      "kind": "summary",
+      "textSha256": "913b1c1f09308b6d97c7e7de2ff1573408420320b73c94b95127c4c69f78bc4e",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 19–20 and 28–29"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "fd45bd5a3fb635f2db0de4a6e809278ae27413f00780eedb77cc326cd1946cc4",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "bf6e2af3d8224fb888cc5a875ccc8cd92ff67b3ddf4a8cf782a91804f4bec7fd",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "02e30528fa88539010702e229523077b908affa127ec2c422a1ff88ce7addbdb",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[10].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "4abc7325d4bff3c36b7fabf2287a02834b5ca9d8558836740dd098ac98e948fd",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 278"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "dq-philaret",
+            "file": "work/church-guide/authority/evidence/philaret.txt",
+            "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+            "anchorSha256": "4abc7325d4bff3c36b7fabf2287a02834b5ca9d8558836740dd098ac98e948fd",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[10].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "b87a280685c68099168b337ed010ea632d3aaa9edccade7f760b9aa9e5632f19",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Apostolical Canons, Canon 34 — mutual responsibility of bishops and their first bishop; Canon XXXIV.  (XXXV.)"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-npnf214",
+            "file": "work/church-guide/authority/evidence/npnf214.txt",
+            "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+            "anchorSha256": "b87a280685c68099168b337ed010ea632d3aaa9edccade7f760b9aa9e5632f19",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[10].blocks[2]",
+      "kind": "summary",
+      "textSha256": "9132e3eb3c0338d443c11d7647914dc897c4f912160686b6c80d91520fdf7f95",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Introduction to “The Apostolical Canons”"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-npnf214",
+          "file": "work/church-guide/authority/evidence/npnf214.txt",
+          "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+          "anchorSha256": "1fdf702302546ab2f6c486662c7f0750f58a37d925c1c092b1780ccb42bff6d9",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-npnf214",
+          "file": "work/church-guide/authority/evidence/npnf214.txt",
+          "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+          "anchorSha256": "07c18a5f6a822bf4393903ea987bd15bc2ccfa45b3f06ef4630117e7d3be105e",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[11].blocks[0]",
+      "kind": "summary",
+      "textSha256": "2149ba1b05f9f7dd71bde9d7bb0347999474c8df22b0581b4cd195e8e68e3960",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-council-glossary",
+          "locator": "Entries “autocephaly” and “council”; definitions only, not the glossary’s dated lists of primates"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "05e9fd0ddcabcf68d4f2a31bc641b2aa75bd0be450928e45c3e40245e4eac474",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "81c8ea6328312878e39c586635259fd22637f428db4950c12a25df9c7b25a9c8",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-council-glossary",
+          "file": "work/church-guide/authority/evidence/council-glossary.txt",
+          "sha256": "cea2d32bbea1876cd2f16e0b0f72c784fd63ab764a15129f354897c731575eb3",
+          "anchorSha256": "40bf22402d831660f685660c65904c4682bef30558f8c2ea4cd8bea33b08e0e4",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[12].blocks[0]",
+      "kind": "summary",
+      "textSha256": "14d169c2d580344b604b975f9a59217ad7b632681c32f02b09fe08b621fdbd94",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Act of 4/17 May 2007, sections 3 and 9"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "b912b5e796f05b0c0b1062b555c747161766b264abe5a7ac75e7f65b3708e840",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "e52a4ec4597cd29af4edff5b3b7cf6a0d2df7fce8c7adb05493ea65f8e39f474",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[13].blocks[0]",
+      "kind": "summary",
+      "textSha256": "7a1e21fb01a20b72ec421624cc024aa4229b6cb18b6132127251f6c0ef96d0b7",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 16–17"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "651dea2515bd4b9b9fb431a93564b97d9cb8069845a1c69c6527b04b652cea21",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "6904976772aa4d495360bb612fab399613f0c269cf4c1df64f6b5a9b8603bf13",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[14].blocks[0]",
+      "kind": "summary",
+      "textSha256": "42fd7498a97e3ceee17fc06506f7d0245ea986a9554e93cb2e7df19963dbfea0",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 8 and 33–37"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "f3db8861ab5161310b90608f4eeddefddcd360b30d4294a79c32c9dad02f95bf",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "8a3ac179cd03b3c0f11d3f4e8e69adb29172d1d28ebab3ff0a39a54073740459",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[14].blocks[1]",
+      "kind": "summary",
+      "textSha256": "a9617ce0e123128675820b0f1117071857de6bdf060d8f3a9cfca202b4b6ab93",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Sections 2 and 4"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "62d448b7f2fa9526a80831f0ca2f5b20b58103e2d62fdb3c6b2c05dcbb72fd4c",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "99eb4750a2580e93aa6cb735803b394f8e773152a6267993287dc8101bd7fffe",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[15].blocks[0]",
+      "kind": "summary",
+      "textSha256": "54dc45d8332bbad8795a843b127956d1a8a0515efd57af0ba74dec730557fcdf",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 45, 47(b,e,f) and 52"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "84c1279d5b0e87ae922e986bcc90d8d9854a8a95cabfd46a190e648179fd5e1a",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "f505c937b5982ec350aaa265938d10daad8c64b484be52841f2a6ec9b4972379",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "97aa22c5c174ba6c9ddb1e14668181222aba00fb3e8a7b7545a9225da716d00b",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "102d3b531a3a9cfea406c61d54c64640cd0c044bcfccdb8dc1f1af8abee301ca",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[16].blocks[0]",
+      "kind": "summary",
+      "textSha256": "9eeb50c2bd04b3d76ef54e1101e39643fb1b5ccf2ca7b32b2f3835aaa3da695f",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-deans",
+          "locator": "Opening provisions and “A DEAN MUST”, I"
+        },
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 359"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary comparison of the cited published passages. The distinction between a sacramental degree and a monastic or administrative role is a labelled editorial inference from those sources.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-deans",
+          "file": "work/church-guide/authority/evidence/deans.txt",
+          "sha256": "6da6430719da4f17c2ebd597db807e3aa038fc76e74a4d17b282f973c6559ae1",
+          "anchorSha256": "a8ad10aa6a8aa302d93e199d59c9ee1343f814bbb66df7cf3dce616f455b0e27",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-deans",
+          "file": "work/church-guide/authority/evidence/deans.txt",
+          "sha256": "6da6430719da4f17c2ebd597db807e3aa038fc76e74a4d17b282f973c6559ae1",
+          "anchorSha256": "ab3cce5cca7b2aae6d3f5ba24c34d44b1569b2d2b5a4dedec776bcd81c368535",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-deans",
+          "file": "work/church-guide/authority/evidence/deans.txt",
+          "sha256": "6da6430719da4f17c2ebd597db807e3aa038fc76e74a4d17b282f973c6559ae1",
+          "anchorSha256": "ccb071c6ab621448230d4026260cfc1e07f8f2306032940f8fcb04093008d5a0",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "2ec29c8fe9649a08d93f9e8024121a434243cbb6eaef5f9befd9c3452f74a019",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[17].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "ab4868e4db020e5d5b50c7e027846bebc1eebb10c89acd6ca8900de9fdfbdb8e",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rectors",
+          "locator": "Section 1"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-rectors",
+            "file": "work/church-guide/authority/evidence/rectors.txt",
+            "sha256": "ec10dbe49f8ac22ca7bca0cf4593ce0feb7a96ab33b174beea22774962f1fb47",
+            "anchorSha256": "ab4868e4db020e5d5b50c7e027846bebc1eebb10c89acd6ca8900de9fdfbdb8e",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.roles[17].blocks[1]",
+      "kind": "summary",
+      "textSha256": "1ec2ad601ae8a7320a08a938639921e7ab3b694d36bec3bad270492cee68aa2f",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rectors",
+          "locator": "Sections 3, 6–7, 10–17"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rectors",
+          "file": "work/church-guide/authority/evidence/rectors.txt",
+          "sha256": "ec10dbe49f8ac22ca7bca0cf4593ce0feb7a96ab33b174beea22774962f1fb47",
+          "anchorSha256": "af906900566699b3c8c369fe0e881c2493cf0600cce098c1289fccff2a49ee19",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rectors",
+          "file": "work/church-guide/authority/evidence/rectors.txt",
+          "sha256": "ec10dbe49f8ac22ca7bca0cf4593ce0feb7a96ab33b174beea22774962f1fb47",
+          "anchorSha256": "f3c2a69669799fe4686cf70b4fbce5a21900abddb35a3262ae24576566949437",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rectors",
+          "file": "work/church-guide/authority/evidence/rectors.txt",
+          "sha256": "ec10dbe49f8ac22ca7bca0cf4593ce0feb7a96ab33b174beea22774962f1fb47",
+          "anchorSha256": "3e6dc4ca19591495c61b064609c07c3ccea9981f6b3e864a636cbfc6a8302a33",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[18].blocks[0]",
+      "kind": "summary",
+      "textSha256": "af7e45753f45798076fbdb272afe1610fbe02a24eab58a5d6077c0343498c2c8",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 28–30"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "d60740d85fe3780de09fd48ec6b1a260550c76bd6dcfa0a340068336c431f975",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "c4d998c8f5cf405f1f310c487ca337e8a95b103b86d87ee959cc277164e6f715",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "315cf344ffe1ed57a8bca419fe6c97909d01c3d0801b0906fb93ed815b871fdb",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[19].blocks[0]",
+      "kind": "summary",
+      "textSha256": "1b68568b603ef4818969ab4ba9b56c2822064d4428bfc0f1fe03636db7e2620e",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-wardens",
+          "locator": "Sections 1 and 3"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-wardens",
+          "file": "work/church-guide/authority/evidence/wardens.txt",
+          "sha256": "6bdbf7f2dcbef87a74320a1e5db04afd518ecfb01ed2c1abcfd4478359ed0c94",
+          "anchorSha256": "eb5bfb21c584d4f8e775e9499bc924e223278dbf6010dd18a71f32a6997461e6",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-wardens",
+          "file": "work/church-guide/authority/evidence/wardens.txt",
+          "sha256": "6bdbf7f2dcbef87a74320a1e5db04afd518ecfb01ed2c1abcfd4478359ed0c94",
+          "anchorSha256": "ce2f2529c01d11ab77be02f88af28ff959f6bddb9d5d985a129daa823306a5fa",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[20].blocks[0]",
+      "kind": "summary",
+      "textSha256": "00e8d7717b6d4e4e25c5a374774c79ac883935a28cac06cf62045964afa60798",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 2, 22–23 and 26–27"
+        },
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Questions 359–360"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary comparison of the cited published passages. The distinction between a sacramental degree and a monastic or administrative role is a labelled editorial inference from those sources.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "36aaa2e45fa9bc1de33dc3ca6c90c315c8a3878a0d5a757e8a2672ff98b43df2",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "d839b28577545097272e6875382acb66ff79a94edb097525157e688244f50301",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "6614bbd3e3121fa7a2064d4214c43d9a4ab398601deeb1de82d2620e312a90c0",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "54b91b6aaf93b5f9bf56bc72e84bb9f1e2dceb9e4330f7ca7b27ea9584ab8103",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "2ec29c8fe9649a08d93f9e8024121a434243cbb6eaef5f9befd9c3452f74a019",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[21].blocks[0]",
+      "kind": "summary",
+      "textSha256": "373618d638d60accd891f244c333d3d77c2074161e2a88d311d7d25ffadf2c36",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 9–10"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "2071fb5810496c41e1585cdb2c871e0b479fa91c8e5fff2b07c769a3e584e15c",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "d65b587b32f7e013d52485c6c691574bcb40b4c0e215685c2bd63e1d13407fd3",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "336b0baf2eb43f7f5a2681368575345caa957c5ca228c3f74cb3c030e873e139",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "ea5c2426ab3e1d6468322c639c6ebd69ee1497547a759d6aed88141e62a70d41",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[22].blocks[0]",
+      "kind": "summary",
+      "textSha256": "db67dfb2cba66f58c6ffd952046e800aefd828602a27ed2a38227fde28e84466",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 9–10 and 19"
+        },
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Questions 359–360"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary comparison of the cited published passages. The distinction between a sacramental degree and a monastic or administrative role is a labelled editorial inference from those sources.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "773bef483b7fbd70f4c388c9804a537e1a5f6e422c8684e84574557c58b45879",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "c6740ca7344c83eacc43be676db2c127e61ddd06de036b5637c10f4c618732f3",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "2ec29c8fe9649a08d93f9e8024121a434243cbb6eaef5f9befd9c3452f74a019",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[23].blocks[0]",
+      "kind": "summary",
+      "textSha256": "59def2c82cd115a4da391550740f189ecb5763459d54daa6778835115d6328c6",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Sections 8–9"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "19566ef710bbca7f0a4b054fa9c547b94a6f9c38ef19f366e16ae5072dd12a10",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "f499d87fb0cf5d855403fd5ce908f99b7cdecd150a4f46d588057ab9c70b128d",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[24].blocks[0]",
+      "kind": "summary",
+      "textSha256": "e45008fd70f8c17ad63bd8beff51bd023707cc08555fd828c0771d99c18fe1ea",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Sections 4, 7 and 11"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "eb56ff86c83e2268d5e820a5b485aaf28f94cdafa80ae80bb4ed84002458faf9",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "dd8b2302896709ce055827ae76580943adc3facd5b5084d4f41f29a592ea8827",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.roles[25].blocks[0]",
+      "kind": "summary",
+      "textSha256": "081f3abe202974f2dbea66b611c599315e34d264c6ac65cb1be2c324aecc2a3c",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 11"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "dd8b2302896709ce055827ae76580943adc3facd5b5084d4f41f29a592ea8827",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[0]",
+      "kind": "summary",
+      "textSha256": "e413f25a818c9b7a44266814825332f82bfd6c275ae610f3f7ab651f13411cd2",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Matthew 28:18–20"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "sp-kjv",
+          "file": "work/church-guide/authority/evidence/kjv-Matt-28.txt",
+          "sha256": "60b76533c6a5c76fb40aac6ff1461bf1b5959f1dd7f6508c699f70ead2875404",
+          "anchorSha256": "0faabbb27edc9592ecf3ed3df4b48a0c5a4f5578dffe2d97ee3589d16a8d1584",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[1]",
+      "kind": "summary",
+      "textSha256": "71fcac80104a28b19bb0d76e1077aeced6b56407f884481aa3966a704b518e60",
+      "sourceRefs": [
+        {
+          "sourceId": "sp-kjv",
+          "locator": "Colossians 1:18"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "sp-kjv",
+          "file": "work/church-guide/authority/evidence/kjv-Col-1.txt",
+          "sha256": "f3f68010990d583238693d371f6849162233344bf5bde94954b60f765805a64b",
+          "anchorSha256": "ae829e912927a43ee9250cb1ef2888d653eb98cdd1e70cd2c21b60fc476190b8",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[2]",
+      "kind": "summary",
+      "textSha256": "1c65768939ee3cc6311a636a45df6ef20f0f3ce41469a34672c33faf7618c2ec",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Questions 274 and 277"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "a84a1ee71c90fde0ee7ad211828938ba29eea4d5acb3c2afbc2b5792fc46a60c",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "aea9f284e85317e748471517ad2adc4833a1155abb48a4d9b8d1df046a9d0333",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[3]",
+      "kind": "summary",
+      "textSha256": "b6f234b3bdc683463b9771e7efb9bb7ec4c7a301d7a4dbe1b22db52b9139cd9d",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 360"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "901efdd4b1bba3a5bad5194c97e3f7dfcd21ab289deec3e8a7f57798b9ffa900",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[4]",
+      "kind": "summary",
+      "textSha256": "d344bc7f337ab37a0ec5d5ca978804df3354dbb00f20cccb4a03c4f1ef2ea749",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Apostolical Canons, Canon 2"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-npnf214",
+          "file": "work/church-guide/authority/evidence/npnf214.txt",
+          "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+          "anchorSha256": "380fb6ae6fdfcc26685fa4bf966394a8525c8f094aec170abf88cc85e536bd6a",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[5]",
+      "kind": "summary",
+      "textSha256": "2e0526649a9fbb1d5530864f911402686474447164185755f1f572ae74ce42b2",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 280"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "1674a94b3fa58a7ca81bee620bbcee6cb2dd7c49c6c6d7cd8884cca48461e32e",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[6]",
+      "kind": "summary",
+      "textSha256": "2be1780f7b46b13274353a2ef403ba26e271f9f41e9e31607534a9e1727a72bd",
+      "sourceRefs": [
+        {
+          "sourceId": "dq-philaret",
+          "locator": "Question 360"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary short source-bound explanation or relationship label. It maps the guide’s relationships and distinguishes the publication’s genre; the identified public-domain reading remains available separately.",
+      "sourceEvidence": [
+        {
+          "sourceId": "dq-philaret",
+          "file": "work/church-guide/authority/evidence/philaret.txt",
+          "sha256": "0d6df2e642c695584bda52202fcd3c5d7064153820447b3cbfe8215915b654cd",
+          "anchorSha256": "e3a5d6f21c2aee4df424aa0f7af2f1b36fddaa71a4990c78dfb031b6f055d867",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[7]",
+      "kind": "summary",
+      "textSha256": "4f25101743bff74b00f2d52c6826fdae381e9a57d7f5c815bc7f800647b0017a",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "Introduction to candidate examination"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "ec9c8640517696247e90de487b2b0cc54af0d43a8c6434ca737b91f39cc4b0d2",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[8]",
+      "kind": "summary",
+      "textSha256": "39cb5abbe96045e72cc541140a69d1c2f06c8ccb01f901b2255174940f1f3e12",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "English title and introduction"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "b6bdcbd151088170da6514eb04838d0e6c73b154032000bce04e2d07fc8f0a79",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[9]",
+      "kind": "summary",
+      "textSha256": "1820f97ea17275efb8f1f1e6ad3cb9e2cbb0a05549a405dd0fce5cdaa18e7c3e",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraph 4"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "daeb5a96de8376d4d66d9b9fe75989a65abbb55279e98d43914e6e77b8dd4c96",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[10]",
+      "kind": "summary",
+      "textSha256": "476fe5c92e807627a36d1aebb4cc20fba9789b2cbccec3483bdfdb2346beff34",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-altar-service",
+          "locator": "Numbered paragraph 4"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-altar-service",
+          "file": "work/church-guide/authority/evidence/altar-service.txt",
+          "sha256": "88efdd9a87c81ac9b2ea5618e2c1a4f765c037b6f01021792d1866158ff8a768",
+          "anchorSha256": "7d12cf758aa14380baa57c55ebfbdc5faa99b7485991e4723885638fde702e19",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[11]",
+      "kind": "summary",
+      "textSha256": "42bc9658632795ff121c2b4f3504b034cfff8955b75ede01e46e07c68be3eea9",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 16"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "651dea2515bd4b9b9fb431a93564b97d9cb8069845a1c69c6527b04b652cea21",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[12]",
+      "kind": "summary",
+      "textSha256": "65107eeb11ff5a9e93309df9febe50db7169fe26b26ac5fa79217585574c68dd",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 4"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "41fc179005f9031b974ec8fdc0c1d2df2f501ba86a8824753e94e4c3ed09e6ea",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[13]",
+      "kind": "summary",
+      "textSha256": "a9caca6ecc7e24af75cf9e52021832f8d19e2cb2215694833bc8f486c53fa231",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 16"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "6e8d529a13ac124a3c467ce3bc28382d64bf974c773dd3f87cc65bddfba6cf8f",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[14]",
+      "kind": "summary",
+      "textSha256": "383d955c819ce9a74381f2785f7d8a122161d3dd5a5cdee27cfc521dfc6b41dc",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 29(a–c)"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "d66757d7dc02831f03ace1606abaf2130ef429cbf3fcd8b6145a082f2cac5546",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[15]",
+      "kind": "summary",
+      "textSha256": "bd442d898c0c2f238735f9adf2b70c1f51d197c89c7dcb71e96b554dbf7c03f7",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-deans",
+          "locator": "Opening provisions"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-deans",
+          "file": "work/church-guide/authority/evidence/deans.txt",
+          "sha256": "6da6430719da4f17c2ebd597db807e3aa038fc76e74a4d17b282f973c6559ae1",
+          "anchorSha256": "187b49a9ae3d39474a941b3762538cd3d9598b739d38e2ab3d3d1067a80955ac",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[16]",
+      "kind": "summary",
+      "textSha256": "c70462e19405d1b64b9eb30d02a2f59d96c479633d6396cff23a7b1d2f108a1b",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Section 1"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "95109e8fa5a9e73695eaa66f7ea3cd028f2d3666ce5ba0f0607012ab9be51443",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[17]",
+      "kind": "summary",
+      "textSha256": "22ecc800fb086c0cbf0557f0c8449abb0599eb733f37eb05952bff138b427317",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-deans",
+          "locator": "II.A, supervision of worship"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-deans",
+          "file": "work/church-guide/authority/evidence/deans.txt",
+          "sha256": "6da6430719da4f17c2ebd597db807e3aa038fc76e74a4d17b282f973c6559ae1",
+          "anchorSha256": "c1c2f224584f1454638e2df1760a41cd53995650c3beafb3a0b5834f24786822",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[18]",
+      "kind": "summary",
+      "textSha256": "592a9ee122b48997e1a802159043de144d7fbb5e9fcdd099630d2e602f668b69",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rectors",
+          "locator": "Section 7"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rectors",
+          "file": "work/church-guide/authority/evidence/rectors.txt",
+          "sha256": "ec10dbe49f8ac22ca7bca0cf4593ce0feb7a96ab33b174beea22774962f1fb47",
+          "anchorSha256": "f3c2a69669799fe4686cf70b4fbce5a21900abddb35a3262ae24576566949437",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[19]",
+      "kind": "summary",
+      "textSha256": "978fa8791e6dd6311efa0fc7876ad652b6bbff5424ad5e3f593c8bc454b58db5",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 20(a), 28(g) and 29"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "1e237e8a95d3d9d16be41c7e72d3b13a70bbfbd00420324cd235e2e09ffe5db6",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "02e30528fa88539010702e229523077b908affa127ec2c422a1ff88ce7addbdb",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[20]",
+      "kind": "summary",
+      "textSha256": "73421b21fc4b29613be78e03d57287de0b89c3347bf21a9d994ab9ee310fe58b",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-wardens",
+          "locator": "Section 3"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-wardens",
+          "file": "work/church-guide/authority/evidence/wardens.txt",
+          "sha256": "6bdbf7f2dcbef87a74320a1e5db04afd518ecfb01ed2c1abcfd4478359ed0c94",
+          "anchorSha256": "a1b496651917d1b596afad3d25be487a20398c43d7d4a967e076885803aa656c",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[21]",
+      "kind": "summary",
+      "textSha256": "983fdaa3a94b953be185f25c1325951953c1650ccc0d5462676f866fffdfbc89",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Section 5"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "991f44070ffe7f97482ad170be64762a547abc0cec0ed9fba2374fea9b3a70cc",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "72e6425ca16bda991658fecd268faa3bc1a0f0fdf1e6cb0255614cde23408090",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[22]",
+      "kind": "summary",
+      "textSha256": "d9d262bb5417e2fad50c363a35bfce86d64798179536444ae9e67562adbfaa76",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 5 and 9"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "d7738507246aab19372e843ba3f56e344652d4bd7b93510e66ea9e63b9fa5906",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "eebe96cbe043ce424de4cabf376f7b0225648d73d21c72645ece4debea6f757d",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[23]",
+      "kind": "summary",
+      "textSha256": "a4178b9bab66fcea66071c4c6d6346b1e08460621d34de12ebc6bdc374ee5b79",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Section 22"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "e8b5198d64cc0872e7d486e5cacc8430fd28c0beed3b78dcc66182a80e8a901d",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[24]",
+      "kind": "summary",
+      "textSha256": "08ae38238e282ba7ab07181cc10da6bbc9ecdf69ba44159eede36d78944ed00e",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Section 19"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "c6740ca7344c83eacc43be676db2c127e61ddd06de036b5637c10f4c618732f3",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "30020df3769a7dddc16cfe19e72917fc11dc76c6c0817813fb74cd1b086f8a26",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[25]",
+      "kind": "summary",
+      "textSha256": "ec138d17185d0c56580f48008a5beeb4a1361746b02811e0827d2d738805f18e",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 9"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "f499d87fb0cf5d855403fd5ce908f99b7cdecd150a4f46d588057ab9c70b128d",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.relationships[26]",
+      "kind": "summary",
+      "textSha256": "663f4a62934d54d62c3beea7256baea13097c25b073cbad2a9230629a9671c52",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 11"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "dd8b2302896709ce055827ae76580943adc3facd5b5084d4f41f29a592ea8827",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[0].blocks[0]",
+      "kind": "summary",
+      "textSha256": "6749eca1fa0ddfb9cb601faaf3d9500c9093f95f8bae5ca1f2a7f384c727f399",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-minor-orders",
+          "locator": "English section on reception into the Orthodox Church"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "5b6f3007dd6efe040f814a0dbd445ae28b1631ddbc6f0bc55e3461d769f0fee0",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "869c21f107b72a2387e8680c509a36141913a7cb48fa26ffd91f5b99ca51c430",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-minor-orders",
+          "file": "work/church-guide/authority/evidence/minor-orders.txt",
+          "sha256": "b0409349e630b792d77b9e086f330f26a687e1cdc744671a23d4d4cf79b8e258",
+          "anchorSha256": "94d5d3a56fe3bd3ddfebf9e5210825c8ca39d0ea4682310d32435247c3cc6c75",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[1].blocks[0]",
+      "kind": "summary",
+      "textSha256": "9ccc5153ffcc7fcc38e32787731ba4f2701c810cbe4cd1fe990afbe5a3c2b01a",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-visitors",
+          "locator": "Preparation list, exception paragraph and visitor paragraph"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-visitors",
+          "file": "work/church-guide/authority/evidence/visitors.txt",
+          "sha256": "174700bf09fc4010fbd79392dacea8ee63bfaba6ea9e659fc96aeb66bd1443e5",
+          "anchorSha256": "f316ded1da51382edd22f881aaa7442046fc9b1f511042c6a30f340941d126b5",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-visitors",
+          "file": "work/church-guide/authority/evidence/visitors.txt",
+          "sha256": "174700bf09fc4010fbd79392dacea8ee63bfaba6ea9e659fc96aeb66bd1443e5",
+          "anchorSha256": "1c52ae0a7a902e681acca6f5097547d616a9e139c6ebd488010b4d236dfaa7dd",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-visitors",
+          "file": "work/church-guide/authority/evidence/visitors.txt",
+          "sha256": "174700bf09fc4010fbd79392dacea8ee63bfaba6ea9e659fc96aeb66bd1443e5",
+          "anchorSha256": "364fabb6bc31c6a8e7aa7cf3ebbe614a323c67f14cb35104e30f2430135c3317",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[2].blocks[0]",
+      "kind": "summary",
+      "textSha256": "b8a26c52ff245258582145ce5d32b5fba457c47f5a2637a55a071315cec37118",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-mark-interview",
+          "locator": "Questions on Holy Communion and penance"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-mark-interview",
+          "file": "work/church-guide/authority/evidence/mark-interview.txt",
+          "sha256": "b00a3f609e9b777730fc60657703a7bcf345f1dbef455bd4d73398ad5df29296",
+          "anchorSha256": "9836fd76b3d0361b8305ee762d330f1d3452785b2b55dbea03a67a69b51d82fa",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-mark-interview",
+          "file": "work/church-guide/authority/evidence/mark-interview.txt",
+          "sha256": "b00a3f609e9b777730fc60657703a7bcf345f1dbef455bd4d73398ad5df29296",
+          "anchorSha256": "866932dbed6ddcc11b0b4adc9504a809bbf8a4a72047ee627315fbc86df299e1",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-mark-interview",
+          "file": "work/church-guide/authority/evidence/mark-interview.txt",
+          "sha256": "b00a3f609e9b777730fc60657703a7bcf345f1dbef455bd4d73398ad5df29296",
+          "anchorSha256": "2b8439a2f2f04f0e2588d5225a07bbc42aff4d9b7b4cf28f3b540d99a2e06ca8",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[3].blocks[0]",
+      "kind": "summary",
+      "textSha256": "3ca76703bc4ae1bd9e962da8d911d7ecbe46459f211a17608d2fdadf8da50e40",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-fasting-norms",
+          "locator": "“Fasting” and “Explanation of the Vicariate Fasting Norms”"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-fasting-norms",
+          "file": "work/church-guide/authority/evidence/fasting-norms.txt",
+          "sha256": "542aec2e0234df91b133c0c5e804763f8ad474092e890826803211b8b584a039",
+          "anchorSha256": "8ec147df5193d0963f4ff71e3cb8a14fe64ccbc5be4de7ce87e9f7e9628d6663",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-fasting-norms",
+          "file": "work/church-guide/authority/evidence/fasting-norms.txt",
+          "sha256": "542aec2e0234df91b133c0c5e804763f8ad474092e890826803211b8b584a039",
+          "anchorSha256": "8291fd95bb4a9dd79f9ea218d21c95795666b5cb3c4e5f8f3ccb4d37a9106084",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-fasting-norms",
+          "file": "work/church-guide/authority/evidence/fasting-norms.txt",
+          "sha256": "542aec2e0234df91b133c0c5e804763f8ad474092e890826803211b8b584a039",
+          "anchorSha256": "cbe8e378dd0664518fe1adecbcd736e14fa33a2f53e84f891beaf4be70833f6d",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[3].blocks[1]",
+      "kind": "quotation",
+      "textSha256": "490e7916713c498b48f69e087c935596806b9cbcfac4576a42426379c73c3fa4",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Apostolical Canons, Canon 69 — historical text with an infirmity exception; Canon LXIX."
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-npnf214",
+            "file": "work/church-guide/authority/evidence/npnf214.txt",
+            "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+            "anchorSha256": "490e7916713c498b48f69e087c935596806b9cbcfac4576a42426379c73c3fa4",
+            "anchorMatched": true
+          }
+        ]
+      }
+    },
+    {
+      "path": "$.cases[4].blocks[0]",
+      "kind": "summary",
+      "textSha256": "addb6a2c568f85f5f008d7c53397e89e527698ebaaa9ba41b06c18b361f51d9a",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-family-social-concept",
+          "locator": "Section X.2, paragraphs on marriages with the non-Orthodox and non-Christians"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-family-social-concept",
+          "file": "work/church-guide/authority/evidence/family-social-concept.txt",
+          "sha256": "7488346719e50f361b286cb867fff7521411e59e1a723b797d6bdb4fe6609155",
+          "anchorSha256": "0d5613c39774ca6a7b0ef090d9484c577593fd910914ffc6c429ab8c1cee87c0",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-family-social-concept",
+          "file": "work/church-guide/authority/evidence/family-social-concept.txt",
+          "sha256": "7488346719e50f361b286cb867fff7521411e59e1a723b797d6bdb4fe6609155",
+          "anchorSha256": "99c3264d5695d0b433a7a488ac9f4d6a0956505e0d74f5deb9c62363a6d8508c",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-family-social-concept",
+          "file": "work/church-guide/authority/evidence/family-social-concept.txt",
+          "sha256": "7488346719e50f361b286cb867fff7521411e59e1a723b797d6bdb4fe6609155",
+          "anchorSha256": "f69408fd5e06f944f6e9ec0076c859d0355092bfd54e16a4ac6528c0158c8e24",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[4].blocks[1]",
+      "kind": "summary",
+      "textSha256": "d230cf6ca4b40f3c6a8ed8e1dc9856cd5707041a4d8605e3ed7cd98b6dab89f2",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 89"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "7e8d9e93f4207da43f8250457c036c53561c00fbe5ddb9140899c6fcd8da50ed",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "1e9a41fd6da50924298d0b8e2f0277ad14d43b8df4bd964a92c6fa415ca25575",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[5].blocks[0]",
+      "kind": "summary",
+      "textSha256": "adb761688c29c2132c4c1005c50dc8d8d9abeeb542a8cad3d979c0e403bf847b",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "locator": "Sections 20(c–d), 46–48 and 53"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "e046af73e8cad3d035e036c9028f65fe795ab4ad9cf56bbb078f0dd276760299",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "d6f56949f193b43b6fc0f4175ebf5dec82c6f6a0faea153b5129b83a54bd8547",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "23fe9d88294b4b8a3f24135a4a46b8d4e050274c57298928ac7ad441c8437cbb",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-parish-bylaws",
+          "file": "work/church-guide/authority/evidence/parish-bylaws.txt",
+          "sha256": "b0a47b66d716936b6867c9850c4d84406aea1ed2404462c058cc6cf4eacf578b",
+          "anchorSha256": "6a7948f37aa4a809ca19ea17efc1238f45191edccb1f97cac8a96e1f7f049a4e",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[5].blocks[1]",
+      "kind": "summary",
+      "textSha256": "2e1363cf4340191a040670fa14c86259fa6b43e172f85cb31560c6348c390972",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-wardens",
+          "locator": "Section 1"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-wardens",
+          "file": "work/church-guide/authority/evidence/wardens.txt",
+          "sha256": "6bdbf7f2dcbef87a74320a1e5db04afd518ecfb01ed2c1abcfd4478359ed0c94",
+          "anchorSha256": "a69d4f0221e6628fabf37813f618a08ec7ec29159f84acdd1f728a894f086541",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[6].blocks[0]",
+      "kind": "summary",
+      "textSha256": "1884ec9f80098c3ffb235de1281add763c294074bca84ed31f293a503ea8829a",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-serving-clergy",
+          "locator": "Opening statement, “A general note” and “Factors considered”"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-serving-clergy",
+          "file": "work/church-guide/authority/evidence/serving-clergy.txt",
+          "sha256": "031c21128ced3b04da6eafc49a04ed05ecdea8b3dd4aeaee172fb832c27fd86a",
+          "anchorSha256": "6b76de388f78bb7e4cb344f26c33ed8064c0ccf9d613f6acc602f4066cb4ae04",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-serving-clergy",
+          "file": "work/church-guide/authority/evidence/serving-clergy.txt",
+          "sha256": "031c21128ced3b04da6eafc49a04ed05ecdea8b3dd4aeaee172fb832c27fd86a",
+          "anchorSha256": "f2a154364bd8920aaf51baeed6688c5a09f75d12be184812cec593d654d97789",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-serving-clergy",
+          "file": "work/church-guide/authority/evidence/serving-clergy.txt",
+          "sha256": "031c21128ced3b04da6eafc49a04ed05ecdea8b3dd4aeaee172fb832c27fd86a",
+          "anchorSha256": "ec97e2d6412f0c9496a8efd5d0aa0068282bafbba61f958c60e1e8371e83970c",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[6].blocks[1]",
+      "kind": "summary",
+      "textSha256": "145d0f437460b67c81dfeef7dd2967ca0983464c50dfc84dd4ed6fdbbf2acc15",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-clergy-reception",
+          "locator": "English questions on canonical release, clerical rank and awards"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-clergy-reception",
+          "file": "work/church-guide/authority/evidence/clergy-reception.txt",
+          "sha256": "a23e9bb3510bc4445ce97b4fb9c9e46093630a552b4aed291e423a6cf17e93b9",
+          "anchorSha256": "2bae5697f803acd75868006309a55789094a1fb936e0eff40ba98b3aa5933b91",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-clergy-reception",
+          "file": "work/church-guide/authority/evidence/clergy-reception.txt",
+          "sha256": "a23e9bb3510bc4445ce97b4fb9c9e46093630a552b4aed291e423a6cf17e93b9",
+          "anchorSha256": "f26dd065949a557f97b263c05957d56dcd9cf0cf1a21b30549d9a89ae32be328",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-clergy-reception",
+          "file": "work/church-guide/authority/evidence/clergy-reception.txt",
+          "sha256": "a23e9bb3510bc4445ce97b4fb9c9e46093630a552b4aed291e423a6cf17e93b9",
+          "anchorSha256": "7185322fe564f1d50274ee964f0e26b232a552b1e064f3629bdab12e70633030",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[7].blocks[0]",
+      "kind": "summary",
+      "textSha256": "a4a0a1da1d9b5ee3339dc8dafbd479aa0f1b19b4f3a864bb68bd569359b7c524",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Sections 17 and 29(e–f)"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "a095cf432ec45364bd88f231824dd391978c99cfe66277c60826532413430644",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "d6bac6731de6e24990bae20b624283e7f4252e8b97c2285c6a949f84852909e9",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "43ae820d6113a7fb5f15af939b4e00e0df8b9b419438e66fd90a2136f8451803",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[7].blocks[1]",
+      "kind": "summary",
+      "textSha256": "3e6bdbd0721304c5f5de6fa21afe40dbb10232711d6bb741dacb6db551e026bf",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "locator": "Section 11"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-canonical-act-final",
+          "file": "work/church-guide/authority/evidence/canonical-act-final.txt",
+          "sha256": "fc2245b11e2244a2127c6690bb70d2ae85be750bb284e0087f02f2e82ee759bb",
+          "anchorSha256": "dd8b2302896709ce055827ae76580943adc3facd5b5084d4f41f29a592ea8827",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[8].blocks[0]",
+      "kind": "summary",
+      "textSha256": "5196fbb54b2088030e8f07c037289e22c56ce03d3e50fbdb20b51555c5f40862",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-misconduct",
+          "locator": "Official PDF, printed pages 3 and 6–9: Preface; Reports & Complaints, paragraphs 1–2, 6, 16–22"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-misconduct",
+          "file": "work/church-guide/authority/evidence/misconduct-actual-extract.txt",
+          "sha256": "bb045d1508cf65f4099235d64912801fe808c3025729b183c8120ae7b3341c4f",
+          "anchorSha256": "e2911742fb70d3950e879a22618324e01fff898b9828114f52fff9ebf8988aa6",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-misconduct",
+          "file": "work/church-guide/authority/evidence/misconduct-actual-extract.txt",
+          "sha256": "bb045d1508cf65f4099235d64912801fe808c3025729b183c8120ae7b3341c4f",
+          "anchorSha256": "8514f3d5545e8c4a8f679c5e382b3c447ff2f9e0064c647fc8da271d1a11ce69",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-misconduct",
+          "file": "work/church-guide/authority/evidence/misconduct-actual-extract.txt",
+          "sha256": "bb045d1508cf65f4099235d64912801fe808c3025729b183c8120ae7b3341c4f",
+          "anchorSha256": "e1f4123e9b79bef8d302c5d35ba3afbb841f6c993061a7b54c898faff34f1537",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-misconduct",
+          "file": "work/church-guide/authority/evidence/misconduct-actual-extract.txt",
+          "sha256": "bb045d1508cf65f4099235d64912801fe808c3025729b183c8120ae7b3341c4f",
+          "anchorSha256": "4561752e17992b897250e5ab25a4b6062beecd050765e079f76409765481cbc1",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[9].blocks[0]",
+      "kind": "summary",
+      "textSha256": "c0a845bcd295af62f1fb7f4825e49565c86907d9390746283c9e18ef1fb98da8",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-monasteries",
+          "locator": "Sections 20 and 25"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "8e5d28ffc7dfd5b02d82285d1c442acbf00d0a92319acec9f9471e0eea786f60",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-monasteries",
+          "file": "work/church-guide/authority/evidence/monasteries.txt",
+          "sha256": "16253ab595403db96a35dadc7db23a498e4bbe6667b08c885c67be6d3ceb4230",
+          "anchorSha256": "4773a563b280d4ced86229dbb089ebc5b3f1cd868f0ac3c2a122d0ad67ec63c9",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[10].blocks[0]",
+      "kind": "summary",
+      "textSha256": "9fad4954ded445fd807a1089110a1e59c71c08a972fd4d6a32576c8d27bdacb7",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "locator": "Section 29(j–k)"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "bb23b714af56ed1f6d273d78e805fcdfde4520b9a7c84cd89e33b231769ee316",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-rocor-regulations",
+          "file": "work/church-guide/authority/evidence/rocor-regulations.txt",
+          "sha256": "e178f45852ea1e0a7752d3a6590800f5a72cd5b27b9871a7c2b1f44671ce81f2",
+          "anchorSha256": "b3e8036dbfea76df5e49bb44742499b1efd20b2273d4d2cda10f830d19ffd795",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[10].blocks[1]",
+      "kind": "summary",
+      "textSha256": "cf72403ef7ad5ff38e31edaa36af0272b1fa19d3a1632049046c394437a42e3f",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-rectors",
+          "locator": "Section 3"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-rectors",
+          "file": "work/church-guide/authority/evidence/rectors.txt",
+          "sha256": "ec10dbe49f8ac22ca7bca0cf4593ce0feb7a96ab33b174beea22774962f1fb47",
+          "anchorSha256": "af906900566699b3c8c369fe0e881c2493cf0600cce098c1289fccff2a49ee19",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[10].blocks[2]",
+      "kind": "summary",
+      "textSha256": "de36a5faa117b31a5eb3bc936621f288c3733a01c1b1ded15e4400e2a6689844",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-deans",
+          "locator": "II.A, supervision of services"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-deans",
+          "file": "work/church-guide/authority/evidence/deans.txt",
+          "sha256": "6da6430719da4f17c2ebd597db807e3aa038fc76e74a4d17b282f973c6559ae1",
+          "anchorSha256": "c1c2f224584f1454638e2df1760a41cd53995650c3beafb3a0b5834f24786822",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.cases[11].blocks[0]",
+      "kind": "summary",
+      "textSha256": "fd3201663361ea23007e640d1a373bd630ecb52ac7234ff9b355503bf0cf4fd9",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-calendar-conference",
+          "locator": "Section 5, “The problem of the calendar”, final paragraphs on the Second Pan-Orthodox Pre-Council Conference"
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "reason": "Necessary concise summary of the identified publication; substantial reproduction permission has not been established. Its jurisdiction, date, genre and scope remain explicit.",
+      "sourceEvidence": [
+        {
+          "sourceId": "auth-calendar-conference",
+          "file": "work/church-guide/authority/evidence/calendar-conference-archive.txt",
+          "sha256": "bf57166835fee61ed1d5fe77b1d8dafdfc0c83674158d8b3259f70ebca51a305",
+          "anchorSha256": "4567e34a0a5a3a50b63e92bc65c9f44e6605cc45f5d6aa89ee939967cb71865b",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-calendar-conference",
+          "file": "work/church-guide/authority/evidence/calendar-conference-archive.txt",
+          "sha256": "bf57166835fee61ed1d5fe77b1d8dafdfc0c83674158d8b3259f70ebca51a305",
+          "anchorSha256": "ea65077f38b72451e7990bc6fcee9e3832c765618ee0a6c996849d18a9e5e315",
+          "anchorMatched": true
+        },
+        {
+          "sourceId": "auth-calendar-conference",
+          "file": "work/church-guide/authority/evidence/calendar-conference-archive.txt",
+          "sha256": "bf57166835fee61ed1d5fe77b1d8dafdfc0c83674158d8b3259f70ebca51a305",
+          "anchorSha256": "f6bea40b14b9f0d454fadd7e2cf1918b74c7cc02dbeaea111a092d24def45834",
+          "anchorMatched": true
+        }
+      ]
+    },
+    {
+      "path": "$.readings[0].blocks[0]",
+      "kind": "quotation",
+      "textSha256": "5babe627bca82c72aa01876ee0a577869abd70dffae14419ff802b37acdef64b",
+      "sourceRefs": [
+        {
+          "sourceId": "auth-npnf214",
+          "locator": "Council in Trullo, Canon 102; Canon CII."
+        }
+      ],
+      "researchAudit": "work/church-guide/authority/audit.json",
+      "verification": {
+        "match": true,
+        "method": "Exact retained-source substring after markup/whitespace normalization",
+        "sourceEvidence": [
+          {
+            "sourceId": "auth-npnf214",
+            "file": "work/church-guide/authority/evidence/npnf214.txt",
+            "sha256": "5b8d0c6518fd71b1de8d626ebf1d6b59c9967d2e7f5d2e0379654b5cbbf0c914",
+            "anchorSha256": "5babe627bca82c72aa01876ee0a577869abd70dffae14419ff802b37acdef64b",
+            "anchorMatched": true
+          }
+        ]
+      }
+    }
+  ]
+}

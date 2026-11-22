@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Original decorative interface corner. -->
+  <g stroke="#b99c5a" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 44V3h41M8 37V8h29M3 20c17 0 17-17 34-17M3 37C3 20 20 20 20 3"/>
+    <path d="M12 21c12 0 9-11 19-11-1 8-10 8-10 19-8-1-9-8-9-8z"/>
+    <circle cx="11" cy="11" r="2" fill="#b99c5a"/><path d="M3 43h3m37-40v3"/>
+  </g>
+</svg>

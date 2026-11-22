@@ -1,0 +1,1702 @@
+{
+  "version": "saints-library-2026-11-20",
+  "profiles": 80,
+  "nativeReadings": 41,
+  "profilesWithNativeReadings": 33,
+  "nativeWords": 91621,
+  "sourceRecords": 102,
+  "quotationChecks": 121,
+  "summaryRecords": 80,
+  "method": "NFKC and whitespace normalization; source words and sequence retained. Historical editorial footnote callouts omitted; complete work sections independently matched. Modern summaries are separately recorded and are not counted as quotation matches.",
+  "contentSHA256": "3fca2cff096bdeb48766febd9f0be2bd22a8cc9d086e1708b2caf324b0350f4e",
+  "checks": [
+    {
+      "key": "saint/basil/reading/0",
+      "textSHA256": "c0ab82c51daad0c6860bea90b62b8eff6f4965c7c4e9626af456aec2784f30b0",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf208-readable.txt",
+      "evidenceSHA256": "e8040b2756321114a5e84518b45e4b4a3fe9fb4860259f81abcda4c2b8f302f6",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/basil/reading/1",
+      "textSHA256": "82f8f936c811ff7a783e1b0ed563e6737efe7d16d776dc1b63cc796aa5d0ceea",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf208-readable.txt",
+      "evidenceSHA256": "e8040b2756321114a5e84518b45e4b4a3fe9fb4860259f81abcda4c2b8f302f6",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-damascene/reading/0",
+      "textSHA256": "3482e52acc8bc9e2f89d5af20c1250b5dd7a6ec8b488430d45f8931f42fa972a",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf209-readable.txt",
+      "evidenceSHA256": "1675c9a7189aef1d47f8739e7e596372556fc125da480974210febd453c0b547",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-damascene/reading/1",
+      "textSHA256": "e9776065d57c86add757d4f1f20b8449a62bc7a00201787a42a365c53c366aca",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf209-readable.txt",
+      "evidenceSHA256": "1675c9a7189aef1d47f8739e7e596372556fc125da480974210febd453c0b547",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/cyril-jerusalem/reading/0",
+      "textSHA256": "c6fa9a0343ecf1c9da5fcb5da7531516cbcefd18aee0bc749d1d159c1f900f5a",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "evidenceSHA256": "47f3636695c1cd5ad8fa3a038c504316eded57e314347617e3e14a750471a10c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/cyril-jerusalem/reading/1",
+      "textSHA256": "cb99002c7a795f90578f5efb1157ce568c9afacdb6f39b4cff999546655dc894",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "evidenceSHA256": "47f3636695c1cd5ad8fa3a038c504316eded57e314347617e3e14a750471a10c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-cassian/reading/0",
+      "textSHA256": "642e98adb04271505c614b6117bb188bc05e2eacf1bdf962bed2caebc442a4ec",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf211-readable.txt",
+      "evidenceSHA256": "27252d151d147a03d11f82492863f3f9aabe00c2866c629272fac622b730fdb2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-cassian/reading/1",
+      "textSHA256": "2b4fe841f6ba740d84e13881e28ddbb17affd66f34462d617b4d748b028cdd27",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf211-readable.txt",
+      "evidenceSHA256": "27252d151d147a03d11f82492863f3f9aabe00c2866c629272fac622b730fdb2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/vincent-lerins/reading/0",
+      "textSHA256": "3e5eac5784616ede11d2e88d3b58d809467e6b9dd98c6f1741666a968421097a",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf211-readable.txt",
+      "evidenceSHA256": "27252d151d147a03d11f82492863f3f9aabe00c2866c629272fac622b730fdb2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-chrysostom/reading/0",
+      "textSHA256": "2fab0dd00c19388396e62336fd78a4be1787a544a8422a56719c795edddd7dba",
+      "evidenceFile": "work/revision/evidence/worship/chrysostom-matthew.txt",
+      "evidenceSHA256": "adb8f1c9a988c5050a20fb9fdbf75143dcb227e95e3dad2f560a63b757923648",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-chrysostom/reading/1",
+      "textSHA256": "2c9e00ac8d5a5b291dea92790ab4c6ed192660eccfb0825510d273d206b8972b",
+      "evidenceFile": "work/revision/evidence/worship/chrysostom-matthew.txt",
+      "evidenceSHA256": "adb8f1c9a988c5050a20fb9fdbf75143dcb227e95e3dad2f560a63b757923648",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/irenaeus/reading/0",
+      "textSHA256": "1da61e2fa88714c934da030c32f74c89ff59ccd13db9edc30129c446f41072a2",
+      "evidenceFile": "work/revision/evidence/history/irenaeus-original.txt",
+      "evidenceSHA256": "23964de2ed4bc864141791ed92f0d4d14eb21989958ed9144d350f1b28ed7c4f",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/ignatius/reading/0",
+      "textSHA256": "a8afefd6379957042aca25af62bf34b8c42cf502aa40d35957ec762cd14b02d9",
+      "evidenceFile": "work/revision/evidence/history/ignatius-original.txt",
+      "evidenceSHA256": "fcc379069fe8d35bbde59347e0e31c85739ce05178d4a57b7bab4a003cd48275",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/polycarp/reading/0",
+      "textSHA256": "e1d4bb638d0ac5ff86d8f99e2c16a2ab3841f7f985c4639a27c54341c6cd18e1",
+      "evidenceFile": "work/revision/evidence/history/polycarp-original.txt",
+      "evidenceSHA256": "7dd6d631825dc488839f1f644bf6966a89aef261714582c79c259ad3c2f9fee7",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/polycarp/reading/1",
+      "textSHA256": "8244e2a9bd0c029cc490aaa4b6df9496f9c6c41ad35f9216ee4e9769c1630a81",
+      "evidenceFile": "work/revision/evidence/history/polycarp-original.txt",
+      "evidenceSHA256": "7dd6d631825dc488839f1f644bf6966a89aef261714582c79c259ad3c2f9fee7",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/martin-tours/reading/0",
+      "textSHA256": "7f18de3e8b4a080641c417fa8c2530751c66468373c79e39da1d547d6ece9475",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf211-readable.txt",
+      "evidenceSHA256": "27252d151d147a03d11f82492863f3f9aabe00c2866c629272fac622b730fdb2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/martin-tours/reading/1",
+      "textSHA256": "2a673fc3e22b7acd0b8062601f610f8bcc572cdd81337a43cef48809711af117",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf211-readable.txt",
+      "evidenceSHA256": "27252d151d147a03d11f82492863f3f9aabe00c2866c629272fac622b730fdb2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/paul-thebes/reading/0",
+      "textSHA256": "9bb57f93cabae6024a9b68a30db1ca4e208b9fcbf10f04c7f6917bc1958f8583",
+      "evidenceFile": "work/completeness/saints/evidence/npnf206.txt",
+      "evidenceSHA256": "53fb977f33ea3d92276eca7c0d2fa2e86f654499855ea74bef1c0721706724e1",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/hilarion/reading/0",
+      "textSHA256": "9ab416747999cafbb32d8b49c1e066fa0653b47f1bc6595a46d4703948036cd9",
+      "evidenceFile": "work/completeness/saints/evidence/npnf206.txt",
+      "evidenceSHA256": "53fb977f33ea3d92276eca7c0d2fa2e86f654499855ea74bef1c0721706724e1",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/paula/reading/0",
+      "textSHA256": "22291c56e5eaea48b67ac020213a2134b21eee85c2f53376e0066bef2f4fe2ad",
+      "evidenceFile": "work/completeness/saints/evidence/npnf206.txt",
+      "evidenceSHA256": "53fb977f33ea3d92276eca7c0d2fa2e86f654499855ea74bef1c0721706724e1",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/jerome/reading/0",
+      "textSHA256": "3cbe7f91583bee9837dfbadb64e347622f98bea85244cc0208c30e29c2e1ce38",
+      "evidenceFile": "work/completeness/saints/evidence/npnf206.txt",
+      "evidenceSHA256": "53fb977f33ea3d92276eca7c0d2fa2e86f654499855ea74bef1c0721706724e1",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/antony/reading/0",
+      "textSHA256": "d59352b632d67c0b0f8bae9eda48ba9ca98b2c58a4e02e6e26bddf0409ac1141",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf204-readable.txt",
+      "evidenceSHA256": "6e5c3dd7b2f711a8e674ceeea89ab24e16e56defe59b7c12303cf1a8e8531631",
+      "matchedSegments": 94,
+      "match": true
+    },
+    {
+      "key": "saint/athanasius/reading/0",
+      "textSHA256": "a935d897d45dc4f620be20d239a20a31ac5ae9f3851bcfb4ccd2a5e9deeec03d",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf204-readable.txt",
+      "evidenceSHA256": "6e5c3dd7b2f711a8e674ceeea89ab24e16e56defe59b7c12303cf1a8e8531631",
+      "matchedSegments": 10,
+      "match": true
+    },
+    {
+      "key": "saint/macrina/reading/0",
+      "textSHA256": "2e24c6beb3533deb1cbce549e839e559675bc032c3ced95e4c06927c2324a254",
+      "evidenceFile": "work/completeness/saints/evidence/npnf205.txt",
+      "evidenceSHA256": "cef974043e48a52d1b6d4ce3bdfb538fa5be2c3af8b53e3bb75181760d614484",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/gregory-nyssa/reading/0",
+      "textSHA256": "2e24c6beb3533deb1cbce549e839e559675bc032c3ced95e4c06927c2324a254",
+      "evidenceFile": "work/completeness/saints/evidence/npnf205.txt",
+      "evidenceSHA256": "cef974043e48a52d1b6d4ce3bdfb538fa5be2c3af8b53e3bb75181760d614484",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/gregory-theologian/reading/0",
+      "textSHA256": "d40c59914ebe836b442381cd296390e56d5e6642c3e196459d5110af516cd1fc",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "evidenceSHA256": "47f3636695c1cd5ad8fa3a038c504316eded57e314347617e3e14a750471a10c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/justin/reading/0",
+      "textSHA256": "9a2d3686ed13b34fa53aad21660e55483706e7ee94494afd0a7cdac0515cf70e",
+      "evidenceFile": "work/completeness/saints/evidence/anf01.txt",
+      "evidenceSHA256": "ee9c7f0ac3f4df08d07ddf81cd7e061e82a35e0d27de611cae06f1e05b2fb991",
+      "matchedSegments": 7,
+      "match": true
+    },
+    {
+      "key": "saint/polycarp/reading/2",
+      "textSHA256": "0f24b8e227bd06f5387b77ed4d15f81c22904f4b3ecea29eba144d8ca15b5cbb",
+      "evidenceFile": "work/completeness/saints/evidence/anf01.txt",
+      "evidenceSHA256": "ee9c7f0ac3f4df08d07ddf81cd7e061e82a35e0d27de611cae06f1e05b2fb991",
+      "matchedSegments": 15,
+      "match": true
+    },
+    {
+      "key": "saint/theotokos/scripture",
+      "textSHA256": "2c619d57b95179498af240359dfd992fc75befb51762e58489cfa3a31462a8b9",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "evidenceSHA256": "fb6e3ae2bb1907e2edfae477451d76e7d6ccd822bdf2617c17346019fd5c6036",
+      "matchedSegments": 31,
+      "match": true
+    },
+    {
+      "key": "saint/john-baptist/scripture",
+      "textSHA256": "3ae25a4dc1d53479f529c8f207d6da962ff85a92b68ba8a4c9d4e35492126506",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "evidenceSHA256": "fb6e3ae2bb1907e2edfae477451d76e7d6ccd822bdf2617c17346019fd5c6036",
+      "matchedSegments": 24,
+      "match": true
+    },
+    {
+      "key": "saint/peter-paul/scripture",
+      "textSHA256": "024bb5ff33bc1551d51aff13fc0bfb0963dcff594364ce7d8724a41669f4b7d9",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Cor.json",
+      "evidenceSHA256": "2c79aeae7acffe3a289ac963420afed44304d1115242a049fc30f5b1ec6fae1c",
+      "matchedSegments": 58,
+      "match": true
+    },
+    {
+      "key": "saint/andrew/scripture",
+      "textSHA256": "54430b855baaa9759aaec921a7a067ba5d3ec1a81a1cbac8a521742587b80c8c",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "evidenceSHA256": "0ffaf777a4f37f318eccc56d1a174a71fb8d1c949ee5c7cd2f383967352ccb2d",
+      "matchedSegments": 17,
+      "match": true
+    },
+    {
+      "key": "saint/john-theologian/scripture",
+      "textSHA256": "77631ef9641c0e65ba21e00c0dfcc01f2b660bc94a065a7cb1eb6d99188a6319",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "evidenceSHA256": "0ffaf777a4f37f318eccc56d1a174a71fb8d1c949ee5c7cd2f383967352ccb2d",
+      "matchedSegments": 18,
+      "match": true
+    },
+    {
+      "key": "saint/matthew/scripture",
+      "textSHA256": "fbe9fb105b79e1a55367b95e9dd7cc7fc45625fdfc25a0a485cee6f790b0d4bf",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "evidenceSHA256": "65838da6db91feaae1b78ceefa58302e486460c523cbdb1df142bf73ab9ad546",
+      "matchedSegments": 38,
+      "match": true
+    },
+    {
+      "key": "saint/mark/scripture",
+      "textSHA256": "6033c3115f1abffe76b71da5d8dc109b58827eb46980fa12e915ecaf04a8ebec",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Mark.json",
+      "evidenceSHA256": "f6fe4a143cbab6a09ee8f5ab5e0c19379e8ccaed78b07f09e653aa5603b01505",
+      "matchedSegments": 45,
+      "match": true
+    },
+    {
+      "key": "saint/luke/scripture",
+      "textSHA256": "8dcae634b15b2752e141b6816df4562300e39b779a3e1dec8ca70e6aa8f2ac84",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "evidenceSHA256": "fb6e3ae2bb1907e2edfae477451d76e7d6ccd822bdf2617c17346019fd5c6036",
+      "matchedSegments": 25,
+      "match": true
+    },
+    {
+      "key": "saint/thomas/scripture",
+      "textSHA256": "72fc8224675a8b3e6c6d304a297c9481215ef85cac32f97d465d37e474d4e8d1",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "evidenceSHA256": "0ffaf777a4f37f318eccc56d1a174a71fb8d1c949ee5c7cd2f383967352ccb2d",
+      "matchedSegments": 31,
+      "match": true
+    },
+    {
+      "key": "saint/james-jerusalem/scripture",
+      "textSHA256": "fa37b70e34529bf85942ee9f7686cc2a928e50255ac9ed4598d98f53299f922f",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Jas.json",
+      "evidenceSHA256": "0a320862bc355de6ecfdbba475e18979064b471da5377874ad2b951200d466e6",
+      "matchedSegments": 27,
+      "match": true
+    },
+    {
+      "key": "saint/stephen/scripture",
+      "textSHA256": "386a01c3442631437f31124931bc263ef1e590bcd88843ac758d4f55b81094db",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Acts.json",
+      "evidenceSHA256": "935202bccf35ae400826878506fe0ce50e099a7736734e5ee1ae3e3df05b2c72",
+      "matchedSegments": 60,
+      "match": true
+    },
+    {
+      "key": "saint/mary-magdalene/scripture",
+      "textSHA256": "12a6c88364597b5642070f0174844ae163fa5de6d507f73136f2f8b83f324283",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "evidenceSHA256": "0ffaf777a4f37f318eccc56d1a174a71fb8d1c949ee5c7cd2f383967352ccb2d",
+      "matchedSegments": 18,
+      "match": true
+    },
+    {
+      "key": "saint/photini/scripture",
+      "textSHA256": "faaa0393da3625ac39318f689a30d255ffd2608bddaadecd9a6cf577ab6f3830",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "evidenceSHA256": "0ffaf777a4f37f318eccc56d1a174a71fb8d1c949ee5c7cd2f383967352ccb2d",
+      "matchedSegments": 42,
+      "match": true
+    },
+    {
+      "key": "saint/theotokos/excerpt",
+      "textSHA256": "ad8143d9058fa2bdff8d1294584c390775135e2a408f4d183000a6719f9936fb",
+      "evidenceFile": "work/completeness/saints/evidence/theotokos.txt",
+      "evidenceSHA256": "fda6593640ee017f05c244da90adaad9d98743df29f0208c9189f737a3ddec29",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/theotokos/summary",
+      "kind": "summary",
+      "textSHA256": "2525416d9d72c7d875360a1530323273ebb64dd3344cfd6f2563dab1a343871a",
+      "sourceId": "sa-life-theotokos",
+      "evidenceFile": "work/completeness/saints/evidence/theotokos.txt",
+      "evidenceSHA256": "fda6593640ee017f05c244da90adaad9d98743df29f0208c9189f737a3ddec29",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-baptist/excerpt",
+      "textSHA256": "ea87d2f14fbfcefd6195409e3291ce656f151a7ef10733c8839ac0200c19bdd7",
+      "evidenceFile": "work/completeness/saints/evidence/john-baptist.txt",
+      "evidenceSHA256": "a511bb52fc73303900871c918acb50c401aab0f37c3bc1cfadca4eb64edd7c70",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-baptist/summary",
+      "kind": "summary",
+      "textSHA256": "b314177b78d0b7fb4d72b268611bb89a4db717c2940a0f928cdb98dbea8cede8",
+      "sourceId": "sa-life-john-baptist",
+      "evidenceFile": "work/completeness/saints/evidence/john-baptist.txt",
+      "evidenceSHA256": "a511bb52fc73303900871c918acb50c401aab0f37c3bc1cfadca4eb64edd7c70",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/peter-paul/excerpt",
+      "textSHA256": "6f1f20498d17d4df5e2643ba2fb7b4ddbbd86f3c9b7cb6a18e3ad11b643bfa6b",
+      "evidenceFile": "work/completeness/saints/evidence/peter-paul.txt",
+      "evidenceSHA256": "6cd2e7ad6e475d9998cb8d9d650e98ea0327ac21adf3c9dc4d567660a7937f2b",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/peter-paul/summary",
+      "kind": "summary",
+      "textSHA256": "c6740ce9ce1569d39e1c7e522e83f7e220895646fb354f0bedcc577b0574d948",
+      "sourceId": "sa-life-peter-paul",
+      "evidenceFile": "work/completeness/saints/evidence/peter-paul.txt",
+      "evidenceSHA256": "6cd2e7ad6e475d9998cb8d9d650e98ea0327ac21adf3c9dc4d567660a7937f2b",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/andrew/excerpt",
+      "textSHA256": "c3104960e610cababaaef2d4d0b6373f612d9db97e3e182534295e3f18252f83",
+      "evidenceFile": "work/completeness/saints/evidence/andrew.txt",
+      "evidenceSHA256": "5cd2faf4f7dc408cdda309178dd834b78fa658c4067cbee9f28aad545818d736",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/andrew/summary",
+      "kind": "summary",
+      "textSHA256": "c744d66870d817cb5b42bf46cb17747425710f6bd0848fd29f68c20f7164eeed",
+      "sourceId": "sa-life-andrew",
+      "evidenceFile": "work/completeness/saints/evidence/andrew.txt",
+      "evidenceSHA256": "5cd2faf4f7dc408cdda309178dd834b78fa658c4067cbee9f28aad545818d736",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-theologian/excerpt",
+      "textSHA256": "aa909cdf876a415ade5db83e0a13a4fbcef820351735bfcb5acfea9d12aa6a25",
+      "evidenceFile": "work/completeness/saints/evidence/john-theologian.txt",
+      "evidenceSHA256": "220a5a7b3f9dbd7787992df8ce762439c4d8a44e3a845a1877df5c34bbefd73a",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-theologian/summary",
+      "kind": "summary",
+      "textSHA256": "eafc0373a11f6c02a2009aee5bfce9b6eddead3f89eccc1c973345ffbb9ada90",
+      "sourceId": "sa-life-john-theologian",
+      "evidenceFile": "work/completeness/saints/evidence/john-theologian.txt",
+      "evidenceSHA256": "220a5a7b3f9dbd7787992df8ce762439c4d8a44e3a845a1877df5c34bbefd73a",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/matthew/excerpt",
+      "textSHA256": "7cf931303a24cfccc6b5aeebeb8940475fe307e9cbb44095b404f64eeb23091a",
+      "evidenceFile": "work/completeness/saints/evidence/matthew.txt",
+      "evidenceSHA256": "2691cb3815dc6f8d2c3b3eab42e20ab2a316af8a1493582122972960427885fa",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/matthew/summary",
+      "kind": "summary",
+      "textSHA256": "f9fc2c425379fa31f4726ca85c4bc95d082f66fd65a1c330c9b37190b02e5550",
+      "sourceId": "sa-life-matthew",
+      "evidenceFile": "work/completeness/saints/evidence/matthew.txt",
+      "evidenceSHA256": "2691cb3815dc6f8d2c3b3eab42e20ab2a316af8a1493582122972960427885fa",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/mark/excerpt",
+      "textSHA256": "f4a035cdeaa5bc07076b0bd779d507fff97d35c74aa7745990c15b1b2a4b17a0",
+      "evidenceFile": "work/completeness/saints/evidence/mark.txt",
+      "evidenceSHA256": "df99c7cf4d9e7b328bd6aab3e31ef9ff85aa614622424ae88c275e8f62f0a064",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/mark/summary",
+      "kind": "summary",
+      "textSHA256": "124683836440a681cf860899efc1d5b4afc21bbe37cbce92e78ed2906ba031e4",
+      "sourceId": "sa-life-mark",
+      "evidenceFile": "work/completeness/saints/evidence/mark.txt",
+      "evidenceSHA256": "df99c7cf4d9e7b328bd6aab3e31ef9ff85aa614622424ae88c275e8f62f0a064",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/luke/excerpt",
+      "textSHA256": "cefbe75191f47f1a7475c66abe9df2e1a9565d04c89c874c59fac54fd3c1be55",
+      "evidenceFile": "work/completeness/saints/evidence/luke.txt",
+      "evidenceSHA256": "bb0ea4a5a7f51c8170e3a35284ee9ac71da52d2e6d8d5de897d1d0f8a578904b",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/luke/summary",
+      "kind": "summary",
+      "textSHA256": "6d611e32fe90147c6ede57ae22c70487d738ce083fbfb1ad694bcf959eda4d64",
+      "sourceId": "sa-life-luke",
+      "evidenceFile": "work/completeness/saints/evidence/luke.txt",
+      "evidenceSHA256": "bb0ea4a5a7f51c8170e3a35284ee9ac71da52d2e6d8d5de897d1d0f8a578904b",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/thomas/excerpt",
+      "textSHA256": "e3db632de910c77d4be23defbc2e7321b6b39a38d253d8bd951929c897c42aec",
+      "evidenceFile": "work/completeness/saints/evidence/thomas.txt",
+      "evidenceSHA256": "c6d332f1d7a52353c370cabe4b29a53907cc6e40231e48e790aee1ce209312d6",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/thomas/summary",
+      "kind": "summary",
+      "textSHA256": "ac3a5ce94e0d9fa57c574a6a0ea9750de63068f60e999559c78bba76db64cfcb",
+      "sourceId": "sa-life-thomas",
+      "evidenceFile": "work/completeness/saints/evidence/thomas.txt",
+      "evidenceSHA256": "c6d332f1d7a52353c370cabe4b29a53907cc6e40231e48e790aee1ce209312d6",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/james-jerusalem/excerpt",
+      "textSHA256": "11374f093f0859853ede174d2ec2fc06dbd0a593a8c0ddf5cbd1ff37292602c5",
+      "evidenceFile": "work/completeness/saints/evidence/james-jerusalem.txt",
+      "evidenceSHA256": "ca88585d18d56d92c66accb347f096ff687676d8c8699d562ad84a1709fa2706",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/james-jerusalem/summary",
+      "kind": "summary",
+      "textSHA256": "36f0998515e20a4e1c5f2028aea200c999ba870cb55e14b91ca5ff405cbd4547",
+      "sourceId": "sa-life-james-jerusalem",
+      "evidenceFile": "work/completeness/saints/evidence/james-jerusalem.txt",
+      "evidenceSHA256": "ca88585d18d56d92c66accb347f096ff687676d8c8699d562ad84a1709fa2706",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/stephen/excerpt",
+      "textSHA256": "f9603c3e8989d5eecd427074e8004e955d35a333f332d47a89af6b6c2aa79b01",
+      "evidenceFile": "work/completeness/saints/evidence/stephen.txt",
+      "evidenceSHA256": "3918da85ae9195a951ed488a279f3ac1bab35224861601356bdaae85c7b4302b",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/stephen/summary",
+      "kind": "summary",
+      "textSHA256": "c4017eaba25eb10c5f5c94a26d1d16346389264db5b6b053ebaa15c6fd3ac86d",
+      "sourceId": "sa-life-stephen",
+      "evidenceFile": "work/completeness/saints/evidence/stephen.txt",
+      "evidenceSHA256": "3918da85ae9195a951ed488a279f3ac1bab35224861601356bdaae85c7b4302b",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/mary-magdalene/excerpt",
+      "textSHA256": "e8c9622b99893b513d83eff6d555c7b0ea1382a7a8b7327ab2325fb4d7e85ed7",
+      "evidenceFile": "work/completeness/saints/evidence/mary-magdalene.txt",
+      "evidenceSHA256": "5490aa00c8f2e0178ef9296c7122bad324430098852584f30de40033d40f4582",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/mary-magdalene/summary",
+      "kind": "summary",
+      "textSHA256": "525319359194ff1d58cc7b32357e0f4988e3843105d888a1870d297878b3ff59",
+      "sourceId": "sa-life-mary-magdalene",
+      "evidenceFile": "work/completeness/saints/evidence/mary-magdalene.txt",
+      "evidenceSHA256": "5490aa00c8f2e0178ef9296c7122bad324430098852584f30de40033d40f4582",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/photini/excerpt",
+      "textSHA256": "8444240e3f8d4a537fa0facc2b295fa61cc52905cc8126b51725612dd4a951a1",
+      "evidenceFile": "work/completeness/saints/evidence/photini.txt",
+      "evidenceSHA256": "64c068d9588350e1ef40447a1440e2649f1141f7485caac130707f8e3fc68ea2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/photini/summary",
+      "kind": "summary",
+      "textSHA256": "f34a4faed96959a7ab9c3d1852d84a429f6f5d8125e172f9994351ebe4827bbd",
+      "sourceId": "sa-life-photini",
+      "evidenceFile": "work/completeness/saints/evidence/photini.txt",
+      "evidenceSHA256": "64c068d9588350e1ef40447a1440e2649f1141f7485caac130707f8e3fc68ea2",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/thekla/excerpt",
+      "textSHA256": "c384cc2d2fdda9c2aede016fc14cd81ac429e124be85fc1128fff6cefc85c45c",
+      "evidenceFile": "work/completeness/saints/evidence/thekla.txt",
+      "evidenceSHA256": "2944e0d03e12e0f5805fcd6fb76beffa6727ae94531001a9eb70b9553dace7f5",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/thekla/summary",
+      "kind": "summary",
+      "textSHA256": "2cab45e4440fa6785b07e93b991828a0c0317f5d7a312dd76abc995a0546edc9",
+      "sourceId": "sa-life-thekla",
+      "evidenceFile": "work/completeness/saints/evidence/thekla.txt",
+      "evidenceSHA256": "2944e0d03e12e0f5805fcd6fb76beffa6727ae94531001a9eb70b9553dace7f5",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/ignatius/excerpt",
+      "textSHA256": "127f8718af1c6d78d08f24191c5455a9896c2c25c928dff733f8bee57a76ce51",
+      "evidenceFile": "work/completeness/saints/evidence/ignatius.txt",
+      "evidenceSHA256": "ae4cf659b64580f61096f9bf8642a934c97f8389238f9c98829fdd7a4959a8be",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/ignatius/summary",
+      "kind": "summary",
+      "textSHA256": "c774977b56018fc2cfd1755e10bd118a923fa1f78ecebe2a558f808f25c9d234",
+      "sourceId": "sa-life-ignatius",
+      "evidenceFile": "work/completeness/saints/evidence/ignatius.txt",
+      "evidenceSHA256": "ae4cf659b64580f61096f9bf8642a934c97f8389238f9c98829fdd7a4959a8be",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/polycarp/excerpt",
+      "textSHA256": "2bb42c15f9f4d1aa105ffc28f752082349893ad0b3895f812554ab5becd0e408",
+      "evidenceFile": "work/completeness/saints/evidence/polycarp.txt",
+      "evidenceSHA256": "e426ba2771305613a3d7adc1ba8ecc8ce5045a9ed2f4606c1d2c12786182329c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/polycarp/summary",
+      "kind": "summary",
+      "textSHA256": "aee8390320fdf5512c498ff72e95f0ee3d5e536fa2969141603a0728bd05cb5b",
+      "sourceId": "sa-life-polycarp",
+      "evidenceFile": "work/completeness/saints/evidence/polycarp.txt",
+      "evidenceSHA256": "e426ba2771305613a3d7adc1ba8ecc8ce5045a9ed2f4606c1d2c12786182329c",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/justin/excerpt",
+      "textSHA256": "8217742e6beab1ed9949b0cebcdfb06589644c22d7752ccfb4603850910c7451",
+      "evidenceFile": "work/completeness/saints/evidence/justin.txt",
+      "evidenceSHA256": "eb6f44c6d1880f4579108df317ea8657ae46d3439b3e63f16cd92f6cd71a0716",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/justin/summary",
+      "kind": "summary",
+      "textSHA256": "95e3fe5e35460f4bf32eeffd86518ec32cd7d0de87baccd8655d17380fe2d22c",
+      "sourceId": "sa-life-justin",
+      "evidenceFile": "work/completeness/saints/evidence/justin.txt",
+      "evidenceSHA256": "eb6f44c6d1880f4579108df317ea8657ae46d3439b3e63f16cd92f6cd71a0716",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/irenaeus/excerpt",
+      "textSHA256": "1e97973cfdb7f52792808e163f265506ebde251440634d49f262454c9249bb73",
+      "evidenceFile": "work/completeness/saints/evidence/irenaeus.txt",
+      "evidenceSHA256": "568b9f1bc3f7188381289d9d2cc845dad732dc0f4c81bccf5e128cb6e636d24b",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/irenaeus/summary",
+      "kind": "summary",
+      "textSHA256": "2d5a2329093087b2aa0fff85a89b771b98b17bbb3b87e638c5208d2b3622d995",
+      "sourceId": "sa-life-irenaeus",
+      "evidenceFile": "work/completeness/saints/evidence/irenaeus.txt",
+      "evidenceSHA256": "568b9f1bc3f7188381289d9d2cc845dad732dc0f4c81bccf5e128cb6e636d24b",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/perpetua-felicity/excerpt",
+      "textSHA256": "6be6b8c886fe46bdce979a8fbb7f03faee56f0f3afe7724bcb48466c9f636d74",
+      "evidenceFile": "work/completeness/saints/evidence/perpetua-felicity.txt",
+      "evidenceSHA256": "fc422766dedd123ef8937851b9ea56b698e0f8595ea61325e069492d56fcabfb",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/perpetua-felicity/summary",
+      "kind": "summary",
+      "textSHA256": "55a74331d90afee6ca008571fc95fcbb4d35db411f4d92382acc2602e8709da5",
+      "sourceId": "sa-life-perpetua-felicity",
+      "evidenceFile": "work/completeness/saints/evidence/perpetua-felicity.txt",
+      "evidenceSHA256": "fc422766dedd123ef8937851b9ea56b698e0f8595ea61325e069492d56fcabfb",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/george/excerpt",
+      "textSHA256": "71dc2a1de0fcdee761db67f4528c529982a87160fbeea03e20cc6f31b631909a",
+      "evidenceFile": "work/completeness/saints/evidence/george.txt",
+      "evidenceSHA256": "c738aa901a20cee2444117bdd60615bd364c3a3616c6fdd8ecf98414ed2833d9",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/george/summary",
+      "kind": "summary",
+      "textSHA256": "de05b84846f6e054849b2638e18a92b4c2ce1544c76863d49d5a24af6d7c65eb",
+      "sourceId": "sa-life-george",
+      "evidenceFile": "work/completeness/saints/evidence/george.txt",
+      "evidenceSHA256": "c738aa901a20cee2444117bdd60615bd364c3a3616c6fdd8ecf98414ed2833d9",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/demetrius/excerpt",
+      "textSHA256": "3486a48f76e2f2d57b3d29a46704a41ba23bfbc652f9a43aec81440a5ae7c043",
+      "evidenceFile": "work/completeness/saints/evidence/demetrius.txt",
+      "evidenceSHA256": "3cd152d49bf4363ef5b9a8f0f48be7971fe79f876718dd5c1c3994971fee7111",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/demetrius/summary",
+      "kind": "summary",
+      "textSHA256": "91707765346b084e2b3933cb6ece658f0370ebb65a1f19ada4a7ca742116ce49",
+      "sourceId": "sa-life-demetrius",
+      "evidenceFile": "work/completeness/saints/evidence/demetrius.txt",
+      "evidenceSHA256": "3cd152d49bf4363ef5b9a8f0f48be7971fe79f876718dd5c1c3994971fee7111",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/catherine/excerpt",
+      "textSHA256": "b53ae8d99b75408895ff27e82c137102d148b0c95e3f9c35456f163da5867892",
+      "evidenceFile": "work/completeness/saints/evidence/catherine.txt",
+      "evidenceSHA256": "77f5c1d2b9d267ac4ad50e7bb7ebf735fc238b7a7321d79d28d602211afd2ac3",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/catherine/summary",
+      "kind": "summary",
+      "textSHA256": "fa6dcebb53cfb6330fd7617224674bcb39cd1fd20c9a19b9c09b603a3756917d",
+      "sourceId": "sa-life-catherine",
+      "evidenceFile": "work/completeness/saints/evidence/catherine.txt",
+      "evidenceSHA256": "77f5c1d2b9d267ac4ad50e7bb7ebf735fc238b7a7321d79d28d602211afd2ac3",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/barbara/excerpt",
+      "textSHA256": "1b4ef9b630f429ac426017bcca5127ba78d62a2cb40f8861bf5ead7512635d75",
+      "evidenceFile": "work/completeness/saints/evidence/barbara.txt",
+      "evidenceSHA256": "b0f2ebd722a15bc62f8fe0575d6cf1041f0c96746f0039ceed5d5ac4e58802f7",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/barbara/summary",
+      "kind": "summary",
+      "textSHA256": "a759386842ee26a9ef787b9159633a9ca4ebe41f9be4021dcfe11e9e716cb7fe",
+      "sourceId": "sa-life-barbara",
+      "evidenceFile": "work/completeness/saints/evidence/barbara.txt",
+      "evidenceSHA256": "b0f2ebd722a15bc62f8fe0575d6cf1041f0c96746f0039ceed5d5ac4e58802f7",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/panteleimon/excerpt",
+      "textSHA256": "1e1fdab9d41668fef3ac64834514837f47a7ccbf8f0f06dddf6cd21cf3b0470f",
+      "evidenceFile": "work/completeness/saints/evidence/panteleimon.txt",
+      "evidenceSHA256": "2bdf877494cbd176630803c07bdd8e680bfd2de13ef4c019d73b6502a21174b6",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/panteleimon/summary",
+      "kind": "summary",
+      "textSHA256": "45a5c1b37f3c5d9e2c6363f44850d019addeaa88dc080065691d382905409f5d",
+      "sourceId": "sa-life-panteleimon",
+      "evidenceFile": "work/completeness/saints/evidence/panteleimon.txt",
+      "evidenceSHA256": "2bdf877494cbd176630803c07bdd8e680bfd2de13ef4c019d73b6502a21174b6",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/cosmas-damian/excerpt",
+      "textSHA256": "ab764096b331289acdfdf74ced34e85c974423a4e9384c5987920ce9ff160f3e",
+      "evidenceFile": "work/completeness/saints/evidence/cosmas-damian.txt",
+      "evidenceSHA256": "0f0745f98cafb041906c4c547fc30c57553ee59e66a0b4ee14df560f15eb9237",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/cosmas-damian/summary",
+      "kind": "summary",
+      "textSHA256": "d6b6eeac94b7d76c75c67a7cd93e18556a41e289b3eb5b7b9be166af8b545925",
+      "sourceId": "sa-life-cosmas-damian",
+      "evidenceFile": "work/completeness/saints/evidence/cosmas-damian.txt",
+      "evidenceSHA256": "0f0745f98cafb041906c4c547fc30c57553ee59e66a0b4ee14df560f15eb9237",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/nicholas/excerpt",
+      "textSHA256": "9ddd994769288d3fec598baf2b564bdb508b87c0ce78a0c0d9fd957f20235c04",
+      "evidenceFile": "work/completeness/saints/evidence/nicholas.txt",
+      "evidenceSHA256": "dc1bb2a8ced475460037fc8ee8465bea744ddf4cee6d282c254bf5a2be7628ff",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/nicholas/summary",
+      "kind": "summary",
+      "textSHA256": "815dcadd3be177b4e366e104f1a9ce8c79eba7cfbb1c8722088db2b76d6929d9",
+      "sourceId": "sa-life-nicholas",
+      "evidenceFile": "work/completeness/saints/evidence/nicholas.txt",
+      "evidenceSHA256": "dc1bb2a8ced475460037fc8ee8465bea744ddf4cee6d282c254bf5a2be7628ff",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/spyridon/excerpt",
+      "textSHA256": "ab0db265d63392d93ce70c4beb735fb521638f6831996df049d20d75aad0bd88",
+      "evidenceFile": "work/completeness/saints/evidence/spyridon.txt",
+      "evidenceSHA256": "a63f6eea47b2101090045f4ddee4c3c3ce7f4a6808974f04a8b2a2a756e5eef9",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/spyridon/summary",
+      "kind": "summary",
+      "textSHA256": "21ef12fcaa51f13ffc66f52f7d7794cec8cf7a442af83daaae3c3673cd04995b",
+      "sourceId": "sa-life-spyridon",
+      "evidenceFile": "work/completeness/saints/evidence/spyridon.txt",
+      "evidenceSHA256": "a63f6eea47b2101090045f4ddee4c3c3ce7f4a6808974f04a8b2a2a756e5eef9",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/basil/excerpt",
+      "textSHA256": "4c5dc8eb1a6f64fba2622e6d22e39235620f153c39ec6ad6917efdc7858e75cc",
+      "evidenceFile": "work/completeness/saints/evidence/basil.txt",
+      "evidenceSHA256": "bd723b33d1e5e70fb17cf002db0f0daa8005e2a57af543873328a26bab377499",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/basil/summary",
+      "kind": "summary",
+      "textSHA256": "f42813017c0225ad42bad02996d13675c124d71403cecfe523263c7e2642aa82",
+      "sourceId": "sa-life-basil",
+      "evidenceFile": "work/completeness/saints/evidence/basil.txt",
+      "evidenceSHA256": "bd723b33d1e5e70fb17cf002db0f0daa8005e2a57af543873328a26bab377499",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/gregory-theologian/excerpt",
+      "textSHA256": "03c0f2e7159eb540f440185cb3d331677ad082940f926be1ee0ab43e224bcde6",
+      "evidenceFile": "work/completeness/saints/evidence/gregory-theologian.txt",
+      "evidenceSHA256": "861021342ef4eadbbb29a935cf8b63184ebddd574d2d266c410ade1a14bb490e",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/gregory-theologian/summary",
+      "kind": "summary",
+      "textSHA256": "30e48a8ab5f051c97e6a1855387cd8e7175b8c147e890586cfe91452ae372a6f",
+      "sourceId": "sa-life-gregory-theologian",
+      "evidenceFile": "work/completeness/saints/evidence/gregory-theologian.txt",
+      "evidenceSHA256": "861021342ef4eadbbb29a935cf8b63184ebddd574d2d266c410ade1a14bb490e",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/gregory-nyssa/excerpt",
+      "textSHA256": "e339a573b25e9968d31d71ce98d28bd514554fc588e54ec6a9cc1307fd8af139",
+      "evidenceFile": "work/completeness/saints/evidence/gregory-nyssa.txt",
+      "evidenceSHA256": "676e1c14207a37a67aaa879d2f87c1f9151ef5fd9b3cb1d02c37a844cb548435",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/gregory-nyssa/summary",
+      "kind": "summary",
+      "textSHA256": "7786068d9f37aee175da8fc5f617fcb65784c68f58290e3b5f28dfed180d7e08",
+      "sourceId": "sa-life-gregory-nyssa",
+      "evidenceFile": "work/completeness/saints/evidence/gregory-nyssa.txt",
+      "evidenceSHA256": "676e1c14207a37a67aaa879d2f87c1f9151ef5fd9b3cb1d02c37a844cb548435",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/athanasius/excerpt",
+      "textSHA256": "60b8eb3bb76cb51713b3473d7e2e42625a81fa9c5288186063eb3cdbdae77691",
+      "evidenceFile": "work/completeness/saints/evidence/athanasius.txt",
+      "evidenceSHA256": "eb59ba0704502c93e21b696d1cd877247372cf32171d0cbd33a3bb7543709d2c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/athanasius/summary",
+      "kind": "summary",
+      "textSHA256": "e00f630b222e680cc2b85fa9e46fea065a4c0786c7691a44b2bd960edfa6a2cf",
+      "sourceId": "sa-life-athanasius",
+      "evidenceFile": "work/completeness/saints/evidence/athanasius.txt",
+      "evidenceSHA256": "eb59ba0704502c93e21b696d1cd877247372cf32171d0cbd33a3bb7543709d2c",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/cyril-alexandria/excerpt",
+      "textSHA256": "179eddede4b37975cee1474aca814637d5d10c1a1b533dee63849dd8408096ea",
+      "evidenceFile": "work/completeness/saints/evidence/cyril-alexandria.txt",
+      "evidenceSHA256": "afa73d38428b1cc13cd377c985834431b91f9622bf90ac157fafaedb2d45890f",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/cyril-alexandria/summary",
+      "kind": "summary",
+      "textSHA256": "c4d3a15083dbed09cd43773a4a04f7ce403eb789f1dfa53af8babef1257ecd9f",
+      "sourceId": "sa-life-cyril-alexandria",
+      "evidenceFile": "work/completeness/saints/evidence/cyril-alexandria.txt",
+      "evidenceSHA256": "afa73d38428b1cc13cd377c985834431b91f9622bf90ac157fafaedb2d45890f",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-chrysostom/excerpt",
+      "textSHA256": "b3d9a4e5569d8656b2b811228ec434709ee81be56526a901357acc0030291702",
+      "evidenceFile": "work/completeness/saints/evidence/john-chrysostom.txt",
+      "evidenceSHA256": "2574e20bfcd5a7ea46b053de8ad77542cdc7c0cbf48cacece32099eab0e3e2b8",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-chrysostom/summary",
+      "kind": "summary",
+      "textSHA256": "42b376e6122977fefeb5a87848b42ce151055b30f7c357704220747eb5b5077b",
+      "sourceId": "sa-life-john-chrysostom",
+      "evidenceFile": "work/completeness/saints/evidence/john-chrysostom.txt",
+      "evidenceSHA256": "2574e20bfcd5a7ea46b053de8ad77542cdc7c0cbf48cacece32099eab0e3e2b8",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/antony/excerpt",
+      "textSHA256": "5275eb4a03a60a8f2ef29430d2ca144ec7eb46e2617218d14f159f523027318c",
+      "evidenceFile": "work/completeness/saints/evidence/antony.txt",
+      "evidenceSHA256": "107be90e4f9db5309b7efd03f9e3ccf67d5066e5de510756a297488f2bf16804",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/antony/summary",
+      "kind": "summary",
+      "textSHA256": "42ef161aeadf3a64c5ccfc899ea70d44b21dea8c4fc4c6e4734e0957efd8f39d",
+      "sourceId": "sa-life-antony",
+      "evidenceFile": "work/completeness/saints/evidence/antony.txt",
+      "evidenceSHA256": "107be90e4f9db5309b7efd03f9e3ccf67d5066e5de510756a297488f2bf16804",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/pachomius/excerpt",
+      "textSHA256": "1ded965e4bfcc5f7aa8e8da5642c09a6bc359e19bb3ba87fb515c7b2374f2108",
+      "evidenceFile": "work/completeness/saints/evidence/pachomius.txt",
+      "evidenceSHA256": "e133c219ae0a7129266ab000d8f39f856053fa57896f48325f39671d016c8bdd",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/pachomius/summary",
+      "kind": "summary",
+      "textSHA256": "5f8add8f640caf795857e0e41c986aef46ce76568995055d60444948c35df946",
+      "sourceId": "sa-life-pachomius",
+      "evidenceFile": "work/completeness/saints/evidence/pachomius.txt",
+      "evidenceSHA256": "e133c219ae0a7129266ab000d8f39f856053fa57896f48325f39671d016c8bdd",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/macarius/excerpt",
+      "textSHA256": "da4cb4471755807e604ffdb89397ece4a9de26c5e0a5362930f1dd0f20e9b987",
+      "evidenceFile": "work/completeness/saints/evidence/macarius.txt",
+      "evidenceSHA256": "2ae5e43f15cdb6c7981531ee9ead64d7e76433d6acc0356be5a9c7d007ad5973",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/macarius/summary",
+      "kind": "summary",
+      "textSHA256": "5dbe3ab5f8df1335e0f00e8d1945081084c5cd2388b981d782da1a8923931765",
+      "sourceId": "sa-life-macarius",
+      "evidenceFile": "work/completeness/saints/evidence/macarius.txt",
+      "evidenceSHA256": "2ae5e43f15cdb6c7981531ee9ead64d7e76433d6acc0356be5a9c7d007ad5973",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/arsenius/excerpt",
+      "textSHA256": "9abfaa4bedd4ccb68cdddfd5669dee9be18b52ce6fb848cfe31571b008f062f9",
+      "evidenceFile": "work/completeness/saints/evidence/arsenius.txt",
+      "evidenceSHA256": "c5404395746eb6bbf403fcad585ab7057eb9435141f4b446d02ecd1b85cfc378",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/arsenius/summary",
+      "kind": "summary",
+      "textSHA256": "5d056853611747305bb282dae9f0637eaa350c72633e8dd102b63dfccce211ce",
+      "sourceId": "sa-life-arsenius",
+      "evidenceFile": "work/completeness/saints/evidence/arsenius.txt",
+      "evidenceSHA256": "c5404395746eb6bbf403fcad585ab7057eb9435141f4b446d02ecd1b85cfc378",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/moses-ethiopian/excerpt",
+      "textSHA256": "2d3e24a2325ab30f65ff0adb4efb305049e2cbba4a5629b1f93a5f035e6395c6",
+      "evidenceFile": "work/completeness/saints/evidence/moses-ethiopian.txt",
+      "evidenceSHA256": "5870b6044057baa9a135f27c60cdacd20cf2c90d11200f1dcaffea337cb7e627",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/moses-ethiopian/summary",
+      "kind": "summary",
+      "textSHA256": "a01b495f494daa0ea828f566a86b225d3170bc6556e374794a6c6242d76799a5",
+      "sourceId": "sa-life-moses-ethiopian",
+      "evidenceFile": "work/completeness/saints/evidence/moses-ethiopian.txt",
+      "evidenceSHA256": "5870b6044057baa9a135f27c60cdacd20cf2c90d11200f1dcaffea337cb7e627",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/mary-egypt/excerpt",
+      "textSHA256": "54627a20832c169761c989a44964e904a6a64078de6434db3f3b4fae485f3a9f",
+      "evidenceFile": "work/completeness/saints/evidence/mary-egypt.txt",
+      "evidenceSHA256": "4aa0993b20e7b5f94ebc12d243fd095144d81f7e8ad930ea681e018364146f17",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/mary-egypt/summary",
+      "kind": "summary",
+      "textSHA256": "bd7937a5ed01867ebd88c130500b2b714762da20da9636b60e066426d5a2c989",
+      "sourceId": "sa-life-mary-egypt",
+      "evidenceFile": "work/completeness/saints/evidence/mary-egypt.txt",
+      "evidenceSHA256": "4aa0993b20e7b5f94ebc12d243fd095144d81f7e8ad930ea681e018364146f17",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/syncletica/excerpt",
+      "textSHA256": "8a45b08184c3c082d4da84208738604ec2e580c154c2086bc053f483b12d99fd",
+      "evidenceFile": "work/completeness/saints/evidence/syncletica.txt",
+      "evidenceSHA256": "873e301ea618fec0df07a91d746560693d3bc9fb43fbf8561c5f040c37935877",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/syncletica/summary",
+      "kind": "summary",
+      "textSHA256": "44f2dd648775ca7d4b2ddbbe7b207710903e5e00f48ac18653ba3fe0d9187d9d",
+      "sourceId": "sa-life-syncletica",
+      "evidenceFile": "work/completeness/saints/evidence/syncletica.txt",
+      "evidenceSHA256": "873e301ea618fec0df07a91d746560693d3bc9fb43fbf8561c5f040c37935877",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/macrina/excerpt",
+      "textSHA256": "d51b0209b4ce3c67eecda6215362b647e26ad1e5698dc5807f6a84f29afd216e",
+      "evidenceFile": "work/completeness/saints/evidence/macrina.txt",
+      "evidenceSHA256": "36539aeac86efc6aafc82b27dd5f421710e1ee5ae47849fb18555d2c8db6e247",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/macrina/summary",
+      "kind": "summary",
+      "textSHA256": "90619ccf2fd315887091c5a29685c5433d8985350adf24bfda410e10eaea3fb2",
+      "sourceId": "sa-life-macrina",
+      "evidenceFile": "work/completeness/saints/evidence/macrina.txt",
+      "evidenceSHA256": "36539aeac86efc6aafc82b27dd5f421710e1ee5ae47849fb18555d2c8db6e247",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/ephrem/excerpt",
+      "textSHA256": "fa3dbc78969c85e3ddaabb863e040e99594b47fa35ad41642e58c10e9aaafbb5",
+      "evidenceFile": "work/completeness/saints/evidence/ephrem.txt",
+      "evidenceSHA256": "112276334f70376212b0edb16198e559d83e8d8457086302f2c1ea2829401561",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/ephrem/summary",
+      "kind": "summary",
+      "textSHA256": "7a07f2ba1c7055f9a79bcc955ffc465fbe351f4f07e0424d2116de0eba3cfcd8",
+      "sourceId": "sa-life-ephrem",
+      "evidenceFile": "work/completeness/saints/evidence/ephrem.txt",
+      "evidenceSHA256": "112276334f70376212b0edb16198e559d83e8d8457086302f2c1ea2829401561",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/isaac-syrian/excerpt",
+      "textSHA256": "99b5b9d58b81d003c0885fa844685682e06d8762d44fbd40051cf8cbc759aea5",
+      "evidenceFile": "work/completeness/saints/evidence/isaac-syrian.txt",
+      "evidenceSHA256": "7fca202c1ba1f9089ae575a388a8d2db4903864362f194a01f9a60d1762f3356",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/isaac-syrian/summary",
+      "kind": "summary",
+      "textSHA256": "2f8190be2ace1835a3ddf633b06750bf40ae19a23927275e8dabb9acf0aae289",
+      "sourceId": "sa-life-isaac-syrian",
+      "evidenceFile": "work/completeness/saints/evidence/isaac-syrian.txt",
+      "evidenceSHA256": "7fca202c1ba1f9089ae575a388a8d2db4903864362f194a01f9a60d1762f3356",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-ladder/excerpt",
+      "textSHA256": "3a7d05e768062d8809f87a634a9a0d7da9ffb2d9380321227cbd62983c87147a",
+      "evidenceFile": "work/completeness/saints/evidence/john-ladder.txt",
+      "evidenceSHA256": "de6bbaf2fc7e1d76c4ddceffd63ee9a1ce5722e38bec74de8f37fc8768a651df",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-ladder/summary",
+      "kind": "summary",
+      "textSHA256": "69f20aa75c24bc3ead684c2b96a5575bd63ec7ab3786e4a9d7433ab368f3e7b4",
+      "sourceId": "sa-life-john-ladder",
+      "evidenceFile": "work/completeness/saints/evidence/john-ladder.txt",
+      "evidenceSHA256": "de6bbaf2fc7e1d76c4ddceffd63ee9a1ce5722e38bec74de8f37fc8768a651df",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/maximus/excerpt",
+      "textSHA256": "37dc4ad574e2241ca1d0bec2677ec440c7842033789b590d3678a7c6c568dbbd",
+      "evidenceFile": "work/completeness/saints/evidence/maximus.txt",
+      "evidenceSHA256": "32080db09d79581f4a8742f432c1aa1cedb8253bea4145902433014e6694490c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/maximus/summary",
+      "kind": "summary",
+      "textSHA256": "bb535e9c527bbc069b5a6396ad9182a9d253cda1fb4a198ffc16ccd64b36fbff",
+      "sourceId": "sa-life-maximus",
+      "evidenceFile": "work/completeness/saints/evidence/maximus.txt",
+      "evidenceSHA256": "32080db09d79581f4a8742f432c1aa1cedb8253bea4145902433014e6694490c",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-damascene/excerpt",
+      "textSHA256": "c518110a4a147d45d18d5aebb10af20ecd74991912e563f1575ae761d025e97b",
+      "evidenceFile": "work/completeness/saints/evidence/john-damascene.txt",
+      "evidenceSHA256": "8f241b7cd732f79994cc18a7e79c2cc79db4f88941914973ebce25c42c26545a",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-damascene/summary",
+      "kind": "summary",
+      "textSHA256": "41580303fcd9e8c8b17ae44cf550d90f6e28d83756d5a9b37c4c0cc09436b817",
+      "sourceId": "sa-life-john-damascene",
+      "evidenceFile": "work/completeness/saints/evidence/john-damascene.txt",
+      "evidenceSHA256": "8f241b7cd732f79994cc18a7e79c2cc79db4f88941914973ebce25c42c26545a",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/gregory-palamas/excerpt",
+      "textSHA256": "2fe16bd3be74309a82b20fe25565ee0fdc56dd7f0b643dc99a3e97e1f826c5aa",
+      "evidenceFile": "work/completeness/saints/evidence/gregory-palamas.txt",
+      "evidenceSHA256": "fbdd998b55cabc79efb82f72cf20c706ff9f78a2e7723da1bf4472a55969421c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/gregory-palamas/summary",
+      "kind": "summary",
+      "textSHA256": "c942a00bed81099ab48125dd1c2c96d74fcfa152ad375aefb03b9c4bbb1c6c7c",
+      "sourceId": "sa-life-gregory-palamas",
+      "evidenceFile": "work/completeness/saints/evidence/gregory-palamas.txt",
+      "evidenceSHA256": "fbdd998b55cabc79efb82f72cf20c706ff9f78a2e7723da1bf4472a55969421c",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/symeon-new-theologian/excerpt",
+      "textSHA256": "2399360a5b7d7eb155fe08c54151627253a8ee001c1b5638719103466c74bb1f",
+      "evidenceFile": "work/completeness/saints/evidence/symeon-new-theologian.txt",
+      "evidenceSHA256": "c3bdb84b0aab2cb7306aa9114af9959d7bbaac85c23da4fb2ddc1f7888f0e252",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/symeon-new-theologian/summary",
+      "kind": "summary",
+      "textSHA256": "5310fa22d037dfb807390d0503ec0a522b41dcc7d6977ffdc5f79faa4c9a0044",
+      "sourceId": "sa-life-symeon-new-theologian",
+      "evidenceFile": "work/completeness/saints/evidence/symeon-new-theologian.txt",
+      "evidenceSHA256": "c3bdb84b0aab2cb7306aa9114af9959d7bbaac85c23da4fb2ddc1f7888f0e252",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/romanus/excerpt",
+      "textSHA256": "01fb7d5bf598611b18657336873755f0d4cdae7dd5f249f7bd641be9a2607b65",
+      "evidenceFile": "work/completeness/saints/evidence/romanus.txt",
+      "evidenceSHA256": "05a68ea023cc38ef8bd62862602bb2a2e095f1f8f77291f002be5d4a04580444",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/romanus/summary",
+      "kind": "summary",
+      "textSHA256": "133c6bf2253086628b36cf0a1a3f1ef72c49676e73c16325301c5ffb66378f89",
+      "sourceId": "sa-life-romanus",
+      "evidenceFile": "work/completeness/saints/evidence/romanus.txt",
+      "evidenceSHA256": "05a68ea023cc38ef8bd62862602bb2a2e095f1f8f77291f002be5d4a04580444",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/cyril-methodius/excerpt",
+      "textSHA256": "22a3f742db5e2fe4ff77bc719f2b9ebb0b24f27d7c645e24a00e8c706e7e5f4d",
+      "evidenceFile": "work/completeness/saints/evidence/cyril-methodius.txt",
+      "evidenceSHA256": "157a258e2c9d00345a44b80d57df0b63c804bc6f5ee56f5e04b78b6fe665ae8a",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/cyril-methodius/summary",
+      "kind": "summary",
+      "textSHA256": "1dbd43316282c0a96025979f2702d588f19d89ba6c055807413c429aede9fdaf",
+      "sourceId": "sa-life-cyril-methodius",
+      "evidenceFile": "work/completeness/saints/evidence/cyril-methodius.txt",
+      "evidenceSHA256": "157a258e2c9d00345a44b80d57df0b63c804bc6f5ee56f5e04b78b6fe665ae8a",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/nina/excerpt",
+      "textSHA256": "56d20145dbe21aac7fb35c298e24be481463589a97f93904243ecf812fdd51b4",
+      "evidenceFile": "work/completeness/saints/evidence/nina.txt",
+      "evidenceSHA256": "b5788300203f55f5e496d92b85cca0964aa3ca14160d8eae8624dc0ed3ae01a7",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/nina/summary",
+      "kind": "summary",
+      "textSHA256": "db72d8650affd92a10cd32f92c8c11a860913a33e65267570ed5d2a1453d9b6d",
+      "sourceId": "sa-life-nina",
+      "evidenceFile": "work/completeness/saints/evidence/nina.txt",
+      "evidenceSHA256": "b5788300203f55f5e496d92b85cca0964aa3ca14160d8eae8624dc0ed3ae01a7",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/patrick/excerpt",
+      "textSHA256": "a490cfdb38bf165e77597c14d504e17b176b653f42199054b4d89cd5d94de5a4",
+      "evidenceFile": "work/completeness/saints/evidence/patrick.txt",
+      "evidenceSHA256": "8410a9b3c4df31dd094b907f0f56c821efad47d33ab56212db034f2d84395ed2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/patrick/summary",
+      "kind": "summary",
+      "textSHA256": "05687b78c3f3314427543aa1081ad20c195ad9dfb3b95e493a46a4eb6ade34ec",
+      "sourceId": "sa-life-patrick",
+      "evidenceFile": "work/completeness/saints/evidence/patrick.txt",
+      "evidenceSHA256": "8410a9b3c4df31dd094b907f0f56c821efad47d33ab56212db034f2d84395ed2",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/brigid/excerpt",
+      "textSHA256": "5158ee8bdb6620d911a4c00e23939cfd3175f5e776aa4bd10b0c402d228c805f",
+      "evidenceFile": "work/completeness/saints/evidence/brigid.txt",
+      "evidenceSHA256": "fa82773e76e979b240ff78255090a5def5fc056147f44c25b299f0945a21c519",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/brigid/summary",
+      "kind": "summary",
+      "textSHA256": "429940543d7e5b09833a120f4c727c98725eebe7ef08e65b15ccabd89284b616",
+      "sourceId": "sa-life-brigid",
+      "evidenceFile": "work/completeness/saints/evidence/brigid.txt",
+      "evidenceSHA256": "fa82773e76e979b240ff78255090a5def5fc056147f44c25b299f0945a21c519",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/columba/excerpt",
+      "textSHA256": "2154d9f15a33919f4b1b4ebc05fcee8f54ba1feaa9f7e5227643dbc3c21c0449",
+      "evidenceFile": "work/completeness/saints/evidence/columba.txt",
+      "evidenceSHA256": "ceb43427672e34d29fc70019fd48b38dcba4342014faae76ab07fe1f64f8da2c",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/columba/summary",
+      "kind": "summary",
+      "textSHA256": "4d8b85aeb4a464152121f6eb01e89dfd6e8ceb329599744956b5e8c1286ad05c",
+      "sourceId": "sa-life-columba",
+      "evidenceFile": "work/completeness/saints/evidence/columba.txt",
+      "evidenceSHA256": "ceb43427672e34d29fc70019fd48b38dcba4342014faae76ab07fe1f64f8da2c",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/olga-kiev/excerpt",
+      "textSHA256": "c336d4891b19b3174e9a1b9103566c831ae0f41fbfc63c348c125a133a512659",
+      "evidenceFile": "work/completeness/saints/evidence/olga-kiev.txt",
+      "evidenceSHA256": "a3503b9c8265df4b64d2d659f83ce9ccfdc65a9b4d326f83e9c4084067ad653f",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/olga-kiev/summary",
+      "kind": "summary",
+      "textSHA256": "6fcf56877052d320972673604fb10fd22e7ca1ae2594fd9c18c09d3fafd23549",
+      "sourceId": "sa-life-olga-kiev",
+      "evidenceFile": "work/completeness/saints/evidence/olga-kiev.txt",
+      "evidenceSHA256": "a3503b9c8265df4b64d2d659f83ce9ccfdc65a9b4d326f83e9c4084067ad653f",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/vladimir/excerpt",
+      "textSHA256": "33dea2af56be0214603b2e602107919279c27121ec7952d924746ea91753ffd3",
+      "evidenceFile": "work/completeness/saints/evidence/vladimir.txt",
+      "evidenceSHA256": "8c4d31b8617c865d3dcc9220eea5f152b684f960c179ef64aba26244217f134e",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/vladimir/summary",
+      "kind": "summary",
+      "textSHA256": "b69de612dad6f5e917f793485e7ff6dbe14254413f65a8d45bb44c2dcd7117ec",
+      "sourceId": "sa-life-vladimir",
+      "evidenceFile": "work/completeness/saints/evidence/vladimir.txt",
+      "evidenceSHA256": "8c4d31b8617c865d3dcc9220eea5f152b684f960c179ef64aba26244217f134e",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/sergius/excerpt",
+      "textSHA256": "2a97af095fd520b0eb0ac82d767866b89d75363b2ba59d29f1b54e5792d11ebe",
+      "evidenceFile": "work/completeness/saints/evidence/sergius.txt",
+      "evidenceSHA256": "e08711b28ffe72ed9bcc298f414ec94f31f17a6ae4aee8339faaf4e7971e7deb",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/sergius/summary",
+      "kind": "summary",
+      "textSHA256": "62950dc2bf51c1ddbdceb92f5edbee97b69bc2396bb206459b202c829fa59b06",
+      "sourceId": "sa-life-sergius",
+      "evidenceFile": "work/completeness/saints/evidence/sergius.txt",
+      "evidenceSHA256": "e08711b28ffe72ed9bcc298f414ec94f31f17a6ae4aee8339faaf4e7971e7deb",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/alexander-nevsky/excerpt",
+      "textSHA256": "c4056afd591ef2cd922a6dc6ac6d97aa9ba06b4c69913f409c6e708726c674dd",
+      "evidenceFile": "work/completeness/saints/evidence/alexander-nevsky.txt",
+      "evidenceSHA256": "f9916392850aa9191ff051b5473467dd6edc04f67ad306298d8c2eb3d4da5ade",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/alexander-nevsky/summary",
+      "kind": "summary",
+      "textSHA256": "cda050f505bf8ed9dd1c497e0e1abd56d9885cbf93ddada13dc11b995089e68b",
+      "sourceId": "sa-life-alexander-nevsky",
+      "evidenceFile": "work/completeness/saints/evidence/alexander-nevsky.txt",
+      "evidenceSHA256": "f9916392850aa9191ff051b5473467dd6edc04f67ad306298d8c2eb3d4da5ade",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/seraphim/excerpt",
+      "textSHA256": "d23f1f4b66b20e8b1769092740f5e69a6f1f2b9e44d8d69b00ad24b8b337921b",
+      "evidenceFile": "work/completeness/saints/evidence/seraphim.txt",
+      "evidenceSHA256": "43c441bf2896ba3f9380cbd880cef7018262547546db6b92a108203e3275d8a6",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/seraphim/summary",
+      "kind": "summary",
+      "textSHA256": "945099a3af8d560e3c929a5f11be3f34f16927d5d9945ad2fb9d85249990db71",
+      "sourceId": "sa-life-seraphim",
+      "evidenceFile": "work/completeness/saints/evidence/seraphim.txt",
+      "evidenceSHA256": "43c441bf2896ba3f9380cbd880cef7018262547546db6b92a108203e3275d8a6",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/xenia/excerpt",
+      "textSHA256": "9fbe80a5f273d09dda3571fcff485eaebcb157c9b268ee44a2765c99184e7adf",
+      "evidenceFile": "work/completeness/saints/evidence/xenia.txt",
+      "evidenceSHA256": "bdf6f66b973307dcd5868c305165557833240b82c442c881245220d01ee99a91",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/xenia/summary",
+      "kind": "summary",
+      "textSHA256": "695f701404851965a6450c80c77a56d3eee681707eb4f2d87d41161e847d1071",
+      "sourceId": "sa-life-xenia",
+      "evidenceFile": "work/completeness/saints/evidence/xenia.txt",
+      "evidenceSHA256": "bdf6f66b973307dcd5868c305165557833240b82c442c881245220d01ee99a91",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/silouan/excerpt",
+      "textSHA256": "87a42ab8b581eb3afae563856cdb372a6f75510dc817de8eb3a939148e85bafd",
+      "evidenceFile": "work/completeness/saints/evidence/silouan-monastery.txt",
+      "evidenceSHA256": "ba1d0f238f8359376637334309ade8d2f4b3ec271e624cd445d7c667ce6cab5a",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/silouan/summary",
+      "kind": "summary",
+      "textSHA256": "c9039b51c56c4a91179bf3db81cc04af9f074ac9c089f595d0b2e4ffa8165b48",
+      "sourceId": "sa-life-silouan",
+      "evidenceFile": "work/completeness/saints/evidence/silouan-monastery.txt",
+      "evidenceSHA256": "ba1d0f238f8359376637334309ade8d2f4b3ec271e624cd445d7c667ce6cab5a",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/herman/excerpt",
+      "textSHA256": "5945d6050a922329ec19db16fbc4c5ecd204cb6ca9cd14c126fae54aea8f30ce",
+      "evidenceFile": "work/completeness/saints/evidence/herman.txt",
+      "evidenceSHA256": "0ac0b7e6f77aba7b9fc0715653273a19cd205fb0ac5319e0a04db0c96fb3cffc",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/herman/summary",
+      "kind": "summary",
+      "textSHA256": "addbc2cef84fc28b91c559865f7b6bfdcda499b7115e29266537d575f9ee0ef1",
+      "sourceId": "sa-life-herman",
+      "evidenceFile": "work/completeness/saints/evidence/herman.txt",
+      "evidenceSHA256": "0ac0b7e6f77aba7b9fc0715653273a19cd205fb0ac5319e0a04db0c96fb3cffc",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/innocent/excerpt",
+      "textSHA256": "497d01866b35d9efefa1370c3f225039aa4830eba2ac63c95bc3d3190269a367",
+      "evidenceFile": "work/completeness/saints/evidence/innocent.txt",
+      "evidenceSHA256": "dd90123eb1b2fde014e06fc7d299cbe025dda62bf43e24378d7bc34943ede1e5",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/innocent/summary",
+      "kind": "summary",
+      "textSHA256": "3956ce90ff8d9c9b6ccf063b713aa4e4d07d0c182815005416b1ddcbacc81e38",
+      "sourceId": "sa-life-innocent",
+      "evidenceFile": "work/completeness/saints/evidence/innocent.txt",
+      "evidenceSHA256": "dd90123eb1b2fde014e06fc7d299cbe025dda62bf43e24378d7bc34943ede1e5",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/tikhon/excerpt",
+      "textSHA256": "45ccb298b34ff0fa0e6cc93c3fa02e2cd29ed47215aa7b9d7e34c501c82eed3d",
+      "evidenceFile": "work/completeness/saints/evidence/tikhon.txt",
+      "evidenceSHA256": "f1e2cc63eaf8221fa3b5018e561f0033bafe5adcdf042f6862a12dac8ca66f66",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/tikhon/summary",
+      "kind": "summary",
+      "textSHA256": "df16c90409a126079b79af2c7f740eea13864274ec4297b6edb45b0830fb32f8",
+      "sourceId": "sa-life-tikhon",
+      "evidenceFile": "work/completeness/saints/evidence/tikhon.txt",
+      "evidenceSHA256": "f1e2cc63eaf8221fa3b5018e561f0033bafe5adcdf042f6862a12dac8ca66f66",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-shanghai/excerpt",
+      "textSHA256": "64c609b4eacee439018d2b31bacdb7d7ed6b1aa810e6ed7cc2aabaff072b451b",
+      "evidenceFile": "work/completeness/saints/evidence/john-shanghai.txt",
+      "evidenceSHA256": "b1615d3aadfbad891af1cd4c2405356baf95a87921a7d8afca50927fa7cba84a",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-shanghai/summary",
+      "kind": "summary",
+      "textSHA256": "05813dee222fdd9682b09ca68199b6c9323790e774a5846e2242a09926173017",
+      "sourceId": "sa-life-john-shanghai",
+      "evidenceFile": "work/completeness/saints/evidence/john-shanghai.txt",
+      "evidenceSHA256": "b1615d3aadfbad891af1cd4c2405356baf95a87921a7d8afca50927fa7cba84a",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/elizabeth/excerpt",
+      "textSHA256": "5e6d70deb1875eda38b09035c51a57e8980b1ac80802ff1ea397cb17b57dc12c",
+      "evidenceFile": "work/completeness/saints/evidence/elizabeth.txt",
+      "evidenceSHA256": "02d8c5f8d3eb10f642e195c1046bcab593d0b09fac867fb11565598bb2cd30f4",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/elizabeth/summary",
+      "kind": "summary",
+      "textSHA256": "8d334982b189720eceaa209b11cfc1a06508b5d6bec47cc24ddf9cb6ed35b746",
+      "sourceId": "sa-life-elizabeth",
+      "evidenceFile": "work/completeness/saints/evidence/elizabeth.txt",
+      "evidenceSHA256": "02d8c5f8d3eb10f642e195c1046bcab593d0b09fac867fb11565598bb2cd30f4",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/alexis-wilkes-barre/excerpt",
+      "textSHA256": "3091e38bba2e37be0ba1af9763001c227ef5cc894d05a8dda1c20f8bc971d984",
+      "evidenceFile": "work/completeness/saints/evidence/alexis-wilkes-barre.txt",
+      "evidenceSHA256": "872f0b018078ad6812fe9a4b86c937acf812f1a41a99d607d23c1c7d619e6fbc",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/alexis-wilkes-barre/summary",
+      "kind": "summary",
+      "textSHA256": "4a2760dc306969e0d7912f857f4548783ef917fc371255975f5b559c30d49870",
+      "sourceId": "sa-life-alexis-wilkes-barre",
+      "evidenceFile": "work/completeness/saints/evidence/alexis-wilkes-barre.txt",
+      "evidenceSHA256": "872f0b018078ad6812fe9a4b86c937acf812f1a41a99d607d23c1c7d619e6fbc",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/jacob-netsvetov/excerpt",
+      "textSHA256": "e674b2c5d1354a5da1fb5f35130f7b51db46df2345fb25a622abcf23fef84340",
+      "evidenceFile": "work/completeness/saints/evidence/jacob-netsvetov.txt",
+      "evidenceSHA256": "a9d3238e4552c5f924c4a9be47540138816a6206210c57f06d70b2ea94527d39",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/jacob-netsvetov/summary",
+      "kind": "summary",
+      "textSHA256": "a2321e1c004290337fcd7757cfbf9bb0268fe7e8490ac39a9e1ac5e31ec0c909",
+      "sourceId": "sa-life-jacob-netsvetov",
+      "evidenceFile": "work/completeness/saints/evidence/jacob-netsvetov.txt",
+      "evidenceSHA256": "a9d3238e4552c5f924c4a9be47540138816a6206210c57f06d70b2ea94527d39",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/juvenaly/excerpt",
+      "textSHA256": "b7d3e1e819eecad9e1b6e3154b4a5a8194f443f2ad5e9943d191ba3c2e252884",
+      "evidenceFile": "work/completeness/saints/evidence/juvenaly.txt",
+      "evidenceSHA256": "774c7b143ee525023ba89c90e2273cde63cbd2be3e48874068f0c46c076b6182",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/juvenaly/summary",
+      "kind": "summary",
+      "textSHA256": "4d64e4bd74895b47cc7e2a602b3d98e3d8e71015d767f32fec1b33bbbc8caa97",
+      "sourceId": "sa-life-juvenaly",
+      "evidenceFile": "work/completeness/saints/evidence/juvenaly.txt",
+      "evidenceSHA256": "774c7b143ee525023ba89c90e2273cde63cbd2be3e48874068f0c46c076b6182",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/olga-kwethluk/excerpt",
+      "textSHA256": "a43b3c088e4bce7e05d09601d9b2e0a394bc73b328fc1c63c95079de1564525a",
+      "evidenceFile": "work/completeness/saints/evidence/olga-kwethluk.txt",
+      "evidenceSHA256": "9c729a31976cb5c2dc8fbe3304a830e5e82492ad30a99fdc34b23dce7a289255",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/olga-kwethluk/summary",
+      "kind": "summary",
+      "textSHA256": "ed955a90d764e090493ad1676a453792f3018f9298a1d9f782010eb877c8e5ff",
+      "sourceId": "sa-life-olga-kwethluk",
+      "evidenceFile": "work/completeness/saints/evidence/olga-kwethluk.txt",
+      "evidenceSHA256": "9c729a31976cb5c2dc8fbe3304a830e5e82492ad30a99fdc34b23dce7a289255",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/cyril-jerusalem/excerpt",
+      "textSHA256": "5f04a771e9e3c22c9436b9aa8d7eaaf54e22c24f2cd15365c5616d87394d61b8",
+      "evidenceFile": "work/completeness/saints/evidence/cyril-jerusalem.txt",
+      "evidenceSHA256": "3197d08c515a72bae3fdec44715385b53275a6ac796de71c219ed3aa3c9e86cc",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/cyril-jerusalem/summary",
+      "kind": "summary",
+      "textSHA256": "0ed62401a30f837e7521e2ef27db2de35efd02b83cc79f9854c43f9f16e49e1d",
+      "sourceId": "sa-life-cyril-jerusalem",
+      "evidenceFile": "work/completeness/saints/evidence/cyril-jerusalem.txt",
+      "evidenceSHA256": "3197d08c515a72bae3fdec44715385b53275a6ac796de71c219ed3aa3c9e86cc",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/john-cassian/excerpt",
+      "textSHA256": "9645be68a8afaf933fd2228babe757c55f0e323bdceea6eb6bd6b13539c1c61d",
+      "evidenceFile": "work/completeness/saints/evidence/john-cassian.txt",
+      "evidenceSHA256": "227da4ff4b4bf7bb0443d316b628b66f3eb526673fb17d4d56e7270cd5a08fd5",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/john-cassian/summary",
+      "kind": "summary",
+      "textSHA256": "593865dd3a41bb9ff97c9712393b228ad45ee01ed43aa510b75ba61eaff61bac",
+      "sourceId": "sa-life-john-cassian",
+      "evidenceFile": "work/completeness/saints/evidence/john-cassian.txt",
+      "evidenceSHA256": "227da4ff4b4bf7bb0443d316b628b66f3eb526673fb17d4d56e7270cd5a08fd5",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/vincent-lerins/excerpt",
+      "textSHA256": "98f836fc01c64559ce1af440751792a817d0fe6d386d4221ffaeeeb78de34bdc",
+      "evidenceFile": "work/completeness/saints/evidence/vincent-lerins.txt",
+      "evidenceSHA256": "71ea24aee49bf9c9d149359c22c12ccae839ab624ecef0391f244ff95532f6cd",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/vincent-lerins/summary",
+      "kind": "summary",
+      "textSHA256": "fbd11892f12b52def2ea719df155215bb1e1b70b376384e1dafe8528a0797bef",
+      "sourceId": "sa-life-vincent-lerins",
+      "evidenceFile": "work/completeness/saints/evidence/vincent-lerins.txt",
+      "evidenceSHA256": "71ea24aee49bf9c9d149359c22c12ccae839ab624ecef0391f244ff95532f6cd",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/jerome/excerpt",
+      "textSHA256": "a9c975ca848de32ddc8bff411ed3dc73e48aaa7536be62401f67f5cee011018a",
+      "evidenceFile": "work/completeness/saints/evidence/jerome.txt",
+      "evidenceSHA256": "429fc2b7b7bb3a68129ad6d63f11596cd9fbd97c3f9f6a6b6406a4d0a5a217b2",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/jerome/summary",
+      "kind": "summary",
+      "textSHA256": "c114df411df91f0dfc85bf23cc23d7740349bdba95dd21970766505ec02b71a7",
+      "sourceId": "sa-life-jerome",
+      "evidenceFile": "work/completeness/saints/evidence/jerome.txt",
+      "evidenceSHA256": "429fc2b7b7bb3a68129ad6d63f11596cd9fbd97c3f9f6a6b6406a4d0a5a217b2",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/paula/excerpt",
+      "textSHA256": "447e41ae72f7b3262d68235bd434079de982bbb5aea4a125aeb8f16a39b6d323",
+      "evidenceFile": "work/completeness/saints/evidence/paula.txt",
+      "evidenceSHA256": "350c334a293c1746aedbb6e43938b39894cecaacd8f7e1aeb03add5ebe259733",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/paula/summary",
+      "kind": "summary",
+      "textSHA256": "c5ad86368707d1618e55d3b1cb231d9e5d84bb9ffb552ae7ad2fa148dfda49ec",
+      "sourceId": "sa-life-paula",
+      "evidenceFile": "work/completeness/saints/evidence/paula.txt",
+      "evidenceSHA256": "350c334a293c1746aedbb6e43938b39894cecaacd8f7e1aeb03add5ebe259733",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/paul-thebes/excerpt",
+      "textSHA256": "fa2f67c9d4119b01f3b97ba1b8d77bf40fafee5f16ac268c8f0f9535337d6af3",
+      "evidenceFile": "work/completeness/saints/evidence/paul-thebes.txt",
+      "evidenceSHA256": "1178a607b5c80804a416d211748e51d9690e3e8029a313b1e3b78358e6a57221",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/paul-thebes/summary",
+      "kind": "summary",
+      "textSHA256": "b5485a730613c6b5d2812b06d60e5cee2225f96ab2e9c7ceb9ccb60b0d3f601c",
+      "sourceId": "sa-life-paul-thebes",
+      "evidenceFile": "work/completeness/saints/evidence/paul-thebes.txt",
+      "evidenceSHA256": "1178a607b5c80804a416d211748e51d9690e3e8029a313b1e3b78358e6a57221",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/hilarion/excerpt",
+      "textSHA256": "73afeae332dde0c4885626d7762e58f11ee72f65bb4ea943a54c2538c926f205",
+      "evidenceFile": "work/completeness/saints/evidence/hilarion.txt",
+      "evidenceSHA256": "41d756d4d01f49454e450c3b52e4c13ece14e38106c84b1cc3a4a39552ae10ee",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/hilarion/summary",
+      "kind": "summary",
+      "textSHA256": "75a1f115cc283eb3d942b67c78d09f80331acda5ac33e0fb4af5b8adfd36aa9f",
+      "sourceId": "sa-life-hilarion",
+      "evidenceFile": "work/completeness/saints/evidence/hilarion.txt",
+      "evidenceSHA256": "41d756d4d01f49454e450c3b52e4c13ece14e38106c84b1cc3a4a39552ae10ee",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/martin-tours/excerpt",
+      "textSHA256": "2c588162edbfb959707c9d43e70b0d25608db748e0df8ca817ee0160f24daeb7",
+      "evidenceFile": "work/completeness/saints/evidence/martin-tours.txt",
+      "evidenceSHA256": "381bf1c439e8e78e30801ab9256893beeda014399ac7fbe6094f3d57cd05e164",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/martin-tours/summary",
+      "kind": "summary",
+      "textSHA256": "a4d5ca07c1f73c54e73256d1ee0e71d292de515ea5ffe88b4c4ec3e218dd62f1",
+      "sourceId": "sa-life-martin-tours",
+      "evidenceFile": "work/completeness/saints/evidence/martin-tours.txt",
+      "evidenceSHA256": "381bf1c439e8e78e30801ab9256893beeda014399ac7fbe6094f3d57cd05e164",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/augustine/excerpt",
+      "textSHA256": "7407b99bcad0ed07c7b55a3cf785c69cc56933b334a4d40a70cbba47859f4f22",
+      "evidenceFile": "work/completeness/saints/evidence/augustine.txt",
+      "evidenceSHA256": "72869ccb1e77d51d0762df6697955d35d26c7a9fc34cc855243d06ca15f6eebd",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/augustine/summary",
+      "kind": "summary",
+      "textSHA256": "0a69529264111b72d6279f13f6b7155f0549b3803a4b9d9177d025c1dbd2d558",
+      "sourceId": "sa-life-augustine",
+      "evidenceFile": "work/completeness/saints/evidence/augustine.txt",
+      "evidenceSHA256": "72869ccb1e77d51d0762df6697955d35d26c7a9fc34cc855243d06ca15f6eebd",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    },
+    {
+      "key": "saint/ambrose/excerpt",
+      "textSHA256": "443a7469d62c2e2adfcaa6486ed875550cd946ca556125d8e1fa8d9ada51cea7",
+      "evidenceFile": "work/completeness/saints/evidence/ambrose.txt",
+      "evidenceSHA256": "ee7cb92e91d97cd7797c1ca7bc2ba6fe0f5a8545523ad3d958aca86fdc73b785",
+      "matchedSegments": 1,
+      "match": true
+    },
+    {
+      "key": "saint/ambrose/summary",
+      "kind": "summary",
+      "textSHA256": "7bfa4960d826f522d10fa547abc8d7654277295b7964e7846543313c20bc03e9",
+      "sourceId": "sa-life-ambrose",
+      "evidenceFile": "work/completeness/saints/evidence/ambrose.txt",
+      "evidenceSHA256": "ee7cb92e91d97cd7797c1ca7bc2ba6fe0f5a8545523ad3d958aca86fdc73b785",
+      "review": "Necessary synopsis anchored to retrieved source; not a verbatim-matching claim"
+    }
+  ]
+}

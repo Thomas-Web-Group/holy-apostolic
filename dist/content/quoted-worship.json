@@ -1,0 +1,2214 @@
+{
+  "revision": "source-readings-2026-11-19",
+  "modules": [
+    {
+      "id": "w-liturgy",
+      "title": "Divine Liturgy",
+      "order": 7,
+      "track": "Worship & life",
+      "lessons": [
+        {
+          "id": "w-liturgy-beginning",
+          "title": "Preparation and opening of the Divine Liturgy",
+          "tags": [
+            "Liturgy",
+            "ROCOR",
+            "beginner",
+            "litany"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Office of Oblation",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, IV.3, p.597",
+              "text": "(3) All this and the whole Office of Oblation are said while the clergy are vesting, in a low voice, by the Priest, behind the image-screen (ikonostás), which corresponds to the chancel-rail in the Western Church. At the point duly indicated, after the Priest and Deacon have vested themselves, the Reader (in front of the image-screen), begins to read the Hours; the Priest (behind the image-screen), making aloud the exclamations and benedictions, as shown in the Hours.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Opening blessing",
+              "sourceId": "wq-hapgood1",
+              "locator": "Divine Liturgy, p.80",
+              "text": "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now, and ever, and unto ages of ages. Choir. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Great Litany: petitions",
+              "sourceId": "wq-hapgood1",
+              "locator": "Divine Liturgy, pp.80–81",
+              "text": "For the peace that is from above, and for the salvation of our souls, let us pray to the Lord. ℟ For the peace of the whole world; for the welfare of God's holy Churches, and for the union of them all: ℟ For this holy Temple, and for those who with faith, devoutness, and in the fear of God have entered therein: ℟",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Prayer of the First Antiphon",
+              "sourceId": "wq-hapgood1",
+              "locator": "Divine Liturgy, p.81",
+              "text": "O Lord our God, whose might is ineffable, whose glory is inconceivable, whose mercy is infinite, and whose love toward mankind is unutterable: Look down, O Master, in thy tender compassion, upon us and upon this holy Temple; and deal with us and with those people who here pray with us, according to the riches of thy mercies and thy bounties.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Preparation of the gifts: Prothesis",
+              "sourceId": "wq-prothesis",
+              "locator": "Preparation of the gifts: Prothesis",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 Timothy 2:1–2",
+              "translation": "KJV (public domain in the United States)",
+              "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.",
+              "sourceId": "wq-kjv",
+              "locator": "1 Timothy 2:1–2",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-liturgy-word",
+          "title": "Gospel and Small Entrance",
+          "tags": [
+            "Scripture",
+            "Gospel",
+            "Liturgy",
+            "Church Slavonic"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Small Entrance",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, IV.7–8, p.598",
+              "text": "(7) This opening of the Holy Door signifies that the heavens were opened at the Baptism of our Lord Jesus Christ, and a voice proceeding thence testified to him. The Little Entrance typifies the entrance of our Lord upon his work of preaching to the world, and his drawing near to men. The book of the Holy Gospels represents Christ our Lord, and the taper borne before it signifies that the teaching of the Gospels — that is, our Lord himself — is the Light of the world. He who bears the taper represents John the Baptist. The censer, with its glowing embers, typifies the Divine Ember, Christ himself, the God-Man, who united himself to mortal flesh, and, burning with divine love towards the human race, did utterly consume himself upon the altar of the Cross, in the savour of a sweet fragrance unto the everlasting Father. (8) The exclamation, \"Wisdom, O believers!\" always has the object of calling the people's attention to some especially edifying or sacred portions of the service. \"Wisdom!\" points directly to this edifying lesson, hymn or action.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Prayer before the Gospel",
+              "sourceId": "wq-hapgood1",
+              "locator": "Liturgy of the Presanctified Gifts, prayer before the Gospel; feast-day Gospel section",
+              "text": "Illumine our hearts, O God who lovest mankind, with the pure light of thy divine knowledge, and open the eyes of our under- standing to the comprehension of the proclamation of thy Gospel. Implant in us, likewise, the fear of thy blessed commandments; that, trampling down all carnal desires, we may pursue a godly life, both thinking and performing such things as are well pleasing unto thee. For thou art the light of our souls and of our bodies, O Christ our God, and unto thee do we ascribe glory, together with thy Father, who is from everlasting, and thy holy, and blessed, and life-giving Spirit, now, and ever, and unto ages of ages. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Gospel",
+              "sourceId": "wq-gospel",
+              "locator": "Gospel",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Luke 11:28",
+              "translation": "KJV (public domain in the United States)",
+              "text": "But he said, Yea rather, blessed are they that hear the word of God, and keep it.",
+              "sourceId": "wq-kjv",
+              "locator": "Luke 11:28",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-liturgy-offering",
+          "title": "Great Entrance and anaphora",
+          "tags": [
+            "Eucharist",
+            "anaphora",
+            "epiclesis",
+            "Creed"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Great Entrance",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, IV.17, p.599",
+              "text": "(17) In the middle of the Cherubimic Hymn the Great Entrance is made: that is to say, the Holy Gifts are brought from the Chapel (or Table) of Oblation to the Altar. In the days of the early Church, during this Great Entrance, all persons who had brought or sent offerings for the use of the Church were mentioned by name. But as this detailed commemoration was extremely long and difficult, it was ordered that only the chief personages in rank and power should thereafter be mentioned by name; all others being included under the honourable title of \"all Orthodox Christians.\" If it be a Pontifical Liturgy, the Bishop washes his hands at this point, thus ceremonially purifying himself for the sacred office which he is about to exercise. The Great Entrance typifies our Lord's going to his Passion and death. Therefore it is customary for the Faithful to do homage to the Holy Gifts at this point, although these are not yet consecrated.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Anaphora of Saint John Chrysostom",
+              "sourceId": "wq-hapgood1",
+              "locator": "Divine Liturgy, pp.101–102",
+              "text": "It is meet and right that we should laud thee, bless thee, praise thee, give thanks unto thee, and adore thee in all places of thy dominion: for thou art God ineffable, incomprehensible, invisible, inconceivable; thou art from everlasting and art changeless, thou, and thine Only-begotten Son, and thy Holy Spirit. Thou from nothingness hast called us into being; and when we had fallen away from thee, thou didst raise us up again; and thou hast not ceased to do all things until thou hadst brought us back to heaven, and hadst endowed us with thy kingdom which is to come. For all which things we give thanks unto thee, and thine Only-begotten Son, and thy Holy Spirit; for all the things whereof we know, and whereof we know not; for all thy benefits bestowed upon us, both manifest and unseen. And we render thanks unto thee for this ministry which thou dost deign to accept at our hands, although before thee stand thousands of Archangels and myriads of Angels, with the Cherubim, and Seraphim, six-winged, many-eyed, who soar aloft, borne on their pinions.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Invocation of the Holy Spirit",
+              "sourceId": "wq-hapgood1",
+              "locator": "Divine Liturgy, p.105",
+              "text": "Again we offer unto thee this reasonable and unbloody service. And we beseech and implore thee, and offer our supplications unto thee, that thou wilt send thy Holy Spirit upon us, and upon these Gifts here spread forth.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Eucharistic Canon: Anaphora",
+              "sourceId": "wq-anaphora",
+              "locator": "Eucharistic Canon: Anaphora",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 Corinthians 11:24–25",
+              "translation": "KJV (public domain in the United States)",
+              "text": "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.",
+              "sourceId": "wq-kjv",
+              "locator": "1 Corinthians 11:24–25",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-liturgy-communion",
+          "title": "Communion and thanksgiving",
+          "tags": [
+            "Communion",
+            "visitors",
+            "antidoron",
+            "ROCOR"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Prayer of thanksgiving after Communion",
+              "sourceId": "wq-hapgood1",
+              "locator": "Divine Liturgy, p.123",
+              "text": "I thank thee, O Lord my God, that thou hast not rejected me, a sinner, but hast deemed me worthy to become a partaker of thy Holy Things. I thank thee that thou hast graciously granted unto me, though unworthy, to receive thy pure and heavenly Gifts. But, O Master who lovest mankind, who for our sake didst die, and didst rise again, and hast graciously bestowed upon us these terrible and life-giving Mysteries, for the blessing and sanctification of our souls and bodies: Vouchsafe that they may be efficacious for me also unto the healing of my soul and body, unto the averting of everything contrary thereto; unto the enlightenment of the eyes of my heart; unto the peace of my spiritual powers; unto faith invincible; unto love unfeigned; unto the fulfilling of wisdom; unto the keeping of thy commandments; unto the increase of thy divine grace and the attainment of thy kingdom: that by thee preserved in thy holiness I may ever bear in mind thy grace, and live not unto myself, but unto thee, our Master and Benefactor. And so, this life ended in the hope of life everlasting, I may come unto that rest eternal, where the voice of those who keep high festival ceaseth never, and where endless is the sweetness of those who behold the beauty inexpressible of thy countenance. For thou art the true desire and the happiness unutterable of those who love thee, O Christ our God, and every created being shall laud thee unto ages of ages. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "The body of Christ and the poor",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily L on Matthew, section 4",
+              "text": "Wouldest thou do honor to Christ's body? Neglect Him not when naked; do not while here thou honorest Him with silken garments, neglect Him perishing without of cold and nakedness. For He that said, \"This is my body,\" and by His word confirmed the fact, \"This same said, \"Ye saw me an hungered, and fed me not;\" and, \"Inasmuch as ye did it not to one of the least of these, ye did it not to me.\" [1970] For This indeed needs not coverings, but a pure soul; but that requires much attention. Let us learn therefore to be strict in life, and to honor Christ as He Himself desires. For to Him who is honored that honor is most pleasing, which it is His own will to have, not that which we account best. Since Peter too thought to honor Him by forbidding Him to wash his feet, but his doing so was not an honor, but the contrary. Even so do thou honor Him with this honor, which He ordained, spending thy wealth on poor people. Since God hath no need at all of golden vessels, but of golden souls. And these things I say, not forbidding such offerings to be provided; but requiring you, together with them, and before them, to give alms. For He accepts indeed the former, but much more the latter. For in the one the offerer alone is profited, but in the other the receiver also. Here the act seems to be a ground even of ostentation; but there all is mercifulness, and love to man.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Communion",
+              "sourceId": "wq-communion",
+              "locator": "Communion",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Preparation for Communion: St Matrona Orthodox Mission",
+              "sourceId": "wq-communion-rocor",
+              "locator": "Preparation for Holy Communion — entire parish document",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 Corinthians 10:16–17",
+              "translation": "KJV (public domain in the United States)",
+              "text": "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ? For we being many are one bread, and one body: for we are all partakers of that one bread.",
+              "sourceId": "wq-kjv",
+              "locator": "1 Corinthians 10:16–17",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w-daily-cycle",
+      "title": "Daily offices",
+      "order": 8,
+      "track": "Worship & life",
+      "lessons": [
+        {
+          "id": "w-vespers",
+          "title": "Vespers",
+          "tags": [
+            "Vespers",
+            "Psalms",
+            "daily cycle"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "All-Night Vigil",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, I.1, p.592",
+              "text": "The Holy Orthodox-Catholic Apostolic Church of the East reckons its day after the pattern of the Jewish Church, from sunset. Therefore the worship of God begins with the Evening Service, which typifies, in general, the Old Testament times, as foreshadowing our Lord Jesus Christ and his life on earth, and precedes the Divine Liturgy of the morning, wherein is typified the life of our Lord as set forth in the New Testament and his life in heaven. On ordinary evenings, Great or Lesser Vespers is used. On Saturday evening, and on the eves of the Great Feasts, is celebrated the Vigil Service, which consists of portions of Great Vespers, combined with Matins. In the early Church, the Vigil Service lasted all night, as its name, the \"All-Night Vigil Service,\" denotes; and at the present day, in the monasteries of the East, where the service is read and chanted slowly, and in its completeness, it so lasts. In the monasteries, also, are used the Great and Lesser Later Evensong (Compline), and the various midnight services. At the Saturday evening Vigil Service, the Resurrection of our Lord is more particularly commemorated and exalted. On Christmas Eve, and on the Eves of the Epiphany and sometimes of the Annunciation, the All-Night Vigil Office consists of Great Later Evensong (Grand Compline) and Matins.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Prayer at Vespers",
+              "sourceId": "wq-hapgood1",
+              "locator": "Great Vespers, p.2; fifth priestly prayer",
+              "text": "O Lord, Lord, who upholdest all things in the all-pure hollow of thy hand; who showest long-suffering upon us all, and repentest thee at our calamities: Remember thy bounties and thy mercy. Visit us with thy loving-kindness: and grant that, through the residue of thy day, by thy grace, we may avoid the divers subtle snares of the Evil One, and preserve our lives unassailed; through the grace of thine all-holy Spirit. Through the mercy and love toward mankind of thine Only-begotten Son, with whom thou art blessed, together with thine all-holy, and good, and life-creating Spirit, now, and ever, and unto ages of ages. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Vespers",
+              "sourceId": "wq-vespers",
+              "locator": "Vespers",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Psalm 141:2",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.",
+              "sourceId": "wq-kjv",
+              "locator": "Psalm 141:2",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-matins",
+          "title": "Matins and All-Night Vigil",
+          "tags": [
+            "Matins",
+            "vigil",
+            "Magnificat",
+            "canon"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Resurrection Gospel at Matins",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, II.7–8, p.595",
+              "text": "(7) Our Lord Jesus Christ, after that he was risen from the dead, speedily manifested himself to his Disciples. Wherefore the Church, by the reading of the Gospel after the Song of the Holy Women, announces to the People one of the ten Manifestations of the risen Saviour to his Disciples. The appointed Gospels for Matins in their order will be found on p. xxi. All the eleven Lessons from the Gospels, appointed to be read in rotation, refer to the Resurrection of our Lord on the third day. (8) While the Choir sings, the Priest and Deacon first salute the Holy Gospels. And after them the people, in the presence of the Priest, as it were of the Angel-Messenger of the Resurrection, joyfully do homage to the Holy Book, as to Christ himself, and kiss it, in that it contains the redeeming tidings of the Resurrection.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "First prayer at Matins",
+              "sourceId": "wq-hapgood1",
+              "locator": "Matins, p.20; first priestly prayer",
+              "text": "O Lord our God, who hast raised us up from our beds, and hast put into our mouths the word of praise, that we may adore and call upon thy holy Name. And we entreat thee, by thy mercies which thou hast exercised always in our life, send down now also thine aid upon those who stand before the presence of thy holy glory, and await the rich mercy which is from thee. And grant that they may always with fear and love worship thee, praise thee, hymn thee, and adore thine inexpressible goodness. For unto thee is due all honour, glory and worship, to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Matins",
+              "sourceId": "wq-matins",
+              "locator": "Matins",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Luke 1:46–48",
+              "translation": "KJV (public domain in the United States)",
+              "text": "And Mary said, My soul doth magnify the Lord, And my spirit hath rejoiced in God my Saviour. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.",
+              "sourceId": "wq-kjv",
+              "locator": "Luke 1:46–48",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-hours-compline",
+          "title": "Hours, Compline, and Nocturne",
+          "tags": [
+            "Hours",
+            "Compline",
+            "Horologion",
+            "prayer rule"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "The Hours",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, III, pp.596–597",
+              "text": "In the First Hour we thank God for the light of day which he has given to us, and pray him that we may pass the day without sin. According to the ecclesiastical reckoning, the First Hour corresponds with the present seven o'clock in the morning. In the Third Hour we commemorate the Descent of the Holy Spirit upon the Apostles on the day of Pentecost. It corresponds to the present nine o'clock in the morning. In the Sixth Hour, corresponding to twelve o'clock (noon), the Crucifixion of Jesus Christ is commemorated. The Ninth Hour, corresponding to three o'clock in the afternoon, commemorates the death of Jesus Christ, our Lord. The Hours for Easter consist of the Hymns only, all the Psalms being omitted. The Imperial Hours, used at Christmas and Good Friday, consist of all the Hours, and special Psalms, read consecutively; each Hour being augmented by the reading of Lessons from the Old Testament, from the Epistles, and from the Gospels, and the singing of special Hymns. The Typical Psalms in their prayers and songs typify the Divine Liturgy. They are sometimes used in place of the Liturgy. They are also used as the continuation and conclusion of the Hours (during the Great Fast), and of the Imperial Hours.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Prayer of Saint Basil",
+              "sourceId": "wq-hapgood1",
+              "locator": "Grand Compline, p.155; prayer after the first part",
+              "text": "O Lord, Lord, who deliverest us from all the arrows that fly by day, deliver thou us, also, from all the things that infest the darkness. Accept our evening sacrifice, even the lifting-up of our hands. Grant that we may pass through the course of the night without sin, untempted of evil things ; and deliver us from every alarm and cowardice that cometh to us from the Devil. Grant unto our souls contrition, and unto our minds anxiety concerning that strict searching out of the thoughts which shall come in the dread and just Day of Judgment. Nail our flesh to the fear of thee, and mortify our earthly members : that, in the quietness of sleep, we may be illuminated by the vision of thy judgments. Remove from us, also, every unseemly imagination and hurtful carnal passion. Raise us up again at the hour of prayer fortified in the faith, and advancing in thy commandments ; through the favour and goodness of thine Only-begotten Son, with whom thou art glorified, together with thine all-holy, and good, and life-giving Spirit, now, and ever, and unto ages of ages. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Hours, Compline and Nocturne",
+              "sourceId": "wq-hours",
+              "locator": "Hours, Compline and Nocturne",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Acts 3:1",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.",
+              "sourceId": "wq-kjv",
+              "locator": "Acts 3:1",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-books-cycles",
+          "title": "Liturgical books and cycles",
+          "tags": [
+            "liturgical books",
+            "Octoechos",
+            "Typikon",
+            "Menaion"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Service Book",
+              "sourceId": "wq-hapgood-scan",
+              "locator": "Preface, p.v",
+              "text": "(i) The Slushibnik, or Service Book, which contains most of the fixed portions of the Liturgies of St. John Chrysostom and St. Basil the Great, and of the Presanctified Gifts ; also the Litanies and Prayers of Vespers and Matins, together with the Graduals and Benedictions appropriate to all occasions. This is used by the Priest and the Choir.",
+              "evidenceFile": "evidence/worship/cu31924029363128_djvu.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Canon and Scripture",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, II.10, p.596",
+              "text": "(10) As joy expresses itself in song, so the holy Church has appointed to be sung, after the salutation of the Book of the Gospels, the Nine Songs of the Canon, which represent the Hymns of praise, at the Resurrection, of the nine Ranks of the heavenly Hierarchy. The Canon contains, also, the Hymns of those godly persons in the Old Testament, from Moses to Zacharias, who magnified the Lord God in spiritual songs. This is in conformity with the teachings of our Lord himself, who, after his Resurrection, expounded unto his Disciples the things in all the Scriptures concerning himself; and each Song (Irmós), in the vast number of Canons in the Holy Orthodox Church, is inspired by the Hymn of Scripture appointed to precede it. But these Scripture hymns are generally omitted, with the exception of the Song of the Holy Birth-giver of God, which precedes Song IX.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Church Year",
+              "sourceId": "wq-year",
+              "locator": "Church Year",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "OCA liturgical music library",
+              "sourceId": "wq-music",
+              "locator": "Rubrics, music, and texts — official liturgical resources",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Colossians 3:16",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+              "sourceId": "wq-kjv",
+              "locator": "Colossians 3:16",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w-home-prayer",
+      "title": "Prayer",
+      "order": 9,
+      "track": "Worship & life",
+      "lessons": [
+        {
+          "id": "w-prayer-rule",
+          "title": "Prayer at home and in church",
+          "tags": [
+            "morning prayer",
+            "evening prayer",
+            "prayer rule",
+            "attention"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Prayer in church and in private",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XIX on Matthew, sections 3–4",
+              "text": "\"What then,\" it may be said, \"ought we not to pray in church?\" Indeed we ought by all means, but in such a spirit as this. Because everywhere God seeks the intention of all that is done. Since even if thou shouldest enter into thy closet, and having shut the door, shouldest do it for display, the doors will do thee no good. It is worth observing in this case also, how exact the definition, which He made when He said, \"That they may appear unto men.\" So that even if thou shut the doors, this He desires thee duly to perform, rather than the shutting of the doors, even to shut the doors of the mind. For as in everything it is good to be freed from vainglory, so most especially in prayer. For if even without this, we wander and are distracted, when shall we attend unto the things which we are saying, should we enter in having this disease also? And if we who pray and beseech attend not, how do we expect God to attend? 4. But yet some there are, who after such and so earnest charges, behave themselves so unseemly in prayer, that even when their person is concealed, they make themselves manifest to all by their voice, crying out disorderly, [832] and rendering themselves objects of ridicule both by gesture and voice. Seest thou not that even in a market place, should any one come up doing like this, and begging clamorously, he wilt drive away him whom he is petitioning; but if quietly, and with the proper gesture, then he rather wins over him that can grant the favor? Let us not then make our prayer by the gesture of our body, nor by the loudness of our voice, but by the earnestness of our mind: neither with noise and clamor and for display, so as even to disturb those that are near us, but with all modesty, [833] and with contrition in the mind, and with inward tears.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Nature of prayer",
+              "sourceId": "wq-cassian",
+              "locator": "Conference IX, chapter II; Abba Isaac — monastic conference",
+              "text": "The aim of every monk and the perfection of his heart tends to continual and unbroken perseverance in prayer, and, as far as it is allowed to human frailty, strives to acquire an immovable tranquillity of mind and a perpetual purity, for the sake of which we seek unweariedly and constantly to practise all bodily labours as well as contrition of spirit. And there is between these two a sort of reciprocal and inseparable union. For just as the crown of the building of all virtues is the perfection of prayer, so unless everything has been united and compacted by this as its crown, it cannot possibly continue strong and stable. For lasting and continual calmness in prayer, of which we are speaking, cannot be secured or consummated without them, so neither can those virtues which lay its foundations be fully gained without persistence in it.",
+              "evidenceFile": "evidence/worship/cassian.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Prayer and the daily cycle",
+              "sourceId": "wq-daily-prayer",
+              "locator": "Prayer and the daily cycle",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Morning Prayers: your supplied longer rule",
+              "sourceId": "wq-morning-rule",
+              "locator": "Morning Prayers: your supplied longer rule",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Evening Prayers: your supplied longer rule",
+              "sourceId": "wq-evening-rule",
+              "locator": "Evening Prayers: your supplied longer rule",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Matthew 6:6",
+              "translation": "KJV (public domain in the United States)",
+              "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+              "sourceId": "wq-kjv",
+              "locator": "Matthew 6:6",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-lords-prayer-psalms",
+          "title": "The Lord’s Prayer and Psalms",
+          "tags": [
+            "Lord's Prayer",
+            "Psalms",
+            "Scripture",
+            "meditation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Our Father",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XIX on Matthew, section 6",
+              "text": "See how He straightway stirred up the hearer, and reminded him of all God's bounty in the beginning. For he who calls God Father, by him both remission of sins, and taking away of punishment, and righteousness, and sanctification, and redemption, and adoption, and inheritance, and brotherhood with the Only-Begotten, and the supply of the Spirit, are acknowledged in this single title. For one cannot call God Father, without having attained to all those blessings. Doubly, therefore, doth He awaken their spirit, both by the dignity of Him who is called on, and by the greatness of the benefits which they have enjoyed. But when He saith, \"in Heaven,\" He speaks not this as shutting up God there, but as withdrawing him who is praying from earth, and fixing him in the high places, and in the dwellings above. He teaches, moreover, to make our prayer common, in behalf of our brethren also. For He saith not, \"my Father, which art in Heaven,\" but, \"our Father,\" offering up his supplications for the body in common, and nowhere looking to his own, but everywhere to his neighbor's good. And by this He at once takes away hatred, and quells pride, and casts out envy, and brings in the mother of all good things, even charity, and exterminates the inequality of human things, and shows how far the equality reaches between the king and the poor man, if at least in those things which are greatest and most indispensable, we are all of us fellows. For what harm comes of our kindred below, when in that which is on high we are all of us knit together, and no one hath aught more than another; neither the rich more than the poor, nor the master than the servant, neither the ruler than the subject, nor the king than the common soldier, nor the philosopher than the barbarian, nor the skillful than the unlearned? For to all hath He given one nobility, having vouchsafed to be called the Father of all alike.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Daily bread",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XIX on Matthew, section 8",
+              "text": "What is \"daily bread\"? That for one day. [854] For because He had said thus, \"Thy will be done in earth as it is in heaven,\" but was discoursing to men encompassed with flesh, and subject to the necessities of nature, and incapable of the same impassibility with the angels:--while He enjoins the commands to be practised by us also, even as they perform them; He condescends likewise, in what follows, to the infirmity of our nature. Thus, \"perfection of conduct,\" saith He, \"I require as great, not however freedom from passions; no, for the tyranny of nature permits it not: for it requires necessary food.\" But mark, I pray thee, how even in things that are bodily, that which is spiritual abounds. For it is neither for riches, nor for delicate living, nor for costly raiment, nor for any other such thing, but for bread only, that He hath commanded us to make our prayer.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "link",
+              "title": "The Lord's Prayer",
+              "sourceId": "wq-lords-prayer",
+              "locator": "The Lord's Prayer",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Matthew 6:11–12",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Give us this day our daily bread. And forgive us our debts, as we forgive our debtors.",
+              "sourceId": "wq-kjv",
+              "locator": "Matthew 6:11–12",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-jesus-prayer",
+          "title": "Jesus Prayer and recollection of God",
+          "tags": [
+            "Jesus Prayer",
+            "hesychasm",
+            "attention",
+            "discernment"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Jesus Prayer",
+              "sourceId": "wq-jesus-prayer",
+              "locator": "The Jesus Prayer — quoted prayer text",
+              "text": "Lord Jesus Christ, Son of God, have mercy on me a sinner.",
+              "evidenceFile": "evidence/worship/w-jesus-prayer.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Psalm verse in Cassian",
+              "sourceId": "wq-cassian",
+              "locator": "Conference X, chapter X; Abba Isaac — monastic conference",
+              "text": "And so for keeping up continual recollection of God this pious formula is to be ever set before you. \"O God, make speed to save me: O Lord, make haste to help me,\" [1673] for this verse has not unreasonably been picked out from the whole of Scripture for this purpose. For it embraces all the feelings which can be implanted in human nature, and can be fitly and satisfactorily adapted to every condition, and all assaults.",
+              "evidenceFile": "evidence/worship/cassian.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Recollection of God",
+              "sourceId": "wq-cassian",
+              "locator": "Conference X, chapter X; Abba Isaac — monastic conference",
+              "text": "We must then ceaselessly and continuously pour forth the prayer of this verse, in adversity that we may be delivered, in prosperity that we may be preserved and not puffed up. Let the thought of this verse, I tell you, be conned over in your breast without ceasing. Whatever work you are doing, or office you are holding, or journey you are going, do not cease to chant this. When you are going to bed, or eating, and in the last necessities of nature, think on this. This thought in your heart maybe to you a saving formula, and not only keep you unharmed by all attacks of devils, but also purify you from all faults and earthly stains, and lead you to that invisible and celestial contemplation, and carry you on to that ineffable glow of prayer, of which so few have any experience. Let sleep come upon you still considering this verse, till having been moulded by the constant use of it, you grow accustomed to repeat it even in your sleep.",
+              "evidenceFile": "evidence/worship/cassian.txt"
+            },
+            {
+              "kind": "link",
+              "title": "The Jesus Prayer",
+              "sourceId": "wq-jesus-prayer",
+              "locator": "The Jesus Prayer — entire chapter",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Luke 18:13",
+              "translation": "KJV (public domain in the United States)",
+              "text": "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.",
+              "sourceId": "wq-kjv",
+              "locator": "Luke 18:13",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-intercession-lament",
+          "title": "Intercessory prayer",
+          "tags": [
+            "intercession",
+            "lament",
+            "family",
+            "Holy Spirit"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Four kinds of prayer",
+              "sourceId": "wq-cassian",
+              "locator": "Conference IX, chapter IX",
+              "text": "And therefore, when we have laid this down with regard to the character of prayer, although not so fully as the importance of the subject requires, but as fully as the exigencies of time permit, and at any rate as our slender abilities admit, and our dulness of heart enables us,--a still greater difficulty now awaits us; viz., to expound one by one the different kinds of prayer, which the Apostle divides in a fourfold manner, when he says as follows: \"I exhort therefore first of all that supplications, prayers, intercessions, thanksgivings be made.\" [1593] And we cannot possibly doubt that this division was not idly made by the Apostle. And to begin with we must investigate what is meant by supplication, by prayer, by intercession, and by thanksgiving. Next we must inquire whether these four kinds are to be taken in hand by him who prays all at once, i.e., are they all to be joined together in every prayer,--or whether they are to be offered up in turns and one by one, as, for instance, ought at one time supplications, at another prayers, at another intercessions, and at another thanksgivings to be offered, or should one man present to God supplications, another prayers, another intercessions, another thanksgivings, in accordance with that measure of age, to which each soul is advancing by earnestness of purpose?",
+              "evidenceFile": "evidence/worship/cassian.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Intercessions",
+              "sourceId": "wq-cassian",
+              "locator": "Conference IX, chapter XIII",
+              "text": "In the third place stand intercessions, which we are wont to offer up for others also, while we are filled with fervour of spirit, making request either for those dear to us or for the peace of the whole world, and to use the Apostle's own phrase, we pray \"for all men, for kings and all that are in authority.\" [1597]",
+              "evidenceFile": "evidence/worship/cassian.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Third Hour collect-hymn",
+              "sourceId": "wq-hapgood1",
+              "locator": "Third Hour, p.46",
+              "text": "Grant speedy and steadfast consolation unto thy servants, O Jesus, when our spirit is cast down within us. Depart not from our souls in affliction; be not far from our thoughts in time of trouble; but always defend us. Draw near unto us, draw near unto us, thou who art omnipresent! As thou art ever with thine Apostles, so, also, O Bountiful One, unite thyself unto those who long for thee; that with one accord we may sing praises unto thee, and laud thy most holy Spirit.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Intercessory Prayer",
+              "sourceId": "wq-intercession",
+              "locator": "Intercessory Prayer",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "ROCOR Europe: Moleben before the Kursk-Root Icon",
+              "sourceId": "wq-moleben",
+              "locator": "ROCOR Europe: Moleben before the Kursk-Root Icon",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Romans 8:26",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+              "sourceId": "wq-kjv",
+              "locator": "Romans 8:26",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w-ascetic-love",
+      "title": "Fasting, almsgiving, and family",
+      "order": 10,
+      "track": "Worship & life",
+      "lessons": [
+        {
+          "id": "w-fasting",
+          "title": "Fasting",
+          "tags": [
+            "fasting",
+            "Lent",
+            "asceticism",
+            "ROCOR"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Moderation and fasting",
+              "sourceId": "wq-cassian",
+              "locator": "Institutes, Book V, chapter IX — monastic instruction",
+              "text": "The perfection then of abstinence is not to be gathered from calculations of time alone, nor only from the quality of the food; but beyond everything from the judgment of conscience. For each one should impose such a sparing diet on himself as the battle of his bodily struggle may require. The canonical observance of fasts is indeed valuable and by all means to be kept. But unless this is followed by a temperate partaking of food, one will not be able to arrive at the goal of perfection. For the abstinence of prolonged fasts--where repletion of body follows--produces weariness for a time rather than purity and chastity. Perfection of mind indeed depends upon the abstinence of the belly. He has no lasting purity and chastity, who is not contented always to keep to a well-balanced and temperate diet. Fasting, although severe, yet if unnecessary relaxation follows, is rendered useless, and presently leads to the vice of gluttony. A reasonable supply of food partaken of daily with moderation, is better than a severe and long fast at intervals. Excessive fasting has been known not only to undermine the constancy of the mind, but also to weaken the power of prayers through sheer weariness of body.",
+              "evidenceFile": "evidence/worship/cassian.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Fasting without display",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XX on Matthew, section 1",
+              "text": "And whereas in the matter of almsgiving, He did not put it simply, but having said, \"Take heed not to do it before men,\" He added, \"to be seen of them;\" yet concerning fasting and prayer, He made no such limitation. Why could this have been? Because for almsgiving to be altogether concealed is impossible, but for prayer and fasting, it is possible. As therefore, when He said, \"Let not thy left hand know what thy right hand doeth,\" it was not of hands that He was speaking, but of the duty of being strictly concealed from all; and as when He commanded us to enter into our closet, not there alone absolutely, nor there primarily, did He command us to pray, but He covertly intimated the same thing again; so likewise here, in commanding us \"to be anointed,\" He did not enact that we positively must anoint ourselves; for then we should all of us be found transgressors of this law; and above all, surely, they who have taken the most pains to keep it, the societies of the monks, who have taken up their dwelling on the mountains. It was not this then that He enjoined, but, forasmuch as the ancients had a custom to anoint themselves continually, when they were taking their pleasure and rejoicing (and this one may see clearly from David [884] and from Daniel); [885] He said that we were to anoint ourselves, not that we should positively do this, but that by all means we might endeavor, with great strictness, to hide this our acquisition.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Fasting",
+              "sourceId": "wq-fasting",
+              "locator": "Fasting",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Lenten Fasting",
+              "sourceId": "wq-lenten-fast",
+              "locator": "Lenten Fasting",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Matthew 6:17–18",
+              "translation": "KJV (public domain in the United States)",
+              "text": "But thou, when thou fastest, anoint thine head, and wash thy face; That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+              "sourceId": "wq-kjv",
+              "locator": "Matthew 6:17–18",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-alms-work",
+          "title": "Almsgiving and work",
+          "tags": [
+            "almsgiving",
+            "work",
+            "hospitality",
+            "family"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Almsgiving and intention",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XIX on Matthew, section 2",
+              "text": "2. And when He had said, \"not to do it before men,\" He added, \"to be seen of them.\" And though it seems as if the same thing were said a second time, yet if any one give particular attention, it is not the same thing, but one is different from the other; and it hath great security, and unspeakable care and tenderness. For it may be, both that one doing alms before men may not do it to be seen of them, and again that one not doing it before men may do it to be seen of them. Wherefore it is not simply the thing, but the intent, which He both punishes and rewards. And unless such exactness were employed, this would make many more backward about the giving of alms, because it is not on every occasion altogether possible to do it secretly. For this cause, setting thee free from this restraint, He defines both the penalty and the reward not by the result of the action, but by the intention of the doer.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Honor to Christ",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily L on Matthew, section 4",
+              "text": "Let us learn therefore to be strict in life, and to honor Christ as He Himself desires. For to Him who is honored that honor is most pleasing, which it is His own will to have, not that which we account best. Since Peter too thought to honor Him by forbidding Him to wash his feet, but his doing so was not an honor, but the contrary. Even so do thou honor Him with this honor, which He ordained, spending thy wealth on poor people. Since God hath no need at all of golden vessels, but of golden souls. And these things I say, not forbidding such offerings to be provided; but requiring you, together with them, and before them, to give alms. For He accepts indeed the former, but much more the latter. For in the one the offerer alone is profited, but in the other the receiver also. Here the act seems to be a ground even of ostentation; but there all is mercifulness, and love to man.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Almsgiving",
+              "sourceId": "wq-alms",
+              "locator": "Almsgiving",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Prayer for Work: your supplied rule",
+              "sourceId": "wq-work-rule",
+              "locator": "Prayer for Work: your supplied rule",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Prayer at Meals: your supplied rule",
+              "sourceId": "wq-meals-rule",
+              "locator": "Prayer at Meals: your supplied rule",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Ephesians 4:28",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.",
+              "sourceId": "wq-kjv",
+              "locator": "Ephesians 4:28",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-family-peace",
+          "title": "Marriage and family",
+          "tags": [
+            "marriage",
+            "family",
+            "Reformed background",
+            "peace"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Prayer at Holy Matrimony",
+              "sourceId": "wq-hapgood1",
+              "locator": "Rite of Holy Matrimony, p.293",
+              "text": "O eternal God, who hast brought into unity those who were sundered, and hast ordained for them an indissoluble bond of love; who didst bless Isaac and Rebecca, and didst make them heirs of thy promise: Bless also these thy servants, N. and N., guiding them unto every good work. For thou art a merciful God, who lovest mankind, and unto thee do we ascribe glory, to the Father, and to the Son, and to the Holy Spirit, now, and ever, and unto ages of ages.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Prayer for concord",
+              "sourceId": "wq-hapgood1",
+              "locator": "Rite of Holy Matrimony, p.300",
+              "text": "O Lord our God, who in thy saving providence didst vouchsafe by thy presence in Cana of Galilee to declare marriage honourable: Do thou, the same Lord, now also maintain in peace and concord thy servants, N. and N., whom it hath pleased thee to join together. Cause their marriage to be honourable. Preserve their bed blameless. Mercifully grant that they may live together in purity; and enable them to attain to a ripe old age, walking in thy commandments with a pure heart.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Forgiveness",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XIX on Matthew, section 9",
+              "text": "Since He might indeed, even without this, forgive thee all thine offenses; but He wills thee hereby also to receive a benefit; affording thee on all sides innumerable occasions of gentleness and love to man, casting out what is brutish in thee, and quenching wrath, and in all ways cementing thee to him who is thine own member.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "link",
+              "title": "OCA Holy Synod: On Marriage",
+              "sourceId": "wq-marriage",
+              "locator": "On Marriage — entire Holy Synod encyclical",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Family",
+              "sourceId": "wq-family",
+              "locator": "Family",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Ephesians 5:25",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
+              "sourceId": "wq-kjv",
+              "locator": "Ephesians 5:25",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-repentance-daily",
+          "title": "Repentance and confession",
+          "tags": [
+            "repentance",
+            "forgiveness",
+            "confession",
+            "hope"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Forgive us our debts",
+              "sourceId": "wq-chrysostom-matthew",
+              "locator": "Homily XIX on Matthew, section 9",
+              "text": "Seest thou surpassing mercy? After taking away so great evils, and after the unspeakable greatness of His gift, if men sin again, He counts them such as may be forgiven. For that this prayer belongs to believers, is taught us both by the laws of the church, and by the beginning of the prayer. For the uninitiated could not call God Father. If then the prayer belongs to believers, and they pray, entreating that sins may be forgiven them, it is clear that not even after the laver is the profit of repentance taken away. Since, had He not meant to signify this, He would not have made a law that we should so pray. Now He who both brings sins to remembrance, and bids us ask forgiveness, and teaches how we may obtain remission and so makes the way easy; it is perfectly clear that He introduced this rule of supplication, as knowing, and signifying, that it is possible even after the font [858] to wash ourselves from our offenses; by reminding us of our sins, persuading us to be modest; by the command to forgive others, setting us free from all revengeful passion; while by promising in return for this to pardon us also, He holds out good hopes, and instructs us to have high views [859] concerning the unspeakable mercy of God toward man.",
+              "evidenceFile": "evidence/worship/chrysostom-matthew.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Priest’s exhortation at confession",
+              "sourceId": "wq-hapgood1",
+              "locator": "Rite of Confession, p.289; priest’s address to the penitent",
+              "text": "Behold, my child, Christ standeth here invisibly, and receiveth thy confession: wherefore, be not ashamed, neither be afraid, and conceal thou nothing from me: but tell me, doubting not, all things which thou hast done; and so shalt thou have pardon from our Lord Jesus Christ. Lo, his holy image is before us: and I am but a witness, bearing testimony before him of all things which thou dost say to me. But if thou shalt conceal anything from me, thou shalt have the greater sin. Take heed, therefore, lest, having come to the physician, thou depart unhealed.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Hope",
+              "sourceId": "wq-hope",
+              "locator": "Hope",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 John 1:9",
+              "translation": "KJV (public domain in the United States)",
+              "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+              "sourceId": "wq-kjv",
+              "locator": "1 John 1:9",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w-church-year",
+      "title": "Church year",
+      "order": 11,
+      "track": "Worship & life",
+      "lessons": [
+        {
+          "id": "w-calendar-map",
+          "title": "Church year and calendar",
+          "tags": [
+            "calendar",
+            "ROCOR",
+            "feasts",
+            "Pascha"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Vigil and the church day",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, I.1, p.592",
+              "text": "The Holy Orthodox-Catholic Apostolic Church of the East reckons its day after the pattern of the Jewish Church, from sunset. Therefore the worship of God begins with the Evening Service, which typifies, in general, the Old Testament times, as foreshadowing our Lord Jesus Christ and his life on earth, and precedes the Divine Liturgy of the morning, wherein is typified the life of our Lord as set forth in the New Testament and his life in heaven.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Services and feasts",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, V.2, p.601",
+              "text": "(2) The Minéya is a set of twelve volumes containing the services for every day in the year, with the proper Hymns for the Saints of the day, and so forth. In addition, there are the Minéya of the Feasts, and the Pentecostáron (with the services for Easter-tide); and the Triódion, which contains the services, day by day, for the Great Fast.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Church Year",
+              "sourceId": "wq-year",
+              "locator": "Church Year",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "How the ROCOR liturgical calendar is prepared",
+              "sourceId": "wq-calendar-rocor",
+              "locator": "Interview with Peter Fekula — calendar resources, feasts, and fasting dates",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "ROCOR: Understanding Our Church Calendar",
+              "sourceId": "wq-calendar-primary",
+              "locator": "Understanding Our Church Calendar — historical essay",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Annunciation",
+              "sourceId": "wq-annunciation",
+              "locator": "Annunciation",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Transfiguration",
+              "sourceId": "wq-transfiguration",
+              "locator": "Transfiguration",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Dormition of the Theotokos",
+              "sourceId": "wq-dormition",
+              "locator": "Dormition of the Theotokos",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Elevation of the Cross",
+              "sourceId": "wq-cross-feast",
+              "locator": "Elevation of the Cross",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Other Feasts",
+              "sourceId": "wq-other-feasts",
+              "locator": "Other Feasts",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Psalm 118:24",
+              "translation": "KJV (public domain in the United States)",
+              "text": "This is the day which the Lord hath made; we will rejoice and be glad in it.",
+              "sourceId": "wq-kjv",
+              "locator": "Psalm 118:24",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-incarnation-feasts",
+          "title": "Nativity, Theophany, and Meeting of the Lord",
+          "tags": [
+            "Annunciation",
+            "Nativity",
+            "Meeting",
+            "Theophany"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Nativity of Christ",
+              "sourceId": "wq-hapgood1",
+              "locator": "Nativity of Christ, p.176; troparion",
+              "text": "Thy Nativity, O Christ our God, hath arisen upon the world as the light of wisdom. For at it, they who worshipped the stars were, by a Star, taught to adore thee, the Sun of Righteousness, and to know thee, the Orient from on high. O Lord, glory to thee.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Theophany",
+              "sourceId": "wq-hapgood1",
+              "locator": "Epiphany, p.183; troparion",
+              "text": "When in Jordan thou wast baptized, O Lord, the worship of the Trinity was made manifest. For the voice of the Father bare witness unto thee, calling thee his beloved Son, and the Spirit, in the form of a Dove, confirmed the steadfastness of that word: O Christ our God, who didst manifest thyself, and dost enlighten the world, glory to thee.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Meeting of the Lord",
+              "sourceId": "wq-hapgood1",
+              "locator": "Meeting of the Lord, p.198; troparion",
+              "text": "Hail, O Virgin Birth-giver of God: for from thee hath shone forth the Sun of Righteousness, Christ our God, who giveth light to those who are in darkness. And rejoice, thou aged, righteous man, that didst receive in thine arms the Redeemer of our souls, who giveth unto us resurrection.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Nativity of Christ",
+              "sourceId": "wq-nativity",
+              "locator": "Nativity of Christ",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Epiphany",
+              "sourceId": "wq-theophany",
+              "locator": "Epiphany",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Meeting of the Lord",
+              "sourceId": "wq-meeting",
+              "locator": "Meeting of the Lord",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Matthew 3:17",
+              "translation": "KJV (public domain in the United States)",
+              "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
+              "sourceId": "wq-kjv",
+              "locator": "Matthew 3:17",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-lent-holy-week",
+          "title": "Great Lent and Holy Week",
+          "tags": [
+            "Lent",
+            "Holy Week",
+            "Presanctified",
+            "Passion"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Prayer of Saint Ephraim",
+              "sourceId": "wq-hapgood1",
+              "locator": "First Hour, p.41; published Lenten prayer, excerpt with original rubrics",
+              "text": "O Lord and Master of my life, grant not unto me a spirit of slothfulness, of discouragement, of lust of power, of vain babbling. (Reverence.) But vouchsafe unto thy servant the spirit of continence, of meekness, of patience, and of love. (Reverence.) Yea, O Lord and King, grant that I may perceive my own transgressions, and judge not my brother. For blessed art thou unto ages of ages. Amen.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Presanctified Liturgy",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix B, V, pp.600–601",
+              "text": "At the Liturgy of the Presanctified (Gifts), there is no consecration of the Sacred Elements, but those who desire to communicate receive the Holy Gifts which have been consecrated at a previous service. It is used only during the Great Fast (Lent), on Wednesdays and Fridays; in the fifth week of Great Fast, on Thursday; and in Passion (Holy) Week, on Monday, Tuesday and Wednesday. It was instituted in the first ages of Christianity, but received its present form from Gregory the Great, Bishop of Rome in the sixth century. The Fathers of the Church regarded it as unbefitting the contrition of Lent that the full Liturgy (of St. John Chrysostom or of St. Basil the Great) should be celebrated. Therefore the complete Liturgy is allowed during the Great Fast only on Saturday, Sunday, the Feast of the Annunciation, and Holy Thursday. The Sacred Elements are consecrated at the Liturgy on those days, and thereafter are preserved in the tabernacle, on the holy Altar. The Liturgy of the Presanctified consists of Vespers, with special Prayers together with a portion of the ordinary Liturgy, omitting its most important part, namely, the consecration of the Holy Gifts;",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Great Thursday",
+              "sourceId": "wq-hapgood1",
+              "locator": "Great Thursday, p.213; hymn in place of the Cherubimic Hymn",
+              "text": "Of thy Mystical Supper, O Son of God, accept me to-day as a communicant; for I will not speak of thy Mystery to thine enemies, neither like Judas will I give thee a kiss; but like the thief will I confess thee: Remember me, O Lord, in thy kingdom.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Great Lent",
+              "sourceId": "wq-lent",
+              "locator": "Great Lent",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Holy Week",
+              "sourceId": "wq-holy-week",
+              "locator": "Holy Week",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Liturgy of the Presanctified Gifts",
+              "sourceId": "wq-presanctified",
+              "locator": "Liturgy of the Presanctified Gifts",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Philippians 2:8",
+              "translation": "KJV (public domain in the United States)",
+              "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+              "sourceId": "wq-kjv",
+              "locator": "Philippians 2:8",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-pascha-life",
+          "title": "Pascha and Pentecost",
+          "tags": [
+            "Pascha",
+            "Pentecost",
+            "Transfiguration",
+            "Dormition",
+            "Cross"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Paschal homily",
+              "sourceId": "wq-hapgood1",
+              "locator": "Easter, pp.235–236; catechetical address attributed to Saint John Chrysostom",
+              "text": "If any man be devout and loveth God, let him enjoy this fair and radiant triumphal feast. If any man be a wise servant, let him rejoicing enter into the joy of his Lord. If any have laboured long in fasting, let him now receive his recompense. If any have wrought from the first hour, let him to-day receive his just reward. If any have arrived at the sixth hour, let him have no misgivings; because he shall in nowise suffer therefor. If any have delayed until the ninth hour, let him draw near, fearing nothing. If any have tarried even until the eleventh hour let him, also, be not alarmed at his tardiness; for the Lord, who is jealous of his honour, will accept the last even as the first; he giveth rest unto him who cometh at the eleventh hour, even as unto him who hath wrought from the first hour. And he showeth mercy upon the last, and careth for the first; and to the one he giveth, and upon the other he bestoweth gifts. And he both accepteth the deeds, and welcometh the intention, and honoureth the acts and praiseth the offering. Wherefore, enter ye all into the joy of your Lord; and receive ye your reward, both the first, and likewise the second. Ye rich and poor together, hold ye high festival. Ye sober and ye heedless, honour ye the day. Rejoice to-day, both ye who have fasted and ye who have disregarded the fast. The table is full-laden; feast ye all sumptuously. The calf is ample; let no one go hungry away. Enjoy ye all the feast of faith: Receive ye all the riches of loving-kindness. Let no one bewail his poverty, for the universal kingdom hath been revealed. Let no one weep for his iniquities, for pardon hath shone forth from the grave. Let no one fear death, for the Saviour's death hath set us free.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Paschal canon",
+              "sourceId": "wq-hapgood1",
+              "locator": "Easter, p.231; Canticle VII",
+              "text": "We celebrate the death of Death, the annihilation of Hell, the beginning of a life new and everlasting. And in ecstasy we sing praises unto the author thereof, the only God of our fathers, blessed and exceeding glorious.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Easter Sunday: The Holy Pascha",
+              "sourceId": "wq-pascha",
+              "locator": "Easter Sunday: The Holy Pascha",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Pentecost: The Descent of the Holy Spirit",
+              "sourceId": "wq-pentecost",
+              "locator": "Pentecost: The Descent of the Holy Spirit",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 Corinthians 15:20–22",
+              "translation": "KJV (public domain in the United States)",
+              "text": "But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive.",
+              "sourceId": "wq-kjv",
+              "locator": "1 Corinthians 15:20–22",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w-sung-and-lived",
+      "title": "Chant, church building, and parish sources",
+      "order": 12,
+      "track": "Worship & life",
+      "lessons": [
+        {
+          "id": "w-chant-hymns",
+          "title": "Chant and hymns",
+          "tags": [
+            "chant",
+            "hymns",
+            "music",
+            "tones",
+            "listening"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Tone I: resurrection hymn",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix A, p.577; troparion",
+              "text": "While the stone was sealed by the Jews, and soldiers stood on guard over thy body undefiled, thou didst rise on the third day, O Saviour, who givest life unto the world. For which cause the Heavenly Powers cried aloud unto thee, O Giver of Life: Glory to thy resurrection, O Christ! Glory to thy kingdom! Glory to thy providence, O thou who alone lovest mankind!",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Tone VIII: resurrection hymn",
+              "sourceId": "wq-hapgood2",
+              "locator": "Appendix A, p.590; troparion",
+              "text": "Thou didst descend from on high, O Tender-hearted One; thou didst endure the three-days' burial, that thou mightest free us from our passions, O our Life and Resurrection. Glory, O Lord, to thee.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-2.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Tutorial for Learning the Tones",
+              "sourceId": "wq-tones",
+              "locator": "Tutorial for Learning the Tones — official notation and recordings",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "OCA liturgical music library",
+              "sourceId": "wq-music",
+              "locator": "Music Downloads — official scores and texts",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 Corinthians 14:15",
+              "translation": "KJV (public domain in the United States)",
+              "text": "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.",
+              "sourceId": "wq-kjv",
+              "locator": "1 Corinthians 14:15",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-church-space",
+          "title": "Church building",
+          "tags": [
+            "church building",
+            "altar",
+            "iconostasis",
+            "symbols"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Exterior of the church",
+              "sourceId": "wq-hapgood1",
+              "locator": "The Symbolism of the Church, p.xxvi",
+              "text": "The Exterior. A Temple has sometimes a single dome, sometimes many domes. One dome serves as a symbol of the One Head of the Church, Jesus Christ. Three domes typify the three Persons of the Holy Trinity. Five are symbolical of our Lord Jesus Christ and the Four Evangelists. Each dome—and where there is no dome the apex of the Temple—is crowned by a Cross, the emblem of victory.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Altar and Gospel book",
+              "sourceId": "wq-hapgood1",
+              "locator": "The Symbolism of the Church, p.xxviii",
+              "text": "Behind the Altar a seven-branched candelabra is usually placed (seven being the customary sacred number); and, sometimes a large Cross, for carrying in processions. The Book of the Holy Gospels, being the Word of God, is laid upon the Altar, to denote that God himself is mystically present thereon; and the Cross stands on the Altar as upon the place where is celebrated the unbloody sacrifice offered up to God.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Lights",
+              "sourceId": "wq-hapgood1",
+              "locator": "The Symbolism of the Church, p.xxxii",
+              "text": "Lights are always used during divine service, even though it be performed in full sunlight. This is done not only for illumination, but also to show that the Lord, who dwells in light ineffable, illumines the world with spiritual radiance; to denote that the hearts of faithful believers are warmed by a flame of love toward God and his Saints; and, also, to show forth spiritual joy and the triumph of the Church.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Church Building",
+              "sourceId": "wq-building",
+              "locator": "Church Building",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Hebrews 12:22–23",
+              "translation": "KJV (public domain in the United States)",
+              "text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels, To the general assembly and church of the firstborn, which are written in heaven,",
+              "sourceId": "wq-kjv",
+              "locator": "Hebrews 12:22–23",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-body-vestments",
+          "title": "Vestments, incense, and the sign of the cross",
+          "tags": [
+            "sign of the Cross",
+            "vestments",
+            "incense",
+            "candles",
+            "customs"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Priestly vestments",
+              "sourceId": "wq-hapgood1",
+              "locator": "The Symbolism of the Church, p.xxxv",
+              "text": "Priests. The Priest's stikhár, or cassock (Podríznik), has close sleeves. His Stole (Epitrakhil) consists of a long piece of stuff like the Deacon's, but broader than the latter, which passes round his neck, is joined in front for its entire length, and falls low upon his cassock. It typifies the consecrating grace of the Priesthood. The Priest, like the Deacon, can celebrate no Office without his Stole. In it, without the Chasuble, he celebrates the less solemn Offices: Lesser Vespers, ordinary Compline, Lauds (Polunótchnitza), the Hours (if the Gospel be not appointed to be read in them); also various Prayer-services in private dwellings, such as that at the birth of a child, and the like.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Incense",
+              "sourceId": "wq-hapgood1",
+              "locator": "The Symbolism of the Church, p.xxxiii",
+              "text": "The Holy Images (Ikóni), the Holy Things, and the people who are present at the divine service, are honoured with incense. The censing before the Holy Door signifies the desire of the worshippers that their prayers shall be borne up to the throne of God, as the incense from the censer is wafted heavenward; and that their petitions shall be well-pleasing to God like fragrant incense. The censing of the people is symbolical of the grace of the Holy Spirit, which is shed abroad everywhere, upon all men. The censer (Kadílo) represents the Divine Ember, even Christ.",
+              "evidenceFile": "evidence/worship/hapgood-transcription-1.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Vestments",
+              "sourceId": "wq-vestments",
+              "locator": "Vestments",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Sign of the Cross",
+              "sourceId": "wq-cross-sign",
+              "locator": "Sign of the Cross",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Romans 12:1",
+              "translation": "KJV (public domain in the United States)",
+              "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+              "sourceId": "wq-kjv",
+              "locator": "Romans 12:1",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        },
+        {
+          "id": "w-rocor-parish",
+          "title": "ROCOR parish sources",
+          "tags": [
+            "ROCOR",
+            "moleben",
+            "akathist",
+            "memorial",
+            "parish life"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Hapgood’s stated scope",
+              "sourceId": "wq-hapgood-scan",
+              "locator": "Preface, p.iii",
+              "text": "I have used the Old Church-Slavonic books of the Russian Church, rather than the original Greek, because my work has been done, prima- rily, for the use of the Russian Church in America. Slight differences in arrangement and practice (not in dogma) have arisen between the Russian Church and the Greek Church, similar to those between the Church of England and the Protestant Episcopal Church in America. I have carefully compared everything with the original Greek.",
+              "evidenceFile": "evidence/worship/cu31924029363128_djvu.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Published books and custom",
+              "sourceId": "wq-hapgood-scan",
+              "locator": "Preface, p.vi",
+              "text": "It will be seen that I have been confronted with the problem of re- jection, as well as of judicious selection. I may add, that many things are done or said \"by custom \" which are not mentioned in the printed books. These I have included.",
+              "evidenceFile": "evidence/worship/cu31924029363128_djvu.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Preparation for Communion: St Matrona Orthodox Mission",
+              "sourceId": "wq-communion-rocor",
+              "locator": "Preparation for Holy Communion — St Matrona parish guidance",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Holy Trinity Monastery service schedule",
+              "sourceId": "wq-jordanville",
+              "locator": "Holy Trinity Monastery — published service schedule",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "How the ROCOR liturgical calendar is prepared",
+              "sourceId": "wq-calendar-rocor",
+              "locator": "How the ROCOR liturgical calendar is prepared",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "ROCOR Europe: Akathist to the Theotokos",
+              "sourceId": "wq-akathist",
+              "locator": "Akathist to the Theotokos — official diocesan text",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "John 12:24",
+              "translation": "KJV (public domain in the United States)",
+              "text": "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.",
+              "sourceId": "wq-kjv",
+              "locator": "John 12:24",
+              "evidenceFile": "evidence/worship/kjv-normalized.txt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "wq-hapgood1",
+      "title": "Service Book of the Holy Orthodox-Catholic Apostolic Church, part 1",
+      "url": "https://www.sermonindex.net/fathers/orthodox-service-book-hapgood-part-1/",
+      "author": "Orthodox Eastern Church; explanatory notes compiled by Isabel F. Hapgood",
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "edition": "Houghton, Mifflin, 1906; SermonIndex transcription",
+      "translator": "Isabel Florence Hapgood",
+      "year": "1906",
+      "tradition": "Orthodox",
+      "type": "Historical service book",
+      "rights": "Public domain in the United States",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Service_book_of_the_Holy_Orthodox-Catholic_apostolic_(Greco-Russian)_church;_(IA_cu31924029363128).pdf",
+      "rightsNote": "1906 edition. The original scan and downloaded transcription are retained as quotation evidence. Historical rubrics and explanations are attributed to this edition; they are not newly written directions."
+    },
+    {
+      "id": "wq-hapgood2",
+      "title": "Service Book of the Holy Orthodox-Catholic Apostolic Church, part 2",
+      "url": "https://www.sermonindex.net/fathers/orthodox-service-book-hapgood-part-2/",
+      "author": "Orthodox Eastern Church; explanatory notes compiled by Isabel F. Hapgood",
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "edition": "Houghton, Mifflin, 1906; SermonIndex transcription",
+      "translator": "Isabel Florence Hapgood",
+      "year": "1906",
+      "tradition": "Orthodox",
+      "type": "Historical service book",
+      "rights": "Public domain in the United States",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Service_book_of_the_Holy_Orthodox-Catholic_apostolic_(Greco-Russian)_church;_(IA_cu31924029363128).pdf",
+      "rightsNote": "1906 edition. The original scan and downloaded transcription are retained as quotation evidence. Historical rubrics and explanations are attributed to this edition; they are not newly written directions."
+    },
+    {
+      "id": "wq-hapgood-scan",
+      "title": "Service Book — original 1906 scan",
+      "url": "https://archive.org/details/cu31924029363128",
+      "author": "Orthodox Eastern Church; Isabel F. Hapgood",
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "edition": "Houghton, Mifflin, 1906; Cornell University copy",
+      "translator": "Isabel Florence Hapgood",
+      "year": "1906",
+      "tradition": "Orthodox",
+      "type": "Historical service book and preface",
+      "rights": "Public domain in the United States",
+      "rightsUrl": "https://commons.wikimedia.org/wiki/File:Service_book_of_the_Holy_Orthodox-Catholic_apostolic_(Greco-Russian)_church;_(IA_cu31924029363128).pdf",
+      "rightsNote": "Cornell scan states that there are no known copyright restrictions in the United States. Printed line-break hyphens are retained in preface quotations."
+    },
+    {
+      "id": "wq-chrysostom-matthew",
+      "title": "John Chrysostom, Homilies on Matthew",
+      "url": "https://www.ccel.org/ccel/schaff/npnf110.html",
+      "author": "Saint John Chrysostom",
+      "work": "Homilies on the Gospel of Saint Matthew",
+      "edition": "Nicene and Post-Nicene Fathers, first series, volume 10; American edition, 1888",
+      "translator": "George Prevost; revised with notes by M. B. Riddle",
+      "year": "1888",
+      "tradition": "Orthodox patristic text",
+      "type": "Patristic homilies",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/s/schaff/npnf110/cache/npnf110.txt",
+      "rightsNote": "CCEL source file explicitly identifies the work as Public Domain. Original reference numerals are retained within excerpts."
+    },
+    {
+      "id": "wq-cassian",
+      "title": "John Cassian, Institutes and Conferences",
+      "url": "https://www.ccel.org/ccel/schaff/npnf211.html",
+      "author": "Saint John Cassian",
+      "work": "Institutes and Conferences",
+      "edition": "Nicene and Post-Nicene Fathers, second series, volume 11",
+      "translator": "Edgar C. S. Gibson",
+      "year": "1894",
+      "tradition": "Orthodox patristic text",
+      "type": "Historical monastic instruction",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/s/schaff/npnf211/cache/npnf211.txt",
+      "rightsNote": "CCEL source file explicitly identifies the volume as Public Domain. These excerpts retain their monastic setting and original reference numerals."
+    },
+    {
+      "id": "wq-kjv",
+      "title": "King James Version of the Holy Bible",
+      "url": "https://www.ccel.org/ccel/bible/kjv.html",
+      "author": "Biblical authors",
+      "work": "Holy Bible, King James Version",
+      "edition": "CCEL text edition",
+      "translator": "King James Version translators",
+      "year": "1611; later standard text",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain in the United States",
+      "rightsUrl": "https://www.ccel.org/ccel/b/bible/kjv/cache/kjv.txt",
+      "rightsNote": "CCEL source file explicitly identifies the text as Public Domain. Excerpts were checked against the downloaded text; verse-number markers are excluded as formatting."
+    },
+    {
+      "id": "wq-prothesis",
+      "title": "Preparation of the gifts: Prothesis",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/prothesis",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/prothesis",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-gospel",
+      "title": "Gospel",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/gospel",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/gospel",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-anaphora",
+      "title": "Eucharistic Canon: Anaphora",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/eucharistic-canon-anaphora",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/eucharistic-canon-anaphora",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-communion",
+      "title": "Communion",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/communion",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/communion",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-vespers",
+      "title": "Vespers",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/vespers",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/vespers",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-matins",
+      "title": "Matins",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/matins",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/matins",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-hours",
+      "title": "Hours, Compline and Nocturne",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/hours-compline-and-nocturne",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/hours-compline-and-nocturne",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-daily-prayer",
+      "title": "Prayer and the daily cycle",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/prayer",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-daily-cycles-of-prayer/prayer",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-year",
+      "title": "Church Year",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/church-year",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/church-year",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-lords-prayer",
+      "title": "The Lord's Prayer",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/the-lords-prayer",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/the-lords-prayer",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-intercession",
+      "title": "Intercessory Prayer",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/intercessory-prayer",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/intercessory-prayer",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-jesus-prayer",
+      "title": "The Jesus Prayer",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/the-jesus-prayer",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/the-jesus-prayer",
+      "rightsNote": "A brief exact quotation of the prayer is included; the explanatory chapter remains linked on its publisher’s website."
+    },
+    {
+      "id": "wq-fasting",
+      "title": "Fasting",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/fasting",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/fasting",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-alms",
+      "title": "Almsgiving",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/almsgiving",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/prayer-fasting-and-almsgiving/almsgiving",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-lent",
+      "title": "Great Lent",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/great-lent",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/great-lent",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-lenten-fast",
+      "title": "Lenten Fasting",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/lenten-fasting",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/lenten-fasting",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-presanctified",
+      "title": "Liturgy of the Presanctified Gifts",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/liturgy-of-the-presanctified-gifts",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/liturgy-of-the-presanctified-gifts",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-holy-week",
+      "title": "Holy Week",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/holy-week",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/holy-week",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-pascha",
+      "title": "Easter Sunday: The Holy Pascha",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/easter-sunday-the-holy-pascha",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/easter-sunday-the-holy-pascha",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-pentecost",
+      "title": "Pentecost: The Descent of the Holy Spirit",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/pentecost-the-descent-of-the-holy-spirit",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/pentecost-the-descent-of-the-holy-spirit",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-nativity",
+      "title": "Nativity of Christ",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/nativity-of-christ",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/nativity-of-christ",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-theophany",
+      "title": "Epiphany",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/epiphany",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/epiphany",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-meeting",
+      "title": "Meeting of the Lord",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/meeting-of-the-lord",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/meeting-of-the-lord",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-annunciation",
+      "title": "Annunciation",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/annunciation",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/annunciation",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-transfiguration",
+      "title": "Transfiguration",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/transfiguration",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/transfiguration",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-dormition",
+      "title": "Dormition of the Theotokos",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/dormition-of-the-theotokos",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/dormition-of-the-theotokos",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-cross-feast",
+      "title": "Elevation of the Cross",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/elevation-of-the-cross",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/elevation-of-the-cross",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-other-feasts",
+      "title": "Other Feasts",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/other-feasts",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-year/other-feasts",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-building",
+      "title": "Church Building",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/church-building",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/church-building",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-cross-sign",
+      "title": "Sign of the Cross",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/sign-of-the-cross",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/sign-of-the-cross",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-vestments",
+      "title": "Vestments",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/vestments",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-church-building/vestments",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-hope",
+      "title": "Hope",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/the-virtues/hope",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/the-virtues/hope",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-family",
+      "title": "Family",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/sexuality-marriage-and-family/family",
+      "author": "Thomas Hopko",
+      "work": "The Orthodox Faith",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Catechesis",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/spirituality/sexuality-marriage-and-family/family",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-music",
+      "title": "OCA liturgical music library",
+      "url": "https://www.oca.org/liturgics/music-downloads",
+      "author": "Orthodox Church in America",
+      "work": "OCA liturgical music library",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Liturgical music",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/liturgics/music-downloads",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-tones",
+      "title": "Tutorial for Learning the Tones",
+      "url": "https://www.oca.org/liturgics/learning-the-tones",
+      "author": "Orthodox Church in America",
+      "work": "Tutorial for Learning the Tones",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Music tutorial",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/liturgics/learning-the-tones",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-communion-rocor",
+      "title": "Preparation for Communion: St Matrona Orthodox Mission",
+      "url": "https://stmatrona.org/communion/",
+      "author": "St Matrona Orthodox Mission",
+      "work": "Preparation for Communion: St Matrona Orthodox Mission",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "ROCOR",
+      "type": "Parish practice",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://stmatrona.org/communion/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-calendar-rocor",
+      "title": "How the ROCOR liturgical calendar is prepared",
+      "url": "https://fundforassistance.org/news_171023_1",
+      "author": "Peter Fekula; Fund for Assistance to the ROCOR",
+      "work": "How the ROCOR liturgical calendar is prepared",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "ROCOR",
+      "type": "ROCOR calendar explanation",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://fundforassistance.org/news_171023_1",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-jordanville",
+      "title": "Holy Trinity Monastery service schedule",
+      "url": "https://jordanville.org/service-schedule/",
+      "author": "Holy Trinity Monastery, Jordanville",
+      "work": "Holy Trinity Monastery service schedule",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "ROCOR",
+      "type": "Monastery resource",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://jordanville.org/service-schedule/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-marriage",
+      "title": "OCA Holy Synod: On Marriage",
+      "url": "https://www.oca.org/holy-synod/encyclicals/on-marriage",
+      "author": "Orthodox Church in America",
+      "work": "OCA Holy Synod: On Marriage",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox Church in America",
+      "type": "Synodal teaching",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.oca.org/holy-synod/encyclicals/on-marriage",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-moleben",
+      "title": "ROCOR Europe: Moleben before the Kursk-Root Icon",
+      "url": "https://orthodox-europe.org/english/rocor/kursk-icon/kursk-moleben/",
+      "author": "Diocese of Great Britain and Western Europe (ROCOR)",
+      "work": "ROCOR Europe: Moleben before the Kursk-Root Icon",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "ROCOR",
+      "type": "Primary liturgical text",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://orthodox-europe.org/english/rocor/kursk-icon/kursk-moleben/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-akathist",
+      "title": "ROCOR Europe: Akathist to the Theotokos",
+      "url": "https://orthodox-europe.org/english/rocor/kursk-icon/kursk-akathist/",
+      "author": "Diocese of Great Britain and Western Europe (ROCOR)",
+      "work": "ROCOR Europe: Akathist to the Theotokos",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "ROCOR",
+      "type": "Primary liturgical text",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://orthodox-europe.org/english/rocor/kursk-icon/kursk-akathist/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-morning-rule",
+      "title": "Morning Prayers: your supplied longer rule",
+      "url": "https://churchmotherofgod.org/prayers/morning-prayers-longer-rule/",
+      "author": "Church of the Mother of God, Mays Landing, New Jersey",
+      "work": "Morning Prayers: your supplied longer rule",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox",
+      "type": "Prayer rule",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://churchmotherofgod.org/prayers/morning-prayers-longer-rule/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-work-rule",
+      "title": "Prayer for Work: your supplied rule",
+      "url": "https://churchmotherofgod.org/prayers/for-work/",
+      "author": "Church of the Mother of God, Mays Landing, New Jersey",
+      "work": "Prayer for Work: your supplied rule",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox",
+      "type": "Prayer rule",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://churchmotherofgod.org/prayers/for-work/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-meals-rule",
+      "title": "Prayer at Meals: your supplied rule",
+      "url": "https://churchmotherofgod.org/prayers/for-meals/",
+      "author": "Church of the Mother of God, Mays Landing, New Jersey",
+      "work": "Prayer at Meals: your supplied rule",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox",
+      "type": "Prayer rule",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://churchmotherofgod.org/prayers/for-meals/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-evening-rule",
+      "title": "Evening Prayers: your supplied longer rule",
+      "url": "https://churchmotherofgod.org/prayers/evening-prayers-longer-rule/",
+      "author": "Church of the Mother of God, Mays Landing, New Jersey",
+      "work": "Evening Prayers: your supplied longer rule",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "Orthodox",
+      "type": "Prayer rule",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://churchmotherofgod.org/prayers/evening-prayers-longer-rule/",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    },
+    {
+      "id": "wq-calendar-primary",
+      "title": "ROCOR: Understanding Our Church Calendar",
+      "url": "https://www.russianorthodoxchurch.ws/synod/engdocuments/enart_molchanovcalendar.html",
+      "author": "Protopriest Boris Molchanov",
+      "work": "ROCOR: Understanding Our Church Calendar",
+      "edition": "Published website text",
+      "translator": "Not specified on this page",
+      "year": "Online edition",
+      "tradition": "ROCOR",
+      "type": "Historical calendar argument",
+      "rights": "Linked reading; reproduction permission not established",
+      "rightsUrl": "https://www.russianorthodoxchurch.ws/synod/engdocuments/enart_molchanovcalendar.html",
+      "rightsNote": "The full text remains on the publisher’s website. No full-text reproduction or generated substitute is included."
+    }
+  ],
+  "prayers": [
+    {
+      "id": "morning",
+      "title": "Morning Prayers (longer rule)",
+      "sourceUrl": "https://churchmotherofgod.org/prayers/morning-prayers-longer-rule/",
+      "sourceLabel": "Church of the Mother of God",
+      "mode": "linked-rule",
+      "sourceId": "wq-morning-rule",
+      "steps": [],
+      "reason": "The supplied published rule is linked in full. Reproduction permission for this edition has not been verified; no replacement sequence or instructions have been created."
+    },
+    {
+      "id": "work",
+      "title": "Prayer for Work",
+      "sourceUrl": "https://churchmotherofgod.org/prayers/for-work/",
+      "sourceLabel": "Church of the Mother of God",
+      "mode": "linked-rule",
+      "sourceId": "wq-work-rule",
+      "steps": [],
+      "reason": "The supplied published rule is linked in full. Reproduction permission for this edition has not been verified; no replacement sequence or instructions have been created."
+    },
+    {
+      "id": "meals",
+      "title": "Prayer at Meals",
+      "sourceUrl": "https://churchmotherofgod.org/prayers/for-meals/",
+      "sourceLabel": "Church of the Mother of God",
+      "mode": "linked-rule",
+      "sourceId": "wq-meals-rule",
+      "steps": [],
+      "reason": "The supplied published rule is linked in full. Reproduction permission for this edition has not been verified; no replacement sequence or instructions have been created."
+    },
+    {
+      "id": "evening",
+      "title": "Evening Prayers (longer rule)",
+      "sourceUrl": "https://churchmotherofgod.org/prayers/evening-prayers-longer-rule/",
+      "sourceLabel": "Church of the Mother of God",
+      "mode": "linked-rule",
+      "sourceId": "wq-evening-rule",
+      "steps": [],
+      "reason": "The supplied published rule is linked in full. Reproduction permission for this edition has not been verified; no replacement sequence or instructions have been created."
+    }
+  ]
+}

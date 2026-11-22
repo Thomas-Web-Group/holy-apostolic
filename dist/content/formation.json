@@ -1,0 +1,1713 @@
+{
+  "version": "formation-2026-11-20",
+  "coverage": [
+    {
+      "id": "orientation",
+      "title": "Catechesis and how to read sources",
+      "domain": "Foundations",
+      "lessonIds": [
+        "d-start",
+        "d-reading"
+      ],
+      "prerequisites": [],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "gospel",
+      "title": "The Gospel and Jesus Christ",
+      "domain": "Foundations",
+      "lessonIds": [
+        "d-gospel"
+      ],
+      "prerequisites": [
+        "orientation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "creed",
+      "title": "The Creed",
+      "domain": "Foundations",
+      "lessonIds": [
+        "d-creed"
+      ],
+      "prerequisites": [
+        "gospel"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "scripture",
+      "title": "Scripture and interpretation",
+      "domain": "Foundations",
+      "lessonIds": [
+        "d-scripture",
+        "d-reading",
+        "ex-canon-cyril"
+      ],
+      "prerequisites": [
+        "orientation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "biblical-story",
+      "title": "Covenant and fulfillment",
+      "domain": "Foundations",
+      "lessonIds": [
+        "fc-abraham-covenant",
+        "fc-sinai-commandment",
+        "fc-david-promise",
+        "fc-servant-christ"
+      ],
+      "prerequisites": [
+        "scripture"
+      ],
+      "status": "partial",
+      "gap": "Selected covenant passages; a complete book-by-book Old and New Testament course remains further study.",
+      "depth": "introductory"
+    },
+    {
+      "id": "trinity",
+      "title": "The Holy Trinity",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "d-trinity",
+        "ex-hypostasis",
+        "fc-cyril-father"
+      ],
+      "prerequisites": [
+        "creed"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "god-language",
+      "title": "The language and knowledge of God",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "ex-apophatic",
+        "ex-divine-names",
+        "ex-divine-properties"
+      ],
+      "prerequisites": [
+        "trinity"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "advanced"
+    },
+    {
+      "id": "creation",
+      "title": "Creation, the human person, and the fall",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "d-creation-fall",
+        "ex-image-likeness",
+        "ex-aeon-creation"
+      ],
+      "prerequisites": [
+        "creed"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "angels",
+      "title": "Angels and created spirits",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "ex-angels-demons"
+      ],
+      "prerequisites": [
+        "creation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "incarnation",
+      "title": "The Incarnation",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "d-incarnation",
+        "ex-nature-person",
+        "fc-cyril-incarnation"
+      ],
+      "prerequisites": [
+        "trinity"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "christology",
+      "title": "Christ’s person, wills, and energies",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "ex-two-wills",
+        "ex-two-energies",
+        "ex-innocent-passions"
+      ],
+      "prerequisites": [
+        "incarnation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "advanced"
+    },
+    {
+      "id": "cross",
+      "title": "Cross, descent to Hades, and Resurrection",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "d-cross",
+        "ex-hades-victory",
+        "fc-cyril-cross",
+        "fc-cyril-resurrection"
+      ],
+      "prerequisites": [
+        "incarnation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "spirit",
+      "title": "The Holy Spirit",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "d-spirit",
+        "ex-spirit-gifts",
+        "fc-cyril-spirit"
+      ],
+      "prerequisites": [
+        "trinity"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "salvation",
+      "title": "Grace, salvation, and theosis",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "d-grace",
+        "d-theosis",
+        "fc-irenaeus-recapitulation"
+      ],
+      "prerequisites": [
+        "cross",
+        "spirit"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "freedom",
+      "title": "Providence, foreknowledge, and freedom",
+      "domain": "Doctrine",
+      "lessonIds": [
+        "ex-providence-freedom",
+        "fc-justin-freedom"
+      ],
+      "prerequisites": [
+        "salvation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "advanced"
+    },
+    {
+      "id": "church",
+      "title": "The Church and apostolic ministry",
+      "domain": "Church and Tradition",
+      "lessonIds": [
+        "d-church",
+        "fc-clement-ministry",
+        "fc-irenaeus-succession"
+      ],
+      "prerequisites": [
+        "creed"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "tradition",
+      "title": "Holy Tradition and the Fathers",
+      "domain": "Church and Tradition",
+      "lessonIds": [
+        "d-tradition",
+        "d-fathers",
+        "ex-unwritten-tradition",
+        "fc-irenaeus-scripture"
+      ],
+      "prerequisites": [
+        "scripture",
+        "church"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "councils",
+      "title": "Councils and their reception",
+      "domain": "Church and Tradition",
+      "lessonIds": [
+        "d-councils",
+        "h-councils-history",
+        "r-councils-certainty"
+      ],
+      "prerequisites": [
+        "church"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "history",
+      "title": "Church history and separations",
+      "domain": "Church and Tradition",
+      "lessonIds": [
+        "h-apostolic-church",
+        "h-schism",
+        "h-rocor"
+      ],
+      "prerequisites": [
+        "church"
+      ],
+      "status": "partial",
+      "gap": "The history timeline broadens the chronology; not every local church, council, or modern controversy is covered.",
+      "depth": "intermediate"
+    },
+    {
+      "id": "baptism",
+      "title": "Baptism and chrismation",
+      "domain": "Sacraments",
+      "lessonIds": [
+        "d-initiation",
+        "ex-baptism-immersion",
+        "ex-chrismation-cyril",
+        "fc-justin-baptism"
+      ],
+      "prerequisites": [
+        "church",
+        "salvation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "eucharist",
+      "title": "The Eucharist",
+      "domain": "Sacraments",
+      "lessonIds": [
+        "d-eucharist",
+        "ex-eucharist-cyril",
+        "fc-justin-eucharist",
+        "fc-irenaeus-body-eucharist"
+      ],
+      "prerequisites": [
+        "baptism"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "confession",
+      "title": "Repentance and confession",
+      "domain": "Sacraments",
+      "lessonIds": [
+        "d-confession",
+        "ex-repentance-cyril",
+        "w-repentance-daily"
+      ],
+      "prerequisites": [
+        "salvation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "marriage",
+      "title": "Marriage and family",
+      "domain": "Sacraments",
+      "lessonIds": [
+        "d-sanctified-life",
+        "w-family-peace",
+        "ex-chastity-marriage"
+      ],
+      "prerequisites": [
+        "church"
+      ],
+      "status": "partial",
+      "gap": "Published teaching is included; individual pastoral questions are outside this reading course.",
+      "depth": "introductory"
+    },
+    {
+      "id": "orders-unction",
+      "title": "Ordination and anointing",
+      "domain": "Sacraments",
+      "lessonIds": [
+        "d-sanctified-life",
+        "fc-clement-ministry"
+      ],
+      "prerequisites": [
+        "church"
+      ],
+      "status": "partial",
+      "gap": "Introductions are present; fuller source readings on ordination and anointing remain further study.",
+      "depth": "intermediate"
+    },
+    {
+      "id": "liturgy",
+      "title": "The Divine Liturgy",
+      "domain": "Worship",
+      "lessonIds": [
+        "w-liturgy-beginning",
+        "w-liturgy-word",
+        "w-liturgy-offering",
+        "w-liturgy-communion"
+      ],
+      "prerequisites": [
+        "eucharist"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "daily-services",
+      "title": "Vespers, Matins, and daily offices",
+      "domain": "Worship",
+      "lessonIds": [
+        "w-vespers",
+        "w-matins",
+        "w-hours-compline"
+      ],
+      "prerequisites": [
+        "liturgy"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "year",
+      "title": "The church year and feasts",
+      "domain": "Worship",
+      "lessonIds": [
+        "w-calendar-map",
+        "w-incarnation-feasts",
+        "w-lent-holy-week",
+        "w-pascha-life",
+        "ex-annunciation-feast",
+        "ex-dormition-feast"
+      ],
+      "prerequisites": [
+        "liturgy"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "hymns",
+      "title": "Chant, hymn forms, and books",
+      "domain": "Worship",
+      "lessonIds": [
+        "w-chant-hymns",
+        "ex-books-vocabulary",
+        "ex-chant-vocabulary"
+      ],
+      "prerequisites": [
+        "daily-services"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "church-space",
+      "title": "Church space, vestments, and sacred objects",
+      "domain": "Worship",
+      "lessonIds": [
+        "w-church-space",
+        "w-body-vestments",
+        "ex-temple-symbolism",
+        "ex-vestment-vocabulary"
+      ],
+      "prerequisites": [
+        "liturgy"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "prayer",
+      "title": "Prayer and the Lord’s Prayer",
+      "domain": "Christian life",
+      "lessonIds": [
+        "w-prayer-rule",
+        "w-lords-prayer-psalms",
+        "ex-lords-prayer-mystagogy"
+      ],
+      "prerequisites": [
+        "gospel"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "jesus-prayer",
+      "title": "Jesus Prayer and watchfulness",
+      "domain": "Christian life",
+      "lessonIds": [
+        "w-jesus-prayer",
+        "ex-continual-prayer-cassian"
+      ],
+      "prerequisites": [
+        "prayer"
+      ],
+      "status": "partial",
+      "gap": "Published readings are provided; no personalized ascetical method or prayer rule is prescribed.",
+      "depth": "intermediate"
+    },
+    {
+      "id": "fasting",
+      "title": "Fasting, almsgiving, and work",
+      "domain": "Christian life",
+      "lessonIds": [
+        "w-fasting",
+        "w-alms-work",
+        "fc-justin-sunday"
+      ],
+      "prerequisites": [
+        "prayer"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "commandments",
+      "title": "The Ten Commandments",
+      "domain": "Christian life",
+      "lessonIds": [
+        "ex-first-commandment",
+        "ex-second-commandment",
+        "ex-third-commandment",
+        "ex-fourth-commandment",
+        "ex-parents-pastors",
+        "ex-life-mercy",
+        "ex-chastity-marriage",
+        "ex-property-truth"
+      ],
+      "prerequisites": [
+        "gospel"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "beatitudes",
+      "title": "The Beatitudes",
+      "domain": "Christian life",
+      "lessonIds": [
+        "ex-poverty-mourning",
+        "ex-meekness-righteousness",
+        "ex-mercy-purity",
+        "ex-peace-persecution"
+      ],
+      "prerequisites": [
+        "gospel"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "passions",
+      "title": "Passions, virtues, and discernment",
+      "domain": "Christian life",
+      "lessonIds": [
+        "ex-eight-faults",
+        "ex-gluttony-acedia",
+        "ex-vainglory-pride",
+        "ex-goal-purity",
+        "d-discernment"
+      ],
+      "prerequisites": [
+        "commandments"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "neighbors",
+      "title": "Mercy, friendship, peace, and parish life",
+      "domain": "Christian life",
+      "lessonIds": [
+        "ex-friendship-patience",
+        "fc-polycarp-parish",
+        "fc-diognetus-citizens",
+        "r-family-conversations"
+      ],
+      "prerequisites": [
+        "beatitudes"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "death",
+      "title": "Suffering, death, and the life to come",
+      "domain": "Christian life",
+      "lessonIds": [
+        "d-suffering",
+        "d-last-things",
+        "ex-resurrection-body"
+      ],
+      "prerequisites": [
+        "cross"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "theotokos",
+      "title": "The Theotokos",
+      "domain": "Saints and sacred images",
+      "lessonIds": [
+        "h-theotokos",
+        "ex-theotokos-christology"
+      ],
+      "prerequisites": [
+        "incarnation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "saints",
+      "title": "Saints, martyrdom, and monastic lives",
+      "domain": "Saints and sacred images",
+      "lessonIds": [
+        "h-martyrs",
+        "h-teaching-fathers",
+        "h-repentant-saints",
+        "h-mercy-saints",
+        "ex-antony-calling",
+        "ex-martin-cloak"
+      ],
+      "prerequisites": [
+        "church"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "icons",
+      "title": "Icons, relics, and veneration",
+      "domain": "Saints and sacred images",
+      "lessonIds": [
+        "h-icons",
+        "h-intercession",
+        "h-relics-discernment",
+        "ex-images-reading"
+      ],
+      "prerequisites": [
+        "incarnation",
+        "saints"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "introductory"
+    },
+    {
+      "id": "apostolic-fathers",
+      "title": "The Apostolic Fathers",
+      "domain": "Historical source reading",
+      "lessonIds": [
+        "fc-clement-repentance",
+        "fc-clement-faith-works",
+        "fc-polycarp-faith",
+        "fc-diognetus-salvation"
+      ],
+      "prerequisites": [
+        "tradition"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "early-worship",
+      "title": "Early witnesses to worship",
+      "domain": "Historical source reading",
+      "lessonIds": [
+        "fc-didache-baptism-prayer",
+        "fc-didache-thanksgiving",
+        "fc-justin-baptism",
+        "fc-justin-eucharist"
+      ],
+      "prerequisites": [
+        "liturgy"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "protestant",
+      "title": "Protestant confessions and Orthodox readings",
+      "domain": "Comparative reading",
+      "lessonIds": [
+        "r-scripture-tradition",
+        "r-justification",
+        "r-baptism",
+        "r-eucharist",
+        "r-images-saints"
+      ],
+      "prerequisites": [
+        "tradition",
+        "salvation"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "pca-piper",
+      "title": "PCA and Piper in their distinct contexts",
+      "domain": "Comparative reading",
+      "lessonIds": [
+        "r-pca-piper",
+        "r-election-freedom",
+        "r-assurance"
+      ],
+      "prerequisites": [
+        "protestant"
+      ],
+      "status": "covered",
+      "gap": "",
+      "depth": "intermediate"
+    },
+    {
+      "id": "palamism",
+      "title": "Palamite writings and later theological debates",
+      "domain": "Further study",
+      "lessonIds": [
+        "d-theosis"
+      ],
+      "prerequisites": [
+        "god-language",
+        "salvation"
+      ],
+      "status": "further-study",
+      "gap": "Introductory links exist; an extended, permission-cleared course in Palamas and later debates is not included.",
+      "depth": "advanced"
+    },
+    {
+      "id": "canon-law",
+      "title": "Canon law and pastoral application",
+      "domain": "Further study",
+      "lessonIds": [
+        "d-councils"
+      ],
+      "prerequisites": [
+        "councils"
+      ],
+      "status": "further-study",
+      "gap": "Selected conciliar material is not a complete canon-law course or a guide to applying discipline.",
+      "depth": "advanced"
+    },
+    {
+      "id": "local-churches",
+      "title": "Local Orthodox churches and contemporary history",
+      "domain": "Further study",
+      "lessonIds": [
+        "h-rocor"
+      ],
+      "prerequisites": [
+        "history"
+      ],
+      "status": "further-study",
+      "gap": "ROCOR and selected relationships are covered; a full treatment of every local church remains further study.",
+      "depth": "intermediate"
+    },
+    {
+      "id": "biblical-books",
+      "title": "Complete biblical book introductions",
+      "domain": "Further study",
+      "lessonIds": [
+        "d-scripture",
+        "fc-abraham-covenant"
+      ],
+      "prerequisites": [
+        "biblical-story"
+      ],
+      "status": "further-study",
+      "gap": "The app includes the Bible corpus and selected readings, not complete introductions to every biblical book.",
+      "depth": "introductory"
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "trinity",
+      "title": "The Holy Trinity",
+      "category": "Shared confessions",
+      "lessonIds": [
+        "d-trinity",
+        "ex-hypostasis",
+        "ex-christology-reading"
+      ],
+      "termIds": [
+        "g-holy-trinity",
+        "g-consubstantial"
+      ],
+      "scripture": [
+        "Matthew 28:19",
+        "John 1:1–3"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article I",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article I; complete article",
+          "text": "Our Churches, with common consent, do teach that the decree of the Council of Nicaea concerning the Unity of the Divine Essence and concerning the Three Persons, is true and to be believed without any doubting; that is to say, there is one Divine Essence which is called and which is God: eternal, without body, without parts, of infinite power, wisdom, and goodness, the Maker and Preserver of all things, visible and invisible; and yet there are three Persons, of the same essence and power, who also are coeternal, the Father, the Son, and the Holy Ghost. And the term “person” they use as the Fathers have used it, to signify, not a part or quality in another, but that which subsists of itself.\n\nThey condemn all heresies which have sprung up against this article, as the Manichaeans, who assumed two principles, one Good and the other Evil: also the Valentinians, Arians, Eunomians, Mohammedans, and all such. They condemn also the Samosatenes, old and new, who, contending that there is but one Person, sophistically and impiously argue that the Word and the Holy Ghost are not distinct Persons, but that “Word” signifies a spoken word, and “Spirit” signifies motion created in things.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "christ",
+      "title": "The person and natures of Christ",
+      "category": "Shared confessions",
+      "lessonIds": [
+        "d-incarnation",
+        "ex-christology-reading"
+      ],
+      "termIds": [
+        "g-incarnation",
+        "g-two-natures-of-christ"
+      ],
+      "scripture": [
+        "John 1:14",
+        "Philippians 2:5–11"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article III",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article III; complete article",
+          "text": "Also they teach that the Word, that is, the Son of God, did assume the human nature in the womb of the blessed Virgin Mary, so that there are two natures, the divine and the human, inseparably enjoined in one Person, one Christ, true God and true man, who was born of the Virgin Mary, truly suffered, was crucified, dead, and buried, that He might reconcile the Father unto us, and be a sacrifice, not only for original guilt, but also for all actual sins of men.\n\nHe also descended into hell, and truly rose again the third day; afterward He ascended into heaven that He might sit on the right hand of the Father, and forever reign and have dominion over all creatures, and sanctify them that believe in Him, by sending the Holy Ghost into their hearts, to rule, comfort, and quicken them, and to defend them against the devil and the power of sin.\n\nThe same Christ shall openly come again to judge the quick and the dead, etc., according to the Apostles' Creed.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "resurrection",
+      "title": "Resurrection and judgment",
+      "category": "Shared confessions",
+      "lessonIds": [
+        "d-last-things",
+        "ex-resurrection-body",
+        "fc-cyril-resurrection"
+      ],
+      "termIds": [
+        "g-resurrection-of-christ"
+      ],
+      "scripture": [
+        "1Corinthians 15:12–28"
+      ],
+      "readings": [],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "faith",
+      "title": "Faith, grace, and works",
+      "category": "Words requiring context",
+      "lessonIds": [
+        "d-grace",
+        "r-faith-works",
+        "fc-clement-faith-works"
+      ],
+      "termIds": [
+        "g-faith",
+        "g-grace",
+        "g-good-works"
+      ],
+      "scripture": [
+        "Ephesians 2:8–10",
+        "James 2:14–26"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article IV",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article IV; complete article",
+          "text": "Also they teach that men cannot be justified before God by their own strength, merits, or works, but are freely justified for Christ’s sake, through faith, when they believe that they are received into favor, and that their sins are forgiven for Christ’s sake, who, by His death, has made satisfaction for our sins. This faith God imputes for righteousness in His sight. Rom. 3 and 4.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        },
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article VI",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article VI; complete article",
+          "text": "Also they teach that this faith is bound to bring forth good fruits, and that it is necessary to do good works commanded by God, because of God’s will, but that we should not rely on those works to merit justification before God. For remission of sins and justification is apprehended by faith, as also the voice of Christ attests: When ye shall have done all these things, say: We are unprofitable servants. Luke 17:10. The same is also taught by the Fathers. For Ambrose says: It is ordained of God that he who believes in Christ is saved, freely receiving remission of sins, without works, by faith alone.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "church",
+      "title": "The word Church",
+      "category": "Words requiring context",
+      "lessonIds": [
+        "d-church",
+        "fc-irenaeus-succession",
+        "r-councils-certainty"
+      ],
+      "termIds": [
+        "g-church",
+        "g-catholic"
+      ],
+      "scripture": [
+        "Ephesians 4:1–16"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article VII",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article VII; complete article",
+          "text": "Also they teach that one holy Church is to continue forever. The Church is the congregation of saints, in which the Gospel is rightly taught and the Sacraments are rightly administered.\n\nAnd to the true unity of the Church it is enough to agree concerning the doctrine of the Gospel and the administration of the Sacraments. Nor is it necessary that human traditions, that is, rites or ceremonies, instituted by men, should be everywhere alike. As Paul says: One faith, one Baptism, one God and Father of all, etc. Eph. 4:5-6.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "sacrament",
+      "title": "Sacrament, mystery, and sign",
+      "category": "Words requiring context",
+      "lessonIds": [
+        "d-initiation",
+        "d-eucharist",
+        "r-baptism",
+        "r-eucharist"
+      ],
+      "termIds": [
+        "g-mystery",
+        "g-baptism",
+        "g-holy-communion"
+      ],
+      "scripture": [
+        "Romans 6:1–11",
+        "1Corinthians 10:16–17"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article IX",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article IX; complete article",
+          "text": "Of Baptism they teach that it is necessary to salvation, and that through Baptism is offered the grace of God, and that children are to be baptized who, being offered to God through Baptism are received into God’s grace.\n\nThey condemn the Anabaptists, who reject the baptism of children, and say that children are saved without Baptism.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        },
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article X",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article X; complete article",
+          "text": "Of the Supper of the Lord they teach that the Body and Blood of Christ are truly present, and are distributed to those who eat the Supper of the Lord; and they reject those that teach otherwise.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "authority",
+      "title": "Scripture, Tradition, and interpretation",
+      "category": "Disagreements and their sources",
+      "lessonIds": [
+        "r-scripture-tradition",
+        "ex-scripture-councils",
+        "fc-irenaeus-scripture"
+      ],
+      "termIds": [
+        "g-holy-scripture",
+        "g-holy-tradition"
+      ],
+      "scripture": [
+        "2Thessalonians 2:15",
+        "2Timothy 3:14–17"
+      ],
+      "readings": [],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "justification",
+      "title": "Justification and salvation",
+      "category": "Disagreements and their sources",
+      "lessonIds": [
+        "r-justification",
+        "r-faith-works",
+        "fc-diognetus-salvation"
+      ],
+      "termIds": [
+        "g-salvation",
+        "g-righteousness"
+      ],
+      "scripture": [
+        "Romans 3:21–31",
+        "Titus 3:3–8"
+      ],
+      "readings": [],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "freedom",
+      "title": "Election, foreknowledge, and freedom",
+      "category": "Disagreements and their sources",
+      "lessonIds": [
+        "r-election-freedom",
+        "ex-election-reading",
+        "fc-justin-freedom"
+      ],
+      "termIds": [
+        "g-predestination",
+        "g-free-will"
+      ],
+      "scripture": [
+        "Romans 8:28–30",
+        "Philippians 2:12–13"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article XVIII",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article XVIII; complete article",
+          "text": "Of Free Will they teach that man’s will has some liberty to choose civil righteousness, and to work things subject to reason. But it has no power, without the Holy Ghost, to work the righteousness of God, that is, spiritual righteousness; since the natural man receiveth not the things of the Spirit of God, 1 Cor. 2:14; but this righteousness is wrought in the heart when the Holy Ghost is received through the Word. These things are said in as many words by Augustine in his Hypognosticon, Book III: We grant that all men have a free will, free, inasmuch as it has the judgment of reason; not that it is thereby capable, without God, either to begin, or, at least, to complete aught in things pertaining to God, but only in works of this life, whether good or evil. “Good” I call those works which spring from the good in nature, such as, willing to labor in the field, to eat and drink, to have a friend, to clothe oneself, to build a house, to marry a wife, to raise cattle, to learn diverse useful arts, or whatsoever good pertains to this life. For all of these things are not without dependence on the providence of God; yea, of Him and through Him they are and have their being. “Evil” I call such works as willing to worship an idol, to commit murder, etc. They condemn the Pelagians and others, who teach that without the Holy Ghost, by the power of nature alone, we are able to love God above all things; also to do the commandments of God as touching “the substance of the act.” For, although nature is able in a manner to do the outward work, (for it is able to keep the hands from theft and murder,) yet it cannot produce the inward motions, such as the fear of God, trust in God, chastity, patience, etc.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "images",
+      "title": "Images and veneration",
+      "category": "Disagreements and their sources",
+      "lessonIds": [
+        "r-images-saints",
+        "h-icons",
+        "ex-images-reading"
+      ],
+      "termIds": [
+        "g-icon",
+        "g-veneration-of-icons"
+      ],
+      "scripture": [
+        "Exodus 20:1–6",
+        "John 1:14"
+      ],
+      "readings": [],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "saints",
+      "title": "Saints, remembrance, and invocation",
+      "category": "Disagreements and their sources",
+      "lessonIds": [
+        "h-intercession",
+        "h-relics-discernment",
+        "r-images-saints"
+      ],
+      "termIds": [
+        "g-intercession-of-saints",
+        "g-invocation-of-saints"
+      ],
+      "scripture": [
+        "Hebrews 12:1–2",
+        "Revelation 5:8"
+      ],
+      "readings": [
+        {
+          "kind": "quotation",
+          "title": "Augsburg Confession, Article XXI",
+          "sourceId": "fc-s-augsburg",
+          "locator": "Article XXI; §§1–4",
+          "text": "Of the Worship of Saints they teach that the memory of saints may be set before us, that we may follow their faith and good works, according to our calling, as the Emperor may follow the example of David in making war to drive away the Turk from his country. For both are kings. But the Scripture teaches not the invocation of saints or to ask help of saints, since it sets before us the one Christ as the Mediator, Propitiation, High Priest, and Intercessor. He is to be prayed to, and has promised that He will hear our prayer; and this worship He approves above all, to wit, that in all afflictions He be called upon, 1 John 2:1: If any man sin, we have an Advocate with the Father, etc.",
+          "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt"
+        }
+      ],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "assurance",
+      "title": "Assurance and perseverance",
+      "category": "Disagreements and their sources",
+      "lessonIds": [
+        "r-assurance",
+        "r-election-freedom"
+      ],
+      "termIds": [
+        "g-hope",
+        "g-salvation"
+      ],
+      "scripture": [
+        "1John 5:11–13",
+        "Hebrews 3:12–14"
+      ],
+      "readings": [],
+      "scope": "Selected sources only; agreement or disagreement is limited to the named statement and topic."
+    },
+    {
+      "id": "pca-piper",
+      "title": "Presbyterian and Baptist distinctions: PCA and John Piper",
+      "category": "Named traditions",
+      "lessonIds": [
+        "r-pca-piper",
+        "r-baptism",
+        "r-eucharist"
+      ],
+      "termIds": [
+        "g-baptism"
+      ],
+      "scripture": [],
+      "readings": [],
+      "scope": "PCA Westminster standards and John Piper’s published Baptist teaching are distinct sources. This reading path does not treat them as one denomination or as speaking for all Protestants."
+    }
+  ],
+  "sourceGuide": [
+    {
+      "id": "scripture",
+      "title": "Scripture",
+      "description": "Identify book, chapter, verses, translation, and numbering. Preview editions are reading aids distinct from the quoted author’s translation.",
+      "types": [
+        "Scripture"
+      ]
+    },
+    {
+      "id": "conciliar",
+      "title": "Conciliar definitions and canons",
+      "description": "Keep the named council, precise definition or canon, date, and reception scope visible. A doctrinal definition and a disciplinary canon are distinct units.",
+      "types": [
+        "Conciliar text",
+        "Council"
+      ]
+    },
+    {
+      "id": "catechism",
+      "title": "Catechisms and confessions",
+      "description": "Identify the issuing body or author, edition, and intended audience. Read a historical catechism in its own context; named Protestant confessions speak for their stated tradition.",
+      "types": [
+        "Catechism",
+        "Confession"
+      ]
+    },
+    {
+      "id": "liturgy",
+      "title": "Liturgical and prayer texts",
+      "description": "Identify the service, edition, translator, speakers, and rubric boundaries. Published service selections are not newly written parish instructions.",
+      "types": [
+        "Service book",
+        "Prayer book",
+        "Liturgical"
+      ]
+    },
+    {
+      "id": "patristic",
+      "title": "Patristic commentary and theological works",
+      "description": "Read the argument around a selection and identify its translator. An excerpt verifies an author’s words; it is not by itself a determination of universal reception.",
+      "types": [
+        "Patristic"
+      ]
+    },
+    {
+      "id": "hagiography",
+      "title": "Lives of saints and traditional accounts",
+      "description": "Identify the narrator, date, genre, and source. Distinguish a received narrative or reported miracle from independently established historical detail.",
+      "types": [
+        "Life",
+        "Hagiography"
+      ]
+    },
+    {
+      "id": "modern",
+      "title": "Contemporary teaching and historical scholarship",
+      "description": "Identify the speaker, jurisdiction where applicable, publication date, and source type. A recording, transcript, pastoral answer, and scholarly argument are different forms of evidence.",
+      "types": [
+        "Published teaching",
+        "Historical"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "fc-s-clement",
+      "title": "Clement of Rome: First Epistle to the Corinthians",
+      "author": "St. Clement of Rome",
+      "work": "First Epistle to the Corinthians",
+      "translator": "Alexander Roberts and James Donaldson",
+      "edition": "Ante-Nicene Fathers, vol.1; Buffalo: Christian Literature Publishing Co.,1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Church at Corinth",
+      "context": "Letter addressing dissension, repentance, and church order; published historical translation."
+    },
+    {
+      "id": "fc-s-diognetus",
+      "title": "Epistle to Diognetus",
+      "author": "Anonymous (traditionally designated Mathetes)",
+      "work": "Epistle to Diognetus",
+      "translator": "Alexander Roberts and James Donaldson",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Diognetus, as addressed by the anonymous work",
+      "context": "Early Christian explanation of faith and life; author identification remains uncertain."
+    },
+    {
+      "id": "fc-s-polycarp",
+      "title": "Polycarp: Epistle to the Philippians",
+      "author": "St. Polycarp of Smyrna",
+      "work": "Epistle to the Philippians",
+      "translator": "Alexander Roberts and James Donaldson",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Church at Philippi",
+      "context": "Pastoral letter; historical English translation."
+    },
+    {
+      "id": "fc-s-justin",
+      "title": "Justin Martyr: First Apology",
+      "author": "St. Justin Martyr",
+      "work": "First Apology",
+      "translator": "Marcus Dods and George Reith",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Roman emperor, Senate, and people named in the address",
+      "context": "Defense of Christians against accusations, with accounts of faith and worship."
+    },
+    {
+      "id": "fc-s-irenaeus",
+      "title": "Irenaeus: Against Heresies",
+      "author": "St. Irenaeus of Lyons",
+      "work": "Against Heresies",
+      "translator": "Alexander Roberts and William Rambaut",
+      "edition": "Ante-Nicene Fathers, vol.1;1885",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "year": 1885,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf01.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "The recipient addressed in the preface; readers confronting the systems opposed by the work",
+      "context": "Polemic against varied second-century teachings; quotations retain the historical author’s language."
+    },
+    {
+      "id": "fc-s-didache",
+      "title": "The Teaching of the Twelve Apostles (Didache)",
+      "author": "Anonymous early Christian church order",
+      "work": "The Teaching of the Twelve Apostles",
+      "translator": "Isaac H. Hall and John T. Napier; slight revisions in the ANF edition",
+      "edition": "Ante-Nicene Fathers, vol.7;Buffalo: Christian Literature Publishing Co.,1886;1884 translation reprinted and annotated by M. B. Riddle",
+      "url": "https://www.ccel.org/ccel/schaff/anf07.html",
+      "year": 1886,
+      "type": "Historical church order",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/anf07.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Communities addressed by an early Christian church order",
+      "context": "Historical witness to conduct, initiation, thanksgiving, and community order; not a newly issued parish rule."
+    },
+    {
+      "id": "fc-s-cyril",
+      "title": "Cyril of Jerusalem: Catechetical Lectures",
+      "author": "St. Cyril of Jerusalem",
+      "work": "Catechetical Lectures",
+      "translator": "Edwin Hamilton Gifford",
+      "edition": "NPNF, Second Series, vol.7;New York: Christian Literature Publishing Co.,1893",
+      "url": "https://www.ccel.org/ccel/schaff/npnf207.html",
+      "year": 1893,
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf207.html",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Baptismal candidates and hearers addressed in the catechetical lectures",
+      "context": "Fourth-century catechetical teaching in a nineteenth-century English translation."
+    },
+    {
+      "id": "fc-s-augsburg",
+      "title": "The Augsburg Confession",
+      "author": "Lutheran confessors; presented1530",
+      "work": "The Augsburg Confession",
+      "translator": "English text of the Concordia Triglotta",
+      "edition": "Concordia Triglotta,1921;BookOfConcord.org transcription",
+      "url": "https://bookofconcord.org/augsburg-confession/",
+      "year": 1921,
+      "type": "Lutheran confession",
+      "tradition": "Lutheran",
+      "rights": "Public domain",
+      "rightsUrl": "https://bookofconcord.org/about-the-translation/",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Emperor CharlesV and the Diet of Augsburg",
+      "context": "Lutheran confession presented1530;1921 English translation."
+    },
+    {
+      "id": "fc-s-formula",
+      "title": "Formula of Concord: Church Rites",
+      "author": "Lutheran confessors;1577",
+      "work": "Formula of Concord,Epitome,ArticleX",
+      "translator": "English text of the Concordia Triglotta",
+      "edition": "Concordia Triglotta,1921;BookOfConcord.org transcription",
+      "url": "https://bookofconcord.org/epitome/church-rites/",
+      "year": 1921,
+      "type": "Lutheran confession",
+      "tradition": "Lutheran",
+      "rights": "Public domain",
+      "rightsUrl": "https://bookofconcord.org/about-the-translation/",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive."
+    },
+    {
+      "id": "fc-s-anglican",
+      "title": "Articles of Religion",
+      "author": "Church of England",
+      "work": "Articles of Religion",
+      "translator": "Historical English text",
+      "edition": "Book of Common Prayer;Church of England website",
+      "url": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "year": 1662,
+      "type": "Anglican confession",
+      "tradition": "Anglican",
+      "rights": "Historical text; brief excerpts only",
+      "rightsUrl": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "rightsNote": "Historical edition. Numerical editorial footnote callouts omitted; wording, brackets and punctuation retained. The source is a reading, not a new parish directive.",
+      "audience": "Church of England",
+      "context": "Historic Anglican articles; identify the individual article and its reception context."
+    },
+    {
+      "id": "dq-philaret",
+      "title": "The Longer Catechism of the Orthodox, Catholic, Eastern Church",
+      "url": "https://www.pravoslavieto.com/docs/eng/Orthodox_Catechism_of_Philaret.htm",
+      "author": "St. Philaret of Moscow",
+      "work": "The Longer Catechism",
+      "edition": "R. W. Blackmore translation (1845), reprinted with Philip Schaff’s question numbering",
+      "translator": "R. W. Blackmore",
+      "year": 1845,
+      "tradition": "Orthodox",
+      "type": "Historic Orthodox catechism",
+      "rights": "Public domain",
+      "rightsUrl": "https://archive.org/details/doctrineofrussia00blac",
+      "rightsNote": "Blackmore’s English translation was published in 1845. The Library of Congress scan is recorded as having no known copyright restrictions. Historic electronic transcription, with its spelling retained. This is not a current parish directive."
+    },
+    {
+      "id": "rq-wcf",
+      "title": "Westminster Confession of Faith",
+      "url": "https://www.pcaac.org/bco/westminster-confession/westminster-confession-of-faith/",
+      "author": "Westminster Assembly; American Presbyterian revisions",
+      "work": "Westminster Confession of Faith",
+      "edition": "Historical confession (1647), with American revisions; text posted by the PCA Administrative Committee",
+      "translator": "",
+      "year": "1647 / 1788",
+      "tradition": "PCA / Westminster",
+      "type": "Confessional standard",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/westminster-confession-of-faith/",
+      "rightsNote": "Historical public-domain confessional text. The linked official PCA page identifies the posted version; modern site navigation and commentary are not included.",
+      "attribution": ""
+    },
+    {
+      "id": "rq-wlc",
+      "title": "Westminster Larger Catechism",
+      "url": "https://www.pcaac.org/bco/westminster-confession/westminster-larger-catechism/",
+      "author": "Westminster Assembly",
+      "work": "Westminster Larger Catechism",
+      "edition": "Historical catechism (1647); text posted by the PCA Administrative Committee",
+      "translator": "",
+      "year": "1647",
+      "tradition": "PCA / Westminster",
+      "type": "Confessional standard",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/westminster-larger-catechism/",
+      "rightsNote": "Historical public-domain catechism text; the linked official PCA page is used for the wording.",
+      "attribution": ""
+    },
+    {
+      "id": "dq-vincent",
+      "title": "Vincent of Lérins: Commonitory",
+      "url": "https://www.ccel.org/ccel/schaff/npnf211.iii.html",
+      "author": "St. Vincent of Lérins",
+      "work": "Commonitory",
+      "edition": "Nicene and Post-Nicene Fathers, Second Series, vol. 11; 1894",
+      "translator": "C. A. Heurtley",
+      "year": 1894,
+      "tradition": "Orthodox",
+      "type": "Patristic text",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf211/cache/npnf211.txt",
+      "rightsNote": "Historical English edition published before 1931; CCEL labels the downloaded source Public Domain. Editorial footnote callouts omitted."
+    },
+    {
+      "id": "ex-s-damascene4",
+      "title": "John of Damascus: Exposition of the Orthodox Faith, Book IV",
+      "url": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "author": "St. John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, Book IV",
+      "translator": "S. D. F. Salmond",
+      "year": 1898,
+      "edition": "NPNF, Second Series, vol.9; Edinburgh: T. & T. Clark, 1898",
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "rightsNote": "Historical English edition published before 1931. The retained source identifies the translation and public-domain basis. Quoted as a source reading, not a newly composed parish instruction."
+    },
+    {
+      "id": "ex-s-cassian",
+      "title": "John Cassian: Conferences",
+      "url": "https://www.ccel.org/ccel/schaff/npnf211.html",
+      "author": "St. John Cassian",
+      "work": "Conferences",
+      "translator": "Edgar C. S. Gibson",
+      "year": 1894,
+      "edition": "NPNF, Second Series, vol.11; 1894",
+      "type": "Historic monastic conferences",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf211.html",
+      "rightsNote": "Historical English edition published before 1931. The retained source identifies the translation and public-domain basis. Quoted as a source reading, not a newly composed parish instruction."
+    },
+    {
+      "id": "sp-kjv",
+      "title": "King James Version (1769), with Apocrypha",
+      "author": "King James Bible translators; standardized text 1769",
+      "work": "The Holy Bible",
+      "edition": "Standardized 1769 English text; eBible.org/Crosswire digital edition withApocrypha, source 2026-11-15",
+      "translator": "King James translators",
+      "year": 1769,
+      "url": "https://ebible.org/eng-kjv/",
+      "tradition": "Scripture:English KJV",
+      "type": "Public-domain Bible translation",
+      "rights": "Public domain outside the United Kingdom",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "Publisher permits free copying and identifies UK royal printing privileges; no worldwide-rights claim. Local app source wording retains this digital edition’s Psalm superscriptions."
+    },
+    {
+      "id": "ex-s-damascene3",
+      "title": "John of Damascus: Exposition of the Orthodox Faith, Book III",
+      "url": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "author": "St. John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, Book III",
+      "translator": "S. D. F. Salmond",
+      "year": 1898,
+      "edition": "NPNF, Second Series, vol.9; Edinburgh: T. & T. Clark, 1898",
+      "type": "Patristic reading",
+      "tradition": "Eastern Orthodox",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.ccel.org/ccel/schaff/npnf209.html",
+      "rightsNote": "Historical English edition published before 1931. The retained source identifies the translation and public-domain basis. Quoted as a source reading, not a newly composed parish instruction."
+    }
+  ],
+  "glossarySupport": [
+    {
+      "termId": "fg-apostolic-fathers",
+      "sourceId": "fc-s-clement",
+      "locator": "ANF1 volume title and named works",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-didache",
+      "sourceId": "fc-s-didache",
+      "locator": "Title;chaptersI–XVI",
+      "languageForms": [
+        "Teaching of the Twelve Apostles"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-two-ways",
+      "sourceId": "fc-s-didache",
+      "locator": "ChapterI.1–2",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-recapitulation",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII.18–19",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-gnosticism",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII.1–4",
+      "languageForms": [
+        "Gnosticism"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-rule-of-faith",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII.3–4",
+      "languageForms": [
+        "Rule of truth"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-illumination",
+      "sourceId": "fc-s-justin",
+      "locator": "First ApologyLXI",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-regeneration",
+      "sourceId": "fc-s-justin",
+      "locator": "First ApologyLXI",
+      "languageForms": [
+        "New birth"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-apology",
+      "sourceId": "fc-s-justin",
+      "locator": "First Apology,address andchaptersI–II",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-epistle",
+      "sourceId": "fc-s-clement",
+      "locator": "Title andsalutation",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-hospitality",
+      "sourceId": "fc-s-didache",
+      "locator": "ChaptersXI–XII",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-prophet",
+      "sourceId": "fc-s-justin",
+      "locator": "First ApologyXXXI–XXXII",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-messiah",
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical LectureX",
+      "languageForms": [
+        "Anointed One"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-adoption",
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical LectureVII",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-demiurge",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII.2",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-pleroma",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII.2",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-valentinian",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII,preface",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-docetism",
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Against HeresiesIII.18",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-imputation",
+      "sourceId": "rq-wcf",
+      "locator": "Westminster ConfessionXI.1",
+      "languageForms": [
+        "Imputed righteousness"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-effectual-calling",
+      "sourceId": "rq-wcf",
+      "locator": "Westminster ConfessionX.1",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-perseverance",
+      "sourceId": "rq-wcf",
+      "locator": "Westminster ConfessionXVII.1",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-invisible-church",
+      "sourceId": "rq-wcf",
+      "locator": "Westminster ConfessionXXV.1",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-visible-church",
+      "sourceId": "rq-wcf",
+      "locator": "Westminster ConfessionXXV.2",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-sacramental-union",
+      "sourceId": "rq-wcf",
+      "locator": "Westminster ConfessionXXVII.2",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-adiaphora",
+      "sourceId": "fc-s-formula",
+      "locator": "Formula of Concord,Epitome,ArticleX,§§1–7",
+      "languageForms": [
+        "Things indifferent"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-concupiscence",
+      "sourceId": "fc-s-augsburg",
+      "locator": "Augsburg ConfessionII",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-new-obedience",
+      "sourceId": "fc-s-augsburg",
+      "locator": "Augsburg ConfessionVI",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-orthodoxy",
+      "sourceId": "dq-philaret",
+      "locator": "Longer Catechism,question274",
+      "languageForms": [
+        "Right belief",
+        "Orthodox"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-pentateuch",
+      "sourceId": "dq-philaret",
+      "locator": "Longer Catechism,question37",
+      "languageForms": [
+        "Five books of Moses"
+      ],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    },
+    {
+      "termId": "fg-hypostatic-union",
+      "sourceId": "ex-s-damascene3",
+      "locator": "Exposition of the Orthodox Faith,BookIII,chapterIII",
+      "languageForms": [],
+      "pronunciationStatus": "Pronunciation not verified; no generated phonetics or audio supplied."
+    }
+  ],
+  "reviewStatus": {
+    "textVerification": "Text matches retained identified source editions; audit available.",
+    "theologicalReview": "No external theological review recorded.",
+    "coverageMeaning": "Readings included means named introductory/source readings exist. It does not mean exhaustive coverage, doctrinal certification, or personal spiritual maturity."
+  }
+}

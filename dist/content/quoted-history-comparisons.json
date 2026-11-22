@@ -1,0 +1,2177 @@
+{
+  "revision": "source-readings-2026-11-19",
+  "modules": [
+    {
+      "id": "h-history",
+      "title": "Church history",
+      "order": 13,
+      "track": "Tradition & saints",
+      "lessons": [
+        {
+          "id": "h-apostolic-church",
+          "title": "The apostolic Church",
+          "tags": [
+            "history",
+            "apostles",
+            "Ignatius",
+            "Irenaeus",
+            "succession"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Ignatius: the bishop and the Eucharist",
+              "sourceId": "hq-ignatius-original",
+              "locator": "Chapter VIII, shorter recension",
+              "text": "See that ye all follow the bishop, even as Jesus Christ does the Father, and the presbytery as ye would the apostles; and reverence the deacons, as being the institution of God. Let no man do anything connected with the Church without the bishop. Let that be deemed a proper Eucharist, which is [administered] either by the bishop, or by one to whom he has entrusted it. Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church. It is not lawful without the bishop either to baptize or to celebrate a love-feast; but whatsoever he shall approve of, that is also pleasing to God, so that everything that is done may be secure and valid.",
+              "evidenceFile": "evidence/history/ignatius-original.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Irenaeus: apostolic succession",
+              "sourceId": "hq-irenaeus-original",
+              "locator": "Book III, chapter III, §1",
+              "text": "It is within the power of all, therefore, in every Church, who may wish to see the truth, to contemplate clearly the tradition of the apostles manifested throughout the whole world; and we are in a position to reckon up those who were by the apostles instituted bishops in the Churches, and [to demonstrate] the succession of these men to our own times; those who neither taught nor knew of anything like what these [heretics] rave about. For if the apostles had known hidden mysteries, which they were in the habit of imparting to “the perfect” apart and privily from the rest, they would have delivered them especially to those to whom they were also committing the Churches themselves. For they were desirous that these men should be very perfect and blameless in all things, whom also they were leaving behind as their successors, delivering up their own place of government to these men; which men, if they discharged their functions honestly, would be a great boon [to the Church], but if they should fall away, the direst calamity.",
+              "evidenceFile": "evidence/history/irenaeus-original.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Epistle to the Smyrnaeans",
+              "sourceId": "hq-ignatius-original",
+              "locator": "Shorter recension, chapters I–XIII",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Against Heresies",
+              "sourceId": "hq-irenaeus-original",
+              "locator": "Book III, chapters I–IV",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Acts 2:42",
+              "translation": "KJV (public domain)",
+              "text": "And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.",
+              "sourceId": "hq-ebible-acts2",
+              "locator": "Acts 2:42",
+              "evidenceFile": "evidence/history/ebible-acts2.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-councils-history",
+          "title": "Ecumenical councils",
+          "tags": [
+            "councils",
+            "Creed",
+            "Christology",
+            "history"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Philaret: ecumenical councils",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 68–73",
+              "text": "68. From whom have we this exposition of the faith?\n\nFrom the Fathers of the first and second œcumenical Councils.\n\n69. What is an œcumenical Council?\n\nAn assembly of the Pastors and Doctors of the Catholic Church of Christ, as far as possible, from the whole world, for the confirmation of true doctrine and holy discipline among Christians.\n\n70. How many œcumenical Councils have there been?\n\nSeven: 1, Of Nicæa; 2, Of Constantinople; 3, Of Ephesus; 4, Of Chalcedon; 5, The second of Constantinople; 6, The third of Constantinople; 7, The second of Nicæa.\n\n71. Whence is the rule for assembling Councils?\n\nFrom the example of the Apostles, who held a Council in Jerusalem. Acts xv. This is grounded also upon the words of Jesus Christ himself, which give to the decisions of the Church such weight that whosoever disobeys them is left deprived of grace as a heathen. But the mean, by which the œcumenical Church utters her decisions, is an œcumenical Council.\n\nTell it unto the Church; but if he neglect to hear the Church, let him be unto thee as a heathen man and a publican. Matt. xviii. 17.\n\n72. What were the particular occasions for assembling the first and second œcumenical Councils, at which the Creed was defined?\n\nThe first was held for the confirmation of the true doctrine respecting the Son of God, against the error of Arius, who thought unworthily of the Son of God; the second, for the confirmation of the true doctrine respecting the Holy Ghost, against Macedonius, who thought unworthily of the Holy Ghost.\n\n73. Is it long ago that these Councils were held?\n\nThe first was held in the year 325 from the birth of Christ; the second in 381.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Council of Ephesus",
+              "sourceId": "hq-ephesus",
+              "locator": "Cyril’s second letter to Nestorius and the council’s reception of it",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Second Council of Nicaea",
+              "sourceId": "hq-nicaea2",
+              "locator": "The Definition of the Holy and Ecumenical Seventh Council",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Acts 15:28",
+              "translation": "KJV (public domain)",
+              "text": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;",
+              "sourceId": "hq-ebible-acts15",
+              "locator": "Acts 15:28",
+              "evidenceFile": "evidence/history/ebible-acts15.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-schism",
+          "title": "The East–West schism",
+          "tags": [
+            "history",
+            "schism",
+            "filioque",
+            "papacy"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "OCA: The Great Schism",
+              "sourceId": "hq-schism",
+              "locator": "Church History, Eleventh Century",
+              "text": "And the rivalry between the Holy Roman Empire in the West and the Byzantine Empire in the East exacerbated the rift.",
+              "evidenceFile": "evidence/history/schism.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: the procession of the Holy Spirit",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 241–242",
+              "text": "241. Whence know we that the Holy Ghost proceedeth from the Father?\n\nThis we know from the following words of Jesus Christ himself: But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me. John xv. 26.\n\n242. Does the doctrine of the procession of the Holy Ghost from the Father admit of any change or supplement?\n\nNo. First, because the Orthodox Church, in this doctrine, repeats the very words of Jesus Christ; and his words, without doubt, are an exact and perfect expression of the truth. Secondly, because the second œcumenical Council, whose chief object was to establish the true doctrine respecting the Holy Ghost, has without doubt sufficiently set forth the same in the Creed; and the Catholic Church has acknowledged this so decidedly, that the third œcumenical Council in its seventh canon forbade the composition of any new Creed.\n\nFor this cause John Damascene writes: Of the Holy Ghost, we both say that he is from the Father, and call him the Spirit of the Father; while we nowise say that he is from the Son, but only call him the Spirit of the Son. (Theol. lib. i. c. 11; v. 4.)",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "link",
+              "title": "The Great Schism",
+              "sourceId": "hq-schism",
+              "locator": "Complete chapter",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Second Council of Nicaea",
+              "sourceId": "hq-nicaea2",
+              "locator": "Conciliar definition and historical documents",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "John 17:21",
+              "translation": "KJV (public domain)",
+              "text": "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+              "sourceId": "hq-ebible-john17",
+              "locator": "John 17:21",
+              "evidenceFile": "evidence/history/ebible-john17.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-rocor",
+          "title": "ROCOR and the 2007 Act",
+          "tags": [
+            "ROCOR",
+            "Russian Church",
+            "parish",
+            "history"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Act of Canonical Communion",
+              "sourceId": "hq-rocor-act",
+              "locator": "Concluding declaration, 2007",
+              "text": "By this Act, canonical communion within the Local Russian Orthodox Church is hereby restored.",
+              "evidenceFile": "evidence/history/rocor-act.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: unity and particular churches",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 259–261",
+              "text": "259. Are we still more expressly assured that Jesus Christ is the one only Head of the one Church?\n\nThe Apostle Paul writes, that for the Church, as the building of God, other foundation can no man lay than that is laid, which is Jesus Christ. 1 Cor. iii. 10, 11. Wherefore the Church, as the Body of Christ, can have no other Head than Jesus Christ.\n\nThe Church, being to abide through all generations of time, needs also an ever-abiding head; and such is Jesus Christ alone.\n\nWherefore, also, the Apostles take no higher title than that of ministers of the Church. Col. i. 24, 25.\n\n260. What duty does the unity of the Church lay on us?\n\nThat of endeavoring to keep the unity of the Spirit in the bond of peace. Eph. iv. 3.\n\n261. How does it agree with the unity of the Church, that there are many separate and independent churches, as those of Jerusalem, Antioch, Alexandria, Constantinople, Russia?\n\nThese are particular churches, or parts of the one Catholic Church: the separateness of their visible organization does not hinder them from being all spiritually great members of the one body of the Universal Church, from having one Head, Christ, and one spirit of faith and grace. This unity is expressed outwardly by unity of Creed, and by communion in prayer and Sacraments.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Act of Canonical Communion",
+              "sourceId": "hq-rocor-act",
+              "locator": "Complete 2007 Act and the diocese’s accompanying historical explanation",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Ephesians 4:3",
+              "translation": "KJV (public domain)",
+              "text": "Endeavouring to keep the unity of the Spirit in the bond of peace.",
+              "sourceId": "hq-ebible-ephesians4",
+              "locator": "Ephesians 4:3",
+              "evidenceFile": "evidence/history/ebible-ephesians4.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-saints",
+      "title": "Saints",
+      "order": 14,
+      "track": "Tradition & saints",
+      "lessons": [
+        {
+          "id": "h-martyrs",
+          "title": "The Martyrdom of Polycarp",
+          "tags": [
+            "saints",
+            "Polycarp",
+            "martyrdom",
+            "witness"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "The Martyrdom of Polycarp",
+              "sourceId": "hq-polycarp-original",
+              "locator": "Chapters IX–XI",
+              "text": "Now, as Polycarp was entering into the stadium, there came to him a voice from heaven, saying, “Be strong, and show thyself a man, O Polycarp!” No one saw who it was that spoke to him; but those of our brethren who were present heard the voice. And as he was brought forward, the tumult became great when they heard that Polycarp was taken. And when he came near, the proconsul asked him whether he was Polycarp. On his confessing that he was, [the proconsul] sought to persuade him to deny [Christ], saying, “Have respect to thy old age,” and other similar things, according to their custom, [such as], “Swear by the fortune of Cæsar; repent, and say, Away with the Atheists.” But Polycarp, gazing with a stern countenance on all the multitude of the wicked heathen then in the stadium, and waving his hand towards them, while with groans he looked up to heaven, said, “Away with the Atheists.” Then, the proconsul urging him, and saying, “Swear, and I will set thee at liberty, reproach Christ;” Polycarp declared, “Eighty and six years have I served Him, and He never did me any injury: how then can I blaspheme my King and my Saviour?” Chapter X.—Polycarp confesses himself a Christian. And when the proconsul yet again pressed him, and said, “Swear by the fortune of Cæsar,” he answered, “Since thou art vainly urgent that, as thou sayest, I should swear by the fortune of Cæsar, and pretendest not to know who and what I am, hear me declare with boldness, I am a Christian. And if you wish to learn what the doctrines of Christianity are, appoint me a day, and thou shalt hear them.” The proconsul replied, “Persuade the people.” But Polycarp said, “To thee I have thought it right to offer an account [of my faith]; for we are taught to give all due honour (which entails no injury upon ourselves) to the powers and authorities which are ordained of God. But as for these, I do not deem them worthy of receiving any account from me.” Chapter XI.—No threats have any effect on Polycarp. The proconsul then said to him, “I have wild beasts at hand; to these will I cast thee, except thou repent.” But he answered, “Call them then, for we are not accustomed to repent of what is good in order to adopt that which is evil; and it is well for me to be changed from what is evil to what is righteous.” But again the proconsul said to him, “I will cause thee to be consumed by fire, seeing thou despisest the wild beasts, if thou wilt not repent.” But Polycarp said, “Thou threatenest me with fire which burneth for an hour, and after a little is extinguished, but art ignorant of the fire of the coming judgment and of eternal punishment, reserved for the ungodly. But why tarriest thou? Bring forth what thou wilt.”",
+              "evidenceFile": "evidence/history/polycarp-original.txt"
+            },
+            {
+              "kind": "link",
+              "title": "The Martyrdom of Polycarp",
+              "sourceId": "hq-polycarp-original",
+              "locator": "Complete account, including its opening and conclusion",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Matthew 5:11",
+              "translation": "KJV (public domain)",
+              "text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.",
+              "sourceId": "hq-ebible-matthew5",
+              "locator": "Matthew 5:11",
+              "evidenceFile": "evidence/history/ebible-matthew5.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-teaching-fathers",
+          "title": "Athanasius and Basil",
+          "tags": [
+            "Fathers",
+            "Athanasius",
+            "Basil",
+            "theology",
+            "mercy"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Athanasius: the Incarnation",
+              "sourceId": "hq-athanasius-54",
+              "locator": "On the Incarnation, §54.1–3",
+              "text": "As, then, if a man should wish to see God, Who is invisible by nature and not seen at all, he may know and apprehend Him from His works: so let him who fails to see Christ with his understanding, at least apprehend Him by the works of His body, and test whether they be human works or God’s works. 2. And if they be human, let him scoff; but if they are not human, but of God, let him recognise it, and not laugh at what is no matter for scoffing; but rather let him marvel that by so ordinary a means things divine have been manifested to us, and that by death immortality has reached to all, and that by the Word becoming man, the universal Providence has been known, and its Giver and Artificer the very Word of God. 3. For He was made man that we might be made God; and He manifested Himself by a body that we might receive the idea of the unseen Father; and He endured the insolence of men that we might inherit immortality.",
+              "evidenceFile": "evidence/history/athanasius-54.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Basil: Scripture and tradition",
+              "sourceId": "hq-basil-original",
+              "locator": "On the Holy Spirit, chapter 27, §66, opening",
+              "text": "Of the beliefs and practices whether generally accepted or publicly enjoined which are preserved in the Church some we possess derived from written teaching; others we have received delivered to us “in a mystery” by the tradition of the apostles; and both of these in relation to true religion have the same force. And these no one will gainsay;—no one, at all events, who is even moderately versed in the institutions of the Church. For were we to attempt to reject such customs as have no written authority, on the ground that the importance they possess is small, we should unintentionally injure the Gospel in its very vitals; or, rather, should make our public definition a mere phrase and nothing more.",
+              "evidenceFile": "evidence/history/basil-original.txt"
+            },
+            {
+              "kind": "link",
+              "title": "On the Incarnation",
+              "sourceId": "hq-athanasius-54",
+              "locator": "Chapter 54 and the complete treatise",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "On the Holy Spirit",
+              "sourceId": "hq-basil-original",
+              "locator": "Complete chapter 27",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "John 1:14",
+              "translation": "KJV (public domain)",
+              "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+              "sourceId": "hq-ebible-john1",
+              "locator": "John 1:14",
+              "evidenceFile": "evidence/history/ebible-john1.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-repentant-saints",
+          "title": "Mary of Egypt and Seraphim of Sarov",
+          "tags": [
+            "Mary of Egypt",
+            "Seraphim of Sarov",
+            "saints",
+            "repentance"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Mary of Egypt: published life",
+              "sourceId": "hq-mary-egypt",
+              "locator": "Life, encounter with Zosimas",
+              "text": "Yielding finally to his entreaties, she said, “Blessed is God, Who cares for the salvation of men.”",
+              "evidenceFile": "evidence/history/mary-egypt.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Seraphim of Sarov: published life",
+              "sourceId": "hq-seraphim",
+              "locator": "Life, childhood",
+              "text": "Most of all, he loved to pray or to read the Holy Gospel in private.",
+              "evidenceFile": "evidence/history/seraphim.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: penitence",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 351–355",
+              "text": "351. What is Penitence?\n\nPenitence is a Sacrament, in which he who confesses his sins is, on the outward declaration of pardon by the priest, inwardly loosed from his sins by Jesus Christ himself.\n\n352. What is the origin of this Sacrament?\n\nThey who came to John the Baptist, who preached the baptism of repentance for the remission of sins, confessed their sins. Mark i. 4, 5. The Apostles were promised by Jesus Christ power to forgive sins, when he said, Whatsoever ye shall bind on earth, shall be bound in heaven; and whatsoever ye shall loose on earth, shall be loosed in heaven. Matt. xviii. 18. And after his resurrection he actually gave them this power, saying, Receive ye the Holy Ghost: whosesoever sins ye remit, they are remitted unto them and whosesoever sins ye retain, they are retained. John xx. 22, 23.\n\n353. What is required of the penitent?\n\nContrition for his sins, with a full purpose of amendment of life, faith in Jesus Christ, and hope in his mercy.\n\nFor godly sorrow worketh repentance to salvation, not to be repented of. 2 Cor. vii. 10. But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby. Ezek. xxxiii. 19. To him, that is to Jesus Christ, give all the Prophets witness, that through his name whosoever believeth in him shall receive remission of sins. Acts x. 43.\n\n354. Are there not besides certain preparations and aids to Penitence?\n\nSuch are fasting and prayer.\n\n355. Is there not besides these a certain special mean used by holy Church for cleansing and giving peace to the conscience of the penitent?\n\nSuch a mean is the epitimia, or penance.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Venerable Mary of Egypt",
+              "sourceId": "hq-mary-egypt",
+              "locator": "Complete published life",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Venerable Seraphim of Sarov",
+              "sourceId": "hq-seraphim",
+              "locator": "Complete published life",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Acts 2:38",
+              "translation": "KJV (public domain)",
+              "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+              "sourceId": "hq-ebible-acts2",
+              "locator": "Acts 2:38",
+              "evidenceFile": "evidence/history/ebible-acts2.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-mercy-saints",
+          "title": "Herman, John Maximovitch, and Olga",
+          "tags": [
+            "Herman of Alaska",
+            "John of Shanghai",
+            "Olga of Kwethluk",
+            "saints",
+            "mercy"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Philaret: works of mercy",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 460–463",
+              "text": "460. What is the Lord's fifth precept for blessedness?\n\nThey who would be blessed must be merciful.\n\n461. How are we to fulfill this precept?\n\nBy works of mercy, corporal and spiritual; for, as St. Chrysostom says, the forms of mercy are manifold, and this commandment is broad. (Hom. in Matt. xv.)\n\n462. Which are the corporal works of mercy t\n\n1. To feed the hungry.\n\n2. To give drink to the thirsty.\n\n3. To clothe the naked, or such as have not necessary and decent clothing.\n\n4. To visit them that are in prison.\n\n5. To visit the sick, minister to them, and forward their recovery, or aid them to a Christian preparation for death.\n\n6. To show hospitality to strangers.\n\n7. To bury them that have died in poverty.\n\n463. Which are the spiritual works of mercy?\n\n1. By exhortation to convert the sinner from the error of his way. James v. 20.\n\n2. To instruct the ignorant in truth and virtue.\n\n3. To give our neighbor good and seasonable advice in difficulty, or in any danger of which he is unaware.\n\n4. To pray for others to God.\n\n5. To comfort the afflicted.\n\n6. Not to return the evil which others may have done us.\n\n7. To forgive injuries from our heart.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Herman of Alaska: published life",
+              "sourceId": "hq-herman",
+              "locator": "Early life",
+              "text": "He had a great zeal for piety from youth, and at sixteen he entered monastic life.",
+              "evidenceFile": "evidence/history/herman.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John Maximovitch: published life",
+              "sourceId": "hq-john-shanghai",
+              "locator": "Life, Shanghai",
+              "text": "Additionally, he inspired many activities: building of churches, hospitals, and orphanages among the Orthodox and Russians of Shanghai.",
+              "evidenceFile": "evidence/history/john-shanghai.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Venerable Herman of Alaska",
+              "sourceId": "hq-herman",
+              "locator": "Complete published life",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Saint John Maximovitch",
+              "sourceId": "hq-john-shanghai",
+              "locator": "Complete published life",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Righteous Mother Olga of Kwethluk",
+              "sourceId": "hq-olga",
+              "locator": "Complete published life",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Matthew 5:7",
+              "translation": "KJV (public domain)",
+              "text": "Blessed are the merciful: for they shall obtain mercy.",
+              "sourceId": "hq-ebible-matthew5",
+              "locator": "Matthew 5:7",
+              "evidenceFile": "evidence/history/ebible-matthew5.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h-veneration",
+      "title": "Theotokos, icons, and saints",
+      "order": 15,
+      "track": "Tradition & saints",
+      "lessons": [
+        {
+          "id": "h-theotokos",
+          "title": "Theotokos",
+          "tags": [
+            "Mary",
+            "Theotokos",
+            "Ephesus",
+            "incarnation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: Theotokos",
+              "sourceId": "hq-damascene-mary",
+              "locator": "Book III, chapter XII, opening",
+              "text": "Moreover we proclaim the holy Virgin to be in strict truth the Mother of God. For inasmuch as He who was born of her was true God, she who bare the true God incarnate is the true mother of God. For we hold that God was born of her, not implying that the divinity of the Word received from her the beginning of its being, but meaning that God the Word Himself, Who was begotten of the Father timelessly before the ages, and was with the Father and the Spirit without beginning and through eternity, took up His abode in these last days for the sake of our salvation in the Virgin’s womb, and was without change made flesh and born of her. For the holy Virgin did not bare mere man but true God: and not mere God but God incarnate, Who did not bring down His body from Heaven, nor simply passed through the Virgin as channel, but received from her flesh of like essence to our own and subsisting in Himself. For if the body had come down from heaven and had not partaken of our nature, what would have been the use of His becoming man? For the purpose of God the Word becoming man was that the very same nature, which had sinned and fallen and become corrupted, should triumph over the deceiving tyrant and so be freed from corruption, just as the divine apostle puts it, For since by man came death, by man came also the resurrection of the dead. If the first is true the second must also be true.",
+              "evidenceFile": "evidence/history/damascene-mary.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: the title Mother of God",
+              "sourceId": "hq-damascene-mary",
+              "locator": "Book III, chapter XII",
+              "text": "Hence it is with justice and truth that we call the holy Mary the Mother of God. For this name embraces the whole mystery of the dispensation. For if she who bore Him is the Mother of God, assuredly He Who was born of her is God and likewise also man. For how could God, Who was before the ages, have been born of a woman unless He had become man? For the son of man must clearly be man himself. But if He Who was born of a woman is Himself God, manifestly He Who was born of God the Father in accordance with the laws of an essence that is divine and knows no beginning, and He Who was in the last days born of the Virgin in accordance with the laws of an essence that has beginning and is subject to time, that is, an essence which is human, must be one and the same. The name in truth signifies the one subsistence and the two natures and the two generations of our Lord Jesus Christ.",
+              "evidenceFile": "evidence/history/damascene-mary.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Council of Ephesus",
+              "sourceId": "hq-ephesus",
+              "locator": "Cyril’s second letter to Nestorius",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Luke 1:43",
+              "translation": "KJV (public domain)",
+              "text": "And whence is this to me, that the mother of my Lord should come to me?",
+              "sourceId": "hq-ebible-luke1",
+              "locator": "Luke 1:43",
+              "evidenceFile": "evidence/history/ebible-luke1.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-icons",
+          "title": "Icons",
+          "tags": [
+            "icons",
+            "veneration",
+            "incarnation",
+            "Nicaea II"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: images",
+              "sourceId": "hq-damascene-icons",
+              "locator": "Book IV, chapter XVI, opening",
+              "text": "But since some find fault with us for worshipping and honouring the image of our Saviour and that of our Lady, and those, too, of the rest of the saints and servants of Christ, let them remember that in the beginning God created man after His own image. On what grounds, then, do we shew reverence to each other unless because we are made after God’s image? For as Basil, that much-versed expounder of divine things, says, the honour given to the image passes over to the prototype. Now a prototype is that which is imaged, from which the derivative is obtained. Why was it that the Mosaic people honoured on all hands the tabernacle which bore an image and type of heavenly things, or rather of the whole creation? God indeed said to Moses, Look that thou make them after their pattern which was shewed thee in the mount. The Cherubim, too, which o’ershadow the mercy seat, are they not the work of men’s hands? What, further, is the celebrated temple at Jerusalem? Is it not hand-made and fashioned by the skill of men?",
+              "evidenceFile": "evidence/history/damascene-icons.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: the Incarnation and images",
+              "sourceId": "hq-damascene-icons",
+              "locator": "Book IV, chapter XVI",
+              "text": "But besides this who can make an imitation of the invisible, incorporeal, uncircumscribed, formless God? Therefore to give form to the Deity is the height of folly and impiety. And hence it is that in the Old Testament the use of images was not common. But after God in His bowels of pity became in truth man for our salvation, not as He was seen by Abraham in the semblance of a man, nor as He was seen by the prophets, but in being truly man, and after He lived upon the earth and dwelt among men, worked miracles, suffered, was crucified, rose again and was taken back to Heaven, since all these things actually took place and were seen by men, they were written for the remembrance and instruction of us who were not alive at that time in order that though we saw not, we may still, hearing and believing, obtain the blessing of the Lord.",
+              "evidenceFile": "evidence/history/damascene-icons.txt"
+            },
+            {
+              "kind": "link",
+              "title": "On images",
+              "sourceId": "hq-damascene-icons",
+              "locator": "Complete chapter XVI",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Second Council of Nicaea",
+              "sourceId": "hq-nicaea2",
+              "locator": "Definition of the seventh council",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Colossians 1:15",
+              "translation": "KJV (public domain)",
+              "text": "Who is the image of the invisible God, the firstborn of every creature:",
+              "sourceId": "hq-ebible-colossians1",
+              "locator": "Colossians 1:15",
+              "evidenceFile": "evidence/history/ebible-colossians1.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-intercession",
+          "title": "Intercession of the saints",
+          "tags": [
+            "saints",
+            "intercession",
+            "communion",
+            "mediation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Philaret: communion with the saints",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 262–264",
+              "text": "262. Is there likewise unity between the Church on earth and the Church in heaven?\n\nDoubtless there is, both by their common relation to one Head, our Lord Jesus Christ, and by mutual communion with one another.\n\n263. What means of communion has the Church on earth with the Church in heaven?\n\nThe prayer of faith and love. The faithful who belong to the Church militant upon earth, in offering their prayers to God, call at the same time to their aid the saints who belong to the Church in heaven; and these, standing on the highest steps of approach to God, by their prayers and intercessions purify, strengthen, and offer before God the prayers of the faithful living upon earth, and by the will of God work graciously and beneficently upon them, either by invisible virtue, or by distinct apparitions, and in divers other ways.\n\n264. On what is grounded the rule of the Church upon earth to invoke in prayer the saints of the Church in heaven?\n\nOn a holy tradition, the principle of which is to be seen also in holy Scripture. For instance, when the Prophet David cries out in prayer, O Lord God of Abraham, Isaac, and of Israel our fathers, he makes mention of saints in aid of his prayer, exactly as now the Orthodox Church calls upon Christ our true God, by the prayers of his most pure Mother and all his saints. See 1 Chron. xxix. 18.\n\nCyril of Jerusalem, in his explanation of the divine Liturgy, says: We make mention also of those who are before departed, first, of the Patriarchs, Prophets, Apostles, and Martyrs, that by their entreaties and intercession God may receive our prayers. (Cat. Myst. v. c. 9.)\n\nBasil the Great, in his sermon on the day of the Forty Holy Martyrs, says: Whoever is afflicted has recourse to the Forty, and whoever is joyful runs to the same; the one that he may find relief from his sorrows, the other that he may keep his happiness. Here the pious wife is to be seen praying for her children; another asks the return of her absent husband; another the restoration of health to the sick. Yes; let your petitions be with the Martyrs.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: the saints",
+              "sourceId": "hq-damascene-saints",
+              "locator": "Book IV, chapter XV, opening",
+              "text": "To the saints honour must be paid as friends of Christ, as sons and heirs of God: in the words of John the theologian and evangelist, As many as received Him, to them gave He power to became sons of God. So that they are no longer servants, but sons: and if sons, also heirs, heirs of God and joint heirs with Christ: and the Lord in the holy Gospels says to His apostles, Ye are My friends. Henceforth I call you not servants, for the servant knoweth not what his lord doeth. And further, if the Creator and Lord of all things is called also King of Kings and Lord of Lords and God of Gods, surely also the saints are gods and lords and kings. For of these God is and is called God and Lord and King. For I am the God of Abraham, He said to Moses, the God of Isaac and the God of Jacob. And God made Moses a god to Pharaoh. Now I mean gods and kings and lords not in nature, but as rulers and masters of their passions, and as preserving a truthful likeness to the divine image according to which they were made (for the image of a king is also called king), and as being united to God of their own free-will and receiving Him as an indweller and becoming by grace through participation with Him what He is Himself by nature. Surely, then, the worshippers and friends and sons of God are to be held in honour? For the honour shewn to the most thoughtful of fellow-servants is a proof of good feeling towards the common Master.",
+              "evidenceFile": "evidence/history/damascene-saints.txt"
+            },
+            {
+              "kind": "link",
+              "title": "On the saints and their remains",
+              "sourceId": "hq-damascene-saints",
+              "locator": "Complete chapter XV",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Hebrews 12:23",
+              "translation": "KJV (public domain)",
+              "text": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,",
+              "sourceId": "hq-ebible-hebrews12",
+              "locator": "Hebrews 12:23",
+              "evidenceFile": "evidence/history/ebible-hebrews12.txt"
+            }
+          ]
+        },
+        {
+          "id": "h-relics-discernment",
+          "title": "Relics",
+          "tags": [
+            "relics",
+            "miracles",
+            "discernment",
+            "resurrection"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "The Martyrdom of Polycarp: relics",
+              "sourceId": "hq-polycarp-original",
+              "locator": "Chapter XVIII",
+              "text": "Accordingly, we afterwards took up his bones, as being more precious than the most exquisite jewels, and more purified than gold, and deposited them in a fitting place, whither, being gathered together, as opportunity is allowed us, with joy and rejoicing, the Lord shall grant us to celebrate the anniversary of his martyrdom, both in memory of those who have already finished their course, and for the exercising and preparation of those yet to walk in their steps.",
+              "evidenceFile": "evidence/history/polycarp-original.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: the remains of the saints",
+              "sourceId": "hq-damascene-saints",
+              "locator": "Book IV, chapter XV",
+              "text": "Further, that God dwelt even in their bodies in spiritual wise, the Apostle tells us, saying, Know ye not that your bodies are the temples of the Holy Spirit dwelling in you?, and The Lord is that Spirit, and If any one destroy the temple of God, him will God destroy. Surely, then, we must ascribe honour to the living temples of God, the living tabernacles of God. These while they lived stood with confidence before God. The Master Christ made the remains of the saints to be fountains of salvation to us, pouring forth manifold blessings and abounding in oil of sweet fragrance: and let no one disbelieve this. For if water burst in the desert from the steep and solid rock at God’s will and from the jaw-bone of an ass to quench Samson’s thirst, is it incredible that fragrant oil should burst forth from the martyrs’ remains? By no means, at least to those who know the power of God and the honour which He accords His saints.",
+              "evidenceFile": "evidence/history/damascene-saints.txt"
+            },
+            {
+              "kind": "link",
+              "title": "The Martyrdom of Polycarp",
+              "sourceId": "hq-polycarp-original",
+              "locator": "Chapters XVII–XVIII",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "On the saints and their remains",
+              "sourceId": "hq-damascene-saints",
+              "locator": "Complete chapter XV",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "2 Kings 13:21",
+              "translation": "KJV (public domain)",
+              "text": "And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.§§was...: Heb. went down",
+              "sourceId": "hq-ebible-2kings13",
+              "locator": "2 Kings 13:21",
+              "evidenceFile": "evidence/history/ebible-2kings13.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r-authority",
+      "title": "Reformed sources and authority",
+      "order": 16,
+      "track": "Reformed conversations",
+      "lessons": [
+        {
+          "id": "r-pca-piper",
+          "title": "PCA and John Piper",
+          "tags": [
+            "PCA",
+            "John Piper",
+            "Reformed",
+            "comparison"
+          ],
+          "readings": [
+            {
+              "kind": "link",
+              "title": "PCA: Westminster Standards",
+              "sourceId": "rq-pca-standards",
+              "locator": "PCA constitutional statement and the Confession and Catechisms",
+              "text": ""
+            },
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 28.3, 4",
+              "text": "Dipping of the person into the water is not necessary; but baptism is rightly administered by pouring, or sprinkling water upon the person.\n\nNot only those that do actually profess faith in and obedience unto Christ, but also the infants of one, or both, believing parents, are to be baptized.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: baptism",
+              "sourceId": "rq-piper-baptism",
+              "locator": "Section 1 heading",
+              "text": "In every New Testament command and instance of baptism, repentance and faith precede baptism",
+              "evidenceFile": "evidence/history/piper-baptism.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Westminster: the second commandment",
+              "sourceId": "rq-wlc",
+              "locator": "Questions 109–109",
+              "text": "109. What are the sins forbidden in the second commandment? A. The sins forbidden in the second commandment are, all devising, counselling, commanding, using, and anywise approving, any religious worship not instituted by God himself; the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever; all worshipping of it, or God in it or by it; the making of any representation of feigned deities, and all worship of them, or service belonging to them, all superstitious devices, corrupting the worship of God, adding to it, or taking from it, whether invented and taken up of ourselves, or received by tradition from others, though under the title of antiquity, custom, devotion, good intent, or any other pretence whatsoever; simony; sacrilege; all neglect, contempt, hindering, and opposing the worship and ordinances which God hath appointed.",
+              "evidenceFile": "evidence/history/wlc.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: images of Jesus",
+              "sourceId": "rq-piper-images",
+              "locator": "February 4, 2004 panel; answer to the question about the second commandment",
+              "text": "The incarnation warrants guesses at what Jesus might have looked like. I don’t think it’s a breaking of the second commandment.",
+              "evidenceFile": "evidence/history/piper-images.txt"
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Ephesians 4:15",
+              "translation": "KJV (public domain)",
+              "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:",
+              "sourceId": "hq-ebible-ephesians4",
+              "locator": "Ephesians 4:15",
+              "evidenceFile": "evidence/history/ebible-ephesians4.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-scripture-tradition",
+          "title": "Scripture and Tradition",
+          "tags": [
+            "Scripture",
+            "Tradition",
+            "authority",
+            "sola scriptura"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster: Scripture",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 1.6",
+              "text": "The whole counsel of God concerning all things necessary for his own glory, man’s salvation, faith and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men. Nevertheless, we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word: and that there are some circumstances concerning the worship of God, and government of the church, common to human actions and societies, which are to be ordered by the light of nature, and Christian prudence, according to the general rules of the Word, which are always to be observed.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: tradition and Scripture",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 16–22",
+              "text": "16. How is divine revelation spread among men and preserved in the true Church?\n\nBy two channels--holy tradition and holy Scripture.\n\n17. What is meant by the name holy tradition?\n\nBy the name holy tradition is meant the doctrine of the faith, the law of God, the sacraments, and the ritual as handed down by the true believers and worshipers of God by word and example from one to another, and from generation to generation.\n\n18. Is there any sure repository of holy tradition?\n\nAll true believers united by the holy tradition of the faith, collectively and successively, by the will of God, compose the Church; and she is the sure repository of holy tradition, or, as St. Paul expresses it, The Church of the living God, the pillar and ground of the truth. 1 Tim. iii. 15.\n\nSt. Irenæus writes thus:\n\nWe ought not to seek among others the truth, which we may have for asking from the Church; for in her, as in a rich treasure-house, the Apostles have laid up in its fullness all that pertains to the truth, so that whosoever seeketh may receive from her the food of life. She is the door of life. (Adv. Hæres. lib. iii. c. 4.)\n\n19. What is that which you call holy Scripture?\n\nCertain books written by the Spirit of God through men sanctified by God, called Prophets and Apostles. These books are commonly termed the Bible.\n\n20. What does the word Bible mean?\n\nIt is Greek, and means the books. The name signifies that the sacred books deserve attention before all others.\n\n21. Which is the more ancient, holy tradition or holy Scripture?\n\nThe most ancient and original instrument for spreading divine revelation is holy tradition. From Adam to Moses there were no sacred books. Our Lord Jesus Christ himself delivered his divine doctrine and ordinances to his Disciples by word and example, but not by writing. The same method was followed by the Apostles also at first, when they spread abroad the faith and established the Church of Christ. The necessity of tradition is further evident from this, that books can be available only to a small part of mankind, but tradition to all.\n\n22. Why, then, was holy Scripture given?\n\nTo this end, that divine revelation might be preserved more exactly and unchangeably. In holy Scripture we read the words of the Prophets and Apostles precisely as if we were living with them and listening to them, although the latest of the sacred books were written a thousand and some hundred years before our time.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Basil: written teaching and apostolic tradition",
+              "sourceId": "hq-basil-original",
+              "locator": "Chapter 27, §66, opening",
+              "text": "Of the beliefs and practices whether generally accepted or publicly enjoined which are preserved in the Church some we possess derived from written teaching; others we have received delivered to us “in a mystery” by the tradition of the apostles; and both of these in relation to true religion have the same force. And these no one will gainsay;—no one, at all events, who is even moderately versed in the institutions of the Church. For were we to attempt to reject such customs as have no written authority, on the ground that the importance they possess is small, we should unintentionally injure the Gospel in its very vitals; or, rather, should make our public definition a mere phrase and nothing more.",
+              "evidenceFile": "evidence/history/basil-original.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Piper: Why We Believe the Bible",
+              "sourceId": "rq-piper-bible",
+              "locator": "Session 3: complete published teaching",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "2 Thessalonians 2:15",
+              "translation": "KJV (public domain)",
+              "text": "Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.",
+              "sourceId": "hq-ebible-2thessalonians2",
+              "locator": "2 Thessalonians 2:15",
+              "evidenceFile": "evidence/history/ebible-2thessalonians2.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-canon-reading",
+          "title": "The biblical canon",
+          "tags": [
+            "Bible",
+            "canon",
+            "Septuagint",
+            "interpretation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster: the books called Apocrypha",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 1.3",
+              "text": "The books commonly called Apocrypha, not being of divine inspiration, are no part of the canon of the Scripture, and therefore are of no authority in the church of God, nor to be any otherwise approved, or made use of, than other human writings.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: Old Testament books",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 32–35",
+              "text": "32. Why should we attend to the reckoning of the Hebrews?\n\nBecause, as the Apostle Paul says, unto them were committed the oracles of God; and the sacred books of the Old Testament have been received from the Hebrew Church of that Testament by the Christian Church of the New. Rom. iii. 2.\n\n33. How do St. Cyril and St. Athanasius enumerate the books of the Old Testament?\n\nAs follows: 1, The book of Genesis; 2, Exodus; 3, Leviticus; 4, the book of Numbers; 5, Deuteronomy; 6, the book of Jesus the son of Nun; 7, the book of Judges, and with it, as an appendix, the book of Ruth; 8, the first and second books of Kings, as two parts of one book; 9, the third and fourth books of Kings; 10, the first and second books of Paralipomena; 11, the first book of Esdras, and the second, or, as it is entitled in Greek, the book of Nehemiah; 12, the book of Esther; 13, the book of Job; 14, the Psalms; 15, the Proverbs of Solomon; 16, Ecclesiastes, also by Solomon; 17, the Song of Songs, also by Solomon; 18, the book of the Prophet Isaiah; 19, of Jeremiah; 20, of Ezekiel; 21, of Daniel; 22, of the Twelve Prophets.\n\n34. Why is there no notice taken in this enumeration of the books of the Old Testament of the book of the Wisdom of the son of Sirach, and of certain others?\n\nBecause they do not exist in the Hebrew.\n\n35. How are we to regard these last-named books?\n\nAthanasius the Great says that they have been appointed of the Fathers to be read by proselytes who are preparing for admission into the Church.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Athanasius: Festal Letter 39",
+              "sourceId": "hq-festal",
+              "locator": "Complete letter, especially §§4–7",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Westminster Confession",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 1.2–3, including its list of books",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Philaret: Scripture",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 25–60",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "2 Timothy 3:16",
+              "translation": "KJV (public domain)",
+              "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+              "sourceId": "hq-ebible-2timothy3",
+              "locator": "2 Timothy 3:16",
+              "evidenceFile": "evidence/history/ebible-2timothy3.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-councils-certainty",
+          "title": "Councils and authority",
+          "tags": [
+            "councils",
+            "authority",
+            "certainty",
+            "Church"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 31",
+              "text": "For the better government, and further edification of the church, there ought to be such assemblies as are commonly called synods or councils: and it belongeth to the overseers and other rulers of the particular churches, by virtue of their office, and the power which Christ hath given them for edification and not for destruction, to appoint such assemblies; and to convene together in them, as often as they shall judge it expedient for the good of the church.\n\nIt belongeth to synods and councils, ministerially to determine controversies of faith, and cases of conscience; to set down rules and directions for the better ordering of the public worship of God, and government of his church; to receive complaints in cases of maladministration, and authoritatively to determine the same: which decrees and determinations, if consonant to the Word of God, are to be received with reverence and submission; not only for their agreement with the Word, but also for the power whereby they are made, as being an ordinance of God appointed thereunto in his Word.\n\nAll synods or councils, since the apostles’ times, whether general or particular, may err; and many have erred. Therefore they are not to be made the rule of faith, or practice; but to be used as a help in both.\n\nSynods and councils are to handle, or conclude nothing, but that which is ecclesiastical: and are not to intermeddle with civil affairs which concern the commonwealth, unless by way of humble petition in cases extraordinary; or, by way of advice, for satisfaction of conscience, if they be thereunto required by the civil magistrate.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: councils",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 68–70",
+              "text": "68. From whom have we this exposition of the faith?\n\nFrom the Fathers of the first and second œcumenical Councils.\n\n69. What is an œcumenical Council?\n\nAn assembly of the Pastors and Doctors of the Catholic Church of Christ, as far as possible, from the whole world, for the confirmation of true doctrine and holy discipline among Christians.\n\n70. How many œcumenical Councils have there been?\n\nSeven: 1, Of Nicæa; 2, Of Constantinople; 3, Of Ephesus; 4, Of Chalcedon; 5, The second of Constantinople; 6, The third of Constantinople; 7, The second of Nicæa.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: the Catholic Church",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 268–271",
+              "text": "268. Why is the Church holy?\n\nBecause she is sanctified by Jesus Christ through his passion, through his doctrine, through his prayer, and through the Sacraments. Christ loved the Church, and gave himself for it; that he might sanctify it, having cleansed it with the washing of water by the Word, that he might present it to himself a glorious Church, not having spot, or wrinkle, or any such thing, but that it should be holy, and without blemish. Eph. v. 25-27.\n\nIn his prayer to God the Father for believers, Jesus Christ said among other things: Sanctify them through thy truth: thy Word is truth. And for their sakes I sanctify myself, that they also may be sanctified in truth. John xvii.17, 19.\n\n269. How is the Church holy, when she has in her sinners?\n\nMen, who sin, but purify themselves by true repentance, hinder not the Church from being holy; but impenitent sinners, either by the visible act of Church authority, or by the invisible judgment of God, are cut off from the body of the Church; and so she is, in respect of these, also kept holy.\n\nPut away from among yourselves that wicked person. 1 Cor. v. 13. Nevertheless the foundation of God standeth sure, having this seal: The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity. 2 Tim. ii. 19.\n\n270. Why is the Church called Catholic, or, which is the same thing, Universal?\n\nBecause she is not limited to any place, nor time, nor people, but contains true believers of all places, times, and peoples.\n\nThe Apostle Paul says that the Word of the Gospel is in all the world; and bringeth forth fruit (Coloss. i. 5, 6), and that in the Christian Church there is neither Greek nor Jew, circumcision nor uncircumcision, barbarian nor Scythian, bond nor free: but Christ is all, and in all. Coloss. iii. 11. They which be of faith, are blessed with faithful Abraham. Gal. iii. 9.\n\n271. What great privilege has the Catholic Church?\n\nShe alone has the sublime promises that the gates of hell shall not prevail against her; that the Lord shall be with her even to the end of the world; that in her shall abide the glory of God in Christ Jesus throughout all generations forever; and consequently that she shall never apostatize from the faith, nor sin against the truth of the faith, or fall into error.\n\nWe undoubtingly confess, as sure truth, that the Catholic Church can not sin, nor err, nor utter falsehood in place of truth; for the Holy Ghost, ever working through his faithful ministers the fathers and doctors of the Church, preserves her from all error. (Missive of the Eastern Patriarchs on the Orthodox Faith, Art. 12.)",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Council of Ephesus",
+              "sourceId": "hq-ephesus",
+              "locator": "Letters and acts",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Second Council of Nicaea",
+              "sourceId": "hq-nicaea2",
+              "locator": "Conciliar definition",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Acts 15:28",
+              "translation": "KJV (public domain)",
+              "text": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;",
+              "sourceId": "hq-ebible-acts15",
+              "locator": "Acts 15:28",
+              "evidenceFile": "evidence/history/ebible-acts15.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r-salvation",
+      "title": "Reformed and Orthodox sources on salvation",
+      "order": 17,
+      "track": "Reformed conversations",
+      "lessons": [
+        {
+          "id": "r-justification",
+          "title": "Justification",
+          "tags": [
+            "justification",
+            "theosis",
+            "grace",
+            "Piper",
+            "faith"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 11.1, 2",
+              "text": "Those whom God effectually calleth, he also freely justifieth: not by infusing righteousness into them, but by pardoning their sins, and by accounting and accepting their persons as righteous; not for anything wrought in them, or done by them, but for Christ’s sake alone; nor by imputing faith itself, the act of believing, or any other evangelical obedience to them, as their righteousness; but by imputing the obedience and satisfaction of Christ unto them, they receiving and resting on him and his righteousness, by faith; which faith they have not of themselves, it is the gift of God.\n\nFaith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification: yet is it not alone in the person justified, but is ever accompanied with all other saving graces, and is no dead faith, but worketh by love.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: righteousness and grace",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 455–459",
+              "text": "455. What is the Lord's fourth precept for blessedness?\n\nThey who would be blessed must hunger and thirst after righteousness.\n\n456. What is meant here by the word righteousness ?\n\nThough this word may well stand for every virtue which the Christian ought to desire even as his meat and drink, yet should we here specially understand that righteousness of which, in the book of Daniel, it is said, An everlasting righteousness shall be brought in; that is, the justification of guilty man through grace and faith in Jesus Christ. Dan. ix. 24.\n\nThe Apostle Paul speaks thus: The righteousness of God which is by faith of Jesus Christ unto all, and upon all them that believe; for there is no difference: for all have sinned, and come short of the glory of God/ being justified freely by his grace through the redemption that is in Christ Jesus, whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past. Rom. iii. 22-25.\n\n457. Who are they that hunger and thirst after righteousness?\n\nThey who, while they love to do good, yet count not themselves righteous, nor rest on their own good works, but acknowledge themselves sinners, and guilty before God; and who, by the wish and prayer of faith, hunger and thirst after the justification of grace through Jesus Christ, as after spiritual meat and drink.\n\n458. What does the Lord promise to them who hunger and thirst after righteousness?\n\nThat they shall be filled.\n\n459. What is meant here by being filled?\n\nAs the filling or satisfying of the body produces, first, the cessation of the sense of hunger and thirst; secondly, the strengthening the body by food, so the filling of the soul means, first, the inward peace of the pardoned sinner; secondly, the acquisition of strength to do good, given by justifying grace. The perfect filling, however, of the soul created for the enjoyment of endless good is to follow in the life eternal, according to the words of the Psalmist: When I awake up after thy likeness, I shall be satisfied with it. Psalm xvii. 15.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: justification",
+              "sourceId": "rq-piper-faith",
+              "locator": "Transcript, “Declared Just”",
+              "text": "Justification is instantaneous and unchanging. On the basis of the blood and righteousness of Christ alone, we are counted instantaneously as righteous, and God is one hundred percent for us from then on. We’re connected with this new experience of acceptance with God by being one with Christ through faith alone, and that happens in an instant.",
+              "evidenceFile": "evidence/history/piper-faith.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Piper: justification and final salvation",
+              "sourceId": "rq-piper-faith",
+              "locator": "Complete published transcript",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Romans 3:24",
+              "translation": "KJV (public domain)",
+              "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:",
+              "sourceId": "hq-ebible-romans3",
+              "locator": "Romans 3:24",
+              "evidenceFile": "evidence/history/ebible-romans3.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-faith-works",
+          "title": "Faith and works",
+          "tags": [
+            "faith",
+            "works",
+            "synergy",
+            "grace",
+            "salvation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 16.1, 2, 3",
+              "text": "Good works are only such as God hath commanded in his holy Word, and not such as, without the warrant thereof, are devised by men, out of blind zeal, or upon any pretense of good intention.\n\nThese good works, done in obedience to God’s commandments, are the fruits and evidences of a true and lively faith: and by them believers manifest their thankfulness, strengthen their assurance, edify their brethren, adorn the profession of the gospel, stop the mouths of the adversaries, and glorify God, whose workmanship they are, created in Christ Jesus thereunto, that, having their fruit unto holiness, they may have the end, eternal life.\n\nTheir ability to do good works is not at all of themselves, but wholly from the Spirit of Christ. And that they may be enabled thereunto, beside the graces they have already received, there is required an actual influence of the same Holy Spirit, to work in them to will, and to do, of his good pleasure: yet are they not hereupon to grow negligent, as if they were not bound to perform any duty unless upon a special motion of the Spirit; but they ought to be diligent in stirring up the grace of God that is in them.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: faith and love",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 481–485",
+              "text": "481. What should be the effect and fruit of true faith in the Christian?\n\nLove, and good works conformable thereto.\n\nIn Jesus Christ, says the Apostle Paul, neither circumcision availeth any thing, nor uncircumcision, but faith which worketh by love. Gal. v. 6.\n\n482. Is not faith alone enough for a Christian, without love and good works ?\n\nNo; for faith without love and good works is inactive and dead, and so can not lead to eternal life.\n\nHe that loveth not his brother, abideth in death. 1 John iii. 14. What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? For as the body without the spirit is dead, so faith without works is dead also. James ii. 14, 26.\n\n483. May not a man, on the other hand, be saved by love and good works, without faith?\n\nIt is impossible that a man who has not faith in God should really love him; besides, man, being ruined by sin, can not do really good works, unless he receive through faith in Jesus Christ spiritual strength, or grace from God.\n\nWithout faith it is impossible to please God: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him, Heb. xi. 6.\n\nFor as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. Gal. iii. 10. For we through the spirit wait for the hope of righteousness by faith. Gal. v. 5.\n\nFor by grace are ye saved through faith; and that not of yourselves: it is the gift of God: not of works, lest any man should boast. Eph. ii. 8, 9.\n\n484. What is to be thought of such love as is not accompanied by good works?\n\nSuch love is not real: for true love naturally shows itself by good works. Jesus Christ says: He that hath my commandments, and keepeth them, he it is that loveth me: if a man love me, he will keep my word. John xiv. 21, 23.\n\nThe Apostle John writes: For this is the love of God, that we keep his commandments. 1 John v. 3. Let us not love in word, neither in tongue, but in deed and in truth. 1 John iii. 18.\n\nOn the Law of God and the Commandments.\n\n485. What means have we to know good works from bad?\n\nThe inward law of God, or the witness of our conscience, and the outward law of God, or God's commandments.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: works and justifying faith",
+              "sourceId": "rq-piper-faith",
+              "locator": "Transcript, “Work to Be Saved?”",
+              "text": "works play no role whatsoever in justification, but are the necessary fruit of justifying faith, which confirm our faith and our union with Christ at the last judgment. God can make a public pronouncement with a view to these works confirming the faith, which alone unites us to Christ, who is alone the foundation of our acceptance as perfect in God’s sight.",
+              "evidenceFile": "evidence/history/piper-faith.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Piper: justification and final salvation",
+              "sourceId": "rq-piper-faith",
+              "locator": "Complete published transcript",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Ephesians 2:8",
+              "translation": "KJV (public domain)",
+              "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:",
+              "sourceId": "hq-ebible-ephesians2",
+              "locator": "Ephesians 2:8",
+              "evidenceFile": "evidence/history/ebible-ephesians2.txt"
+            },
+            {
+              "reference": "Ephesians 2:10",
+              "translation": "KJV (public domain)",
+              "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+              "sourceId": "hq-ebible-ephesians2",
+              "locator": "Ephesians 2:10",
+              "evidenceFile": "evidence/history/ebible-ephesians2.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-election-freedom",
+          "title": "Election and freedom",
+          "tags": [
+            "election",
+            "predestination",
+            "freedom",
+            "providence"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 3",
+              "text": "God, from all eternity, did, by the most wise and holy counsel of his own will, freely, and unchangeably ordain whatsoever comes to pass: yet so, as thereby neither is God the author of sin, nor is violence offered to the will of the creatures; nor is the liberty or contingency of second causes taken away, but rather established.\n\nAlthough God knows whatsoever may or can come to pass upon all supposed conditions, yet hath he not decreed anything because he foresaw it as future, or as that which would come to pass upon such conditions.\n\nBy the decree of God, for the manifestation of his glory, some men and angels are predestinated unto everlasting life; and others foreordained to everlasting death.\n\nThese angels and men, thus predestinated, and foreordained, are particularly and unchangeably designed, and their number so certain and definite, that it cannot be either increased or diminished.\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen, in Christ, unto everlasting glory, out of his mere free grace and love, without any foresight of faith, or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto; and all to the praise of his glorious grace.\n\nAs God hath appointed the elect unto glory, so hath he, by the eternal and most free purpose of his will, foreordained all the means thereunto. Wherefore, they who are elected, being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ by his Spirit working in due season, are justified, adopted, sanctified, and kept by his power, through faith, unto salvation. Neither are any other redeemed by Christ, effectually called, justified, adopted, sanctified, and saved, but the elect only.\n\nThe rest of mankind God was pleased, according to the unsearchable counsel of his own will, whereby he extendeth or withholdeth mercy, as he pleaseth, for the glory of his sovereign power over his creatures, to pass by; and to ordain them to dishonor and wrath for their sin, to the praise of his glorious justice.\n\nThe doctrine of this high mystery of predestination is to be handled with special prudence and care, that men, attending the will of God revealed in his Word, and yielding obedience thereunto, may, from the certainty of their effectual vocation, be assured of their eternal election. So shall this doctrine afford matter of praise, reverence, and admiration of God; and of humility, diligence, and abundant consolation to all that sincerely obey the gospel.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: foreknowledge and freedom",
+              "sourceId": "hq-damascene-freedom",
+              "locator": "Book II, chapter XXX, opening",
+              "text": "We ought to understand that while God knows all things beforehand, yet He does not predetermine all things. For He knows beforehand those things that are in our power, but He does not predetermine them. For it is not His will that there should be wickedness nor does He choose to compel virtue. So that predetermination is the work of the divine command based on fore-knowledge. But on the other hand God predetermines those things which are not within our power in accordance with His prescience. For already God in His prescience has prejudged all things in accordance with His goodness and justice. Bear in mind, too, that virtue is a gift from God implanted in our nature, and that He Himself is the source and cause of all good, and without His co-operation and help we cannot will or do any good thing. But we have it in our power either to abide in virtue and follow God, Who calls us into ways of virtue, or to stray from paths of virtue, which is to dwell in wickedness, and to follow the devil who summons but cannot compel us. For wickedness is nothing else than the withdrawal of goodness, just as darkness is nothing else than the withdrawal of light. While then we abide in the natural state we abide in virtue, but when we deviate from the natural state, that is from virtue, we come into an unnatural state and dwell in wickedness. Repentance is the returning from the unnatural into the natural state, from the devil to God, through discipline and effort.",
+              "evidenceFile": "evidence/history/damascene-freedom.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: election",
+              "sourceId": "rq-piper-election",
+              "locator": "“Not Because of Works”",
+              "text": "In other words, here Paul is ruling out foreseen good deeds that Jacob will do, and foreseen evil deeds that Esau will do. And he is saying: my election is not based on deeds in any way — not deeds already done, not deeds undone and foreknown, and not deeds undone and not foreknown. My election is free. That is my glory. Therefore, my purpose accords with that kind of election, because my purpose is to be known and enjoyed and praised as infinitely glorious in my free and sovereign grace.",
+              "evidenceFile": "evidence/history/piper-election.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Unconditional Election and the Invincible Purpose of God",
+              "sourceId": "rq-piper-election",
+              "locator": "Complete sermon",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Romans 8:29",
+              "translation": "KJV (public domain)",
+              "text": "For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.",
+              "sourceId": "hq-ebible-romans8",
+              "locator": "Romans 8:29",
+              "evidenceFile": "evidence/history/ebible-romans8.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-assurance",
+          "title": "Assurance and perseverance",
+          "tags": [
+            "assurance",
+            "perseverance",
+            "hope",
+            "repentance"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 17",
+              "text": "They, whom God hath accepted in his Beloved, effectually called, and sanctified by his Spirit, can neither totally nor finally fall away from the state of grace, but shall certainly persevere therein to the end, and be eternally saved.\n\nThis perseverance of the saints depends not upon their own free will, but upon the immutability of the decree of election, flowing from the free and unchangeable love of God the Father; upon the efficacy of the merit and intercession of Jesus Christ, the abiding of the Spirit, and of the seed of God within them, and the nature of the covenant of grace: from all which ariseth also the certainty and infallibility thereof.\n\nNevertheless, they may, through the temptations of Satan and of the world, the prevalency of corruption remaining in them, and the neglect of the means of their preservation, fall into grievous sins; and, for a time, continue therein: whereby they incur God’s displeasure, and grieve his Holy Spirit, come to be deprived of some measure of their graces and comforts, have their hearts hardened, and their consciences wounded; hurt and scandalize others, and bring temporal judgments upon themselves.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: Christian hope",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 386–388",
+              "text": "386. What is Christian hope?\n\nThe resting of the heart on God, with the full trust that he ever cares for our salvation, and will give us the happiness he has promised.\n\n387. What is the ground of Christian hope?\n\nThe Lord Jesus Christ is our hope, or the ground of our hope. 1 Tim. i. 1. Hope to the end for the grace that is to be brought unto you by the revelation of Jesus Christ. 1 Peter i. 13.\n\n388. What are the means for attaining to a saving hope?\n\nThe means to this are, first, prayer; secondly, the true doctrine of blessedness, and its practical application.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: perseverance",
+              "sourceId": "rq-piper-security",
+              "locator": "Transcript, “Sneaky Supposition”",
+              "text": "On the contrary, God Almighty has promised his elect, his predestined, his called, his justified children that he himself will infallibly keep us from falling. We don’t have the free will of ultimate self-determination. Praise God, for he has that final, ultimate, decisive determination of what our wills will do. God has conquered our rebellious, dead, anti-God wills. He has written his law in our heart. He has given us his Holy Spirit.",
+              "evidenceFile": "evidence/history/piper-security.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Certain and Conditional: More on Eternal Security",
+              "sourceId": "rq-piper-security",
+              "locator": "Complete transcript",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 John 5:13",
+              "translation": "KJV (public domain)",
+              "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.",
+              "sourceId": "hq-ebible-1john5",
+              "locator": "1 John 5:13",
+              "evidenceFile": "evidence/history/ebible-1john5.txt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r-worship",
+      "title": "Reformed and Orthodox sources on worship",
+      "order": 18,
+      "track": "Reformed conversations",
+      "lessons": [
+        {
+          "id": "r-baptism",
+          "title": "Baptism",
+          "tags": [
+            "baptism",
+            "PCA",
+            "Piper",
+            "sacraments",
+            "initiation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 28",
+              "text": "Baptism is a sacrament of the new testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized into the visible church; but also, to be unto him a sign and seal of the covenant of grace, of his ingrafting into Christ, of regeneration, of remission of sins, and of his giving up unto God, through Jesus Christ, to walk in newness of life. Which sacrament is, by Christ’s own appointment, to be continued in his church until the end of the world.\n\nThe outward element to be used in this sacrament is water, wherewith the party is to be baptized, in the name of the Father, and of the Son, and of the Holy Ghost, by a minister of the gospel, lawfully called thereunto.\n\nDipping of the person into the water is not necessary; but baptism is rightly administered by pouring, or sprinkling water upon the person.\n\nNot only those that do actually profess faith in and obedience unto Christ, but also the infants of one, or both, believing parents, are to be baptized.\n\nAlthough it be a great sin to contemn or neglect this ordinance, yet grace and salvation are not so inseparably annexed unto it, as that no person can be regenerated, or saved, without it; or, that all that are baptized are undoubtedly regenerated.\n\nThe efficacy of baptism is not tied to that moment of time wherein it is administered; yet, notwithstanding, by the right use of this ordinance, the grace promised is not only offered, but really exhibited, and conferred, by the Holy Ghost, to such (whether of age or infants) as that grace belongeth unto, according to the counsel of God’s own will, in his appointed time.\n\nThe sacrament of baptism is but once to be administered unto any person.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: baptism and children",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 288–295",
+              "text": "288. What is Baptism?\n\nBaptism is a Sacrament, in which a man who believes, having his body thrice plunged in water in the name of God the Father, the Son, and the Holy Ghost, dies to the carnal life of sin, and is born again of the Holy Ghost to a life spiritual and holy. Except a, man be born of water and, of the Spirit, he can not enter into the kingdom of God. John iii. 5.\n\n289. When and how began Baptism?\n\nFirst, John baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus. Acts xix. 4. Afterwards, Jesus Christ, by his own example, sanctified Baptism, when he received it from John. Lastly, after his resurrection, he gave the Apostles this solemn commandment: Go ye and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost. Matt. xxviii. 19.\n\n290. What is most essential in the administration of Baptism?\n\nTrine immersion in water, in the name of the Father, and of the Son, and of the Holy Ghost.\n\n291. What is required of him that seeks to be baptized?\n\nRepentance and faith; for which cause, also, before Baptism the? recite the Creed. Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost. Acts ii. 38. He that believeth and is baptized shall be saved. Mark xvi. 16.\n\n292. But why, then, are children baptized?\n\nFor the faith of their parents and sponsors, who are also bound to teach them the faith so soon as they are of sufficient age to learn.\n\n293. How can you show from holy Scripture that we ought to baptize infants?\n\nIn the time of the Old Testament, infants were circumcised when eight days old; but Baptism in the New Testament takes the place of circumcision; consequently infants should also be baptized.\n\n294. Whence does it appear that Baptism takes the place of circumcision?\n\nFrom the following words of the Apostle to believers: Ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh, by the circumcision of Christ, buried with him in Baptism. Coloss. ii. 11, 12.\n\n295. Why are there sponsors at Baptism?\n\nIn order that they may stand sureties before the Church for the faith of the baptized, and after Baptism may take him in charge, to confirm him in the faith. (See Dion. Areop. on the Eccl. Hier. cap. ii.)",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: the New Covenant and baptism",
+              "sourceId": "rq-piper-baptism",
+              "locator": "Section 5, first two paragraphs",
+              "text": "Because the New Covenant members are not defined by physical descent, as the old covenant members were, but by God’s writing his law on their heart and calling them to himself and bringing them to repentance and faith. In accord with this narrowing of the covenant people to those who are truly born of God, the new sign of the covenant is meant to signify that a person is indeed part of that newborn covenant community, which is evident by faith.",
+              "evidenceFile": "evidence/history/piper-baptism.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Infant Baptism and the New Covenant Community",
+              "sourceId": "rq-piper-baptism",
+              "locator": "Complete article",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "John of Damascus: faith and baptism",
+              "sourceId": "hq-damascene-baptism",
+              "locator": "Book IV, chapter IX",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Acts 2:38",
+              "translation": "KJV (public domain)",
+              "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+              "sourceId": "hq-ebible-acts2",
+              "locator": "Acts 2:38",
+              "evidenceFile": "evidence/history/ebible-acts2.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-eucharist",
+          "title": "The Eucharist",
+          "tags": [
+            "Eucharist",
+            "Lord's Supper",
+            "PCA",
+            "Piper",
+            "real presence"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 29",
+              "text": "Our Lord Jesus, in the night wherein he was betrayed, instituted the sacrament of his body and blood, called the Lord’s Supper, to be observed in his church, unto the end of the world, for the perpetual remembrance of the sacrifice of himself in his death; the sealing all benefits thereof unto true believers, their spiritual nourishment and growth in him, their further engagement in and to all duties which they owe unto him; and, to be a bond and pledge of their communion with him, and with each other, as members of his mystical body.\n\nIn this sacrament, Christ is not offered up to his Father; nor any real sacrifice made at all, for remission of sins of the quick or dead; but only a commemoration of that one offering up of himself, by himself, upon the cross, once for all: and a spiritual oblation of all possible praise unto God, for the same: so that the popish sacrifice of the Mass (as they call it) is most abominably injurious to Christ’s one, only sacrifice, the alone propitiation for all the sins of his elect.\n\nThe Lord Jesus hath, in this ordinance, appointed his ministers to declare his word of institution to the people; to pray, and bless the elements of bread and wine, and thereby to set them apart from a common to an holy use; and to take and break the bread, to take the cup, and (they communicating also themselves) to give both to the communicants; but to none who are not then present in the congregation.\n\nPrivate Masses, or receiving this sacrament by a priest, or any other, alone; as likewise, the denial of the cup to the people, worshiping the elements, the lifting them up, or carrying them about, for adoration, and the reserving them for any pretended religious use; are all contrary to the nature of this sacrament, and to the institution of Christ.\n\nThe outward elements in this sacrament, duly set apart to the uses ordained by Christ, have such relation to him crucified, as that, truly, yet sacramentally only, they are sometimes called by the name of the things they represent, to wit, the body and blood of Christ; albeit, in substance and nature, they still remain truly and only bread and wine, as they were before.\n\nThat doctrine which maintains a change of the substance of bread and wine, into the substance of Christ’s body and blood (commonly called transubstantiation) by consecration of a priest, or by any other way, is repugnant, not to Scripture alone, but even to common sense, and reason; overthroweth the nature of the sacrament, and hath been, and is, the cause of manifold superstitions; yea, of gross idolatries.\n\nWorthy receivers, outwardly partaking of the visible elements, in this sacrament, do then also, inwardly by faith, really and indeed, yet not carnally and corporally, but spiritually, receive, and feed upon, Christ crucified, and all benefits of his death: the body and blood of Christ being then, not corporally or carnally, in, with, or under the bread and wine; yet, as really, but spiritually, present to the faith of believers in that ordinance, as the elements themselves are to their outward senses.\n\nAlthough ignorant and wicked men receive the outward elements in this sacrament; yet, they receive not the thing signified thereby; but, by their unworthy coming thereunto, are guilty of the body and blood of the Lord, to their own damnation. Wherefore, all ignorant and ungodly persons, as they are unfit to enjoy communion with him, so are they unworthy of the Lord’s table; and cannot, without great sin against Christ, while they remain such, partake of these holy mysteries, or be admitted thereunto.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: the Eucharist",
+              "sourceId": "hq-damascene-eucharist",
+              "locator": "Book IV, chapter XIII",
+              "text": "The bread and the wine are not merely figures of the body and blood of Christ (God forbid!) but the deified body of the Lord itself: for the Lord has said, “This is My body,” not, this is a figure of My body: and “My blood,” not, a figure of My blood. And on a previous occasion He had said to the Jews, Except ye eat the flesh of the Son of Man and drink His blood, ye have no life in you. For My flesh is meat indeed and My blood is drink indeed. And again, He that eateth Me, shall live.",
+              "evidenceFile": "evidence/history/damascene-eucharist.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: communion",
+              "sourceId": "hq-damascene-eucharist",
+              "locator": "Book IV, chapter XIII",
+              "text": "Participation is spoken of; for through it we partake of the divinity of Jesus. Communion, too, is spoken of, and it is an actual communion, because through it we have communion with Christ and share in His flesh and His divinity: yea, we have communion and are united with one another through it. For since we partake of one bread, we all become one body of Christ and one blood, and members one of another, being of one body with Christ.",
+              "evidenceFile": "evidence/history/damascene-eucharist.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: participation in the Supper",
+              "sourceId": "rq-piper-eucharist",
+              "locator": "“The Spiritual Action of the Lord’s Supper”",
+              "text": "So I take verses 16 and 17 to mean that when believers eat the bread and drink the cup physically we do another kind of eating and drinking spiritually. We eat and drink—that is, we take into our lives—what happened on the cross. By faith—by trusting in all that God is for us in Jesus—we nourish ourselves with the benefits that Jesus obtained for us when he bled and died on the cross.",
+              "evidenceFile": "evidence/history/piper-eucharist.txt"
+            },
+            {
+              "kind": "link",
+              "title": "Why and How We Celebrate the Lord’s Supper",
+              "sourceId": "rq-piper-eucharist",
+              "locator": "Complete sermon",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "John of Damascus: the Eucharist",
+              "sourceId": "hq-damascene-eucharist",
+              "locator": "Complete chapter XIII",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "1 Corinthians 11:24",
+              "translation": "KJV (public domain)",
+              "text": "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.",
+              "sourceId": "hq-ebible-1corinthians11",
+              "locator": "1 Corinthians 11:24",
+              "evidenceFile": "evidence/history/ebible-1corinthians11.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-images-saints",
+          "title": "Images, saints, and Mary",
+          "tags": [
+            "icons",
+            "Mary",
+            "saints",
+            "second commandment",
+            "mediation"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster: images",
+              "sourceId": "rq-wlc",
+              "locator": "Questions 109–109",
+              "text": "109. What are the sins forbidden in the second commandment? A. The sins forbidden in the second commandment are, all devising, counselling, commanding, using, and anywise approving, any religious worship not instituted by God himself; the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever; all worshipping of it, or God in it or by it; the making of any representation of feigned deities, and all worship of them, or service belonging to them, all superstitious devices, corrupting the worship of God, adding to it, or taking from it, whether invented and taken up of ourselves, or received by tradition from others, though under the title of antiquity, custom, devotion, good intent, or any other pretence whatsoever; simony; sacrilege; all neglect, contempt, hindering, and opposing the worship and ordinances which God hath appointed.",
+              "evidenceFile": "evidence/history/wlc.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Westminster Confession of Faith",
+              "sourceId": "rq-wcf",
+              "locator": "Chapter 21.2",
+              "text": "Religious worship is to be given to God, the Father, Son, and Holy Ghost; and to him alone; not to angels, saints, or any other creature: and, since the fall, not without a Mediator; nor in the mediation of any other but of Christ alone.",
+              "evidenceFile": "evidence/history/wcf.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "John of Damascus: images and the Incarnation",
+              "sourceId": "hq-damascene-icons",
+              "locator": "Book IV, chapter XVI",
+              "text": "But besides this who can make an imitation of the invisible, incorporeal, uncircumscribed, formless God? Therefore to give form to the Deity is the height of folly and impiety. And hence it is that in the Old Testament the use of images was not common. But after God in His bowels of pity became in truth man for our salvation, not as He was seen by Abraham in the semblance of a man, nor as He was seen by the prophets, but in being truly man, and after He lived upon the earth and dwelt among men, worked miracles, suffered, was crucified, rose again and was taken back to Heaven, since all these things actually took place and were seen by men, they were written for the remembrance and instruction of us who were not alive at that time in order that though we saw not, we may still, hearing and believing, obtain the blessing of the Lord.",
+              "evidenceFile": "evidence/history/damascene-icons.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Piper: images of the incarnate Christ",
+              "sourceId": "rq-piper-images",
+              "locator": "February 4, 2004 panel; second-commandment discussion",
+              "text": "In other words, I don’t think the commandment says you shouldn’t look on the face of Christ, because otherwise all the people who heard him say, “If you’ve seen me, you’ve seen the Father” (John 14:9), would be breaking the second commandment. Therefore, the incarnation, to me, is the legitimization of drawing pictures of Jesus or making a movie with Jesus. I wouldn’t favor drawing pictures of God the Father. If you’re going to draw a picture of the Holy Spirit, it should be a dove.",
+              "evidenceFile": "evidence/history/piper-images.txt"
+            },
+            {
+              "kind": "link",
+              "title": "John of Damascus: saints and intercession",
+              "sourceId": "hq-damascene-saints",
+              "locator": "Book IV, chapter XV",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "John of Damascus: Theotokos",
+              "sourceId": "hq-damascene-mary",
+              "locator": "Book III, chapter XII",
+              "text": ""
+            },
+            {
+              "kind": "link",
+              "title": "Piper: images discussion",
+              "sourceId": "rq-piper-images",
+              "locator": "Read the complete answer in the panel transcript",
+              "text": ""
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "Colossians 1:15",
+              "translation": "KJV (public domain)",
+              "text": "Who is the image of the invisible God, the firstborn of every creature:",
+              "sourceId": "hq-ebible-colossians1",
+              "locator": "Colossians 1:15",
+              "evidenceFile": "evidence/history/ebible-colossians1.txt"
+            }
+          ]
+        },
+        {
+          "id": "r-family-conversations",
+          "title": "Speech and disagreement",
+          "tags": [
+            "marriage",
+            "conversation",
+            "patience",
+            "apologetics",
+            "family"
+          ],
+          "readings": [
+            {
+              "kind": "quotation",
+              "title": "Westminster: truthful speech",
+              "sourceId": "rq-wlc",
+              "locator": "Questions 144–144",
+              "text": "144. What are the duties required in the ninth commandment? A. The duties required in the ninth commandment are, the preserving and promoting of truth between man and man, and the good name of our neighbor, as well as our own; appearing and standing for the truth; and from the heart, sincerely, freely, clearly, and fully, speaking the truth, and only the truth, in matters of judgment and justice, and in all other things whatsoever; a charitable esteem of our neighbors; loving, desiring, and rejoicing in their good name; sorrowing for, and covering of their infirmities; freely acknowledging of their gifts and graces, defending their innocency; a ready receiving of a good report, and unwillingness to admit of an evil report, concerning them; discouraging tale-bearers, flatterers, and slanderers; love and care of our own good name, and defending it when need requireth; keeping of lawful promises; studying and practicing of whatsoever things are true, honest, lovely, and of good report.",
+              "evidenceFile": "evidence/history/wlc.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: peacemaking",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 471–474",
+              "text": "471. What is the Lord's seventh precept for blessedness?\n\nThey who would be blessed must be peace-makers.\n\n472. How are we to fulfill this commandment?\n\nWe must live friendly with all men, and give no occasion for disagreement: if any arise, we must try all possible ways to put a stop to it, even by yielding our own right, unless this be against duty, or hurtful to any other: if others are at enmity, we must do all we can to reconcile them; and if we fail, we must pray to God for their reconciliation.\n\n473. What does the Lord promise to peace-makers?\n\nThat they shall be called the Sons of God.\n\n474. What is signified by this promise?\n\nThe sublimity both of their office and of their reward. Since in what they do they imitate the only-begotten Son of God, who came upon earth to reconcile fallen man with God's justice, they are for this promised the gracious name of Sons of God, and without doubt a degree of blessedness answering thereto.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            },
+            {
+              "kind": "quotation",
+              "title": "Philaret: false witness and speech",
+              "sourceId": "hq-philaret",
+              "locator": "Questions 597–601",
+              "text": "597. What is forbidden by the ninth commandment?\n\nFalse witness against our neighbor, and all lying.\n\n598. What is forbidden under the words false witness?\n\n1. False witness in a court of justice; when men bear witness, inform, or complain falsely against any one.\n\n2. False witness out of court, when men slander any one behind his back, or blame him to his face unjustly.\n\n599. But is it allowable to censure others when they are really to blame?\n\nNo; the Gospel does not allow us to judge even of the real vices or faults of our neighbors, unless we are called by any special office to do so, for their punishment or amendment.\n\nJudge not, that ye be not judged. Matt. vii. 1.\n\n600. Are not such lies allowable as involve no purpose of hurting our neighbor?\n\nNo; for they are inconsistent with love and respect for our neighbor, and unworthy of a man, much more of a Christian, who has been created for truth and love.\n\nWherefore putting away lying, speak every man truth with his neighbor; for we are members one of another. Eph. iv. 25.\n\n601. If we would avoid sins against the ninth commandment, what rule must we follow?\n\nWe must bridle our tongue. He that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak, no guile. 1 Pet. iii. 10. If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain. James i. 26.",
+              "evidenceFile": "evidence/history/philaret.txt"
+            }
+          ],
+          "scripture": [
+            {
+              "reference": "James 1:19",
+              "translation": "KJV (public domain)",
+              "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+              "sourceId": "hq-ebible-james1",
+              "locator": "James 1:19",
+              "evidenceFile": "evidence/history/ebible-james1.txt"
+            },
+            {
+              "reference": "Ephesians 4:29",
+              "translation": "KJV (public domain)",
+              "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+              "sourceId": "hq-ebible-ephesians4",
+              "locator": "Ephesians 4:29",
+              "evidenceFile": "evidence/history/ebible-ephesians4.txt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "hq-ignatius-original",
+      "title": "Epistle to the Smyrnaeans, shorter recension",
+      "url": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Smyrnaeans:_Shorter_and_Longer_Versions",
+      "author": "Ignatius of Antioch",
+      "work": "Epistle to the Smyrnaeans, shorter recension",
+      "edition": "Ante-Nicene Fathers, vol. I (1885)",
+      "translator": "Alexander Roberts and James Donaldson",
+      "year": "1885",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Smyrnaeans:_Shorter_and_Longer_Versions",
+      "rightsNote": "The 1885 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-irenaeus-original",
+      "title": "Against Heresies, Book III",
+      "url": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/IRENAEUS/Against_Heresies:_Book_III",
+      "author": "Irenaeus of Lyons",
+      "work": "Against Heresies, Book III",
+      "edition": "Ante-Nicene Fathers, vol. I (1885)",
+      "translator": "Alexander Roberts and William Rambaut",
+      "year": "1885",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/IRENAEUS/Against_Heresies:_Book_III",
+      "rightsNote": "The 1885 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-polycarp-original",
+      "title": "The Martyrdom of Polycarp",
+      "url": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/The_Martyrdom_of_Polycarp",
+      "author": "Church of Smyrna",
+      "work": "The Martyrdom of Polycarp",
+      "edition": "Ante-Nicene Fathers, vol. I (1885)",
+      "translator": "Alexander Roberts and James Donaldson",
+      "year": "1885",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/The_Martyrdom_of_Polycarp",
+      "rightsNote": "The 1885 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-athanasius-54",
+      "title": "On the Incarnation of the Word, §54",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Incarnation_of_the_Word/On_the_Incarnation_of_the_Word/Chapter_54",
+      "author": "Athanasius of Alexandria",
+      "work": "On the Incarnation of the Word, §54",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IV (1892)",
+      "translator": "Archibald Robertson",
+      "year": "1892",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Incarnation_of_the_Word/On_the_Incarnation_of_the_Word/Chapter_54",
+      "rightsNote": "The 1892 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-basil-original",
+      "title": "On the Holy Spirit, chapter 27",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VIII/De_Spiritu_Sancto/Chapter_27",
+      "author": "Basil of Caesarea",
+      "work": "On the Holy Spirit, chapter 27",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. VIII (1895)",
+      "translator": "Blomfield Jackson",
+      "year": "1895",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VIII/De_Spiritu_Sancto/Chapter_27",
+      "rightsNote": "The 1895 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-damascene-saints",
+      "title": "An Exact Exposition of the Orthodox Faith, IV.15",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_15",
+      "author": "John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, IV.15",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IX (1899)",
+      "translator": "S. D. F. Salmond",
+      "year": "1899",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_15",
+      "rightsNote": "The 1899 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-damascene-icons",
+      "title": "An Exact Exposition of the Orthodox Faith, IV.16",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_16",
+      "author": "John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, IV.16",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IX (1899)",
+      "translator": "S. D. F. Salmond",
+      "year": "1899",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_16",
+      "rightsNote": "The 1899 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-damascene-eucharist",
+      "title": "An Exact Exposition of the Orthodox Faith, IV.13",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_13",
+      "author": "John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, IV.13",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IX (1899)",
+      "translator": "S. D. F. Salmond",
+      "year": "1899",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_13",
+      "rightsNote": "The 1899 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-damascene-baptism",
+      "title": "An Exact Exposition of the Orthodox Faith, IV.9",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_9",
+      "author": "John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, IV.9",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IX (1899)",
+      "translator": "S. D. F. Salmond",
+      "year": "1899",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_IV/Chapter_9",
+      "rightsNote": "The 1899 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-damascene-freedom",
+      "title": "An Exact Exposition of the Orthodox Faith, II.30",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_II/Chapter_30",
+      "author": "John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, II.30",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IX (1899)",
+      "translator": "S. D. F. Salmond",
+      "year": "1899",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_II/Chapter_30",
+      "rightsNote": "The 1899 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-damascene-mary",
+      "title": "An Exact Exposition of the Orthodox Faith, III.12",
+      "url": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_III/Chapter_12",
+      "author": "John of Damascus",
+      "work": "An Exact Exposition of the Orthodox Faith, III.12",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IX (1899)",
+      "translator": "S. D. F. Salmond",
+      "year": "1899",
+      "tradition": "Orthodox",
+      "type": "Primary text",
+      "rights": "Public domain",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith/Book_III/Chapter_12",
+      "rightsNote": "The 1899 English translation is public domain in the United States. Historical transcription; inline reference markers are excluded from the extracted reading text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-philaret",
+      "title": "The Longer Catechism of the Orthodox, Catholic, Eastern Church",
+      "url": "https://www.pravoslavieto.com/docs/eng/Orthodox_Catechism_of_Philaret.htm",
+      "author": "Philaret (Drozdov), Metropolitan of Moscow",
+      "work": "The Longer Catechism of the Orthodox, Catholic, Eastern Church",
+      "edition": "English translation published in The Doctrine of the Russian Church, Aberdeen, 1845; numbered questions in the posted transcription",
+      "translator": "R. W. Blackmore",
+      "year": "1845",
+      "tradition": "Orthodox",
+      "type": "Orthodox catechism",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pravoslavieto.com/docs/eng/Orthodox_Catechism_of_Philaret.htm",
+      "rightsNote": "The source identifies the English translation as the 1845 Blackmore edition. That historical translation is public domain in the United States; no modern explanatory prose is reproduced.",
+      "attribution": ""
+    },
+    {
+      "id": "rq-wcf",
+      "title": "Westminster Confession of Faith",
+      "url": "https://www.pcaac.org/bco/westminster-confession/westminster-confession-of-faith/",
+      "author": "Westminster Assembly; American Presbyterian revisions",
+      "work": "Westminster Confession of Faith",
+      "edition": "Historical confession (1647), with American revisions; text posted by the PCA Administrative Committee",
+      "translator": "",
+      "year": "1647 / 1788",
+      "tradition": "PCA / Westminster",
+      "type": "Confessional standard",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/westminster-confession-of-faith/",
+      "rightsNote": "Historical public-domain confessional text. The linked official PCA page identifies the posted version; modern site navigation and commentary are not included.",
+      "attribution": ""
+    },
+    {
+      "id": "rq-wlc",
+      "title": "Westminster Larger Catechism",
+      "url": "https://www.pcaac.org/bco/westminster-confession/westminster-larger-catechism/",
+      "author": "Westminster Assembly",
+      "work": "Westminster Larger Catechism",
+      "edition": "Historical catechism (1647); text posted by the PCA Administrative Committee",
+      "translator": "",
+      "year": "1647",
+      "tradition": "PCA / Westminster",
+      "type": "Confessional standard",
+      "rights": "Public domain",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/westminster-larger-catechism/",
+      "rightsNote": "Historical public-domain catechism text; the linked official PCA page is used for the wording.",
+      "attribution": ""
+    },
+    {
+      "id": "rq-pca-standards",
+      "title": "Westminster Confession and Catechisms: PCA constitutional statement",
+      "url": "https://www.pcaac.org/bco/westminster-confession/",
+      "author": "PCA Administrative Committee",
+      "work": "Westminster Confession and Catechisms: PCA constitutional statement",
+      "edition": "Official website",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "PCA / Westminster",
+      "type": "Official constitutional information",
+      "rights": "Linked reading",
+      "rightsUrl": "https://www.pcaac.org/bco/westminster-confession/",
+      "rightsNote": "Link only; no modern explanatory paragraph is reproduced.",
+      "attribution": ""
+    },
+    {
+      "id": "rq-piper-baptism",
+      "title": "Infant Baptism and the New Covenant Community",
+      "url": "https://www.desiringgod.org/articles/infant-baptism-and-the-new-covenant-community",
+      "author": "John Piper",
+      "work": "Infant Baptism and the New Covenant Community",
+      "edition": "February 14, 1993; published article or transcript",
+      "translator": "",
+      "year": "1993",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "rq-piper-images",
+      "title": "Questions and Answers: images of Jesus discussion",
+      "url": "https://www.desiringgod.org/interviews/questions-and-answers",
+      "author": "John Piper",
+      "work": "Questions and Answers: images of Jesus discussion",
+      "edition": "February 4, 2004; published article or transcript",
+      "translator": "",
+      "year": "2004",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "rq-piper-faith",
+      "title": "Will We Be Finally “Saved” by Faith Alone?",
+      "url": "https://www.desiringgod.org/interviews/will-we-be-finally-saved-by-faith-alone",
+      "author": "John Piper",
+      "work": "Will We Be Finally “Saved” by Faith Alone?",
+      "edition": "March 2, 2018; published article or transcript",
+      "translator": "",
+      "year": "2018",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "rq-piper-election",
+      "title": "Unconditional Election and the Invincible Purpose of God",
+      "url": "https://www.desiringgod.org/messages/unconditional-election-and-the-invincible-purpose-of-god",
+      "author": "John Piper",
+      "work": "Unconditional Election and the Invincible Purpose of God",
+      "edition": "December 15, 2002; published article or transcript",
+      "translator": "",
+      "year": "2002",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "rq-piper-security",
+      "title": "Certain and Conditional: More on Eternal Security",
+      "url": "https://www.desiringgod.org/interviews/certain-and-conditional-more-on-eternal-security",
+      "author": "John Piper",
+      "work": "Certain and Conditional: More on Eternal Security",
+      "edition": "April 21, 2014; published article or transcript",
+      "translator": "",
+      "year": "2014",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "rq-piper-eucharist",
+      "title": "Why and How We Celebrate the Lord’s Supper",
+      "url": "https://www.desiringgod.org/messages/why-and-how-we-celebrate-the-lords-supper",
+      "author": "John Piper",
+      "work": "Why and How We Celebrate the Lord’s Supper",
+      "edition": "August 13, 2006; published article or transcript",
+      "translator": "",
+      "year": "2006",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "rq-piper-bible",
+      "title": "Why We Believe the Bible, Session 3",
+      "url": "https://www.desiringgod.org/messages/why-we-believe-the-bible-session-3",
+      "author": "John Piper",
+      "work": "Why We Believe the Bible, Session 3",
+      "edition": "February 16, 2008; published article or transcript",
+      "translator": "",
+      "year": "2008",
+      "tradition": "John Piper",
+      "type": "Author’s article or transcript",
+      "rights": "Licensed noncommercial excerpts",
+      "rightsUrl": "https://www.desiringgod.org/permissions",
+      "rightsNote": "Desiring God permits quotations and excerpts from John Piper’s resources for personal or noncommercial use, but not reproduction of an entire work. This app is local and noncommercial.",
+      "attribution": "By John Piper. © Desiring God Foundation. Source: desiringGod.org"
+    },
+    {
+      "id": "hq-schism",
+      "title": "The Great Schism",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/eleventh-century/the-great-schism",
+      "author": "Orthodox Church in America",
+      "work": "The Great Schism",
+      "edition": "Official online edition",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "Orthodox",
+      "type": "Church history",
+      "rights": "Copyrighted; brief quotation or linked reading",
+      "rightsUrl": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/eleventh-century/the-great-schism",
+      "rightsNote": "The page carries the OCA copyright notice. No more than 25 words are quoted from this page; the full reading remains at the source. A saint’s life is identified as the published hagiographic account, not an independently reconstructed biography.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-mary-egypt",
+      "title": "Venerable Mary of Egypt",
+      "url": "https://www.oca.org/saints/lives/2026/04/01/100963-venerable-mary-of-egypt",
+      "author": "Orthodox Church in America",
+      "work": "Venerable Mary of Egypt",
+      "edition": "Official online edition",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "Orthodox",
+      "type": "Published saint’s life",
+      "rights": "Copyrighted; brief quotation or linked reading",
+      "rightsUrl": "https://www.oca.org/saints/lives/2026/04/01/100963-venerable-mary-of-egypt",
+      "rightsNote": "The page carries the OCA copyright notice. No more than 25 words are quoted from this page; the full reading remains at the source. A saint’s life is identified as the published hagiographic account, not an independently reconstructed biography.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-seraphim",
+      "title": "Repose of Venerable Seraphim, Wonderworker of Sarov",
+      "url": "https://www.oca.org/saints/lives/2026/01/02/100008-repose-of-venerable-seraphim-wonderworker-of-sarov",
+      "author": "Orthodox Church in America",
+      "work": "Repose of Venerable Seraphim, Wonderworker of Sarov",
+      "edition": "Official online edition",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "Orthodox",
+      "type": "Published saint’s life",
+      "rights": "Copyrighted; brief quotation or linked reading",
+      "rightsUrl": "https://www.oca.org/saints/lives/2026/01/02/100008-repose-of-venerable-seraphim-wonderworker-of-sarov",
+      "rightsNote": "The page carries the OCA copyright notice. No more than 25 words are quoted from this page; the full reading remains at the source. A saint’s life is identified as the published hagiographic account, not an independently reconstructed biography.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-herman",
+      "title": "Glorification of Venerable Herman of Alaska",
+      "url": "https://www.oca.org/saints/lives/2016/08/09/102241-glorification-of-venerable-herman-of-alaska-wonderworker-of-all",
+      "author": "Orthodox Church in America",
+      "work": "Glorification of Venerable Herman of Alaska",
+      "edition": "Official online edition",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "Orthodox",
+      "type": "Published saint’s life",
+      "rights": "Copyrighted; brief quotation or linked reading",
+      "rightsUrl": "https://www.oca.org/saints/lives/2016/08/09/102241-glorification-of-venerable-herman-of-alaska-wonderworker-of-all",
+      "rightsNote": "The page carries the OCA copyright notice. No more than 25 words are quoted from this page; the full reading remains at the source. A saint’s life is identified as the published hagiographic account, not an independently reconstructed biography.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-john-shanghai",
+      "title": "Saint John Maximovitch, Archbishop of Shanghai and San Francisco",
+      "url": "https://www.oca.org/saints/lives/2026/07/02/206392-saint-john-maximovitch-archbishop-of-shanghai-and-san-francisco",
+      "author": "Orthodox Church in America",
+      "work": "Saint John Maximovitch, Archbishop of Shanghai and San Francisco",
+      "edition": "Official online edition",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "Orthodox",
+      "type": "Published saint’s life",
+      "rights": "Copyrighted; brief quotation or linked reading",
+      "rightsUrl": "https://www.oca.org/saints/lives/2026/07/02/206392-saint-john-maximovitch-archbishop-of-shanghai-and-san-francisco",
+      "rightsNote": "The page carries the OCA copyright notice. No more than 25 words are quoted from this page; the full reading remains at the source. A saint’s life is identified as the published hagiographic account, not an independently reconstructed biography.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-olga",
+      "title": "Righteous Mother Olga of Kwethluk",
+      "url": "https://www.oca.org/saints/lives/2026/10/27/100561-righteous-mother-olga-of-kwethluktanqilria-arrsamquqwonderworker",
+      "author": "Orthodox Church in America",
+      "work": "Righteous Mother Olga of Kwethluk",
+      "edition": "Official online edition",
+      "translator": "",
+      "year": "n.d.",
+      "tradition": "Orthodox",
+      "type": "Published saint’s life",
+      "rights": "Copyrighted; brief quotation or linked reading",
+      "rightsUrl": "https://www.oca.org/saints/lives/2026/10/27/100561-righteous-mother-olga-of-kwethluktanqilria-arrsamquqwonderworker",
+      "rightsNote": "The page carries the OCA copyright notice. No more than 25 words are quoted from this page; the full reading remains at the source. A saint’s life is identified as the published hagiographic account, not an independently reconstructed biography.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-rocor-act",
+      "title": "Act of Canonical Communion",
+      "url": "https://orthodox-europe.org/english/rocor/act/",
+      "author": "Russian Orthodox Church Outside of Russia and Moscow Patriarchate",
+      "work": "Act of Canonical Communion",
+      "edition": "2007 Act as published by the ROCOR Diocese of Great Britain and Western Europe",
+      "translator": "",
+      "year": "2007",
+      "tradition": "Orthodox",
+      "type": "Ecclesiastical act",
+      "rights": "Copyrighted; brief quotation and linked reading",
+      "rightsUrl": "https://orthodox-europe.org/english/rocor/act/",
+      "rightsNote": "Brief quotation from the Act; the whole document is linked. The Act is a dated primary document, not a complete description of all later communion relationships.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ephesus",
+      "title": "The Third Ecumenical Council: conciliar texts",
+      "url": "https://www.newadvent.org/fathers/3810.htm",
+      "author": "Council of Ephesus",
+      "work": "The Third Ecumenical Council: conciliar texts",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. XIV",
+      "translator": "Henry R. Percival, editor",
+      "year": "1900",
+      "tradition": "Orthodox",
+      "type": "Council texts",
+      "rights": "Linked reading",
+      "rightsUrl": "https://www.newadvent.org/fathers/3810.htm",
+      "rightsNote": "Linked complete council documents. No modern website editorial text is reproduced.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-nicaea2",
+      "title": "Second Council of Nicaea: conciliar texts",
+      "url": "https://www.newadvent.org/fathers/3819.htm",
+      "author": "Second Council of Nicaea",
+      "work": "Second Council of Nicaea: conciliar texts",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. XIV",
+      "translator": "Henry R. Percival, editor",
+      "year": "1900",
+      "tradition": "Orthodox",
+      "type": "Council texts",
+      "rights": "Linked reading",
+      "rightsUrl": "https://www.newadvent.org/fathers/3819.htm",
+      "rightsNote": "Linked council definition and proceedings. No modern website editorial text is reproduced.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-festal",
+      "title": "Festal Letter 39",
+      "url": "https://www.newadvent.org/fathers/2806039.htm",
+      "author": "Athanasius of Alexandria",
+      "work": "Festal Letter 39",
+      "edition": "Nicene and Post-Nicene Fathers, second series, vol. IV",
+      "translator": "R. Payne-Smith",
+      "year": "1892",
+      "tradition": "Orthodox",
+      "type": "Patristic letter",
+      "rights": "Linked reading",
+      "rightsUrl": "https://www.newadvent.org/fathers/2806039.htm",
+      "rightsNote": "The full historical letter is linked for its context; no modern website editorial text is reproduced.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-acts2",
+      "title": "Acts 2",
+      "url": "https://ebible.org/eng-kjv/ACT02.htm",
+      "author": "King James Bible translators",
+      "work": "Acts 2",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-acts15",
+      "title": "Acts 15",
+      "url": "https://ebible.org/eng-kjv/ACT15.htm",
+      "author": "King James Bible translators",
+      "work": "Acts 15",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-john17",
+      "title": "John 17",
+      "url": "https://ebible.org/eng-kjv/JHN17.htm",
+      "author": "King James Bible translators",
+      "work": "John 17",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-ephesians4",
+      "title": "Ephesians 4",
+      "url": "https://ebible.org/eng-kjv/EPH04.htm",
+      "author": "King James Bible translators",
+      "work": "Ephesians 4",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-matthew5",
+      "title": "Matthew 5",
+      "url": "https://ebible.org/eng-kjv/MAT05.htm",
+      "author": "King James Bible translators",
+      "work": "Matthew 5",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-john1",
+      "title": "John 1",
+      "url": "https://ebible.org/eng-kjv/JHN01.htm",
+      "author": "King James Bible translators",
+      "work": "John 1",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-luke1",
+      "title": "Luke 1",
+      "url": "https://ebible.org/eng-kjv/LUK01.htm",
+      "author": "King James Bible translators",
+      "work": "Luke 1",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-colossians1",
+      "title": "Colossians 1",
+      "url": "https://ebible.org/eng-kjv/COL01.htm",
+      "author": "King James Bible translators",
+      "work": "Colossians 1",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-hebrews12",
+      "title": "Hebrews 12",
+      "url": "https://ebible.org/eng-kjv/HEB12.htm",
+      "author": "King James Bible translators",
+      "work": "Hebrews 12",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-2kings13",
+      "title": "2 Kings 13",
+      "url": "https://ebible.org/eng-kjv/2KI13.htm",
+      "author": "King James Bible translators",
+      "work": "2 Kings 13",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-2thessalonians2",
+      "title": "2 Thessalonians 2",
+      "url": "https://ebible.org/eng-kjv/2TH02.htm",
+      "author": "King James Bible translators",
+      "work": "2 Thessalonians 2",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-2timothy3",
+      "title": "2 Timothy 3",
+      "url": "https://ebible.org/eng-kjv/2TI03.htm",
+      "author": "King James Bible translators",
+      "work": "2 Timothy 3",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-romans3",
+      "title": "Romans 3",
+      "url": "https://ebible.org/eng-kjv/ROM03.htm",
+      "author": "King James Bible translators",
+      "work": "Romans 3",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-ephesians2",
+      "title": "Ephesians 2",
+      "url": "https://ebible.org/eng-kjv/EPH02.htm",
+      "author": "King James Bible translators",
+      "work": "Ephesians 2",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-romans8",
+      "title": "Romans 8",
+      "url": "https://ebible.org/eng-kjv/ROM08.htm",
+      "author": "King James Bible translators",
+      "work": "Romans 8",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-1john5",
+      "title": "1 John 5",
+      "url": "https://ebible.org/eng-kjv/1JN05.htm",
+      "author": "King James Bible translators",
+      "work": "1 John 5",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-1corinthians11",
+      "title": "1 Corinthians 11",
+      "url": "https://ebible.org/eng-kjv/1CO11.htm",
+      "author": "King James Bible translators",
+      "work": "1 Corinthians 11",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    },
+    {
+      "id": "hq-ebible-james1",
+      "title": "James 1",
+      "url": "https://ebible.org/eng-kjv/JAS01.htm",
+      "author": "King James Bible translators",
+      "work": "James 1",
+      "edition": "King James Version; eBible.org transcription",
+      "translator": "",
+      "year": "1611 / 1769",
+      "tradition": "Scripture",
+      "type": "Scripture",
+      "rights": "Public domain",
+      "rightsUrl": "https://ebible.org/eng-kjv/copyright.htm",
+      "rightsNote": "eBible states that this KJV text may be copied freely. The translation and verse reference identify the quoted text.",
+      "attribution": ""
+    }
+  ]
+}

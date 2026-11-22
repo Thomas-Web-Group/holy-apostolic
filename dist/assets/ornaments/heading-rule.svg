@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 34" fill="none">
+  <!-- Original decorative interface ornament. -->
+  <g stroke="#a17a36" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 17h128m160 0h128M18 13h94m196 0h94M26 21h76m216 0h76"/>
+    <path d="M128 17c17 0 16-12 30-12 13 0 12 24 26 24 14 0 16-24 26-24s12 24 26 24c14 0 13-24 26-24 14 0 13 12 28 12"/>
+    <path d="M128 17c17 0 16 12 30 12 13 0 12-24 26-24 14 0 16 24 26 24s12-24 26-24c14 0 13 24 26 24 14 0 13-12 28-12"/>
+    <path d="m204 17 6-6 6 6-6 6z" fill="#a17a36"/>
+    <circle cx="2" cy="17" r="1.5" fill="#a17a36"/><circle cx="418" cy="17" r="1.5" fill="#a17a36"/>
+  </g>
+</svg>

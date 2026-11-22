@@ -1,0 +1,5925 @@
+{
+  "schema": 1,
+  "scope": "All 229 lesson-explanation records / 899 app-authored paragraphs. Alias decisions are display-only; quotations, prayers, Scripture, bibliographic titles and saved annotation anchors retain their stored wording.",
+  "matchingRules": [
+    "Prefer longest explicit full name, then exact paragraph override, then source-specific short author/subject alias. Never infer an unknown name from a nearby source list alone.",
+    "Short-name matching is case-sensitive: lowercase mark is a verb, not St. Mark. The same principle excludes ordinary words such as job and grace.",
+    "Source-ID context is not universal when a paragraph compares authors. paragraphAliases records the actual context of the current editorial text.",
+    "Skip existing titled prefixes and avoid double St.; preserve appropriate Theotokos / Mother of God wording instead of prefixing every Mary with St.",
+    "Exclude Bible book-and-number references, King James Version, non-person titles, places and plural peoples. Scripture previews keep ownership of Bible reference markup.",
+    "A bare John, Cyril, Gregory, Martin, Moses, Isaac, Mary or Philip must never be mapped globally across the application.",
+    "Saint profile names themselves may stay in the established UI title style; app-authored prose requires the saintly honorific when referring to a canonized person."
+  ],
+  "fullAliases": [
+    {
+      "alias": "Anastasia the Deliverer from Potions",
+      "saintId": "anastasia-deliverer"
+    },
+    {
+      "alias": "Valentin Felixovich Voyno-Yasenetsky",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Philip the Evangelist and Deacon",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Symeon the Stylite (the Elder)",
+      "saintId": "symeon-stylite"
+    },
+    {
+      "alias": "Righteous Forefather Abraham",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Theodosius of the Kiev Caves",
+      "saintId": "theodosius-caves"
+    },
+    {
+      "alias": "Paraskeve the Virgin Martyr",
+      "saintId": "paraskeva-rome"
+    },
+    {
+      "alias": "Vasily Nikolaevich Muravyev",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "Aaron the Righteous Priest",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "New Martyr Peter the Aleut",
+      "saintId": "peter-aleut"
+    },
+    {
+      "alias": "Olympias of Constantinople",
+      "saintId": "olympias-deaconess"
+    },
+    {
+      "alias": "Anna of the tribe of Aser",
+      "saintId": "anna-prophetess"
+    },
+    {
+      "alias": "Anthony of the Kiev Caves",
+      "saintId": "anthony-caves"
+    },
+    {
+      "alias": "Demetrius of Thessalonica",
+      "saintId": "demetrius"
+    },
+    {
+      "alias": "Juliana the Virgin Martyr",
+      "saintId": "juliana-nicomedia"
+    },
+    {
+      "alias": "Mardarije of Libertyville",
+      "saintId": "mardarije"
+    },
+    {
+      "alias": "Maria Dmitrievna of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Photios of Constantinople",
+      "saintId": "photios"
+    },
+    {
+      "alias": "Righteous Patriarch Isaac",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Righteous Patriarch Jacob",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Schemanun Martha of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Simeon Stylites the Elder",
+      "saintId": "symeon-stylite"
+    },
+    {
+      "alias": "Simeon the New Theologian",
+      "saintId": "symeon-new-theologian"
+    },
+    {
+      "alias": "Symeon the New Theologian",
+      "saintId": "symeon-new-theologian"
+    },
+    {
+      "alias": "Theodosius the Cenobiarch",
+      "saintId": "theodosius-cenobiarch"
+    },
+    {
+      "alias": "Xenia of Saint Petersburg",
+      "saintId": "xenia"
+    },
+    {
+      "alias": "Athanasius of Alexandria",
+      "saintId": "athanasius"
+    },
+    {
+      "alias": "Barbara the Great Martyr",
+      "saintId": "barbara"
+    },
+    {
+      "alias": "Dionysios the Areopagite",
+      "saintId": "dionysius-areopagite"
+    },
+    {
+      "alias": "Dionysius the Areopagite",
+      "saintId": "dionysius-areopagite"
+    },
+    {
+      "alias": "Dovmont-Timothy of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Elizabeth the New Martyr",
+      "saintId": "elizabeth"
+    },
+    {
+      "alias": "Epiphanius of Constantia",
+      "saintId": "epiphanius-cyprus"
+    },
+    {
+      "alias": "Euphrosyne of Alexandria",
+      "saintId": "euphrosyne-alexandria"
+    },
+    {
+      "alias": "George the Trophy-bearer",
+      "saintId": "george"
+    },
+    {
+      "alias": "Solomon the Prophet-King",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Stephen the First Martyr",
+      "saintId": "stephen"
+    },
+    {
+      "alias": "Syncletica of Alexandria",
+      "saintId": "syncletica"
+    },
+    {
+      "alias": "Amphilochius of Iconium",
+      "saintId": "amphilochius-iconium"
+    },
+    {
+      "alias": "Amphilokhios of Iconium",
+      "saintId": "amphilochius-iconium"
+    },
+    {
+      "alias": "Andrew the First-Called",
+      "saintId": "andrew"
+    },
+    {
+      "alias": "Athanasius the Athonite",
+      "saintId": "athanasius-athos"
+    },
+    {
+      "alias": "Bartholomew the Apostle",
+      "saintId": "bartholomew"
+    },
+    {
+      "alias": "Catherine of Alexandria",
+      "saintId": "catherine"
+    },
+    {
+      "alias": "Chrysogonos of Aquileia",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Chrysogonus of Aquileia",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Daniel of the Captivity",
+      "saintId": "daniel-prophet"
+    },
+    {
+      "alias": "Mardary of Libertyville",
+      "saintId": "mardarije"
+    },
+    {
+      "alias": "Marina the Great Martyr",
+      "saintId": "marina-antioch"
+    },
+    {
+      "alias": "Nektarios of Pentapolis",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Simeon the God-receiver",
+      "saintId": "simeon-godreceiver"
+    },
+    {
+      "alias": "Symeon the God-receiver",
+      "saintId": "simeon-godreceiver"
+    },
+    {
+      "alias": "Adam the First-Created",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Alexis of Wilkes-Barre",
+      "saintId": "alexis-wilkes-barre"
+    },
+    {
+      "alias": "Daniel Savvich Tuptalo",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Dorotheos of Palestine",
+      "saintId": "dorotheus-gaza"
+    },
+    {
+      "alias": "Gregory the Theologian",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Ignatius Brianchaninov",
+      "saintId": "ignatius-brianchaninov"
+    },
+    {
+      "alias": "Irene the Great Martyr",
+      "saintId": "irene-great-martyr"
+    },
+    {
+      "alias": "Joseph called Barnabas",
+      "saintId": "barnabas"
+    },
+    {
+      "alias": "Matthew the Evangelist",
+      "saintId": "matthew"
+    },
+    {
+      "alias": "Matthias of the Twelve",
+      "saintId": "matthias"
+    },
+    {
+      "alias": "Mother Maria Skobtsova",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Nino (Nina) of Georgia",
+      "saintId": "nina"
+    },
+    {
+      "alias": "Olympias the Deaconess",
+      "saintId": "olympias-deaconess"
+    },
+    {
+      "alias": "Panteleimon the Healer",
+      "saintId": "panteleimon"
+    },
+    {
+      "alias": "Righteous Priest Aaron",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Silouan of Mount Athos",
+      "saintId": "silouan"
+    },
+    {
+      "alias": "Spyridon of Trimythous",
+      "saintId": "spyridon"
+    },
+    {
+      "alias": "Timothy of the Seventy",
+      "saintId": "timothy"
+    },
+    {
+      "alias": "Aaron the High Priest",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Abraham the Patriarch",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Abraham the Righteous",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Basil Fool-for-Christ",
+      "saintId": "basil-moscow"
+    },
+    {
+      "alias": "Dimitri Brianchaninov",
+      "saintId": "ignatius-brianchaninov"
+    },
+    {
+      "alias": "Epiphanius of Salamis",
+      "saintId": "epiphanius-cyprus"
+    },
+    {
+      "alias": "Eve the First-Created",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Gabriel the Archangel",
+      "saintId": "gabriel-archangel"
+    },
+    {
+      "alias": "Gregory the Dialogist",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "Leo the Great of Rome",
+      "saintId": "leo-rome"
+    },
+    {
+      "alias": "Maximus the Confessor",
+      "saintId": "maximus"
+    },
+    {
+      "alias": "Paulinus the Merciful",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "Philip of the Seventy",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Philip the Evangelist",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Sabbas the Sanctified",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Abraham of Trebizond",
+      "saintId": "athanasius-athos"
+    },
+    {
+      "alias": "Anastasia of Sirmium",
+      "saintId": "anastasia-deliverer"
+    },
+    {
+      "alias": "Barnabas the Apostle",
+      "saintId": "barnabas"
+    },
+    {
+      "alias": "Cainneach of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Epiphanius of Cyprus",
+      "saintId": "epiphanius-cyprus"
+    },
+    {
+      "alias": "Gregory of Nazianzus",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Israel the Patriarch",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Joseph the Betrothed",
+      "saintId": "joseph-betrothed"
+    },
+    {
+      "alias": "Juliana of Nicomedia",
+      "saintId": "juliana-nicomedia"
+    },
+    {
+      "alias": "Matthias the Apostle",
+      "saintId": "matthias"
+    },
+    {
+      "alias": "Paisios Velichkovsky",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Paisius Velichkovsky",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Pelagia the Penitent",
+      "saintId": "pelagia-penitent"
+    },
+    {
+      "alias": "Philip of the Twelve",
+      "saintId": "philip-apostle"
+    },
+    {
+      "alias": "Romanus the Melodist",
+      "saintId": "romanus"
+    },
+    {
+      "alias": "Sebastian of Jackson",
+      "saintId": "sebastian-dabovich"
+    },
+    {
+      "alias": "Theodore Stratelates",
+      "saintId": "theodore-stratelates"
+    },
+    {
+      "alias": "Theodore of Heraclea",
+      "saintId": "theodore-stratelates"
+    },
+    {
+      "alias": "Theodore the General",
+      "saintId": "theodore-stratelates"
+    },
+    {
+      "alias": "Theodore the Recruit",
+      "saintId": "theodore-tyro"
+    },
+    {
+      "alias": "Theodore the Studite",
+      "saintId": "theodore-studite"
+    },
+    {
+      "alias": "Theodosius the Great",
+      "saintId": "theodosius-cenobiarch"
+    },
+    {
+      "alias": "Theophan the Recluse",
+      "saintId": "theophan-recluse"
+    },
+    {
+      "alias": "Zosimas of Palestine",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Anastasios Kephalas",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Andrew of Jerusalem",
+      "saintId": "andrew-crete"
+    },
+    {
+      "alias": "Anna the Prophetess",
+      "saintId": "anna-prophetess"
+    },
+    {
+      "alias": "Antony of the Caves",
+      "saintId": "anthony-caves"
+    },
+    {
+      "alias": "Archdeacon Laurence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Archdeacon Lawrence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Athanasius of Athos",
+      "saintId": "athanasius-athos"
+    },
+    {
+      "alias": "Cainnech of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Comhghall of Bangor",
+      "saintId": "comgall-bangor"
+    },
+    {
+      "alias": "Cyril of Alexandria",
+      "saintId": "cyril-alexandria"
+    },
+    {
+      "alias": "Demetrius of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Euthymios the Great",
+      "saintId": "euthymius-great"
+    },
+    {
+      "alias": "Euthymius the Great",
+      "saintId": "euthymius-great"
+    },
+    {
+      "alias": "Findbarr of Movilla",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Ignatius of Antioch",
+      "saintId": "ignatius"
+    },
+    {
+      "alias": "Isaac the Patriarch",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Isaac the Righteous",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Jacob the Patriarch",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Jacob the Righteous",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "John the Evangelist",
+      "saintId": "john-theologian"
+    },
+    {
+      "alias": "John the Theologian",
+      "saintId": "john-theologian"
+    },
+    {
+      "alias": "Juliana of Lazarevo",
+      "saintId": "juliana-lazarevo"
+    },
+    {
+      "alias": "Luke the Evangelist",
+      "saintId": "luke"
+    },
+    {
+      "alias": "Macrina the Younger",
+      "saintId": "macrina"
+    },
+    {
+      "alias": "Mardarije Uskoković",
+      "saintId": "mardarije"
+    },
+    {
+      "alias": "Margaret of Antioch",
+      "saintId": "marina-antioch"
+    },
+    {
+      "alias": "Mark the Evangelist",
+      "saintId": "mark"
+    },
+    {
+      "alias": "Melania the Younger",
+      "saintId": "melania-younger"
+    },
+    {
+      "alias": "Moses the Ethiopian",
+      "saintId": "moses-ethiopian"
+    },
+    {
+      "alias": "Nektarios of Aegina",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Onuphrius the Great",
+      "saintId": "onuphrius"
+    },
+    {
+      "alias": "Pachomius the Great",
+      "saintId": "pachomius"
+    },
+    {
+      "alias": "Raphael of Brooklyn",
+      "saintId": "raphael-brooklyn"
+    },
+    {
+      "alias": "Sava the Sanctified",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Seraphim of Vyritsa",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "Sergius of Radonezh",
+      "saintId": "sergius"
+    },
+    {
+      "alias": "Simon the Canaanite",
+      "saintId": "simon-zealot"
+    },
+    {
+      "alias": "Theodore of Studium",
+      "saintId": "theodore-studite"
+    },
+    {
+      "alias": "Virgin Martyr Agnes",
+      "saintId": "agnes-rome"
+    },
+    {
+      "alias": "Zosima of Palestine",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Arsenius the Great",
+      "saintId": "arsenius"
+    },
+    {
+      "alias": "Augustine of Hippo",
+      "saintId": "augustine"
+    },
+    {
+      "alias": "Conlaed of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Conleth of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Conláed of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Cyril of Jerusalem",
+      "saintId": "cyril-jerusalem"
+    },
+    {
+      "alias": "Daniel the Prophet",
+      "saintId": "daniel-prophet"
+    },
+    {
+      "alias": "Daumantas of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Elijah the Prophet",
+      "saintId": "elijah-prophet"
+    },
+    {
+      "alias": "Elisha the Prophet",
+      "saintId": "elisha-prophet"
+    },
+    {
+      "alias": "Emmanuel Eugenikos",
+      "saintId": "mark-ephesus"
+    },
+    {
+      "alias": "Ephraim the Syrian",
+      "saintId": "ephrem"
+    },
+    {
+      "alias": "Finnian of Movilla",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Finnian of Moville",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Hilarion the Great",
+      "saintId": "hilarion"
+    },
+    {
+      "alias": "Innocent of Alaska",
+      "saintId": "innocent"
+    },
+    {
+      "alias": "Isaiah the Prophet",
+      "saintId": "isaiah-prophet"
+    },
+    {
+      "alias": "John of the Ladder",
+      "saintId": "john-ladder"
+    },
+    {
+      "alias": "Juvenaly of Alaska",
+      "saintId": "juvenaly"
+    },
+    {
+      "alias": "Kenneth of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Luke of Simferopol",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Macarius the Great",
+      "saintId": "macarius"
+    },
+    {
+      "alias": "Moses the God-seer",
+      "saintId": "moses-prophet"
+    },
+    {
+      "alias": "Nathan the Prophet",
+      "saintId": "nathan-prophet"
+    },
+    {
+      "alias": "Nectarius Kephalas",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Noah the Righteous",
+      "saintId": "noah-righteous"
+    },
+    {
+      "alias": "Patrick of Ireland",
+      "saintId": "patrick"
+    },
+    {
+      "alias": "Peter Velichkovsky",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Philaret (Drozdov)",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Philaret of Moscow",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Philip the Apostle",
+      "saintId": "philip-apostle"
+    },
+    {
+      "alias": "Polycarp of Smyrna",
+      "saintId": "polycarp"
+    },
+    {
+      "alias": "Sabas of Palestine",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Sebastian Dabovich",
+      "saintId": "sebastian-dabovich"
+    },
+    {
+      "alias": "Theodore of Amasea",
+      "saintId": "theodore-tyro"
+    },
+    {
+      "alias": "Thomas the Apostle",
+      "saintId": "thomas"
+    },
+    {
+      "alias": "Timothy of Ephesus",
+      "saintId": "timothy"
+    },
+    {
+      "alias": "Vasily the Blessed",
+      "saintId": "basil-moscow"
+    },
+    {
+      "alias": "Agatha of Catania",
+      "saintId": "agatha-catania"
+    },
+    {
+      "alias": "Alexander Svirsky",
+      "saintId": "alexander-svir"
+    },
+    {
+      "alias": "Alexander of Svir",
+      "saintId": "alexander-svir"
+    },
+    {
+      "alias": "Anthony the Great",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Archangel Gabriel",
+      "saintId": "gabriel-archangel"
+    },
+    {
+      "alias": "Basil of Caesarea",
+      "saintId": "basil"
+    },
+    {
+      "alias": "Brigid of Kildare",
+      "saintId": "brigid"
+    },
+    {
+      "alias": "Canice of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Comgall of Bangor",
+      "saintId": "comgall-bangor"
+    },
+    {
+      "alias": "Dimitri of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Dorotheus of Gaza",
+      "saintId": "dorotheus-gaza"
+    },
+    {
+      "alias": "Elizaveta Pilenko",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Ephrem the Syrian",
+      "saintId": "ephrem"
+    },
+    {
+      "alias": "Feodosy Pechersky",
+      "saintId": "theodosius-caves"
+    },
+    {
+      "alias": "Finian of Moville",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Gregory Nazianzen",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Gregory the Great",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "Irenaeus of Lyons",
+      "saintId": "irenaeus"
+    },
+    {
+      "alias": "Iuliania Osoryina",
+      "saintId": "juliana-lazarevo"
+    },
+    {
+      "alias": "Jerome of Stridon",
+      "saintId": "jerome"
+    },
+    {
+      "alias": "John of Kronstadt",
+      "saintId": "john-kronstadt"
+    },
+    {
+      "alias": "Lucia of Syracuse",
+      "saintId": "lucy-syracuse"
+    },
+    {
+      "alias": "Marina of Antioch",
+      "saintId": "marina-antioch"
+    },
+    {
+      "alias": "Matrona of Moscow",
+      "saintId": "matrona-moscow"
+    },
+    {
+      "alias": "Monica of Tagaste",
+      "saintId": "monica"
+    },
+    {
+      "alias": "Moses the Prophet",
+      "saintId": "moses-prophet"
+    },
+    {
+      "alias": "Paraskeva of Rome",
+      "saintId": "paraskeva-rome"
+    },
+    {
+      "alias": "Paraskevi of Rome",
+      "saintId": "paraskeva-rome"
+    },
+    {
+      "alias": "Pelagia Margarita",
+      "saintId": "pelagia-penitent"
+    },
+    {
+      "alias": "Philip the Deacon",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Photios the Great",
+      "saintId": "photios"
+    },
+    {
+      "alias": "Raphael Hawaweeny",
+      "saintId": "raphael-brooklyn"
+    },
+    {
+      "alias": "Seraphim of Sarov",
+      "saintId": "seraphim"
+    },
+    {
+      "alias": "Theophan of Vysha",
+      "saintId": "theophan-recluse"
+    },
+    {
+      "alias": "Tikhon Sokolovsky",
+      "saintId": "tikhon-zadonsk"
+    },
+    {
+      "alias": "Tikhon of Zadonsk",
+      "saintId": "tikhon-zadonsk"
+    },
+    {
+      "alias": "Vincent of Lerins",
+      "saintId": "vincent-lerins"
+    },
+    {
+      "alias": "Vincent of Lérins",
+      "saintId": "vincent-lerins"
+    },
+    {
+      "alias": "Agatha of Sicily",
+      "saintId": "agatha-catania"
+    },
+    {
+      "alias": "Alexander Nevsky",
+      "saintId": "alexander-nevsky"
+    },
+    {
+      "alias": "Ambrose of Milan",
+      "saintId": "ambrose"
+    },
+    {
+      "alias": "Andreas of Crete",
+      "saintId": "andrew-crete"
+    },
+    {
+      "alias": "Anthony of Egypt",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Antony the Great",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Dmitri of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Dovmont of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Ever-Virgin Mary",
+      "saintId": "theotokos"
+    },
+    {
+      "alias": "Gregory Dialogus",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "Gregory of Nyssa",
+      "saintId": "gregory-nyssa"
+    },
+    {
+      "alias": "Herman of Alaska",
+      "saintId": "herman"
+    },
+    {
+      "alias": "Isaac the Syrian",
+      "saintId": "isaac-syrian"
+    },
+    {
+      "alias": "John Maximovitch",
+      "saintId": "john-shanghai"
+    },
+    {
+      "alias": "John of Damascus",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "John the Baptist",
+      "saintId": "john-baptist"
+    },
+    {
+      "alias": "Jude the Apostle",
+      "saintId": "jude-apostle"
+    },
+    {
+      "alias": "Juliana of Murom",
+      "saintId": "juliana-lazarevo"
+    },
+    {
+      "alias": "Laurence of Rome",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Lawrence of Rome",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Lucy of Syracuse",
+      "saintId": "lucy-syracuse"
+    },
+    {
+      "alias": "Luke the Surgeon",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Matrona Nikonova",
+      "saintId": "matrona-moscow"
+    },
+    {
+      "alias": "Nicholas of Myra",
+      "saintId": "nicholas"
+    },
+    {
+      "alias": "Olga of Kwethluk",
+      "saintId": "olga-kwethluk"
+    },
+    {
+      "alias": "Paulinus of Nola",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "SavvaI of Serbia",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Simon the Zealot",
+      "saintId": "simon-zealot"
+    },
+    {
+      "alias": "Timothy of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Varnava Muravyev",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "Vladimir of Kiev",
+      "saintId": "vladimir"
+    },
+    {
+      "alias": "Amos of Mandera",
+      "saintId": "alexander-svir"
+    },
+    {
+      "alias": "Andrew of Crete",
+      "saintId": "andrew-crete"
+    },
+    {
+      "alias": "Antony of Egypt",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Basil of Moscow",
+      "saintId": "basil-moscow"
+    },
+    {
+      "alias": "Basil the Great",
+      "saintId": "basil"
+    },
+    {
+      "alias": "Cecilia of Rome",
+      "saintId": "cecilia-rome"
+    },
+    {
+      "alias": "Clement of Rome",
+      "saintId": "clement-rome"
+    },
+    {
+      "alias": "Columba of Iona",
+      "saintId": "columba"
+    },
+    {
+      "alias": "Gregory Palamas",
+      "saintId": "gregory-palamas"
+    },
+    {
+      "alias": "Jacob Netsvetov",
+      "saintId": "jacob-netsvetov"
+    },
+    {
+      "alias": "James the Great",
+      "saintId": "james-zebedee"
+    },
+    {
+      "alias": "John Chrysostom",
+      "saintId": "john-chrysostom"
+    },
+    {
+      "alias": "Judas Thaddaeus",
+      "saintId": "jude-apostle"
+    },
+    {
+      "alias": "Mark of Ephesus",
+      "saintId": "mark-ephesus"
+    },
+    {
+      "alias": "Martha of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Martin of Tours",
+      "saintId": "martin-tours"
+    },
+    {
+      "alias": "Melania of Rome",
+      "saintId": "melania-younger"
+    },
+    {
+      "alias": "Monica of Hippo",
+      "saintId": "monica"
+    },
+    {
+      "alias": "Paisie of Neamț",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Peter of Kodiak",
+      "saintId": "peter-aleut"
+    },
+    {
+      "alias": "Peter the Aleut",
+      "saintId": "peter-aleut"
+    },
+    {
+      "alias": "Prophet Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Rastko Nemanjić",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Abba Dorotheus",
+      "saintId": "dorotheus-gaza"
+    },
+    {
+      "alias": "Basil Muraviev",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "George Govorov",
+      "saintId": "theophan-recluse"
+    },
+    {
+      "alias": "Job of Pochaev",
+      "saintId": "job-pochaev"
+    },
+    {
+      "alias": "John Damascene",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "Jovan Dabovich",
+      "saintId": "sebastian-dabovich"
+    },
+    {
+      "alias": "Luke of Crimea",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Mael of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Maria of Paris",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Maria of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Mark Eugenikos",
+      "saintId": "mark-ephesus"
+    },
+    {
+      "alias": "Mary Magdalene",
+      "saintId": "mary-magdalene"
+    },
+    {
+      "alias": "Paul of Thebes",
+      "saintId": "paul-thebes"
+    },
+    {
+      "alias": "Prophet Nathan",
+      "saintId": "nathan-prophet"
+    },
+    {
+      "alias": "Rafla Hawawini",
+      "saintId": "raphael-brooklyn"
+    },
+    {
+      "alias": "Righteous Noah",
+      "saintId": "noah-righteous"
+    },
+    {
+      "alias": "Sava of Serbia",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Tikhon Sokolov",
+      "saintId": "tikhon-zadonsk"
+    },
+    {
+      "alias": "Titus of Crete",
+      "saintId": "titus"
+    },
+    {
+      "alias": "Agnes of Rome",
+      "saintId": "agnes-rome"
+    },
+    {
+      "alias": "Apostle Linus",
+      "saintId": "linus-rome"
+    },
+    {
+      "alias": "Helen Augusta",
+      "saintId": "helena"
+    },
+    {
+      "alias": "John Climacus",
+      "saintId": "john-ladder"
+    },
+    {
+      "alias": "John Sergieff",
+      "saintId": "john-kronstadt"
+    },
+    {
+      "alias": "Justin Martyr",
+      "saintId": "justin"
+    },
+    {
+      "alias": "Leo the Great",
+      "saintId": "leo-rome"
+    },
+    {
+      "alias": "Linus of Rome",
+      "saintId": "linus-rome"
+    },
+    {
+      "alias": "Mary of Egypt",
+      "saintId": "mary-egypt"
+    },
+    {
+      "alias": "Matushka Olga",
+      "saintId": "olga-kwethluk"
+    },
+    {
+      "alias": "Mel of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Mél of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Paula of Rome",
+      "saintId": "paula"
+    },
+    {
+      "alias": "Simon Zelotes",
+      "saintId": "simon-zealot"
+    },
+    {
+      "alias": "Theodore Tiro",
+      "saintId": "theodore-tyro"
+    },
+    {
+      "alias": "Abba Zosimas",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Adam and Eve",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Ivan Zhelezo",
+      "saintId": "job-pochaev"
+    },
+    {
+      "alias": "John Cassian",
+      "saintId": "john-cassian"
+    },
+    {
+      "alias": "John Sergiev",
+      "saintId": "john-kronstadt"
+    },
+    {
+      "alias": "King Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Olga Michael",
+      "saintId": "olga-kwethluk"
+    },
+    {
+      "alias": "Olga of Kiev",
+      "saintId": "olga-kiev"
+    },
+    {
+      "alias": "Alexis Toth",
+      "saintId": "alexis-wilkes-barre"
+    },
+    {
+      "alias": "Colum Cille",
+      "saintId": "columba"
+    },
+    {
+      "alias": "King David",
+      "saintId": "david-king"
+    },
+    {
+      "alias": "Pope LeoI",
+      "saintId": "leo-rome"
+    },
+    {
+      "alias": "Athanasius the Great",
+      "saintId": "athanasius"
+    },
+    {
+      "alias": "John Damascene",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "Demetrios the Myrrh-Streamer",
+      "saintId": "demetrius"
+    },
+    {
+      "alias": "Demetrius of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Gregory of Nazianzus",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Gregory Homiliastes of Rome",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "John the Divine",
+      "saintId": "john-theologian"
+    },
+    {
+      "alias": "John of Shanghai",
+      "saintId": "john-shanghai"
+    },
+    {
+      "alias": "John the Wonderworker",
+      "saintId": "john-shanghai"
+    },
+    {
+      "alias": "Innocent of Moscow",
+      "saintId": "innocent"
+    },
+    {
+      "alias": "Jacob of Alaska",
+      "saintId": "jacob-netsvetov"
+    },
+    {
+      "alias": "Martin the Merciful",
+      "saintId": "martin-tours"
+    },
+    {
+      "alias": "Spyridon of Tremithus",
+      "saintId": "spyridon"
+    },
+    {
+      "alias": "Spyridon the Wonderworker",
+      "saintId": "spyridon"
+    },
+    {
+      "alias": "John Cassian the Roman",
+      "saintId": "john-cassian"
+    },
+    {
+      "alias": "Macarius the Great of Egypt",
+      "saintId": "macarius"
+    },
+    {
+      "alias": "Silouan the Athonite",
+      "saintId": "silouan"
+    },
+    {
+      "alias": "Simeon Stylites",
+      "saintId": "symeon-stylite"
+    },
+    {
+      "alias": "Vincent of Lerins",
+      "saintId": "vincent-lerins"
+    },
+    {
+      "alias": "Savva of Serbia",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Savva the Sanctified",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Maximus of Constantinople",
+      "saintId": "maximus"
+    },
+    {
+      "alias": "Maria Skobtsova",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Brigid of Ireland",
+      "saintId": "brigid"
+    },
+    {
+      "alias": "Justin Martyr",
+      "saintId": "justin"
+    },
+    {
+      "alias": "Paul the Hermit",
+      "saintId": "paul-thebes"
+    },
+    {
+      "alias": "John Damascene",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "Gregory Nazianzen",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Nikolai Velimirovich",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nikolai Velimirović",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nikodemos of the Holy Mountain",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Nicodemus the Hagiorite",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Andrei Rublev",
+      "saintId": "sl-andrew-rublev"
+    },
+    {
+      "alias": "Peter Mogila",
+      "saintId": "sl-peter-mogila"
+    },
+    {
+      "alias": "Peter Moghila",
+      "saintId": "sl-peter-mogila"
+    }
+  ],
+  "titledAliases": [
+    {
+      "alias": "Theodota the Mother of the Unmercenaries",
+      "saintId": "theodota-mother"
+    },
+    {
+      "alias": "Anastasia the Deliverer from Potions",
+      "saintId": "anastasia-deliverer"
+    },
+    {
+      "alias": "Valentin Felixovich Voyno-Yasenetsky",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Philip the Evangelist and Deacon",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Symeon the Stylite (the Elder)",
+      "saintId": "symeon-stylite"
+    },
+    {
+      "alias": "Righteous Forefather Abraham",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Theodosius of the Kiev Caves",
+      "saintId": "theodosius-caves"
+    },
+    {
+      "alias": "Paraskeve the Virgin Martyr",
+      "saintId": "paraskeva-rome"
+    },
+    {
+      "alias": "Vasily Nikolaevich Muravyev",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "Aaron the Righteous Priest",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "New Martyr Peter the Aleut",
+      "saintId": "peter-aleut"
+    },
+    {
+      "alias": "Olympias of Constantinople",
+      "saintId": "olympias-deaconess"
+    },
+    {
+      "alias": "Anna of the tribe of Aser",
+      "saintId": "anna-prophetess"
+    },
+    {
+      "alias": "Anthony of the Kiev Caves",
+      "saintId": "anthony-caves"
+    },
+    {
+      "alias": "Demetrius of Thessalonica",
+      "saintId": "demetrius"
+    },
+    {
+      "alias": "Juliana the Virgin Martyr",
+      "saintId": "juliana-nicomedia"
+    },
+    {
+      "alias": "Mardarije of Libertyville",
+      "saintId": "mardarije"
+    },
+    {
+      "alias": "Maria Dmitrievna of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Photios of Constantinople",
+      "saintId": "photios"
+    },
+    {
+      "alias": "Righteous Patriarch Isaac",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Righteous Patriarch Jacob",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Schemanun Martha of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Simeon Stylites the Elder",
+      "saintId": "symeon-stylite"
+    },
+    {
+      "alias": "Simeon the New Theologian",
+      "saintId": "symeon-new-theologian"
+    },
+    {
+      "alias": "Symeon the New Theologian",
+      "saintId": "symeon-new-theologian"
+    },
+    {
+      "alias": "Theodosius the Cenobiarch",
+      "saintId": "theodosius-cenobiarch"
+    },
+    {
+      "alias": "Xenia of Saint Petersburg",
+      "saintId": "xenia"
+    },
+    {
+      "alias": "Athanasius of Alexandria",
+      "saintId": "athanasius"
+    },
+    {
+      "alias": "Barbara the Great Martyr",
+      "saintId": "barbara"
+    },
+    {
+      "alias": "Dionysios the Areopagite",
+      "saintId": "dionysius-areopagite"
+    },
+    {
+      "alias": "Dionysius the Areopagite",
+      "saintId": "dionysius-areopagite"
+    },
+    {
+      "alias": "Dovmont-Timothy of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Elizabeth the New Martyr",
+      "saintId": "elizabeth"
+    },
+    {
+      "alias": "Epiphanius of Constantia",
+      "saintId": "epiphanius-cyprus"
+    },
+    {
+      "alias": "Euphrosyne of Alexandria",
+      "saintId": "euphrosyne-alexandria"
+    },
+    {
+      "alias": "George the Trophy-bearer",
+      "saintId": "george"
+    },
+    {
+      "alias": "Parents of the Theotokos",
+      "saintId": "joachim-anna"
+    },
+    {
+      "alias": "Solomon the Prophet-King",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Stephen the First Martyr",
+      "saintId": "stephen"
+    },
+    {
+      "alias": "Syncletica of Alexandria",
+      "saintId": "syncletica"
+    },
+    {
+      "alias": "Amphilochius of Iconium",
+      "saintId": "amphilochius-iconium"
+    },
+    {
+      "alias": "Amphilokhios of Iconium",
+      "saintId": "amphilochius-iconium"
+    },
+    {
+      "alias": "Andrew the First-Called",
+      "saintId": "andrew"
+    },
+    {
+      "alias": "Athanasius the Athonite",
+      "saintId": "athanasius-athos"
+    },
+    {
+      "alias": "Bartholomew the Apostle",
+      "saintId": "bartholomew"
+    },
+    {
+      "alias": "Catherine of Alexandria",
+      "saintId": "catherine"
+    },
+    {
+      "alias": "Chrysogonos of Aquileia",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Chrysogonus of Aquileia",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Daniel of the Captivity",
+      "saintId": "daniel-prophet"
+    },
+    {
+      "alias": "Mardary of Libertyville",
+      "saintId": "mardarije"
+    },
+    {
+      "alias": "Marina the Great Martyr",
+      "saintId": "marina-antioch"
+    },
+    {
+      "alias": "Nektarios of Pentapolis",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Simeon the God-receiver",
+      "saintId": "simeon-godreceiver"
+    },
+    {
+      "alias": "Symeon the God-receiver",
+      "saintId": "simeon-godreceiver"
+    },
+    {
+      "alias": "Adam the First-Created",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Alexis of Wilkes-Barre",
+      "saintId": "alexis-wilkes-barre"
+    },
+    {
+      "alias": "Daniel Savvich Tuptalo",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Dorotheos of Palestine",
+      "saintId": "dorotheus-gaza"
+    },
+    {
+      "alias": "Gregory the Theologian",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Ignatius Brianchaninov",
+      "saintId": "ignatius-brianchaninov"
+    },
+    {
+      "alias": "Irene the Great Martyr",
+      "saintId": "irene-great-martyr"
+    },
+    {
+      "alias": "Joseph called Barnabas",
+      "saintId": "barnabas"
+    },
+    {
+      "alias": "Matthew the Evangelist",
+      "saintId": "matthew"
+    },
+    {
+      "alias": "Matthias of the Twelve",
+      "saintId": "matthias"
+    },
+    {
+      "alias": "Mother Maria Skobtsova",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Nino (Nina) of Georgia",
+      "saintId": "nina"
+    },
+    {
+      "alias": "Olympias the Deaconess",
+      "saintId": "olympias-deaconess"
+    },
+    {
+      "alias": "Panteleimon the Healer",
+      "saintId": "panteleimon"
+    },
+    {
+      "alias": "Righteous Priest Aaron",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Silouan of Mount Athos",
+      "saintId": "silouan"
+    },
+    {
+      "alias": "Spyridon of Trimythous",
+      "saintId": "spyridon"
+    },
+    {
+      "alias": "Timothy of the Seventy",
+      "saintId": "timothy"
+    },
+    {
+      "alias": "Aaron the High Priest",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Abraham the Patriarch",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Abraham the Righteous",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Basil Fool-for-Christ",
+      "saintId": "basil-moscow"
+    },
+    {
+      "alias": "Dimitri Brianchaninov",
+      "saintId": "ignatius-brianchaninov"
+    },
+    {
+      "alias": "Epiphanius of Salamis",
+      "saintId": "epiphanius-cyprus"
+    },
+    {
+      "alias": "Eve the First-Created",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Gabriel the Archangel",
+      "saintId": "gabriel-archangel"
+    },
+    {
+      "alias": "Gregory the Dialogist",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "Leo the Great of Rome",
+      "saintId": "leo-rome"
+    },
+    {
+      "alias": "Maximus the Confessor",
+      "saintId": "maximus"
+    },
+    {
+      "alias": "Paulinus the Merciful",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "Philip of the Seventy",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Philip the Evangelist",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Sabbas the Sanctified",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Abraham of Trebizond",
+      "saintId": "athanasius-athos"
+    },
+    {
+      "alias": "Anastasia of Sirmium",
+      "saintId": "anastasia-deliverer"
+    },
+    {
+      "alias": "Barnabas the Apostle",
+      "saintId": "barnabas"
+    },
+    {
+      "alias": "Cainneach of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Epiphanius of Cyprus",
+      "saintId": "epiphanius-cyprus"
+    },
+    {
+      "alias": "Gregory of Nazianzus",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Israel the Patriarch",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Joseph the Betrothed",
+      "saintId": "joseph-betrothed"
+    },
+    {
+      "alias": "Juliana of Nicomedia",
+      "saintId": "juliana-nicomedia"
+    },
+    {
+      "alias": "Matthias the Apostle",
+      "saintId": "matthias"
+    },
+    {
+      "alias": "Paisios Velichkovsky",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Paisius Velichkovsky",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Pelagia the Penitent",
+      "saintId": "pelagia-penitent"
+    },
+    {
+      "alias": "Philip of the Twelve",
+      "saintId": "philip-apostle"
+    },
+    {
+      "alias": "Romanus the Melodist",
+      "saintId": "romanus"
+    },
+    {
+      "alias": "Sebastian of Jackson",
+      "saintId": "sebastian-dabovich"
+    },
+    {
+      "alias": "Theodore Stratelates",
+      "saintId": "theodore-stratelates"
+    },
+    {
+      "alias": "Theodore of Heraclea",
+      "saintId": "theodore-stratelates"
+    },
+    {
+      "alias": "Theodore the General",
+      "saintId": "theodore-stratelates"
+    },
+    {
+      "alias": "Theodore the Recruit",
+      "saintId": "theodore-tyro"
+    },
+    {
+      "alias": "Theodore the Studite",
+      "saintId": "theodore-studite"
+    },
+    {
+      "alias": "Theodosius the Great",
+      "saintId": "theodosius-cenobiarch"
+    },
+    {
+      "alias": "Theophan the Recluse",
+      "saintId": "theophan-recluse"
+    },
+    {
+      "alias": "Zosimas of Palestine",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Anastasios Kephalas",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Andrew of Jerusalem",
+      "saintId": "andrew-crete"
+    },
+    {
+      "alias": "Anna the Prophetess",
+      "saintId": "anna-prophetess"
+    },
+    {
+      "alias": "Antony of the Caves",
+      "saintId": "anthony-caves"
+    },
+    {
+      "alias": "Archdeacon Laurence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Archdeacon Lawrence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Athanasius of Athos",
+      "saintId": "athanasius-athos"
+    },
+    {
+      "alias": "Cainnech of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Comhghall of Bangor",
+      "saintId": "comgall-bangor"
+    },
+    {
+      "alias": "Cyril of Alexandria",
+      "saintId": "cyril-alexandria"
+    },
+    {
+      "alias": "Daughter of Phanuel",
+      "saintId": "anna-prophetess"
+    },
+    {
+      "alias": "Demetrius of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Euthymios the Great",
+      "saintId": "euthymius-great"
+    },
+    {
+      "alias": "Euthymius the Great",
+      "saintId": "euthymius-great"
+    },
+    {
+      "alias": "Findbarr of Movilla",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Ignatius of Antioch",
+      "saintId": "ignatius"
+    },
+    {
+      "alias": "Isaac the Patriarch",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Isaac the Righteous",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Jacob the Patriarch",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Jacob the Righteous",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "John the Evangelist",
+      "saintId": "john-theologian"
+    },
+    {
+      "alias": "John the Theologian",
+      "saintId": "john-theologian"
+    },
+    {
+      "alias": "Juliana of Lazarevo",
+      "saintId": "juliana-lazarevo"
+    },
+    {
+      "alias": "Luke the Evangelist",
+      "saintId": "luke"
+    },
+    {
+      "alias": "Macrina the Younger",
+      "saintId": "macrina"
+    },
+    {
+      "alias": "Mardarije Uskoković",
+      "saintId": "mardarije"
+    },
+    {
+      "alias": "Margaret of Antioch",
+      "saintId": "marina-antioch"
+    },
+    {
+      "alias": "Mark the Evangelist",
+      "saintId": "mark"
+    },
+    {
+      "alias": "Melania the Younger",
+      "saintId": "melania-younger"
+    },
+    {
+      "alias": "Moses the Ethiopian",
+      "saintId": "moses-ethiopian"
+    },
+    {
+      "alias": "Mother of Augustine",
+      "saintId": "monica"
+    },
+    {
+      "alias": "Nektarios of Aegina",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Onuphrius the Great",
+      "saintId": "onuphrius"
+    },
+    {
+      "alias": "Pachomius the Great",
+      "saintId": "pachomius"
+    },
+    {
+      "alias": "Raphael of Brooklyn",
+      "saintId": "raphael-brooklyn"
+    },
+    {
+      "alias": "Sava the Sanctified",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Seraphim of Vyritsa",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "Sergius of Radonezh",
+      "saintId": "sergius"
+    },
+    {
+      "alias": "Simon the Canaanite",
+      "saintId": "simon-zealot"
+    },
+    {
+      "alias": "Theodore of Studium",
+      "saintId": "theodore-studite"
+    },
+    {
+      "alias": "Virgin Martyr Agnes",
+      "saintId": "agnes-rome"
+    },
+    {
+      "alias": "Zosima of Palestine",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Arsenius the Great",
+      "saintId": "arsenius"
+    },
+    {
+      "alias": "Augustine of Hippo",
+      "saintId": "augustine"
+    },
+    {
+      "alias": "Conlaed of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Conleth of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Conláed of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Cyril of Jerusalem",
+      "saintId": "cyril-jerusalem"
+    },
+    {
+      "alias": "Daniel the Prophet",
+      "saintId": "daniel-prophet"
+    },
+    {
+      "alias": "Daumantas of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Elijah the Prophet",
+      "saintId": "elijah-prophet"
+    },
+    {
+      "alias": "Elisha the Prophet",
+      "saintId": "elisha-prophet"
+    },
+    {
+      "alias": "Emmanuel Eugenikos",
+      "saintId": "mark-ephesus"
+    },
+    {
+      "alias": "Ephraim the Syrian",
+      "saintId": "ephrem"
+    },
+    {
+      "alias": "Finnian of Movilla",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Finnian of Moville",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Hilarion the Great",
+      "saintId": "hilarion"
+    },
+    {
+      "alias": "Innocent of Alaska",
+      "saintId": "innocent"
+    },
+    {
+      "alias": "Isaiah the Prophet",
+      "saintId": "isaiah-prophet"
+    },
+    {
+      "alias": "John of the Ladder",
+      "saintId": "john-ladder"
+    },
+    {
+      "alias": "Juvenaly of Alaska",
+      "saintId": "juvenaly"
+    },
+    {
+      "alias": "Kenneth of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Luke of Simferopol",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Macarius the Great",
+      "saintId": "macarius"
+    },
+    {
+      "alias": "Moses the God-seer",
+      "saintId": "moses-prophet"
+    },
+    {
+      "alias": "Nathan the Prophet",
+      "saintId": "nathan-prophet"
+    },
+    {
+      "alias": "Nectarius Kephalas",
+      "saintId": "nektarios"
+    },
+    {
+      "alias": "Noah the Righteous",
+      "saintId": "noah-righteous"
+    },
+    {
+      "alias": "Patrick of Ireland",
+      "saintId": "patrick"
+    },
+    {
+      "alias": "Peter Velichkovsky",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Philaret (Drozdov)",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Philaret of Moscow",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Philip the Apostle",
+      "saintId": "philip-apostle"
+    },
+    {
+      "alias": "Polycarp of Smyrna",
+      "saintId": "polycarp"
+    },
+    {
+      "alias": "Sabas of Palestine",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Sebastian Dabovich",
+      "saintId": "sebastian-dabovich"
+    },
+    {
+      "alias": "Theodore of Amasea",
+      "saintId": "theodore-tyro"
+    },
+    {
+      "alias": "Thomas the Apostle",
+      "saintId": "thomas"
+    },
+    {
+      "alias": "Timothy of Ephesus",
+      "saintId": "timothy"
+    },
+    {
+      "alias": "Vasily the Blessed",
+      "saintId": "basil-moscow"
+    },
+    {
+      "alias": "Agatha of Catania",
+      "saintId": "agatha-catania"
+    },
+    {
+      "alias": "Alexander Svirsky",
+      "saintId": "alexander-svir"
+    },
+    {
+      "alias": "Alexander of Svir",
+      "saintId": "alexander-svir"
+    },
+    {
+      "alias": "Anthony the Great",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Archangel Gabriel",
+      "saintId": "gabriel-archangel"
+    },
+    {
+      "alias": "Basil of Caesarea",
+      "saintId": "basil"
+    },
+    {
+      "alias": "Brigid of Kildare",
+      "saintId": "brigid"
+    },
+    {
+      "alias": "Canice of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Comgall of Bangor",
+      "saintId": "comgall-bangor"
+    },
+    {
+      "alias": "Dimitri of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Dorotheus of Gaza",
+      "saintId": "dorotheus-gaza"
+    },
+    {
+      "alias": "Elizaveta Pilenko",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Ephrem the Syrian",
+      "saintId": "ephrem"
+    },
+    {
+      "alias": "Feodosy Pechersky",
+      "saintId": "theodosius-caves"
+    },
+    {
+      "alias": "Finian of Moville",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Gregory Nazianzen",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Gregory the Great",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "Irenaeus of Lyons",
+      "saintId": "irenaeus"
+    },
+    {
+      "alias": "Iuliania Osoryina",
+      "saintId": "juliana-lazarevo"
+    },
+    {
+      "alias": "Jerome of Stridon",
+      "saintId": "jerome"
+    },
+    {
+      "alias": "John of Kronstadt",
+      "saintId": "john-kronstadt"
+    },
+    {
+      "alias": "Lucia of Syracuse",
+      "saintId": "lucy-syracuse"
+    },
+    {
+      "alias": "Marina of Antioch",
+      "saintId": "marina-antioch"
+    },
+    {
+      "alias": "Matrona of Moscow",
+      "saintId": "matrona-moscow"
+    },
+    {
+      "alias": "Monica of Tagaste",
+      "saintId": "monica"
+    },
+    {
+      "alias": "Moses the Prophet",
+      "saintId": "moses-prophet"
+    },
+    {
+      "alias": "Paraskeva of Rome",
+      "saintId": "paraskeva-rome"
+    },
+    {
+      "alias": "Paraskevi of Rome",
+      "saintId": "paraskeva-rome"
+    },
+    {
+      "alias": "Pelagia Margarita",
+      "saintId": "pelagia-penitent"
+    },
+    {
+      "alias": "Philip the Deacon",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Photios the Great",
+      "saintId": "photios"
+    },
+    {
+      "alias": "Raphael Hawaweeny",
+      "saintId": "raphael-brooklyn"
+    },
+    {
+      "alias": "Seraphim of Sarov",
+      "saintId": "seraphim"
+    },
+    {
+      "alias": "Theophan of Vysha",
+      "saintId": "theophan-recluse"
+    },
+    {
+      "alias": "Tikhon Sokolovsky",
+      "saintId": "tikhon-zadonsk"
+    },
+    {
+      "alias": "Tikhon of Zadonsk",
+      "saintId": "tikhon-zadonsk"
+    },
+    {
+      "alias": "Vincent of Lerins",
+      "saintId": "vincent-lerins"
+    },
+    {
+      "alias": "Vincent of Lérins",
+      "saintId": "vincent-lerins"
+    },
+    {
+      "alias": "Agatha of Sicily",
+      "saintId": "agatha-catania"
+    },
+    {
+      "alias": "Alexander Nevsky",
+      "saintId": "alexander-nevsky"
+    },
+    {
+      "alias": "Ambrose of Milan",
+      "saintId": "ambrose"
+    },
+    {
+      "alias": "Ancestors of God",
+      "saintId": "joachim-anna"
+    },
+    {
+      "alias": "Andreas of Crete",
+      "saintId": "andrew-crete"
+    },
+    {
+      "alias": "Anthony of Egypt",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Antony the Great",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Dmitri of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Dovmont of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Ever-Virgin Mary",
+      "saintId": "theotokos"
+    },
+    {
+      "alias": "Gregory Dialogus",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "Gregory of Nyssa",
+      "saintId": "gregory-nyssa"
+    },
+    {
+      "alias": "Herman of Alaska",
+      "saintId": "herman"
+    },
+    {
+      "alias": "Isaac the Syrian",
+      "saintId": "isaac-syrian"
+    },
+    {
+      "alias": "John Maximovitch",
+      "saintId": "john-shanghai"
+    },
+    {
+      "alias": "John of Damascus",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "John the Baptist",
+      "saintId": "john-baptist"
+    },
+    {
+      "alias": "Jude the Apostle",
+      "saintId": "jude-apostle"
+    },
+    {
+      "alias": "Juliana of Murom",
+      "saintId": "juliana-lazarevo"
+    },
+    {
+      "alias": "Laurence of Rome",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Lawrence of Rome",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Lucy of Syracuse",
+      "saintId": "lucy-syracuse"
+    },
+    {
+      "alias": "Luke the Surgeon",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Matrona Nikonova",
+      "saintId": "matrona-moscow"
+    },
+    {
+      "alias": "Nicholas of Myra",
+      "saintId": "nicholas"
+    },
+    {
+      "alias": "Olga of Kwethluk",
+      "saintId": "olga-kwethluk"
+    },
+    {
+      "alias": "Paulinus of Nola",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "SavvaI of Serbia",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Simon the Zealot",
+      "saintId": "simon-zealot"
+    },
+    {
+      "alias": "Timothy of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Varnava Muravyev",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "Vladimir of Kiev",
+      "saintId": "vladimir"
+    },
+    {
+      "alias": "Amos of Mandera",
+      "saintId": "alexander-svir"
+    },
+    {
+      "alias": "Andrew of Crete",
+      "saintId": "andrew-crete"
+    },
+    {
+      "alias": "Antony of Egypt",
+      "saintId": "antony"
+    },
+    {
+      "alias": "Basil of Moscow",
+      "saintId": "basil-moscow"
+    },
+    {
+      "alias": "Basil the Great",
+      "saintId": "basil"
+    },
+    {
+      "alias": "Cecilia of Rome",
+      "saintId": "cecilia-rome"
+    },
+    {
+      "alias": "Clement of Rome",
+      "saintId": "clement-rome"
+    },
+    {
+      "alias": "Columba of Iona",
+      "saintId": "columba"
+    },
+    {
+      "alias": "Gregory Palamas",
+      "saintId": "gregory-palamas"
+    },
+    {
+      "alias": "Jacob Netsvetov",
+      "saintId": "jacob-netsvetov"
+    },
+    {
+      "alias": "James the Great",
+      "saintId": "james-zebedee"
+    },
+    {
+      "alias": "John Chrysostom",
+      "saintId": "john-chrysostom"
+    },
+    {
+      "alias": "Judas Thaddaeus",
+      "saintId": "jude-apostle"
+    },
+    {
+      "alias": "Mark of Ephesus",
+      "saintId": "mark-ephesus"
+    },
+    {
+      "alias": "Martha of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Martin of Tours",
+      "saintId": "martin-tours"
+    },
+    {
+      "alias": "Melania of Rome",
+      "saintId": "melania-younger"
+    },
+    {
+      "alias": "Monica of Hippo",
+      "saintId": "monica"
+    },
+    {
+      "alias": "Paisie of Neamț",
+      "saintId": "paisius-velichkovsky"
+    },
+    {
+      "alias": "Peter of Kodiak",
+      "saintId": "peter-aleut"
+    },
+    {
+      "alias": "Peter the Aleut",
+      "saintId": "peter-aleut"
+    },
+    {
+      "alias": "Prophet Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Rastko Nemanjić",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Abba Dorotheus",
+      "saintId": "dorotheus-gaza"
+    },
+    {
+      "alias": "Basil Muraviev",
+      "saintId": "seraphim-vyritsa"
+    },
+    {
+      "alias": "George Govorov",
+      "saintId": "theophan-recluse"
+    },
+    {
+      "alias": "Job of Pochaev",
+      "saintId": "job-pochaev"
+    },
+    {
+      "alias": "John Damascene",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "Jovan Dabovich",
+      "saintId": "sebastian-dabovich"
+    },
+    {
+      "alias": "Luke of Crimea",
+      "saintId": "luke-crimea"
+    },
+    {
+      "alias": "Mael of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Maria of Paris",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Maria of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Mark Eugenikos",
+      "saintId": "mark-ephesus"
+    },
+    {
+      "alias": "Mary Magdalene",
+      "saintId": "mary-magdalene"
+    },
+    {
+      "alias": "Paul of Thebes",
+      "saintId": "paul-thebes"
+    },
+    {
+      "alias": "Prophet Nathan",
+      "saintId": "nathan-prophet"
+    },
+    {
+      "alias": "Rafla Hawawini",
+      "saintId": "raphael-brooklyn"
+    },
+    {
+      "alias": "Righteous Noah",
+      "saintId": "noah-righteous"
+    },
+    {
+      "alias": "Sava of Serbia",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Tikhon Sokolov",
+      "saintId": "tikhon-zadonsk"
+    },
+    {
+      "alias": "Titus of Crete",
+      "saintId": "titus"
+    },
+    {
+      "alias": "Agnes of Rome",
+      "saintId": "agnes-rome"
+    },
+    {
+      "alias": "Apostle Linus",
+      "saintId": "linus-rome"
+    },
+    {
+      "alias": "Helen Augusta",
+      "saintId": "helena"
+    },
+    {
+      "alias": "John Climacus",
+      "saintId": "john-ladder"
+    },
+    {
+      "alias": "John Sergieff",
+      "saintId": "john-kronstadt"
+    },
+    {
+      "alias": "Justin Martyr",
+      "saintId": "justin"
+    },
+    {
+      "alias": "Leo the Great",
+      "saintId": "leo-rome"
+    },
+    {
+      "alias": "Linus of Rome",
+      "saintId": "linus-rome"
+    },
+    {
+      "alias": "Mary of Egypt",
+      "saintId": "mary-egypt"
+    },
+    {
+      "alias": "Matushka Olga",
+      "saintId": "olga-kwethluk"
+    },
+    {
+      "alias": "Mel of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Mother of God",
+      "saintId": "theotokos"
+    },
+    {
+      "alias": "Mél of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Paula of Rome",
+      "saintId": "paula"
+    },
+    {
+      "alias": "Simon Zelotes",
+      "saintId": "simon-zealot"
+    },
+    {
+      "alias": "Theodore Tiro",
+      "saintId": "theodore-tyro"
+    },
+    {
+      "alias": "Abba Zosimas",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Adam and Eve",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Ivan Zhelezo",
+      "saintId": "job-pochaev"
+    },
+    {
+      "alias": "John Cassian",
+      "saintId": "john-cassian"
+    },
+    {
+      "alias": "John Sergiev",
+      "saintId": "john-kronstadt"
+    },
+    {
+      "alias": "King Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Olga Michael",
+      "saintId": "olga-kwethluk"
+    },
+    {
+      "alias": "Olga of Kiev",
+      "saintId": "olga-kiev"
+    },
+    {
+      "alias": "Son of Jesse",
+      "saintId": "david-king"
+    },
+    {
+      "alias": "Alexis Toth",
+      "saintId": "alexis-wilkes-barre"
+    },
+    {
+      "alias": "Colum Cille",
+      "saintId": "columba"
+    },
+    {
+      "alias": "King David",
+      "saintId": "david-king"
+    },
+    {
+      "alias": "Pope LeoI",
+      "saintId": "leo-rome"
+    },
+    {
+      "alias": "Athanasius the Great",
+      "saintId": "athanasius"
+    },
+    {
+      "alias": "John Damascene",
+      "saintId": "john-damascene"
+    },
+    {
+      "alias": "Demetrios the Myrrh-Streamer",
+      "saintId": "demetrius"
+    },
+    {
+      "alias": "Demetrius of Rostov",
+      "saintId": "dimitri-rostov"
+    },
+    {
+      "alias": "Irenæus",
+      "saintId": "irenaeus"
+    },
+    {
+      "alias": "Gregory of Nazianzus",
+      "saintId": "gregory-theologian"
+    },
+    {
+      "alias": "Gregory Homiliastes of Rome",
+      "saintId": "gregory-dialogist"
+    },
+    {
+      "alias": "John the Divine",
+      "saintId": "john-theologian"
+    },
+    {
+      "alias": "John of Shanghai",
+      "saintId": "john-shanghai"
+    },
+    {
+      "alias": "John the Wonderworker",
+      "saintId": "john-shanghai"
+    },
+    {
+      "alias": "Innocent of Moscow",
+      "saintId": "innocent"
+    },
+    {
+      "alias": "Jacob of Alaska",
+      "saintId": "jacob-netsvetov"
+    },
+    {
+      "alias": "Martin the Merciful",
+      "saintId": "martin-tours"
+    },
+    {
+      "alias": "Pantaleon",
+      "saintId": "panteleimon"
+    },
+    {
+      "alias": "Spyridon of Tremithus",
+      "saintId": "spyridon"
+    },
+    {
+      "alias": "Spyridon the Wonderworker",
+      "saintId": "spyridon"
+    },
+    {
+      "alias": "John Cassian the Roman",
+      "saintId": "john-cassian"
+    },
+    {
+      "alias": "Macarius the Great of Egypt",
+      "saintId": "macarius"
+    },
+    {
+      "alias": "Silouan the Athonite",
+      "saintId": "silouan"
+    },
+    {
+      "alias": "Simeon Stylites",
+      "saintId": "symeon-stylite"
+    },
+    {
+      "alias": "Vincent of Lerins",
+      "saintId": "vincent-lerins"
+    },
+    {
+      "alias": "Thecla",
+      "saintId": "thekla"
+    },
+    {
+      "alias": "Savva of Serbia",
+      "saintId": "savva-serbia"
+    },
+    {
+      "alias": "Savva the Sanctified",
+      "saintId": "sabbas-sanctified"
+    },
+    {
+      "alias": "Maximus of Constantinople",
+      "saintId": "maximus"
+    },
+    {
+      "alias": "Maria Skobtsova",
+      "saintId": "maria-paris"
+    },
+    {
+      "alias": "Brigid of Ireland",
+      "saintId": "brigid"
+    },
+    {
+      "alias": "Caecilia",
+      "saintId": "cecilia-rome"
+    },
+    {
+      "alias": "Ephraem",
+      "saintId": "ephrem"
+    },
+    {
+      "alias": "Justin Martyr",
+      "saintId": "justin"
+    },
+    {
+      "alias": "Paul the Hermit",
+      "saintId": "paul-thebes"
+    },
+    {
+      "alias": "Philaret (Drozdov)",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Filaret Drozdov",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Philaret of Moscow",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Metropolitan Philaret of Moscow",
+      "saintId": "sl-philaret-moscow"
+    },
+    {
+      "alias": "Nikolai Velimirovich",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nikolaj Velimirović",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nicholas Velimirovich",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nikolai of Zicha",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nikolai of Ochrid",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Nicholas of Ohrid",
+      "saintId": "sl-nikolai-zhicha"
+    },
+    {
+      "alias": "Makarios Notaras",
+      "saintId": "sl-makarios-corinth"
+    },
+    {
+      "alias": "Macarius of Corinth",
+      "saintId": "sl-makarios-corinth"
+    },
+    {
+      "alias": "Makarius of Corinth",
+      "saintId": "sl-makarios-corinth"
+    },
+    {
+      "alias": "Macarios of Corinth",
+      "saintId": "sl-makarios-corinth"
+    },
+    {
+      "alias": "Michael Notaras",
+      "saintId": "sl-makarios-corinth"
+    },
+    {
+      "alias": "Nicodemus the Hagiorite",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Nicodemus of the Holy Mountain",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Nikodemos of the Holy Mountain",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Nikodemos the Athonite",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Nicodemos the Hagiorite",
+      "saintId": "sl-nikodemos-hagiorite"
+    },
+    {
+      "alias": "Andrei Rublev",
+      "saintId": "sl-andrew-rublev"
+    },
+    {
+      "alias": "Andrey Rublev",
+      "saintId": "sl-andrew-rublev"
+    },
+    {
+      "alias": "Andrej Rublëv",
+      "saintId": "sl-andrew-rublev"
+    },
+    {
+      "alias": "Andrew Rublev the Iconographer",
+      "saintId": "sl-andrew-rublev"
+    },
+    {
+      "alias": "Alypios of the Kiev Caves",
+      "saintId": "sl-alypius-kiev"
+    },
+    {
+      "alias": "Alipy of the Caves",
+      "saintId": "sl-alypius-kiev"
+    },
+    {
+      "alias": "Alipiy Pechersky",
+      "saintId": "sl-alypius-kiev"
+    },
+    {
+      "alias": "Alypius the Iconographer",
+      "saintId": "sl-alypius-kiev"
+    },
+    {
+      "alias": "Alypios the Iconographer",
+      "saintId": "sl-alypius-kiev"
+    },
+    {
+      "alias": "Alypius of Kyiv",
+      "saintId": "sl-alypius-kiev"
+    },
+    {
+      "alias": "Constantine the Great",
+      "saintId": "sl-constantine-great"
+    },
+    {
+      "alias": "Constantine I",
+      "saintId": "sl-constantine-great"
+    },
+    {
+      "alias": "Constantine Equal to the Apostles",
+      "saintId": "sl-constantine-great"
+    },
+    {
+      "alias": "Emperor Constantine",
+      "saintId": "sl-constantine-great"
+    },
+    {
+      "alias": "Antiochus",
+      "saintId": "antiochus-palestine"
+    },
+    {
+      "alias": "Antiochus of Saint Sabbas",
+      "saintId": "antiochus-palestine"
+    },
+    {
+      "alias": "Antiochos the Monk",
+      "saintId": "antiochus-palestine"
+    },
+    {
+      "alias": "Joannicius the Great",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Ioannikius",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Ioannikios",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Joannicius",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Simeon Metaphrastes",
+      "saintId": "symeon-metaphrastes"
+    },
+    {
+      "alias": "Symeon the Metaphrast",
+      "saintId": "symeon-metaphrastes"
+    },
+    {
+      "alias": "Simeon the Metaphrast",
+      "saintId": "symeon-metaphrastes"
+    },
+    {
+      "alias": "John the Short",
+      "saintId": "john-dwarf"
+    },
+    {
+      "alias": "John Kolobos",
+      "saintId": "john-dwarf"
+    },
+    {
+      "alias": "Abba John the Dwarf",
+      "saintId": "john-dwarf"
+    },
+    {
+      "alias": "Gregory Thaumaturgus",
+      "saintId": "gregory-thaumaturgus"
+    },
+    {
+      "alias": "Gregory of Neocaesarea",
+      "saintId": "gregory-thaumaturgus"
+    },
+    {
+      "alias": "Gregory the Wonderworker",
+      "saintId": "gregory-thaumaturgus"
+    },
+    {
+      "alias": "Macrina, grandmother of Basil",
+      "saintId": "macrina-elder"
+    },
+    {
+      "alias": "The elder Macrina",
+      "saintId": "macrina-elder"
+    },
+    {
+      "alias": "Emmelia",
+      "saintId": "emilia-cappadocia"
+    },
+    {
+      "alias": "Emilia, mother of Basil",
+      "saintId": "emilia-cappadocia"
+    },
+    {
+      "alias": "Emily of Caesarea",
+      "saintId": "emilia-cappadocia"
+    },
+    {
+      "alias": "Peter, Bishop of Sebaste",
+      "saintId": "peter-sebaste"
+    },
+    {
+      "alias": "Peter of Sebastia",
+      "saintId": "peter-sebaste"
+    },
+    {
+      "alias": "Great Martyr Procopius",
+      "saintId": "procopius-caesarea"
+    },
+    {
+      "alias": "Prokopios of Caesarea",
+      "saintId": "procopius-caesarea"
+    },
+    {
+      "alias": "Neanias, later Procopius",
+      "saintId": "procopius-caesarea"
+    },
+    {
+      "alias": "MacCaille of Croghan",
+      "saintId": "macaille-croghan"
+    },
+    {
+      "alias": "Macaille, Bishop of Croghan",
+      "saintId": "macaille-croghan"
+    },
+    {
+      "alias": "Abraham the Patriarch",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Righteous Forefather Abraham",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Abram",
+      "saintId": "abraham-patriarch"
+    },
+    {
+      "alias": "Isaac the Patriarch",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Righteous Patriarch Isaac",
+      "saintId": "isaac-patriarch"
+    },
+    {
+      "alias": "Jacob the Patriarch",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Righteous Patriarch Jacob",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Israel the Patriarch",
+      "saintId": "jacob-patriarch"
+    },
+    {
+      "alias": "Andrew the Fool-for-Christ",
+      "saintId": "sl-andrew-fool-christ"
+    },
+    {
+      "alias": "Andrew of Constantinople",
+      "saintId": "sl-andrew-fool-christ"
+    },
+    {
+      "alias": "Blessed Andrew of Constantinople",
+      "saintId": "sl-andrew-fool-christ"
+    },
+    {
+      "alias": "Barlaam of Serpukhov",
+      "saintId": "sl-barlaam-serpukhov"
+    },
+    {
+      "alias": "Varlaam of Serpukhov",
+      "saintId": "sl-barlaam-serpukhov"
+    },
+    {
+      "alias": "Varlaam Serpukhovsky",
+      "saintId": "sl-barlaam-serpukhov"
+    },
+    {
+      "alias": "Basil of Ryazan",
+      "saintId": "sl-basil-ryazan"
+    },
+    {
+      "alias": "Basil of Murom",
+      "saintId": "sl-basil-ryazan"
+    },
+    {
+      "alias": "Basil I of Ryazan",
+      "saintId": "sl-basil-ryazan"
+    },
+    {
+      "alias": "Vasily of Ryazan",
+      "saintId": "sl-basil-ryazan"
+    },
+    {
+      "alias": "Basil the Elder",
+      "saintId": "sl-basil-elder"
+    },
+    {
+      "alias": "Basil of Caesarea the Elder",
+      "saintId": "sl-basil-elder"
+    },
+    {
+      "alias": "Benedict of Nursia",
+      "saintId": "sl-benedict-nursia"
+    },
+    {
+      "alias": "Benedict of Norcia",
+      "saintId": "sl-benedict-nursia"
+    },
+    {
+      "alias": "Benedict of Monte Cassino",
+      "saintId": "sl-benedict-nursia"
+    },
+    {
+      "alias": "Sophronius of Jerusalem",
+      "saintId": "sl-sophronius-jerusalem"
+    },
+    {
+      "alias": "Sophronios of Jerusalem",
+      "saintId": "sl-sophronius-jerusalem"
+    },
+    {
+      "alias": "Sophronius the Wise",
+      "saintId": "sl-sophronius-jerusalem"
+    },
+    {
+      "alias": "Peter of Moscow",
+      "saintId": "sl-peter-moscow"
+    },
+    {
+      "alias": "Peter Metropolitan of Moscow",
+      "saintId": "sl-peter-moscow"
+    },
+    {
+      "alias": "Peter of Kiev and All Russia",
+      "saintId": "sl-peter-moscow"
+    },
+    {
+      "alias": "Peter Mogila",
+      "saintId": "sl-peter-mogila"
+    },
+    {
+      "alias": "Petro Mohyla",
+      "saintId": "sl-peter-mogila"
+    },
+    {
+      "alias": "Peter Mohyla",
+      "saintId": "sl-peter-mogila"
+    },
+    {
+      "alias": "Petru Movilă",
+      "saintId": "sl-peter-mogila"
+    },
+    {
+      "alias": "Peter of Kiev Mogila",
+      "saintId": "sl-peter-mogila"
+    },
+    {
+      "alias": "Flavian of Constantinople",
+      "saintId": "sl-flavian-constantinople"
+    },
+    {
+      "alias": "Flavian the Confessor",
+      "saintId": "sl-flavian-constantinople"
+    },
+    {
+      "alias": "Flavianos of Constantinople",
+      "saintId": "sl-flavian-constantinople"
+    },
+    {
+      "alias": "Pulcheria",
+      "saintId": "sl-pulcheria"
+    },
+    {
+      "alias": "Aelia Pulcheria",
+      "saintId": "sl-pulcheria"
+    },
+    {
+      "alias": "Pulcheria the Empress",
+      "saintId": "sl-pulcheria"
+    },
+    {
+      "alias": "Empress Pulcheria",
+      "saintId": "sl-pulcheria"
+    },
+    {
+      "alias": "Conláed of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Conlaed of Kildare",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Conleth",
+      "saintId": "conleth-kildare"
+    },
+    {
+      "alias": "Comhghall of Bangor",
+      "saintId": "comgall-bangor"
+    },
+    {
+      "alias": "Comgall",
+      "saintId": "comgall-bangor"
+    },
+    {
+      "alias": "Finnian of Movilla",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Finian of Moville",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Findbarr of Movilla",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Finnian",
+      "saintId": "finnian-moville"
+    },
+    {
+      "alias": "Cainnech of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Cainneach of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Kenneth of Aghaboe",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Canice",
+      "saintId": "canice-aghaboe"
+    },
+    {
+      "alias": "Mél of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Mael of Ardagh",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Mel",
+      "saintId": "mel-ardagh"
+    },
+    {
+      "alias": "Laurence of Rome",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Archdeacon Lawrence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Archdeacon Laurence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Lawrence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Laurence",
+      "saintId": "lawrence-rome"
+    },
+    {
+      "alias": "Chrysogonos of Aquileia",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Chrysogonus",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Chrysogonos",
+      "saintId": "chrysogonus-aquileia"
+    },
+    {
+      "alias": "Theodota the Mother of the Unmercenaries",
+      "saintId": "theodota-mother"
+    },
+    {
+      "alias": "Theodota, mother of the Unmercenaries",
+      "saintId": "theodota-mother"
+    },
+    {
+      "alias": "Theodota",
+      "saintId": "theodota-mother"
+    },
+    {
+      "alias": "Dovmont of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Timothy of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Dovmont-Timothy",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Dovmont",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Daumantas of Pskov",
+      "saintId": "dovmont-timothy-pskov"
+    },
+    {
+      "alias": "Maria of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Maria Dmitrievna of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Schemanun Martha of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Martha of Pskov",
+      "saintId": "martha-pskov"
+    },
+    {
+      "alias": "Adam the First-Created",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Eve the First-Created",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Adam",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Eve",
+      "saintId": "adam-eve"
+    },
+    {
+      "alias": "Righteous Noah",
+      "saintId": "noah-righteous"
+    },
+    {
+      "alias": "Noah",
+      "saintId": "noah-righteous"
+    },
+    {
+      "alias": "King Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Prophet Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Solomon",
+      "saintId": "solomon-king"
+    },
+    {
+      "alias": "Aaron the High Priest",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Righteous Priest Aaron",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Aaron",
+      "saintId": "aaron-prophet"
+    },
+    {
+      "alias": "Prophet Nathan",
+      "saintId": "nathan-prophet"
+    },
+    {
+      "alias": "Nathan",
+      "saintId": "nathan-prophet"
+    },
+    {
+      "alias": "Apostle Linus",
+      "saintId": "linus-rome"
+    },
+    {
+      "alias": "Linus",
+      "saintId": "linus-rome"
+    },
+    {
+      "alias": "Paulinus the Merciful",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "Paulinus of Nola",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "Paulinus",
+      "saintId": "paulinus-nola"
+    },
+    {
+      "alias": "Zosimas of Palestine",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Zosima of Palestine",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Abba Zosimas",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Zosimas",
+      "saintId": "zosimas-palestine"
+    },
+    {
+      "alias": "Archangel Gabriel",
+      "saintId": "gabriel-archangel"
+    },
+    {
+      "alias": "Gabriel",
+      "saintId": "gabriel-archangel"
+    },
+    {
+      "alias": "Philip the Deacon",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Philip the Evangelist",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Philip of the Seventy",
+      "saintId": "philip-deacon"
+    },
+    {
+      "alias": "Denys of France",
+      "saintId": "dionysius-paris"
+    },
+    {
+      "alias": "Denis of Paris",
+      "saintId": "dionysius-paris"
+    },
+    {
+      "alias": "Denys of Paris",
+      "saintId": "dionysius-paris"
+    },
+    {
+      "alias": "Dionysius, Bishop of Paris",
+      "saintId": "dionysius-paris"
+    },
+    {
+      "alias": "Ninian the Enlightener of Scotland",
+      "saintId": "ninian-whithorn"
+    },
+    {
+      "alias": "Ninian, Bishop of Whithorn",
+      "saintId": "ninian-whithorn"
+    },
+    {
+      "alias": "Ninian of Scotland",
+      "saintId": "ninian-whithorn"
+    },
+    {
+      "alias": "Cyril Lukaris",
+      "saintId": "cyril-lucaris"
+    },
+    {
+      "alias": "Kyrillos Loukaris",
+      "saintId": "cyril-lucaris"
+    },
+    {
+      "alias": "Cyril Loukaris",
+      "saintId": "cyril-lucaris"
+    },
+    {
+      "alias": "Cyril Lucar",
+      "saintId": "cyril-lucaris"
+    },
+    {
+      "alias": "Antiochus",
+      "saintId": "antiochus-palestine"
+    },
+    {
+      "alias": "Ioannikios",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Ioannikius",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Joannicius",
+      "saintId": "ioannikios-great"
+    },
+    {
+      "alias": "Symeon Metaphrastes",
+      "saintId": "symeon-metaphrastes"
+    },
+    {
+      "alias": "Simeon Metaphrastes",
+      "saintId": "symeon-metaphrastes"
+    }
+  ],
+  "paragraphs": {
+    "d-start/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-start/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-start/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-start/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-gospel/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-gospel/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-gospel/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-scripture/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-scripture/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-scripture/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-scripture/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-reading/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-reading/readings/2/0": {
+      "Cyril of Jerusalem": "cyril-jerusalem",
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-faith-examples/overview/0": {
+      "Cyril of Jerusalem": "cyril-jerusalem",
+      "Abraham": "abraham-patriarch",
+      "Cyril": "cyril-jerusalem",
+      "Peter": "peter-paul"
+    },
+    "cg-cyril-faith-examples/readings/1/0": {
+      "Abraham": "abraham-patriarch",
+      "Cyril": "cyril-jerusalem",
+      "Peter": "peter-paul"
+    },
+    "cg-cyril-faith-examples/readings/1/1": {
+      "Abraham": "abraham-patriarch",
+      "Cyril": "cyril-jerusalem",
+      "Isaac": "isaac-patriarch"
+    },
+    "cg-historical-editions/readings/1/0": {
+      "Tikhon": "tikhon"
+    },
+    "d-creed/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-creed/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-trinity/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-trinity/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-incarnation/overview/0": {
+      "Mother of God": "theotokos",
+      "Mary": "theotokos"
+    },
+    "d-incarnation/readings/1/0": {
+      "Mother of God": "theotokos",
+      "Philaret": "sl-philaret-moscow",
+      "Mary": "theotokos"
+    },
+    "d-incarnation/readings/1/1": {
+      "Mary": "theotokos"
+    },
+    "d-spirit/overview/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Basil": "basil"
+    },
+    "d-spirit/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-spirit/readings/2/0": {
+      "Basil": "basil"
+    },
+    "d-spirit/readings/3/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Basil": "basil"
+    },
+    "d-church/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-church/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-church/readings/2/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Paul": "peter-paul"
+    },
+    "d-church/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-tradition/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-tradition/readings/1/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Basil": "basil"
+    },
+    "d-councils/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-councils/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-councils/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-fathers/overview/0": {
+      "Vincent of Lérins": "vincent-lerins",
+      "John of Damascus": "john-damascene",
+      "Vincent": "vincent-lerins",
+      "John": "john-damascene"
+    },
+    "d-fathers/readings/1/0": {
+      "Vincent": "vincent-lerins"
+    },
+    "d-fathers/readings/2/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "d-creation-fall/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-creation-fall/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-creation-fall/readings/2/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Adam": "adam-eve"
+    },
+    "d-cross/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-cross/readings/1/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Adam": "adam-eve"
+    },
+    "d-grace/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-grace/readings/2/0": {
+      "Abraham": "abraham-patriarch",
+      "Cassian": "john-cassian"
+    },
+    "d-theosis/overview/0": {
+      "Athanasius": "athanasius",
+      "Basil": "basil"
+    },
+    "d-theosis/readings/1/0": {
+      "Athanasius": "athanasius"
+    },
+    "d-theosis/readings/2/0": {
+      "Basil": "basil"
+    },
+    "d-theosis/readings/3/0": {
+      "Gregory Palamas": "gregory-palamas",
+      "Athanasius": "athanasius",
+      "Gregory": "gregory-palamas",
+      "Basil": "basil"
+    },
+    "d-initiation/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-initiation/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-eucharist/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-eucharist/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-eucharist/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-eucharist/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-confession/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-confession/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-confession/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-sanctified-life/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-sanctified-life/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "cg-matrimony-betrothal/readings/1/0": {
+      "Isaac": "isaac-patriarch"
+    },
+    "d-virtues/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-virtues/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-virtues/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-discernment/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "d-discernment/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "d-discernment/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "d-discernment/readings/3/0": {
+      "Cassian": "john-cassian"
+    },
+    "d-suffering/readings/1/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Adam": "adam-eve"
+    },
+    "d-suffering/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "d-last-things/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-last-things/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-last-things/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "d-last-things/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "cg-speech-anger/overview/0": {
+      "John Chrysostom": "john-chrysostom",
+      "Chrysostom": "john-chrysostom",
+      "John": "john-chrysostom"
+    },
+    "cg-speech-anger/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-liturgy-communion/overview/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-liturgy-communion/readings/2/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-liturgy-communion/readings/3/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "cg-three-liturgies/overview/0": {
+      "Basil the Great": "basil",
+      "John Chrysostom": "john-chrysostom",
+      "Chrysostom": "john-chrysostom",
+      "Basil": "basil",
+      "John": "john-chrysostom"
+    },
+    "cg-three-liturgies/readings/1/0": {
+      "Chrysostom": "john-chrysostom",
+      "Basil": "basil"
+    },
+    "cg-three-liturgies/readings/1/1": {
+      "Chrysostom": "john-chrysostom",
+      "Basil": "basil"
+    },
+    "cg-prothesis-office/readings/1/0": {
+      "Mother of God": "theotokos"
+    },
+    "cg-prothesis-office/readings/1/1": {
+      "John the Baptist": "john-baptist",
+      "John": "john-baptist",
+      "Mary": "theotokos"
+    },
+    "w-books-cycles/readings/2/0": {
+      "Mother of God": "theotokos"
+    },
+    "cg-first-hour-reading/readings/1/0": {
+      "Mother of God": "theotokos"
+    },
+    "w-prayer-rule/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-prayer-rule/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-prayer-rule/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-prayer-rule/readings/4/0": {
+      "Mother of God": "theotokos"
+    },
+    "w-prayer-rule/readings/5/0": {
+      "Mother of God": "theotokos"
+    },
+    "w-lords-prayer-psalms/overview/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-lords-prayer-psalms/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-lords-prayer-psalms/readings/2/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-lords-prayer-psalms/readings/3/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-jesus-prayer/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-jesus-prayer/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-jesus-prayer/readings/3/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-jesus-prayer/readings/4/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-intercession-lament/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-intercession-lament/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-intercession-lament/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-intercession-lament/readings/4/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-fasting/overview/0": {
+      "Chrysostom": "john-chrysostom",
+      "Cassian": "john-cassian"
+    },
+    "w-fasting/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "w-fasting/readings/2/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-alms-work/overview/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-alms-work/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-alms-work/readings/2/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-alms-work/readings/3/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-alms-work/readings/4/0": {
+      "Mother of God": "theotokos"
+    },
+    "w-alms-work/readings/5/0": {
+      "Mother of God": "theotokos"
+    },
+    "w-family-peace/overview/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-family-peace/readings/1/0": {
+      "Isaac": "isaac-patriarch"
+    },
+    "w-family-peace/readings/3/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-repentance-daily/overview/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-repentance-daily/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "cg-chrysostom-marital-love/overview/0": {
+      "Chrysostom": "john-chrysostom",
+      "Paul": "peter-paul"
+    },
+    "cg-chrysostom-marital-love/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "cg-chrysostom-marital-love/readings/2/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "cg-money-contentment/overview/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "cg-money-contentment/readings/1/0": {
+      "Chrysostom": "john-chrysostom"
+    },
+    "w-calendar-map/readings/6/0": {
+      "Gabriel": "gabriel-archangel",
+      "Mary": "theotokos"
+    },
+    "w-calendar-map/readings/7/0": {
+      "James": "james-zebedee",
+      "Peter": "peter-paul",
+      "John": "john-theologian"
+    },
+    "w-calendar-map/readings/8/0": {
+      "Mother of God": "theotokos",
+      "Mary": "theotokos"
+    },
+    "w-incarnation-feasts/readings/3/0": {
+      "Mother of God": "theotokos",
+      "Simeon": "simeon-godreceiver",
+      "Mary": "theotokos"
+    },
+    "w-incarnation-feasts/readings/6/0": {
+      "Simeon": "simeon-godreceiver",
+      "Anna": "anna-prophetess"
+    },
+    "w-lent-holy-week/overview/0": {
+      "Ephraim": "ephrem"
+    },
+    "w-rocor-parish/readings/6/0": {
+      "Mother of God": "theotokos"
+    },
+    "h-apostolic-church/overview/0": {
+      "Ignatius": "ignatius",
+      "Irenaeus": "irenaeus"
+    },
+    "h-apostolic-church/readings/1/0": {
+      "Ignatius": "ignatius"
+    },
+    "h-apostolic-church/readings/2/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "h-apostolic-church/readings/4/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "h-councils-history/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-councils-history/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-councils-history/readings/2/0": {
+      "Cyril": "cyril-alexandria"
+    },
+    "h-schism/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-schism/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-rocor/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-rocor/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "cg-ephesus-cyril-letter/overview/0": {
+      "Cyril of Alexandria": "cyril-alexandria",
+      "Cyril": "cyril-alexandria"
+    },
+    "cg-ephesus-cyril-letter/readings/1/0": {
+      "Cyril": "cyril-alexandria"
+    },
+    "cg-ephesus-cyril-letter/readings/1/1": {
+      "Mother of God": "theotokos",
+      "Mary": "theotokos"
+    },
+    "cg-chalcedon-definition/readings/1/0": {
+      "Cyril": "cyril-alexandria",
+      "Leo": "leo-rome",
+      "Flavian": "sl-flavian-constantinople"
+    },
+    "h-martyrs/overview/0": {
+      "Polycarp": "polycarp"
+    },
+    "h-martyrs/readings/1/0": {
+      "Polycarp": "polycarp"
+    },
+    "h-teaching-fathers/overview/0": {
+      "Athanasius": "athanasius",
+      "Basil": "basil"
+    },
+    "h-teaching-fathers/readings/1/0": {
+      "Athanasius": "athanasius"
+    },
+    "h-teaching-fathers/readings/2/0": {
+      "Basil": "basil"
+    },
+    "h-teaching-fathers/readings/3/0": {
+      "Athanasius": "athanasius"
+    },
+    "h-teaching-fathers/readings/4/0": {
+      "Basil": "basil"
+    },
+    "h-repentant-saints/overview/0": {
+      "Seraphim of Sarov": "seraphim",
+      "Mary of Egypt": "mary-egypt",
+      "Philaret": "sl-philaret-moscow",
+      "Seraphim": "seraphim",
+      "Mary": "mary-egypt"
+    },
+    "h-repentant-saints/readings/1/0": {
+      "Mary of Egypt": "mary-egypt",
+      "Zosimas": "zosimas-palestine",
+      "Mary": "mary-egypt"
+    },
+    "h-repentant-saints/readings/2/0": {
+      "Seraphim": "seraphim"
+    },
+    "h-repentant-saints/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-repentant-saints/readings/4/0": {
+      "Zosimas": "zosimas-palestine",
+      "Mary": "mary-egypt"
+    },
+    "h-repentant-saints/readings/5/0": {
+      "Seraphim": "seraphim"
+    },
+    "h-mercy-saints/overview/0": {
+      "Herman of Alaska": "herman",
+      "John Maximovitch": "john-shanghai",
+      "Olga of Kwethluk": "olga-kwethluk",
+      "Philaret": "sl-philaret-moscow",
+      "Herman": "herman",
+      "John": "john-shanghai",
+      "Olga": "olga-kwethluk"
+    },
+    "h-mercy-saints/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "h-mercy-saints/readings/2/0": {
+      "Herman": "herman"
+    },
+    "h-mercy-saints/readings/3/0": {
+      "John": "john-shanghai"
+    },
+    "h-mercy-saints/readings/4/0": {
+      "Herman": "herman"
+    },
+    "h-mercy-saints/readings/5/0": {
+      "John": "john-shanghai"
+    },
+    "h-mercy-saints/readings/6/0": {
+      "Olga of Kwethluk": "olga-kwethluk",
+      "Olga": "olga-kwethluk"
+    },
+    "h-theotokos/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Mother of God": "theotokos",
+      "John": "john-damascene",
+      "Mary": "theotokos"
+    },
+    "h-theotokos/readings/1/0": {
+      "John": "john-damascene",
+      "Mary": "theotokos"
+    },
+    "h-theotokos/readings/2/0": {
+      "John": "john-damascene",
+      "Mary": "theotokos"
+    },
+    "h-theotokos/readings/3/0": {
+      "Mother of God": "theotokos",
+      "Cyril": "cyril-alexandria"
+    },
+    "h-icons/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "h-icons/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "h-icons/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "h-icons/readings/3/0": {
+      "John": "john-damascene"
+    },
+    "h-icons/readings/4/0": {
+      "John": "john-damascene"
+    },
+    "h-intercession/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Philaret": "sl-philaret-moscow",
+      "John": "john-damascene"
+    },
+    "h-intercession/readings/1/0": {
+      "Cyril of Jerusalem": "cyril-jerusalem",
+      "Philaret": "sl-philaret-moscow",
+      "Basil": "basil",
+      "Cyril": "cyril-jerusalem"
+    },
+    "h-intercession/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "h-intercession/readings/3/0": {
+      "John": "john-damascene"
+    },
+    "h-relics-discernment/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Polycarp": "polycarp",
+      "John": "john-damascene"
+    },
+    "h-relics-discernment/readings/1/0": {
+      "Polycarp": "polycarp"
+    },
+    "h-relics-discernment/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "h-relics-discernment/readings/3/0": {
+      "Polycarp": "polycarp"
+    },
+    "h-relics-discernment/readings/4/0": {
+      "John": "john-damascene"
+    },
+    "r-scripture-tradition/overview/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Basil": "basil"
+    },
+    "r-scripture-tradition/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-scripture-tradition/readings/3/0": {
+      "Basil": "basil"
+    },
+    "r-canon-reading/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-canon-reading/readings/2/0": {
+      "Athanasius": "athanasius",
+      "Philaret": "sl-philaret-moscow",
+      "Cyril": "cyril-jerusalem"
+    },
+    "r-canon-reading/readings/3/0": {
+      "Athanasius": "athanasius",
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-canon-reading/readings/5/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-councils-certainty/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-councils-certainty/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-councils-certainty/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-justification/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-faith-works/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-election-freedom/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "r-election-freedom/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "r-assurance/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-assurance/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-baptism/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-baptism/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-baptism/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-baptism/readings/5/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-eucharist/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "r-eucharist/readings/3/0": {
+      "John": "john-damascene"
+    },
+    "r-eucharist/readings/4/0": {
+      "John": "john-damascene"
+    },
+    "r-eucharist/readings/6/0": {
+      "John": "john-damascene"
+    },
+    "r-images-saints/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Mother of God": "theotokos",
+      "John": "john-damascene"
+    },
+    "r-images-saints/readings/3/0": {
+      "John": "john-damascene"
+    },
+    "r-images-saints/readings/6/0": {
+      "Mary": "theotokos"
+    },
+    "r-family-conversations/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-family-conversations/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "r-family-conversations/readings/3/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-apophatic/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-apophatic/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-apophatic/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-divine-names/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-divine-names/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-divine-names/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-hypostasis/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-hypostasis/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-hypostasis/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-divine-properties/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-divine-properties/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-divine-properties/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-aeon-creation/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-aeon-creation/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-aeon-creation/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-angels-demons/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-angels-demons/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-angels-demons/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-image-likeness/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-image-likeness/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-image-likeness/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-providence-freedom/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-providence-freedom/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-providence-freedom/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-nature-person/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-nature-person/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-theotokos-christology/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Mother of God": "theotokos",
+      "John": "john-damascene",
+      "Mary": "theotokos"
+    },
+    "ex-theotokos-christology/readings/1/0": {
+      "John": "john-damascene",
+      "Mary": "theotokos"
+    },
+    "ex-theotokos-christology/readings/2/0": {
+      "John": "john-damascene",
+      "Mary": "theotokos"
+    },
+    "ex-two-wills/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-two-wills/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-two-wills/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-two-energies/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-two-energies/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-two-energies/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-innocent-passions/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-innocent-passions/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-innocent-passions/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-hades-victory/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-hades-victory/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-hades-victory/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-cross-east/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-cross-east/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-cross-east/readings/2/0": {
+      "John": "john-damascene"
+    },
+    "ex-resurrection-body/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Philaret": "sl-philaret-moscow",
+      "John": "john-damascene"
+    },
+    "ex-resurrection-body/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-resurrection-body/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-repentance-cyril/overview/0": {
+      "Cyril of Jerusalem": "cyril-jerusalem",
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-repentance-cyril/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-repentance-cyril/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-repentance-cyril/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-repentance-cyril/readings/4/0": {
+      "Nathan": "nathan-prophet",
+      "Cyril": "cyril-jerusalem",
+      "David": "david-king"
+    },
+    "ex-repentance-cyril/readings/5/0": {
+      "Nathan": "nathan-prophet",
+      "Cyril": "cyril-jerusalem",
+      "David": "david-king"
+    },
+    "ex-faith-baptism/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-faith-baptism/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-faith-baptism/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-faith-baptism/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-faith-baptism/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-faith-baptism/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-faith-baptism/readings/6/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-canon-cyril/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-canon-cyril/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-canon-cyril/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-canon-cyril/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-canon-cyril/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-canon-cyril/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-judgment-cyril/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-judgment-cyril/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-judgment-cyril/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-judgment-cyril/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-judgment-cyril/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-judgment-cyril/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-procatechesis-purpose/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-procatechesis-purpose/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-procatechesis-purpose/readings/1/1": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-procatechesis-instruction/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-procatechesis-instruction/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-procatechesis-instruction/readings/1/1": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-catholic-church/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-catholic-church/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-catholic-church/readings/1/1": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-irenaeus-septuagint/overview/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "cg-irenaeus-septuagint/readings/1/0": {
+      "Irenaeus": "irenaeus",
+      "Isaiah": "isaiah-prophet",
+      "Mary": "theotokos"
+    },
+    "cg-irenaeus-septuagint/readings/1/1": {
+      "Joseph": "joseph-betrothed",
+      "David": "david-king"
+    },
+    "ex-renunciation/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-renunciation/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-renunciation/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-renunciation/readings/3/0": {
+      "Cyril": "cyril-jerusalem",
+      "Moses": "moses-prophet"
+    },
+    "ex-renunciation/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-renunciation/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-renunciation/readings/6/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/readings/2/0": {
+      "Cyril": "cyril-jerusalem",
+      "Adam": "adam-eve"
+    },
+    "ex-baptism-immersion/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/readings/6/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-baptism-immersion/readings/7/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/readings/5/0": {
+      "Solomon": "solomon-king",
+      "Aaron": "aaron-prophet",
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-chrismation-cyril/readings/6/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/1/0": {
+      "Cyril": "cyril-jerusalem",
+      "Paul": "peter-paul"
+    },
+    "ex-eucharist-cyril/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/6/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/7/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/8/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-eucharist-cyril/readings/9/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-anaphora/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-anaphora/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-anaphora/readings/1/1": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-communion/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-communion/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "cg-cyril-communion/readings/1/1": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-first-commandment/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-first-commandment/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-first-commandment/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-second-commandment/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-second-commandment/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-second-commandment/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-third-commandment/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-third-commandment/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-third-commandment/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-fourth-commandment/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-fourth-commandment/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-fourth-commandment/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-parents-pastors/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-parents-pastors/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-parents-pastors/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-life-mercy/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-life-mercy/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-life-mercy/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-chastity-marriage/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-chastity-marriage/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-chastity-marriage/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-property-truth/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-property-truth/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-property-truth/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "cg-fifth-commandment-duties/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "cg-fifth-commandment-duties/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-poverty-mourning/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-poverty-mourning/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-poverty-mourning/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-meekness-righteousness/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-meekness-righteousness/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-meekness-righteousness/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-mercy-purity/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-mercy-purity/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-mercy-purity/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-peace-persecution/overview/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-peace-persecution/readings/1/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-peace-persecution/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-prayer-foundation/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-four-prayers/overview/0": {
+      "Cassian": "john-cassian",
+      "Paul": "peter-paul"
+    },
+    "ex-four-prayers/readings/2/0": {
+      "Paul": "peter-paul"
+    },
+    "ex-lords-prayer-mystagogy/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/6/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/7/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-lords-prayer-mystagogy/readings/8/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-continual-prayer-cassian/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-continual-prayer-cassian/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-eight-faults/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-gluttony-acedia/overview/0": {
+      "John Cassian": "john-cassian",
+      "Cassian": "john-cassian",
+      "John": "john-cassian"
+    },
+    "ex-gluttony-acedia/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-gluttony-acedia/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-gluttony-acedia/readings/3/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-vainglory-pride/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-vainglory-pride/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-vainglory-pride/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-grace-struggle/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-grace-struggle/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-grace-struggle/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-goal-purity/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-goal-purity/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-fear-love/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-fear-love/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-friendship-patience/overview/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-friendship-patience/readings/1/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-friendship-patience/readings/2/0": {
+      "Cassian": "john-cassian"
+    },
+    "ex-baptism-spirit/overview/0": {
+      "Basil": "basil"
+    },
+    "ex-baptism-spirit/readings/1/0": {
+      "Basil": "basil"
+    },
+    "ex-baptism-spirit/readings/2/0": {
+      "Basil": "basil"
+    },
+    "ex-spirit-gifts/overview/0": {
+      "Basil": "basil"
+    },
+    "ex-spirit-gifts/readings/1/0": {
+      "Basil": "basil"
+    },
+    "ex-spirit-gifts/readings/2/0": {
+      "Basil": "basil"
+    },
+    "ex-unwritten-tradition/overview/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Basil": "basil"
+    },
+    "ex-unwritten-tradition/readings/1/0": {
+      "Basil": "basil"
+    },
+    "ex-unwritten-tradition/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-doxology-basil/overview/0": {
+      "Basil": "basil"
+    },
+    "ex-doxology-basil/readings/1/0": {
+      "Basil": "basil"
+    },
+    "ex-doxology-basil/readings/2/0": {
+      "Basil": "basil"
+    },
+    "ex-annunciation-feast/overview/0": {
+      "Mary": "theotokos"
+    },
+    "ex-annunciation-feast/readings/1/0": {
+      "Gabriel": "gabriel-archangel",
+      "Jacob": "jacob-patriarch",
+      "Mary": "theotokos"
+    },
+    "ex-annunciation-feast/readings/2/0": {
+      "Mary": "theotokos"
+    },
+    "ex-transfiguration-feast/overview/0": {
+      "Elijah": "elijah-prophet",
+      "James": "james-zebedee",
+      "Moses": "moses-prophet",
+      "Peter": "peter-paul",
+      "John": "john-theologian"
+    },
+    "ex-transfiguration-feast/readings/2/0": {
+      "Elijah": "elijah-prophet",
+      "Moses": "moses-prophet"
+    },
+    "ex-dormition-feast/overview/0": {
+      "Mother of God": "theotokos"
+    },
+    "ex-dormition-feast/readings/1/0": {
+      "Mary": "theotokos"
+    },
+    "ex-dormition-feast/readings/2/0": {
+      "Mary": "theotokos"
+    },
+    "ex-antony-calling/overview/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-calling/readings/1/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-calling/readings/2/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-calling/readings/3/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-calling/readings/4/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-discernment/overview/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-discernment/readings/1/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-discernment/readings/2/0": {
+      "Antony": "antony"
+    },
+    "ex-antony-discernment/readings/3/0": {
+      "Antony": "antony"
+    },
+    "ex-martin-cloak/overview/0": {
+      "Martin": "martin-tours"
+    },
+    "ex-martin-cloak/readings/1/0": {
+      "Martin": "martin-tours"
+    },
+    "ex-martin-cloak/readings/2/0": {
+      "Martin": "martin-tours"
+    },
+    "ex-martin-humility/overview/0": {
+      "Martin": "martin-tours"
+    },
+    "ex-martin-humility/readings/1/0": {
+      "Paulinus": "paulinus-nola",
+      "Martin": "martin-tours"
+    },
+    "ex-martin-humility/readings/2/0": {
+      "Martin": "martin-tours"
+    },
+    "ex-passover-type/overview/0": {
+      "Cyril of Jerusalem": "cyril-jerusalem",
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-passover-type/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-passover-type/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-passover-type/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-passover-type/readings/4/0": {
+      "Cyril": "cyril-jerusalem",
+      "Moses": "moses-prophet",
+      "Noah": "noah-righteous"
+    },
+    "ex-red-sea-type/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Cyril": "cyril-jerusalem",
+      "John": "john-damascene"
+    },
+    "ex-red-sea-type/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-red-sea-type/readings/2/0": {
+      "Cyril": "cyril-jerusalem",
+      "Moses": "moses-prophet"
+    },
+    "ex-red-sea-type/readings/3/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-manna-type/overview/0": {
+      "Philaret": "sl-philaret-moscow",
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-manna-type/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-manna-type/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-manna-type/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-manna-type/readings/4/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-sanctuary-type/overview/0": {
+      "John of Damascus": "john-damascene",
+      "Philaret": "sl-philaret-moscow",
+      "John": "john-damascene"
+    },
+    "ex-sanctuary-type/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-sanctuary-type/readings/2/0": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "ex-scripture-councils/overview/0": {
+      "Vincent of Lérins": "vincent-lerins",
+      "Vincent": "vincent-lerins"
+    },
+    "ex-scripture-councils/readings/2/0": {
+      "Vincent": "vincent-lerins"
+    },
+    "ex-election-reading/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-election-reading/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-christology-reading/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-christology-reading/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-images-reading/overview/0": {
+      "John of Damascus": "john-damascene",
+      "John": "john-damascene"
+    },
+    "ex-images-reading/readings/1/0": {
+      "John": "john-damascene"
+    },
+    "ex-books-vocabulary/readings/1/0": {
+      "John Chrysostom": "john-chrysostom",
+      "Chrysostom": "john-chrysostom",
+      "Basil": "basil",
+      "John": "john-chrysostom"
+    },
+    "ex-chant-vocabulary/overview/0": {
+      "Basil": "basil"
+    },
+    "ex-chant-vocabulary/readings/3/0": {
+      "Basil": "basil"
+    },
+    "fc-clement-repentance/overview/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-repentance/readings/1/0": {
+      "Clement": "clement-rome",
+      "Noah": "noah-righteous"
+    },
+    "fc-clement-humility/overview/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-humility/readings/1/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-humility/readings/2/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-faith-works/overview/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-faith-works/readings/1/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-faith-works/readings/2/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-ministry/overview/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-ministry/readings/1/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-clement-ministry/readings/2/0": {
+      "Clement": "clement-rome"
+    },
+    "fc-polycarp-faith/overview/0": {
+      "Polycarp": "polycarp"
+    },
+    "fc-polycarp-faith/readings/1/0": {
+      "Polycarp": "polycarp"
+    },
+    "fc-polycarp-faith/readings/2/0": {
+      "Polycarp": "polycarp"
+    },
+    "fc-polycarp-parish/overview/0": {
+      "Polycarp": "polycarp"
+    },
+    "fc-polycarp-parish/readings/1/0": {
+      "Polycarp": "polycarp"
+    },
+    "fc-polycarp-parish/readings/2/0": {
+      "Polycarp": "polycarp"
+    },
+    "fc-justin-worship/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-worship/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-worship/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-incarnation/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-incarnation/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-incarnation/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-resurrection/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-resurrection/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-resurrection/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-prophecy/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-prophecy/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-prophecy/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-baptism/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-baptism/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-baptism/readings/2/0": {
+      "Justin": "justin",
+      "Moses": "moses-prophet"
+    },
+    "fc-justin-eucharist/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-eucharist/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-eucharist/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-sunday/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-sunday/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-sunday/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-freedom/overview/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-freedom/readings/1/0": {
+      "Justin": "justin"
+    },
+    "fc-justin-freedom/readings/2/0": {
+      "Justin": "justin"
+    },
+    "fc-irenaeus-scripture/overview/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-scripture/readings/1/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-scripture/readings/2/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-succession/overview/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-succession/readings/1/0": {
+      "Irenaeus": "irenaeus",
+      "Linus": "linus-rome",
+      "Peter": "peter-paul",
+      "Paul": "peter-paul"
+    },
+    "fc-irenaeus-succession/readings/2/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-recapitulation/overview/0": {
+      "Irenaeus": "irenaeus",
+      "Adam": "adam-eve"
+    },
+    "fc-irenaeus-recapitulation/readings/1/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-recapitulation/readings/2/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-growth/overview/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-growth/readings/1/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-growth/readings/2/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-body-eucharist/overview/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-body-eucharist/readings/1/0": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-irenaeus-body-eucharist/readings/2/0": {
+      "Irenaeus": "irenaeus",
+      "Paul": "peter-paul"
+    },
+    "fc-cyril-father/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-father/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-father/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-father/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-father/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-almighty/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-almighty/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-almighty/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-almighty/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-almighty/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-almighty/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-creator/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-creator/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-creator/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-creator/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-creator/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-jesus-christ/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-jesus-christ/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-jesus-christ/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-jesus-christ/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-jesus-christ/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-jesus-christ/readings/5/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-incarnation/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-incarnation/readings/1/0": {
+      "Cyril": "cyril-jerusalem",
+      "John": "john-theologian"
+    },
+    "fc-cyril-incarnation/readings/2/0": {
+      "Isaiah": "isaiah-prophet",
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-incarnation/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-incarnation/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-cross/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-cross/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-cross/readings/2/0": {
+      "Cyril": "cyril-jerusalem",
+      "Adam": "adam-eve"
+    },
+    "fc-cyril-cross/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-cross/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-resurrection/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-resurrection/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-resurrection/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-resurrection/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-spirit/overview/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-spirit/readings/1/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-spirit/readings/2/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-spirit/readings/3/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-cyril-spirit/readings/4/0": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-abraham-covenant/overview/0": {
+      "Abraham": "abraham-patriarch",
+      "Clement": "clement-rome",
+      "Paul": "peter-paul"
+    },
+    "fc-abraham-covenant/readings/1/0": {
+      "Abraham": "abraham-patriarch",
+      "Clement": "clement-rome",
+      "Isaac": "isaac-patriarch"
+    },
+    "fc-david-promise/overview/0": {
+      "Cyril": "cyril-jerusalem",
+      "David": "david-king",
+      "Luke": "luke"
+    },
+    "fc-david-promise/readings/1/0": {
+      "Solomon": "solomon-king",
+      "Cyril": "cyril-jerusalem",
+      "David": "david-king",
+      "Moses": "moses-prophet"
+    },
+    "fc-david-promise/readings/2/0": {
+      "Cyril": "cyril-jerusalem",
+      "Mary": "theotokos"
+    },
+    "fc-servant-christ/overview/0": {
+      "Clement": "clement-rome",
+      "Isaiah": "isaiah-prophet",
+      "Philip": "philip-deacon"
+    },
+    "fc-servant-christ/readings/1/0": {
+      "Clement": "clement-rome",
+      "Philip": "philip-deacon"
+    }
+  },
+  "sources": {
+    "cg-s-chrysostom-ethics": {
+      "Chrysostom": "john-chrysostom",
+      "John Chrysostom": "john-chrysostom"
+    },
+    "dq-athanasius": {
+      "Athanasius": "athanasius"
+    },
+    "dq-basil-spirit": {
+      "Basil": "basil"
+    },
+    "dq-cassian2": {
+      "Cassian": "john-cassian",
+      "John Cassian": "john-cassian"
+    },
+    "dq-cassian3": {
+      "Cassian": "john-cassian",
+      "John Cassian": "john-cassian"
+    },
+    "dq-cyril4": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "dq-damascene1": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "dq-damascene4": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "dq-link-palamas": {
+      "Gregory Palamas": "gregory-palamas"
+    },
+    "dq-philaret": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "dq-vincent": {
+      "Vincent": "vincent-lerins"
+    },
+    "ex-s-antony": {
+      "Athanasius": "athanasius",
+      "Antony": "antony",
+      "Anthony": "antony"
+    },
+    "ex-s-basil": {
+      "Basil": "basil"
+    },
+    "ex-s-cassian": {
+      "Cassian": "john-cassian",
+      "John Cassian": "john-cassian"
+    },
+    "ex-s-cyril": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "ex-s-damascene1": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "ex-s-damascene2": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "ex-s-damascene3": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "ex-s-damascene4": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "ex-s-martin": {
+      "Martin": "martin-tours"
+    },
+    "fc-s-clement": {
+      "Clement": "clement-rome"
+    },
+    "fc-s-cyril": {
+      "Cyril": "cyril-jerusalem"
+    },
+    "fc-s-irenaeus": {
+      "Irenaeus": "irenaeus"
+    },
+    "fc-s-justin": {
+      "Justin": "justin"
+    },
+    "fc-s-polycarp": {
+      "Polycarp": "polycarp"
+    },
+    "hq-athanasius-54": {
+      "Athanasius": "athanasius"
+    },
+    "hq-basil-original": {
+      "Basil": "basil"
+    },
+    "hq-damascene-baptism": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "hq-damascene-eucharist": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "hq-damascene-freedom": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "hq-damascene-icons": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "hq-damascene-mary": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "hq-damascene-saints": {
+      "John": "john-damascene",
+      "Damascene": "john-damascene"
+    },
+    "hq-ephesus": {
+      "Cyril": "cyril-alexandria"
+    },
+    "hq-festal": {
+      "Athanasius": "athanasius"
+    },
+    "hq-herman": {
+      "Herman": "herman"
+    },
+    "hq-ignatius-original": {
+      "Ignatius": "ignatius"
+    },
+    "hq-irenaeus-original": {
+      "Irenaeus": "irenaeus"
+    },
+    "hq-john-shanghai": {
+      "John": "john-shanghai"
+    },
+    "hq-mary-egypt": {
+      "Mary": "mary-egypt"
+    },
+    "hq-olga": {
+      "Olga": "olga-kwethluk"
+    },
+    "hq-philaret": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "hq-polycarp-original": {
+      "Polycarp": "polycarp"
+    },
+    "hq-seraphim": {
+      "Seraphim": "seraphim"
+    },
+    "wq-cassian": {
+      "Cassian": "john-cassian",
+      "John Cassian": "john-cassian"
+    },
+    "wq-chrysostom-matthew": {
+      "Chrysostom": "john-chrysostom",
+      "John Chrysostom": "john-chrysostom"
+    },
+    "sl-life-philaret-moscow": {
+      "Philaret": "sl-philaret-moscow"
+    },
+    "sl-life-nikolai-zhicha": {
+      "Nikolai": "sl-nikolai-zhicha"
+    },
+    "sl-life-makarios-corinth": {
+      "Makarios": "sl-makarios-corinth"
+    },
+    "sl-life-nikodemos-hagiorite": {
+      "Nikodemos": "sl-nikodemos-hagiorite"
+    },
+    "sl-life-andrew-rublev": {
+      "Andrew": "sl-andrew-rublev"
+    },
+    "sl-life-alypius-kiev": {
+      "Alypius": "sl-alypius-kiev"
+    },
+    "sl-life-constantine-great": {
+      "Constantine": "sl-constantine-great"
+    },
+    "sl-gap-life-antiochus-palestine": {
+      "Antiochus": "antiochus-palestine"
+    },
+    "sl-gap-life-ioannikios-great": {
+      "Ioannikios": "ioannikios-great"
+    },
+    "sl-gap-life-symeon-metaphrastes": {
+      "Symeon": "symeon-metaphrastes"
+    },
+    "sl-gap-life-john-dwarf": {
+      "John": "john-dwarf"
+    },
+    "sl-gap-life-gregory-thaumaturgus": {
+      "Gregory": "gregory-thaumaturgus"
+    },
+    "sl-gap-life-macrina-elder": {
+      "Macrina": "macrina-elder"
+    },
+    "sl-gap-life-emilia": {
+      "Emilia": "emilia-cappadocia"
+    },
+    "sl-gap-life-peter-sebaste": {
+      "Peter": "peter-sebaste"
+    },
+    "sl-gap-life-procopius-caesarea": {
+      "Procopius": "procopius-caesarea"
+    },
+    "sl-gap-life-macaille-croghan": {
+      "Macaille": "macaille-croghan"
+    },
+    "sl-life-abraham-patriarch": {
+      "Abraham": "abraham-patriarch"
+    },
+    "sl-life-isaac-patriarch": {
+      "Isaac": "isaac-patriarch"
+    },
+    "sl-life-jacob-patriarch": {
+      "Jacob": "jacob-patriarch"
+    },
+    "sl-life-andrew-fool-christ": {
+      "Andrew": "sl-andrew-fool-christ"
+    },
+    "sl-life-barlaam-serpukhov": {
+      "Barlaam": "sl-barlaam-serpukhov"
+    },
+    "sl-life-basil-ryazan": {
+      "Basil": "sl-basil-ryazan"
+    },
+    "sl-family-basil-elder": {
+      "Basil": "sl-basil-elder"
+    },
+    "sl-life-benedict-nursia": {
+      "Benedict": "sl-benedict-nursia"
+    },
+    "sl-life-sophronius-jerusalem": {
+      "Sophronius": "sl-sophronius-jerusalem"
+    },
+    "sl-life-peter-moscow": {
+      "Peter": "sl-peter-moscow"
+    },
+    "sl-history-peter-mogila": {
+      "Peter": "sl-peter-mogila"
+    },
+    "sl-life-flavian-constantinople": {
+      "Flavian": "sl-flavian-constantinople"
+    },
+    "sl-life-pulcheria": {
+      "Pulcheria": "sl-pulcheria"
+    },
+    "sl-rocor-british-saints-list": {
+      "Conleth": "conleth-kildare",
+      "Finnian": "finnian-moville",
+      "Canice": "canice-aghaboe",
+      "Mel": "mel-ardagh"
+    },
+    "sl-life-comgall-bangor": {
+      "Comgall": "comgall-bangor"
+    },
+    "sl-life-lawrence-rome": {
+      "Lawrence": "lawrence-rome"
+    },
+    "sl-life-chrysogonus-aquileia": {
+      "Chrysogonus": "chrysogonus-aquileia"
+    },
+    "sl-life-theodota-mother": {
+      "Theodota,": "theodota-mother"
+    },
+    "sl-life-dovmont-timothy-pskov": {
+      "Dovmont-Timothy": "dovmont-timothy-pskov"
+    },
+    "sl-historic-martha-pskov": {
+      "Martha": "martha-pskov"
+    },
+    "sl-fathers-before-nativity": {
+      "Adam": "adam-eve"
+    },
+    "sl-life-noah-righteous": {
+      "Noah": "noah-righteous"
+    },
+    "sl-life-solomon-king": {
+      "Solomon": "solomon-king"
+    },
+    "sl-life-aaron-prophet": {
+      "Aaron": "aaron-prophet"
+    },
+    "sl-life-nathan-prophet": {
+      "Nathan": "nathan-prophet"
+    },
+    "sl-life-linus-rome": {
+      "Linus": "linus-rome"
+    },
+    "sl-life-paulinus-nola": {
+      "Paulinus": "paulinus-nola"
+    },
+    "sl-life-zosimas-palestine": {
+      "Zosimas": "zosimas-palestine"
+    },
+    "sl-life-gabriel-archangel": {
+      "Gabriel": "gabriel-archangel"
+    },
+    "sl-life-philip-deacon": {
+      "Philip": "philip-deacon"
+    },
+    "sl-gap-life-dionysius-paris": {
+      "Dionysius": "dionysius-paris"
+    },
+    "sl-gap-life-ninian-whithorn": {
+      "Ninian": "ninian-whithorn"
+    },
+    "sl-gap-cyril-lucaris-act": {
+      "Cyril": "cyril-lucaris"
+    }
+  },
+  "scoped": {
+    "[data-scripture-source=\"sa-life-mary-egypt\"]": {
+      "Zosimas": "zosimas-palestine",
+      "Zosima": "zosimas-palestine"
+    },
+    "main[data-route^=\"#/prayer/np-morning-7\"]": {
+      "Basil": "basil"
+    },
+    "[data-tl-id=\"to-pentecost\"]": {
+      "Peter": "peter-paul"
+    },
+    "[data-tl-id=\"to-ignatius\"]": {
+      "Ignatius": "ignatius"
+    },
+    "[data-tl-id=\"to-milan-313\"]": {
+      "Constantine": "sl-constantine-great"
+    },
+    "[data-tl-id=\"to-athanasius-367\"]": {
+      "Athanasius": "athanasius"
+    },
+    "[data-tl-id=\"to-ephesus-431\"]": {
+      "Cyril": "cyril-alexandria"
+    },
+    "[data-tl-id=\"to-constantinople-553\"]": {
+      "Cyril": "cyril-alexandria"
+    },
+    "[data-tl-id=\"to-mogila-1642\"]": {
+      "Mogila": "sl-peter-mogila"
+    }
+  },
+  "exclusions": {
+    "d-start/readings/1/0": [
+      "James"
+    ],
+    "cg-historical-editions/readings/1/0": [
+      "James"
+    ],
+    "d-confession/readings/3/0": [
+      "Luke"
+    ],
+    "cg-chrismation-ablution/readings/1/0": [
+      "Matthew"
+    ],
+    "cg-holy-unction/overview/0": [
+      "James"
+    ],
+    "w-calendar-map/readings/6/0": [
+      "Luke"
+    ],
+    "w-incarnation-feasts/readings/6/0": [
+      "Luke"
+    ],
+    "h-schism/readings/2/0": [
+      "John"
+    ],
+    "ex-poverty-mourning/overview/0": [
+      "Matthew"
+    ],
+    "ex-martin-cloak/readings/2/0": [
+      "Matthew"
+    ],
+    "r-pca-piper/overview/0": [
+      "John Piper"
+    ]
+  },
+  "excludedAliases": [
+    "Parents of the Theotokos",
+    "Ancestors of God",
+    "Son of Jesse",
+    "Daughter of Phanuel",
+    "Mother of Augustine",
+    "Wisdom, Faith, Hope, Charity"
+  ]
+}

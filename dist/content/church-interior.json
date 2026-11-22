@@ -1,0 +1,2428 @@
+{
+  "sources": [
+    {
+      "id": "cg-hapgood1",
+      "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church, part 1",
+      "author": "Orthodox Church service books; compiled and translated by Isabel Florence Hapgood; introductory explanations chiefly derived from Archpriest Konstantin Nikolsky",
+      "url": "https://www.sermonindex.net/fathers/orthodox-service-book-hapgood-part-1/",
+      "edition": "Boston and New York: Houghton, Mifflin and Company, 1906; SermonIndex transcription compared with the original Cornell scan",
+      "tradition": "Eastern Orthodox",
+      "type": "Historical Russian-tradition service book and attributed explanatory commentary",
+      "rights": "Public domain in the United States: identified 1906 English edition. No blanket worldwide status is asserted.",
+      "translator": "Isabel Florence Hapgood",
+      "year": 1906,
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "scanUrl": "https://archive.org/details/cu31924029363128",
+      "context": "A historical edition is displayed with its own roles, conditional rubrics, and explanatory perspective. Clergy directions are observations of this published rite, not a visitor prayer rule."
+    },
+    {
+      "id": "cg-hapgood2",
+      "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church, part 2",
+      "author": "Orthodox Church service books; compiled and translated by Isabel Florence Hapgood; introductory explanations chiefly derived from Archpriest Konstantin Nikolsky",
+      "url": "https://www.sermonindex.net/fathers/orthodox-service-book-hapgood-part-2/",
+      "edition": "Boston and New York: Houghton, Mifflin and Company, 1906; SermonIndex transcription compared with the original Cornell scan",
+      "tradition": "Eastern Orthodox",
+      "type": "Historical Russian-tradition service book and attributed explanatory commentary",
+      "rights": "Public domain in the United States: identified 1906 English edition. No blanket worldwide status is asserted.",
+      "translator": "Isabel Florence Hapgood",
+      "year": 1906,
+      "work": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+      "scanUrl": "https://archive.org/details/cu31924029363128",
+      "context": "A historical edition is displayed with its own roles, conditional rubrics, and explanatory perspective. Clergy directions are observations of this published rite, not a visitor prayer rule."
+    },
+    {
+      "id": "cg-oca-architecture",
+      "title": "Church Architecture & Orthodox Theology",
+      "author": "Orthodox Church in America, Questions & Answers",
+      "url": "https://www.oca.org/questions/liturgicarts/church-architecture-orthodox-theology",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Official Orthodox architectural explanation",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words."
+    },
+    {
+      "id": "cg-fitzgerald-house-god",
+      "title": "House of God: What’s Inside an Orthodox Church?",
+      "author": "Father Thomas Fitzgerald; Greek Orthodox Archdiocese of America; parish republication by Saint Elpis Greek Orthodox Church",
+      "url": "https://stelpis.va.goarch.org/our-faith/house-of-god",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published Orthodox explanation",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "work": "Treasures of Orthodoxy, House of God",
+      "canonicalUrl": "https://www.goarch.org/-/house-of-god-inside-an-orthodox-church",
+      "context": "The source describes a Greek parish arrangement; individual icon positions and bishop’s seats differ from the Russian-tradition illustration."
+    },
+    {
+      "id": "cg-mothergod-analogion",
+      "title": "Analogion",
+      "author": "Orthodox Church of the Mother of God, Glossary A",
+      "url": "https://churchmotherofgod.org/terminologies/analogion/",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published Orthodox parish glossary",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words."
+    },
+    {
+      "id": "cg-goarch-entrance",
+      "title": "Divine Liturgy of Saint John Chrysostom, The Entrance",
+      "author": "Greek Orthodox Archdiocese of America, Digital Chant Stand; English translation credits retained by publisher",
+      "url": "https://dcs.goarch.org/goa_2026/dcs/h/s/2026/06/01/li/en/index.html",
+      "edition": "Published 1 June 2026 service, The Entrance rubric",
+      "tradition": "Eastern Orthodox",
+      "type": "Official contemporary liturgical rubric",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "context": "One 23-word stage direction is quoted to establish the north-door route, with the surrounding priest/deacon context retained in evidence."
+    },
+    {
+      "id": "cg-oca-catechumens",
+      "title": "Fervent Supplication",
+      "author": "Protopresbyter Thomas Hopko; Orthodox Church in America",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/fervent-supplication",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Official Orthodox published explanation",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "work": "The Orthodox Faith, Volume II: Worship",
+      "context": "The contemporary practice described by this author is distinguished from the historical service book’s spoken dismissal of catechumens."
+    },
+    {
+      "id": "cg-oca-liturgy-community",
+      "title": "The Divine Liturgy",
+      "author": "Protopresbyter Thomas Hopko; Orthodox Church in America",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-divine-liturgy/the-divine-liturgy",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Official Orthodox published explanation",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "work": "The Orthodox Faith, Volume II: Worship"
+    },
+    {
+      "id": "cg-visitor-wen",
+      "title": "Church Etiquette: Practical Guidance for Orthodox Church Attendance",
+      "author": "Three Hierarchs Orthodox Church, Wenatchee; page credited to Tyler Thompson",
+      "url": "https://www.wenorthodox.com/resources/church-etiquette-practical-guidance-for-orthodox-church-attendance-1",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "This parish’s published guidance, not a universal sequence of icon veneration.",
+      "underlyingWorkGroup": "parish-etiquette-common-compilations-including-barr",
+      "provenanceNote": "These parish pages may adapt circulated etiquette guides, including material credited elsewhere to Father David Barr. The six related compilations are conservatively grouped together for quotation/derived-word budgeting rather than treated as six new rights grants."
+    },
+    {
+      "id": "cg-visitor-regensburg",
+      "title": "First Visit|Church Etiquette",
+      "author": "Transfiguration of Christ Orthodox parish, Regensburg",
+      "url": "https://www.orthodoxregensburg.de/home/first-visit-etiquette",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "The source identifies its own community, available benches, and pastoral guidance.",
+      "underlyingWorkGroup": "parish-etiquette-common-compilations-including-barr",
+      "provenanceNote": "These parish pages may adapt circulated etiquette guides, including material credited elsewhere to Father David Barr. The six related compilations are conservatively grouped together for quotation/derived-word budgeting rather than treated as six new rights grants."
+    },
+    {
+      "id": "cg-visitor-johnstown",
+      "title": "Orthodox Church Etiquette",
+      "author": "Saint Nicholas Serbian Orthodox Church, Johnstown, Pennsylvania",
+      "url": "https://stnicholasjohnstown.org/orthodoxchurchetiquette",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "Excerpt from Additional Pious Customs/Bowing; wording describes the parish publication’s tradition.",
+      "underlyingWorkGroup": "parish-etiquette-common-compilations-including-barr",
+      "provenanceNote": "These parish pages may adapt circulated etiquette guides, including material credited elsewhere to Father David Barr. The six related compilations are conservatively grouped together for quotation/derived-word budgeting rather than treated as six new rights grants."
+    },
+    {
+      "id": "cg-visitor-innocent",
+      "title": "Church Etiquette",
+      "author": "Saint Innocent Orthodox Church, Macon, Georgia; compiler uncredited on the page",
+      "url": "https://st-innocent.org/churchetiquette",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "The page expressly states that it compiles and edits online sources for this local OCA community. It is not misattributed as a wholly original Father David Barr article.",
+      "underlyingWorkGroup": "parish-etiquette-common-compilations-including-barr",
+      "provenanceNote": "These parish pages may adapt circulated etiquette guides, including material credited elsewhere to Father David Barr. The six related compilations are conservatively grouped together for quotation/derived-word budgeting rather than treated as six new rights grants."
+    },
+    {
+      "id": "cg-visitor-holyghost",
+      "title": "Articles: parish church-etiquette notice",
+      "author": "Holy Ghost Orthodox Church, Ambridge, Pennsylvania",
+      "url": "https://holyghostoca.org/articles",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "A local notice concerning candle timing; no new prayer or offering amount is supplied.",
+      "underlyingWorkGroup": "parish-etiquette-common-compilations-including-barr",
+      "provenanceNote": "These parish pages may adapt circulated etiquette guides, including material credited elsewhere to Father David Barr. The six related compilations are conservatively grouped together for quotation/derived-word budgeting rather than treated as six new rights grants."
+    },
+    {
+      "id": "cg-visitor-cape",
+      "title": "Church Etiquette: When to Stand During the Liturgy",
+      "author": "Saint John the Theologian Orthodox Church, Jackson, Missouri",
+      "url": "https://www.orthodox-cape.org/the-spiritual-life/pages/church-etiquette",
+      "edition": "English web publication, retained 21 November 2026",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "This parish describes standing according to ability while facing the Holy Table; this is not a demand that every physical building faces geographic east.",
+      "underlyingWorkGroup": "parish-etiquette-common-compilations-including-barr",
+      "provenanceNote": "These parish pages may adapt circulated etiquette guides, including material credited elsewhere to Father David Barr. The six related compilations are conservatively grouped together for quotation/derived-word budgeting rather than treated as six new rights grants."
+    },
+    {
+      "id": "cg-visitor-stluke",
+      "title": "Some Reminders About Church Etiquette",
+      "author": "St.Luke Orthodox Church, hosted parish booklet; author uncredited",
+      "url": "https://stlukesoc.org/wp-content/uploads/2026/10/on-church-etiquette.pdf",
+      "edition": "Undated booklet, printed page 2, second item numbered 2; PDFcreationmetadata 2 May 2013 is not treated as a publication date",
+      "tradition": "Eastern Orthodox",
+      "type": "Published parish visitor guidance",
+      "rights": "Modern copyrighted publication; brief exact quotations total no more than 25 words from this underlying work, with necessary attributed summaries within 200 derived words.",
+      "localCustom": "The surrounding booklet contains local building-specific customs; only the exact Gospel-reading sentence is excerpted.",
+      "sourcePdf": "evidence/stluke-etiquette.pdf",
+      "pageImage": "evidence/stluke-1.png"
+    }
+  ],
+  "notes": [
+    {
+      "kind": "summary",
+      "text": "Orthodox church plans and decoration vary by architectural tradition. This map illustrates one Russian arrangement, not every Orthodox parish.",
+      "sourceId": "cg-oca-architecture",
+      "locator": "Answer, opening paragraph and final paragraph",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, opening paragraph and final paragraph"
+        }
+      ],
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+    },
+    {
+      "kind": "quotation",
+      "text": "If there is to be a sermon, the Priest may preach it immediately after the reading of the Gospel, or at the end of the Liturgy.",
+      "sourceId": "cg-hapgood2",
+      "locator": "Appendix B, IV, The Liturgy, note 14",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, IV, The Liturgy, note 14"
+        }
+      ],
+      "context": "The historical edition itself gives alternate sermon placement. The sequence does not claim one compulsory placement for every parish."
+    }
+  ],
+  "parts": [
+    {
+      "id": "narthex",
+      "title": "Narthex",
+      "area": "entrance",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The narthex is the church’s entrance or vestibule. The OCA describes several rites held there and differences among architectural traditions.",
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraphs on the vestibule/narthex",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-architecture",
+              "locator": "Answer, paragraphs on the vestibule/narthex"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        },
+        {
+          "kind": "quotation",
+          "text": "The Vestibule (Pritvór), or inner porch, was appointed, in early times, for the Catechumens, or learners, and for penitents. Here they listened to exhortations and instruction, and here they prayed. The rubric decrees that the Office for the Reception of Converts shall be performed in this Vestibule. Several of the penitential Offices, also, are appointed to be said here, such as the Litiyá (a litany of fervent supplication, with oft-repeated \"Lord, have mercy\" in response) at Vespers.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxii, Vestibule",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxii, Vestibule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nave",
+      "title": "Nave",
+      "area": "nave",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The nave is the main space where the faithful gather, icons are venerated, and readers, chanters, and singers serve. Some services and processions occur here.",
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraph on the nave",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-architecture",
+              "locator": "Answer, paragraph on the nave"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    },
+    {
+      "id": "sanctuary",
+      "title": "Sanctuary",
+      "area": "sanctuary",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The Sanctuary must be built, except when that is impossible, at the eastern end of the church.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxvii"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Only those who have specific functions within the altar are permitted to enter it.",
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraph following the altar definition",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-architecture",
+              "locator": "Answer, paragraph following the altar definition"
+            }
+          ],
+          "context": "The map identifies this space for understanding the service; it does not direct visitors to enter it."
+        }
+      ]
+    },
+    {
+      "id": "solea",
+      "title": "Solea",
+      "area": "solea",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Hapgood describes the solea as the sanctuary platform extending outside the iconostasis, including the central ambo and choir places on either side.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, pp. xxvi–xxvii, Interior paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, pp. xxvi–xxvii, Interior paragraph"
+            }
+          ],
+          "reason": "Necessary readable summary of a definition broken across a page and interrupted by an illustration/footnote in the transcription; the original scan is retained."
+        }
+      ]
+    },
+    {
+      "id": "ambo",
+      "title": "Ambo",
+      "area": "solea",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the Amvón, or Tribune, which is the portion immediately in front of the Holy Door, in the centre of the Screen",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "north-kliros",
+      "title": "North kliros",
+      "area": "solea",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the railed Klíros, or places for the two choirs, on either side of the Amvón.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-kliros",
+      "title": "South kliros",
+      "area": "solea",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the railed Klíros, or places for the two choirs, on either side of the Amvón.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxvii, excerpt from the solea definition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iconostasis",
+      "title": "Iconostasis",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The Sanctuary is separated from the choir-place and the body of the Temple by a solid Image-screen (Ikonostás), which corresponds to the chancel-rail in the Western Church. Three doors give access through it to the different parts of the Sanctuary above mentioned.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "royal-doors",
+      "title": "Royal Doors",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The central opening is called the Royal Gate (Tzárskiya Vratá), because through it, at the Divine Liturgy, the King of Glory comes forth to feed his faithful people with his own Divine Body and Blood; or the Holy Door (Svyatya Vratá), because the Mystery of the Eucharist is celebrated in the Sanctuary, and through this door (or gate) the Holy Gifts are brought forth.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx, Royal Gate",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxx, Royal Gate"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "On the leaves of the Holy Door itself (which represents the Entrance into Heaven) is the Image of the Annunciation, that being the forefront of our salvation; together with the Images of the Four Evangelists, who also, like the Archangel Gabriel, announced to the world the glad tidings of the Saviour.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, doors’ iconography",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi, doors’ iconography"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "north-door",
+      "title": "North deacon door",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "On the northern and southern doors are depicted the messengers of God, the Angels, sent to serve those who desire to follow after salvation; or holy Deacons, the types of the Angels, who have charge of those parts of the Sanctuary into which these doors lead.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, side doors",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi, side doors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-door",
+      "title": "South deacon door",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "On the northern and southern doors are depicted the messengers of God, the Angels, sent to serve those who desire to follow after salvation; or holy Deacons, the types of the Angels, who have charge of those parts of the Sanctuary into which these doors lead.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, side doors",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi, side doors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "christ-icon",
+      "title": "Icon of Christ",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "On the right of the Holy Door is placed the image of the Saviour, and next it (or next the south door, if that be next), the Image of the Temple, or of the Patron Saint of the Temple.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary Russian image arrangement",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi, customary Russian image arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "theotokos-icon",
+      "title": "Icon of the Theotokos",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "On the left of the Holy Door is the Image of the holy Birth-giver of God.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "patron-icon",
+      "title": "Patronal icon",
+      "area": "iconostasis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "On the right of the Holy Door is placed the image of the Saviour, and next it (or next the south door, if that be next), the Image of the Temple, or of the Patron Saint of the Temple.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary Russian image arrangement",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi, customary Russian image arrangement"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "Fitzgerald’s Greek-tradition description places the patronal icon on the other side of the screen. The selected diagram follows Hapgood’s Russian arrangement; patron placement varies.",
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Iconostasion, paragraph on icon positions",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-fitzgerald-house-god",
+              "locator": "Iconostasion, paragraph on icon positions"
+            },
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxi, customary arrangement, On the right of the Holy Door"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    },
+    {
+      "id": "holy-table",
+      "title": "Holy Table",
+      "area": "sanctuary",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Holy Table stands at the center of the sanctuary. The Eucharist is celebrated there; the Gospel Book and tabernacle are placed upon it.",
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraph on the altar table",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-architecture",
+              "locator": "Answer, paragraph on the altar table"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        },
+        {
+          "kind": "quotation",
+          "text": "It also represents the tomb of Christ, since his Body is placed thereon.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxvii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antimension",
+      "title": "Antimension",
+      "area": "sanctuary",
+      "parentPartId": "holy-table",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "On the Altar is placed the Corporal (Antimíns), a silken (formerly a linen) cloth, having upon it the representation of the Deposition of Christ in the tomb and the four Evangelists. This is spread out only in the Divine Liturgy, at the beginning of the Liturgy of the Faithful, and is folded up again as soon as that is finished.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, Antimins",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxvii, Antimins"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "In this Corporal (Antimíns), or Vice-Altar, are placed relics of the Saints.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxviii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "altar-gospel",
+      "title": "Gospel Book",
+      "area": "sanctuary",
+      "parentPartId": "holy-table",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The Book of the Holy Gospels, being the Word of God, is laid upon the Altar, to denote that God himself is mystically present thereon; and the Cross stands on the Altar as upon the place where is celebrated the unbloody sacrifice offered up to God.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxviii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "altar-cross",
+      "title": "Altar cross",
+      "area": "sanctuary",
+      "parentPartId": "holy-table",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the Cross stands on the Altar as upon the place where is celebrated the unbloody sacrifice offered up to God.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii, excerpt from Gospel Book and Cross paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxviii, excerpt from Gospel Book and Cross paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tabernacle",
+      "title": "Tabernacle",
+      "area": "sanctuary",
+      "parentPartId": "holy-table",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "As the Altar represents the sepulchre of the Lord, an Ark (Kovtchég) is set thereon, being the Tabernacle in which are placed the Holy Gifts, the Body and Blood of Christ reserved for the sick, and (during the Great Fast — Lent) for the Liturgy of the Presanctified Gifts.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxviii, Ark",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxviii, Ark"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prothesis",
+      "title": "Table of Oblation",
+      "area": "sanctuary",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Hapgood locates the Table of Oblation in the northern part of the sanctuary. The Holy Gifts are prepared there for consecration.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, Credence paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, Credence paragraph"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        },
+        {
+          "kind": "quotation",
+          "text": "on it the Holy Gifts are prepared for consecration.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, excerpt from Credence paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, excerpt from Credence paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chalice",
+      "title": "Chalice",
+      "area": "sanctuary",
+      "parentPartId": "prothesis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the Chalice (Potír), for the wine",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Then the Deacon poureth into the holy chalice the mingled wine and water, in amount according to the number of communicants, having first said to the Priest: Bless, Master, the holy union.",
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 72, preparation of chalice",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Office of Oblation, p. 72, preparation of chalice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diskos",
+      "title": "Diskos",
+      "area": "sanctuary",
+      "parentPartId": "prothesis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The Paten (Dískos), for the bread",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Then taking the holy paten (dískos), in like manner, he shall set it on the head of the Deacon, with all reverence, the Deacon holding the censer the while on one of his fingers.",
+          "sourceId": "cg-hapgood1",
+          "locator": "Great Entrance, p. 95, carrying the diskos",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Great Entrance, p. 95, carrying the diskos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "star",
+      "title": "Asterisk or star-cover",
+      "area": "sanctuary",
+      "parentPartId": "prothesis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the Star-cover (Zvyezdítza), which supports the Veil above the Paten so that it may not touch the Holy Body",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spear",
+      "title": "Spear",
+      "area": "sanctuary",
+      "parentPartId": "prothesis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the Spear (Kopyó), with which the particles are taken from the Altar-breads (Prosforí), and represents the spear with which the Saviour's side was pierced;",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, pp. xxix–xxx, sacred vessels list",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, pp. xxix–xxx, sacred vessels list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veils",
+      "title": "Veils and aer",
+      "area": "sanctuary",
+      "parentPartId": "prothesis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "three Veils (Pokróvy); two smaller, for covering the Paten and Chalice, and one which is called the Air (Vózdukh), for covering both Paten and Chalice;",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx, sacred vessels list",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxx, sacred vessels list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "communion-spoon",
+      "title": "Communion spoon",
+      "area": "sanctuary",
+      "parentPartId": "prothesis",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "the sacramental Spoon (Lzhítza), with which the Holy Body and Blood are administered to the laity",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, sacred vessels list",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, sacred vessels list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "censer",
+      "title": "Censer",
+      "area": "sanctuary",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "The Censer (Kadilo), which, with the incense placed therein, is symbolical of the gifts offered by the Wise Men to the infant Christ, — gold, frankincense, and myrrh, — is also necessary for most services.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxx, Censer paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxx, Censer paragraph"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "candles",
+      "title": "Candles",
+      "area": "nave",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Lights are always used during divine service, even though it be performed in full sunlight. This is done not only for illumination, but also to show that the Lord, who dwells in light ineffable, illumines the world with spiritual radiance; to denote that the hearts of faithful believers are warmed by a flame of love toward God and his Saints; and, also, to show forth spiritual joy and the triumph of the Church.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxii, Lights paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxxii, Lights paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "Fitzgerald describes candle offerings in the narthex in many parishes. The drawing’s candle stand is illustrative, not a fixed architectural requirement.",
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Sacred Space, paragraph on the narthex",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-fitzgerald-house-god",
+              "locator": "Sacred Space, paragraph on the narthex"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    },
+    {
+      "id": "font",
+      "title": "Baptismal font",
+      "area": "nave",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Hapgood’s Baptism office uses the font for the baptismal water and immersion. This object belongs to the baptismal rite, not an additional station in the Eucharistic procession.",
+          "sourceId": "cg-hapgood1",
+          "locator": "Holy Baptism, immersion rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Holy Baptism, immersion rubric"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        },
+        {
+          "kind": "quotation",
+          "text": "Three tapers are lighted and placed upon the font itself to typify the Holy Trinity, in whose name Baptism is administered.",
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, VI, Holy Baptism, note 3",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood2",
+              "locator": "Appendix B, VI, Holy Baptism, note 3"
+            }
+          ],
+          "context": "Historical published explanation of the baptismal setting; not an instruction for visitors to arrange the font."
+        }
+      ]
+    },
+    {
+      "id": "bishop-seat",
+      "title": "High Place and bishop’s seat",
+      "area": "sanctuary",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Behind the Altar is the High Place (Górnoye Myésto), an elevation upon which stands the Bishop's throne. At certain times during the service the Bishop sits thereon, representing the King of Glory. On either side of the \"High Place\" are seats for those who celebrate with the Bishop, and represent the Apostles and their successors.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, High Place paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, High Place paragraph"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "Fitzgerald also describes a bishop’s throne on the right side of the Greek-tradition nave. This differs from the high-place seat behind the Holy Table illustrated here.",
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Sacred Space, paragraph on the nave",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-fitzgerald-house-god",
+              "locator": "Sacred Space, paragraph on the nave"
+            },
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Symbolism of the Church, p. xxix, Behind the Altar is the High Place"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    },
+    {
+      "id": "analogion",
+      "title": "Analogion",
+      "area": "nave",
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "A high table, usually with a sloped top used as a Gospel stand (lectern) or a stand for an icon.",
+          "sourceId": "cg-mothergod-analogion",
+          "locator": "Glossary A, Analogion, definition sentence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-mothergod-analogion",
+              "locator": "Glossary A, Analogion, definition sentence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dome",
+      "title": "Dome imagery",
+      "area": "overhead",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The OCA says Christ Pantocrator is generally depicted in the central dome. It also stresses that Orthodox architectural styles and decorative schemes vary.",
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, paragraphs on domes and iconographic schemes",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-architecture",
+              "locator": "Answer, paragraphs on domes and iconographic schemes"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    },
+    {
+      "id": "apse",
+      "title": "Apse imagery",
+      "area": "overhead",
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Fitzgerald describes a large icon of the Theotokos and Christ Child frequently placed in the apse above the sanctuary. He connects it with the Incarnation.",
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Icons, paragraph on the apse",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-fitzgerald-house-god",
+              "locator": "Icons, paragraph on the apse"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "hours",
+      "title": "The Hours",
+      "performer": "Reader; priest",
+      "partIds": [
+        "nave",
+        "prothesis"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "[If it be not a Pontifical Service, the HOURS are now read, while the Holy Gifts are prepared for the Holy Sacrament.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 70, Hours rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Office of Oblation, p. 70, Hours rubric"
+            }
+          ],
+          "context": "The Hours and preparation overlap in the ordinary service described here. The following preparation card is not a claim that the Hours finish first."
+        },
+        {
+          "kind": "quotation",
+          "text": "At the point duly indicated, after the Priest and Deacon have vested themselves, the Reader (in front of the image-screen), begins to read the Hours; the Priest (behind the image-screen), making aloud the exclamations and benedictions, as shown in the Hours.",
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, IV, The Liturgy, note 3",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood2",
+              "locator": "Appendix B, IV, The Liturgy, note 3"
+            }
+          ]
+        }
+      ],
+      "parallelGroup": "pre-service",
+      "simultaneousWith": [
+        "proskomedia"
+      ]
+    },
+    {
+      "id": "proskomedia",
+      "title": "Preparation of the Gifts",
+      "performer": "Priest; deacon",
+      "partIds": [
+        "prothesis",
+        "diskos",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "[Then, going to the Table of Oblation, he prepareth the Holy Things. The holy paten he setteth on the left side; the holy chalice, which is the holy cup, on the right; and with them the other holy utensils.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 69, Deacon’s preparation rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Office of Oblation, p. 69, Deacon’s preparation rubric"
+            }
+          ],
+          "context": "The pronoun here refers to the Deacon in the preceding rubric; the Priest’s preparation of the Lamb and commemorations follows."
+        },
+        {
+          "kind": "quotation",
+          "text": "[Then the Priest taketh in his left hand one of the altar-breads, and in his right hand the holy spear; and making therewith the sign of the cross, thrice, above the seal of the bread, he saith:]",
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 71, preparation of the Lamb",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Office of Oblation, p. 71, preparation of the Lamb"
+            }
+          ],
+          "context": "The serving Priest prepares the Lamb; the preceding Deacon rubric concerns the vessels. Both are published clergy actions, not visitor directions."
+        },
+        {
+          "kind": "quotation",
+          "text": "Then the Deacon poureth into the holy chalice the mingled wine and water, in amount according to the number of communicants, having first said to the Priest: Bless, Master, the holy union.",
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, p. 72",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Office of Oblation, p. 72"
+            }
+          ]
+        }
+      ],
+      "parallelGroup": "pre-service",
+      "simultaneousWith": [
+        "hours"
+      ]
+    },
+    {
+      "id": "opening-blessing",
+      "title": "Opening blessing",
+      "performer": "Priest; choir",
+      "partIds": [
+        "holy-table",
+        "royal-doors",
+        "north-kliros",
+        "south-kliros"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Priest (bestowing the blessing, in cross-form, with the book of the Gospels from the Altar). Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now, and ever, and unto ages of ages. Choir. Amen.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 80, opening blessing",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 80, opening blessing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "great-litany",
+      "title": "Great Litany",
+      "performer": "Deacon; choir; priest",
+      "partIds": [
+        "ambo",
+        "holy-table"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Deacon. In peace let us pray to the Lord. Choir. Lord, have mercy.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 80, Great Litany",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 80, Great Litany"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "[And having made a humble reverence, he goeth out through the north door, and standing in his accustomed place before the Holy Door, he thrice boweth his head reverently, and saith, secretly:]",
+          "sourceId": "cg-hapgood1",
+          "locator": "Office of Oblation, conclusion, Deacon’s accustomed standing place;printedp.77; printed p. 77",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "Office of Oblation, conclusion, Deacon’s accustomed standing place;printedp.77; printed p. 77"
+            }
+          ],
+          "context": "The preceding passage identifies the Deacon. This pre-Liturgy rubric establishes the standing place before the Holy Door used for the litanies."
+        }
+      ]
+    },
+    {
+      "id": "antiphons",
+      "title": "Antiphons and Beatitudes",
+      "performer": "Choir; priest; deacon",
+      "partIds": [
+        "north-kliros",
+        "south-kliros",
+        "holy-table",
+        "ambo"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "[The Deacon then entereth the Sanctuary, and the Choir chanteth the THIRD ANTIPHON.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 83, Third Antiphon rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 83, Third Antiphon rubric"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "In thy Kingdom remember us, O Lord, when thou comest into thy Kingdom. Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are they that mourn: for they shall be comforted.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 83, opening of the Beatitudes",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 83, opening of the Beatitudes"
+            }
+          ],
+          "context": "Contiguous excerpt from this edition’s Third Antiphon; the full published hymn continues."
+        }
+      ]
+    },
+    {
+      "id": "small-entrance",
+      "title": "Small Entrance with the Gospel",
+      "performer": "Priest; deacon; servers; choir",
+      "partIds": [
+        "holy-table",
+        "north-door",
+        "ambo",
+        "royal-doors",
+        "altar-gospel"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Then the Priest, taking the book of the Holy Gospels from the Altar, giveth it to the Deacon ; and preceded by a light, they both make the Lesser Entrance.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 84, ordinary Lesser Entrance rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 84, ordinary Lesser Entrance rubric"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Preceded by altar servers holding candles and fans, they exit through the north door for the so-called Small Entrance.",
+          "sourceId": "cg-goarch-entrance",
+          "locator": "The Entrance, rubric after the Third Antiphon",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-goarch-entrance",
+              "locator": "The Entrance, rubric after the Third Antiphon"
+            }
+          ],
+          "context": "The immediately preceding sentences identify the Priest and Deacon. If no Deacon serves, the same source says that the Priest carries the Gospel."
+        },
+        {
+          "kind": "quotation",
+          "text": "Then shall they go to the Holy Altar ; and the Deacon shall lay the Gospels on the Altar, and the Choir shall sing :",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 84, return after the Lesser Entrance",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 84, return after the Lesser Entrance"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "Holy Table → north door → before the Royal Doors → Holy Table. The quoted contemporary rubric establishes the north-door departure; Hapgood supplies the Gospel and return to the Altar. The route’s drawn length is illustrative.",
+          "sourceId": "cg-goarch-entrance",
+          "locator": "The Entrance, north-door rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-goarch-entrance",
+              "locator": "The Entrance, north-door rubric"
+            },
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, pp. 84–85, ordinary Lesser Entrance; for great is your reward in heaven. The…"
+            }
+          ],
+          "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+        }
+      ],
+      "routeDescription": "Holy Table → north door → before the Royal Doors → Holy Table. The quoted contemporary rubric establishes the north-door departure; Hapgood supplies the Gospel and return to the Altar. The route’s drawn length is illustrative.",
+      "routeSourceRefs": [
+        {
+          "sourceId": "cg-goarch-entrance",
+          "locator": "The Entrance, north-door rubric"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, pp. 84–85, ordinary Lesser Entrance"
+        }
+      ],
+      "routeKind": "summary",
+      "routeReason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+    },
+    {
+      "id": "trisagion",
+      "title": "Trisagion",
+      "performer": "Choir; priest; deacon",
+      "partIds": [
+        "holy-table",
+        "bishop-seat",
+        "north-kliros",
+        "south-kliros"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "O Holy God, Holy Mighty, Holy Immortal One, have mercy upon us.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 86, Thrice-Holy hymn",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 86, Thrice-Holy hymn"
+            }
+          ],
+          "context": "The surrounding service gives the Choir’s response; seasonal substitutions are printed in the historical edition."
+        },
+        {
+          "kind": "quotation",
+          "text": "[The Priest doth not ascend the High Place, nor sit upon it, but taketh his seat beside it, to the south.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 87, ordinary Priest’s position",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 87, ordinary Priest’s position"
+            }
+          ],
+          "context": "The Bishop’s different high-place position is printed separately in this edition."
+        }
+      ]
+    },
+    {
+      "id": "epistle",
+      "title": "Epistle reading",
+      "performer": "Reader; deacon; priest",
+      "partIds": [
+        "nave",
+        "ambo",
+        "holy-table"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Reader. The Lesson from the Epistle of the holy Apostle (N. to the N.). Deacon. Let us attend. The Reader then reádeth the Epistle: * Brethren . . [And while the Epistle is being read, the Deacon shall take the censer, and approaching the Priest shall receive his blessing, and shall cense the Holy Altar round about, and all the Sanctuary, and the Priest, and the People.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 88, Epistle reading and censing",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 88, Epistle reading and censing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gospel",
+      "title": "Gospel reading",
+      "performer": "Deacon; priest; choir",
+      "partIds": [
+        "ambo",
+        "altar-gospel",
+        "holy-table"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "[Then the Deacon doeth reverence to the book of the Holy Gospels, and taketh it, and goeth out through the Holy Door, preceded by a taper, and standeth on the tribune, or on the place prepared. And the Priest, standing before the Holy Altar, with his face to the west, proclaimeth.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 89, Gospel procession rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 89, Gospel procession rubric"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "[And the Deacon, or the Priest, if there be no Deacon, readeth the Gospel; and when he hath finished, the Priest shall say :]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 89, conditional Gospel reader",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 89, conditional Gospel reader"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "[Then the Deacon shall go to the Holy Door, and shall give the book of the Gospels to the Priest, who placeth it on the Altar, behind the corporal (antimins).]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 89, return of the Gospel Book",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 89, return of the Gospel Book"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "If there is to be a sermon, the Priest may preach it immediately after the reading of the Gospel, or at the end of the Liturgy.",
+          "sourceId": "cg-hapgood2",
+          "locator": "Appendix B, IV, The Liturgy, note 14",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood2",
+              "locator": "Appendix B, IV, The Liturgy, note 14"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "Holy Table → Royal Doors → ambo or prepared reading place; the Gospel Book returns to the Priest at the Royal Doors and then to the Altar.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 91, Gospel procession rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 91, Gospel procession rubric"
+            }
+          ],
+          "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+        }
+      ],
+      "routeDescription": "Holy Table → Royal Doors → ambo or prepared reading place; the Gospel Book returns to the Priest at the Royal Doors and then to the Altar.",
+      "routeSourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 91, Gospel procession rubric"
+        }
+      ],
+      "routeKind": "summary",
+      "routeReason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+    },
+    {
+      "id": "augmented-litany",
+      "title": "Litany of fervent supplication",
+      "performer": "Deacon; choir; priest",
+      "partIds": [
+        "ambo",
+        "holy-table"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Let us all say, with all our soul and with all our mind let us say : Choir. Lord, have mercy. O Lord Almighty, the God of our fathers, we beseech thee, hearken, and have mercy. Choir. Lord, have mercy.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 90, Litany of Fervent Supplication",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 90, Litany of Fervent Supplication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "catechumens",
+      "title": "Prayers for the catechumens",
+      "performer": "Deacon; choir; priest",
+      "partIds": [
+        "ambo",
+        "holy-table",
+        "antimension"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Pray ye unto the Lord, ye Catechumens. Choir. Lord, have mercy. Ye faithful, pray ye unto the Lord for the Catechumens; that the Lord will have mercy upon them. Choir. Lord, have mercy.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 92, Litany of the Catechumens",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 92, Litany of the Catechumens"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "[Here the last edge of the corporal is spread out.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 92, Prayer for the Catechumens, rubric within the Priest’s prayer",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 92, Prayer for the Catechumens, rubric within the Priest’s prayer"
+            }
+          ],
+          "context": "Corporal is the edition’s name for the antimension; this is the Priest’s liturgical setting."
+        },
+        {
+          "kind": "summary",
+          "text": "Hopko’s contemporary account says that non-communicants, including unbaptized people, generally remain for the eucharistic portion. This is distinguished from the historical service’s spoken dismissal.",
+          "sourceId": "cg-oca-catechumens",
+          "locator": "Fervent Supplication, paragraph on present practice",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-catechumens",
+              "locator": "Fervent Supplication, paragraph on present practice"
+            }
+          ],
+          "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+        }
+      ]
+    },
+    {
+      "id": "faithful-prayers",
+      "title": "Prayers of the faithful",
+      "performer": "Deacon; choir; priest",
+      "partIds": [
+        "ambo",
+        "holy-table",
+        "antimension"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "We give thanks unto thee, O Lord God of the Powers, who hast graciously vouchsafed unto us to stand now before thy holy Altar, and fall down in adoration before thy compassion toward our sins, and the errors of the people.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 93, First Prayer of the Faithful, opening sentence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 93, First Prayer of the Faithful, opening sentence"
+            }
+          ],
+          "context": "Excerpt from the Priest’s first prayer for the faithful; the separate Basil alternative is not included."
+        }
+      ]
+    },
+    {
+      "id": "cherubic-hymn",
+      "title": "Cherubic Hymn",
+      "performer": "Choir; priest; deacon",
+      "partIds": [
+        "north-kliros",
+        "south-kliros",
+        "holy-table",
+        "prothesis",
+        "censer"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Let us, the Cherubim mystically representing, and unto the Life-giving Trinity the thrice-holy chant intoning, all cares terrestrial now lay aside.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 94, Cherubic Hymn, opening portion",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 94, Cherubic Hymn, opening portion"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Then the Priest and Deacon stand before the Altar, and make three reverences, saying:",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, preparation before the Great Entrance",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 95, preparation before the Great Entrance"
+            }
+          ],
+          "context": "Excerpt from the clergy rubric; these are not directions for a lay visitor."
+        },
+        {
+          "kind": "quotation",
+          "text": "And they kiss the Altar, and go to the Chapel of Oblation, which the Priest censeth.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, clergy at the Table of Oblation",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 95, clergy at the Table of Oblation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "great-entrance",
+      "title": "Great Entrance with the Gifts",
+      "performer": "Priest; deacon; servers; choir",
+      "partIds": [
+        "prothesis",
+        "north-door",
+        "ambo",
+        "royal-doors",
+        "holy-table",
+        "diskos",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Then taking the holy paten (dískos), in like manner, he shall set it on the head of the Deacon, with all reverence, the Deacon holding the censer the while on one of his fingers. But the Priest himself shall take in his hand the holy chalice (potír), and they shall go forth through the north door, preceded by a taper, and shall stand facing the People.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Then the Deacon shall enter in through the Holy Door, and shall take his stand on the right, and shall say to the Priest, as the latter entereth:",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 96, entry through the Holy Door",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 96, entry through the Holy Door"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "Table of Oblation → north door → before the people → Royal Doors → Holy Table. The quoted rubric explicitly distinguishes the Deacon’s diskos and the Priest’s chalice.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door"
+            }
+          ],
+          "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+        }
+      ],
+      "routeDescription": "Table of Oblation → north door → before the people → Royal Doors → Holy Table. The quoted rubric explicitly distinguishes the Deacon’s diskos and the Priest’s chalice.",
+      "routeSourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 95, carrying the Gifts through the north door"
+        }
+      ],
+      "routeKind": "summary",
+      "routeReason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+    },
+    {
+      "id": "supplication-peace",
+      "title": "Supplication and peace",
+      "performer": "Deacon; priest; choir",
+      "partIds": [
+        "ambo",
+        "holy-table"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Deacon. Let us complete our prayer unto the Lord. Choir. Lord, have mercy. For these Holy Elements now spread forth, let us pray to the Lord. Choir. Lord, have mercy.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 98, Litany of Supplication",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 98, Litany of Supplication"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Priest. Peace be with you all. Choir. And with thy spirit. Deacon. Let us love one another, that with one accord we may confess: Choir. Father, Son, and Holy Spirit, the Trinity, one in Essence and undivided.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 99, peace and confession of the Trinity",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 99, peace and confession of the Trinity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "creed",
+      "title": "The Creed",
+      "performer": "Choir; People; Priest; Deacon",
+      "partIds": [
+        "holy-table",
+        "veils",
+        "north-kliros",
+        "south-kliros"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Deacon. The Doors! The Doors! Wisdom! Let us attend.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 100, before the Symbol of Faith",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 100, before the Symbol of Faith"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "[The Priest shall fan the Holy Elements with the air. If several Priests take part in the service, they shall all fan the Holy Elements with the air, in like manner, and shall repeat, as do the People also, the SYMBOL OF THE FAITH.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 100, Creed rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 100, Creed rubric"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Choir. I believe in one God the Father Almighty, Maker of heaven and earth, And of all things visible and invisible: And in one Lord Jesus Christ, the only-begotten Son of God, Begotten of his Father before all worlds; Light of Light, Very God of very God, Begotten, not made; Being of one Essence with the Father; By whom all things were made; Who, for us men, and for our salvation, came down from heaven, And was incarnate by the Holy Ghost of the Virgin Mary, And was made man. And was crucified also for us under Pontius Pilate, and suffered and was buried. And the third day he rose again, according to the Scriptures. And ascended into heaven, And sitteth on the right hand of the Father. And he shall come again with glory to judge both the quick and the dead; Whose kingdom shall have no end. And in the Holy Ghost, the Lord and Giver of Life, Who proceedeth from the Father, Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets. In one Holy Catholic and Apostolic Church. I acknowledge one Baptism for the remission of sins. I look for the Resurrection of the dead, And the Life of the world to come. Amen.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 100, complete Symbol of the Faith",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 100, complete Symbol of the Faith"
+            }
+          ],
+          "context": "The complete published Symbol of the Faith in this 1906 English edition; its wording is kept distinct from other translations."
+        }
+      ]
+    },
+    {
+      "id": "anaphora",
+      "title": "Anaphora",
+      "performer": "Priest; choir; deacon",
+      "partIds": [
+        "holy-table",
+        "diskos",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Priest (pointing upward). Lift up your hearts. Choir. We lift them up unto the Lord. Priest. Let us give thanks unto the Lord. Choir. Meet and right is it that we should adore the Father, the Son, and the Holy Spirit, the Trinity, one in Essence and undivided.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 101, anaphora dialogue",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 101, anaphora dialogue"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "It is meet and right that we should laud thee, bless thee, praise thee, give thanks unto thee, and adore thee in all places of thy dominion: for thou art God ineffable, incomprehensible, invisible, inconceivable; thou art from everlasting and art changeless, thou, and thine Only-begotten Son, and thy Holy Spirit.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 101, Chrysostom anaphora prayer opening",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 101, Chrysostom anaphora prayer opening"
+            }
+          ],
+          "context": "An excerpt from the Priest’s prayer in the Chrysostom column; the parallel Basil alternative is not combined with it."
+        },
+        {
+          "kind": "quotation",
+          "text": "Take, eat, this is my Body which is broken for you, for the remission of sins.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 104, words of institution",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 104, words of institution"
+            }
+          ],
+          "context": "An exact excerpt from the Priest’s published words in this liturgy."
+        },
+        {
+          "kind": "quotation",
+          "text": "Drink ye all of this : for this is my Blood of the New Testament, which is shed for you, and for many, for the remission of sins.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 104, words of institution",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 104, words of institution"
+            }
+          ],
+          "context": "A separate exact excerpt from the same published rite; no app-composed prayer is added."
+        }
+      ]
+    },
+    {
+      "id": "epiclesis",
+      "title": "Invocation of the Holy Spirit",
+      "performer": "Priest; deacon",
+      "partIds": [
+        "holy-table",
+        "diskos",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Again we offer unto thee this reasonable and unbloody service. And we beseech and implore thee, and offer our supplications unto thee, that thou wilt send thy Holy Spirit upon us, and upon these Gifts here spread forth.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 105, Chrysostom invocation",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 105, Chrysostom invocation"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "And make this bread the precious Body of thy Christ.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 105, Chrysostom column, blessing of the Bread",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 105, Chrysostom column, blessing of the Bread"
+            }
+          ],
+          "context": "The Priest’s words in the identified Chrysostom column; the separate Basil formula is not merged."
+        },
+        {
+          "kind": "quotation",
+          "text": "And make that which is in this chalice the precious Blood of thy Christ.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 106, Chrysostom column, blessing of the chalice",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 106, Chrysostom column, blessing of the chalice"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "And the Priest, blessing both, shall say: Transmuting them by thy Holy Spirit. Deacon. Amen, amen, amen.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 106, blessing both Holy Elements",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 106, blessing both Holy Elements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "commemorations",
+      "title": "Commemorations and hymn to the Theotokos",
+      "performer": "Priest; choir; deacon",
+      "partIds": [
+        "holy-table",
+        "north-kliros",
+        "south-kliros"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Especially our most holy, all-undefiled, most blessed and glorious Lady, the Birth-giver of God and ever-virgin Mary:",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 107, commemoration of the Theotokos",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 107, commemoration of the Theotokos"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Choir. Meet is it, in truth, to bless thee, the Birth-giver of God, ever-blessed, and all-undefiled, and the Mother of our God.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 107, Chrysostom-column hymn, opening sentence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 107, Chrysostom-column hymn, opening sentence"
+            }
+          ],
+          "context": "The full hymn continues in this edition; this is a labelled excerpt rather than a replacement hymn assembled by the app."
+        }
+      ]
+    },
+    {
+      "id": "lords-prayer",
+      "title": "The Lord’s Prayer",
+      "performer": "People; Priest; Deacon",
+      "partIds": [
+        "holy-table",
+        "ambo",
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "And vouchsafe, O Lord, that boldly and without condemnation we may call upon thee, God the heavenly Father, and say: Here the Deacon bindeth his stole about him in the form of a cross. The People: Our Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from the Evil One: Exclamation. Priest. For thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now, and ever, and unto ages of ages. Choir. Amen.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 112, Chrysostom introduction and Lord’s Prayer",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 112, Chrysostom introduction and Lord’s Prayer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "holy-things",
+      "title": "The Holy Things and breaking of the Lamb",
+      "performer": "Priest; deacon; choir",
+      "partIds": [
+        "holy-table",
+        "diskos",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "Holy things unto the Holy. Choir. One only is holy, one only is the Lord, Jesus Christ, in the glory of God the Father. Amen.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 114, elevation",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 114, elevation"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "And the Priest, breaking it in four pieces, with all heedfulness and awe, shall say : Broken and divided is the Lamb of God, which is broken, yet not disunited ; which is ever eaten, yet never consumed, but sanctifieth those who partake thereof.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 114, breaking of the Lamb",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 114, breaking of the Lamb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clergy-communion",
+      "title": "Communion of the clergy",
+      "performer": "Priest; deacon",
+      "partIds": [
+        "holy-table",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "[Then the Senior Priest saith again:] Deacon, draw near. [And the Deacon shall approach, and shall make one reverence, saying:] Lo, I draw near unto the King Immortal, and to God.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 117, Deacon approaches for Communion",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 117, Deacon approaches for Communion"
+            }
+          ],
+          "context": "The actors are the serving clergy; this is not a visitor action."
+        },
+        {
+          "kind": "quotation",
+          "text": "[And when they have partaken thereof, the Priests partake, in due order, of the Holy Blood from the chalice, thrice, saying each time:]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 117, clergy Communion rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 117, clergy Communion rubric"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faithful-communion",
+      "title": "Communion of the faithful",
+      "performer": "Priest; deacon; eligible communicants; choir",
+      "partIds": [
+        "holy-table",
+        "royal-doors",
+        "ambo",
+        "chalice",
+        "communion-spoon",
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "In the fear of God and with faith draw near.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 119, Deacon’s proclamation",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 119, Deacon’s proclamation"
+            }
+          ],
+          "context": "The published invitation belongs to the Communion rite. The separate sourced visitor note explains membership; it is not an invitation for every visitor to receive."
+        },
+        {
+          "kind": "quotation",
+          "text": "[Those who desire to communicate shall then approach. They shall come singly, and shall do reverence, with all devoutness and awe, with their hands crossed on their breasts: and in this manner shall they receive the Holy Mysteries, after the Priest hath said aloud the Prayer:]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 119, communicants’ rubric",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 119, communicants’ rubric"
+            }
+          ],
+          "context": "A historical rubric for the communicants described by this rite, not an app-composed preparation rule."
+        },
+        {
+          "kind": "quotation",
+          "text": "Receive ye the Body of Christ; taste ye of the Fountain of Life.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 119, Choir’s Communion hymn",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 119, Choir’s Communion hymn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thanksgiving-dismissal",
+      "title": "Thanksgiving and dismissal",
+      "performer": "Priest; deacon; choir; people",
+      "partIds": [
+        "prothesis",
+        "holy-table",
+        "ambo",
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "[The Priest, taking the holy paten, shall then set it upon the head of the Deacon; and the Deacon, holding it reverently, shall go to the Table of Oblation, and set it down there.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Having received the divine, holy, pure, immortal, heavenly, life-giving and terrible Mysteries of Christ, O believers, let us worthily give thanks unto the Lord. Choir. Lord, have mercy.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, Deacon’s thanksgiving litany",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 120, Deacon’s thanksgiving litany"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "Priest. Let us depart in peace. Choir. In the Name of the Lord. Deacon. Let us pray to the Lord. Choir. Lord, have mercy.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 121, dismissal sequence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 121, dismissal sequence"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "[Then the Junior Priest cometh forth, and, standing at the foot of the Tribune, readeth the PRAYER BEFORE THE TRIBUNE.]",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 121, prayer before the ambo",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 121, prayer before the ambo"
+            }
+          ]
+        },
+        {
+          "kind": "quotation",
+          "text": "The Priest holdeth the cross for the People to kiss, and distributeth the anti-dōron, after which he withdraweth to the Sanctuary, and the Holy Door is closed.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 123, conclusion before post-Communion prayers",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 123, conclusion before post-Communion prayers"
+            }
+          ]
+        },
+        {
+          "kind": "summary",
+          "text": "The diskos returns to the Table of Oblation; the Priest comes to the foot of the ambo for the published prayer before returning through the Royal Doors. The exact length of this illustrated path is not a prescribed parish route.",
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation; and…",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-hapgood1",
+              "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation; and…"
+            }
+          ],
+          "reason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+        }
+      ],
+      "routeDescription": "The diskos returns to the Table of Oblation; the Priest comes to the foot of the ambo for the published prayer before returning through the Royal Doors. The exact length of this illustrated path is not a prescribed parish route.",
+      "routeSourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Divine Liturgy, p. 120, return of the diskos to the Table of Oblation"
+        }
+      ],
+      "routeKind": "summary",
+      "routeReason": "Necessary concise spatial summary for the interactive illustration, derived from the separately quoted published clergy rubrics; drawn path lengths and turns are approximate."
+    }
+  ],
+  "visitorSteps": [
+    {
+      "id": "entry-veneration",
+      "title": "Entering and venerating",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "narthex",
+        "analogion"
+      ],
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Three Hierarchs’ guide describes crossing oneself, bowing, and venerating entrance icons on arrival.",
+          "sourceId": "cg-visitor-wen",
+          "locator": "Entering the Church Temple",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-wen",
+              "locator": "Entering the Church Temple"
+            }
+          ],
+          "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule."
+        }
+      ],
+      "localCustom": "Three Hierarchs, Wenatchee; parish guide."
+    },
+    {
+      "id": "candle-timing",
+      "title": "Candles",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "candles"
+      ],
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Holy Ghost’s parish notice asks that personal candles be lit before services to avoid distracting other worshippers.",
+          "sourceId": "cg-visitor-holyghost",
+          "locator": "Parish church-etiquette notice, candle paragraph",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-holyghost",
+              "locator": "Parish church-etiquette notice, candle paragraph"
+            }
+          ],
+          "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule."
+        }
+      ],
+      "localCustom": "Holy Ghost, Ambridge; parish notice."
+    },
+    {
+      "id": "gospel-reading",
+      "title": "During the Gospel",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "narthex",
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "It is not appropriate to enter or leave the nave or to sit when the Gospel is being read.",
+          "sourceId": "cg-visitor-stluke",
+          "locator": "Some Reminders About Church Etiquette, printed page 2, second item numbered 2",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-stluke",
+              "locator": "Some Reminders About Church Etiquette, printed page 2, second item numbered 2"
+            }
+          ]
+        }
+      ],
+      "localCustom": "St.Luke’s hosted booklet: the quoted sentence is separate from its local building-specific directions."
+    },
+    {
+      "id": "sermon-arrival",
+      "title": "During the sermon",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "narthex",
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Saint Innocent’s edited guide describes late arrivals waiting at the back while the sermon is being given.",
+          "sourceId": "cg-visitor-innocent",
+          "locator": "Entering the Church (Late), sermon sentence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-innocent",
+              "locator": "Entering the Church (Late), sermon sentence"
+            }
+          ],
+          "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule."
+        }
+      ],
+      "localCustom": "Saint Innocent, Macon; compiled parish guide."
+    },
+    {
+      "id": "standing-seating",
+      "title": "Standing and seating",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "The Regensburg guide describes standing for prayer and the benches available for people unable to stand, including children and the infirm.",
+          "sourceId": "cg-visitor-regensburg",
+          "locator": "First-visit guidance, item 5",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-regensburg",
+              "locator": "First-visit guidance, item 5"
+            }
+          ],
+          "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule."
+        }
+      ],
+      "localCustom": "Transfiguration, Regensburg; parish visitor page."
+    },
+    {
+      "id": "facing-altar",
+      "title": "Facing the Holy Table",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "nave",
+        "holy-table"
+      ],
+      "blocks": [
+        {
+          "kind": "summary",
+          "text": "Saint John the Theologian’s guide describes standing according to ability while facing the Holy Table.",
+          "sourceId": "cg-visitor-cape",
+          "locator": "When to Stand During the Liturgy, opening sentence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-cape",
+              "locator": "When to Stand During the Liturgy, opening sentence"
+            }
+          ],
+          "reason": "Necessary attributed description of this parish publication’s guidance. Related etiquette compilations share one conservative quotation budget; the full published directions remain linked. This is a report of the source, not a new app-composed worship rule."
+        }
+      ],
+      "localCustom": "Saint John the Theologian, Jackson; parish guide."
+    },
+    {
+      "id": "communion-membership",
+      "title": "Holy Communion",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "nave",
+        "ambo",
+        "chalice"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "actual participation in the sacrament of Holy Communion only to members of the Orthodox Church",
+          "sourceId": "cg-oca-liturgy-community",
+          "locator": "The Divine Liturgy, paragraph distinguishing attendance from Communion",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-oca-liturgy-community",
+              "locator": "The Divine Liturgy, paragraph distinguishing attendance from Communion"
+            }
+          ],
+          "context": "Excerpt from the author’s sentence reserving Communion to members; the surrounding paragraph separately states that non-Orthodox visitors may witness the Liturgy of the Faithful."
+        }
+      ],
+      "localCustom": "Published OCA explanation of membership; the app does not determine anyone’s preparation or eligibility."
+    },
+    {
+      "id": "departure",
+      "title": "Entering and leaving",
+      "performer": "Visitor or faithful person addressed by the identified publication",
+      "partIds": [
+        "narthex",
+        "nave"
+      ],
+      "blocks": [
+        {
+          "kind": "quotation",
+          "text": "when they enter and leave the church (turning to the altar), and when they pray before the icons.",
+          "sourceId": "cg-visitor-johnstown",
+          "locator": "Additional Pious Customs, Bowing, excerpt from the final sentence",
+          "sourceRefs": [
+            {
+              "sourceId": "cg-visitor-johnstown",
+              "locator": "Additional Pious Customs, Bowing, excerpt from the final sentence"
+            }
+          ],
+          "context": "This excerpt follows the source’s statement that Orthodox faithful bow and cross themselves."
+        }
+      ],
+      "localCustom": "Saint Nicholas, Johnstown; adapted parish guide."
+    }
+  ],
+  "layout": {
+    "tradition": "Illustrative Russian-tradition arrangement",
+    "orientation": "Liturgical east at top",
+    "routes": "Clergy movements are approximate illustrations of the identified published rubrics; not visitor paths into the sanctuary.",
+    "visitorGuidance": "Source-labelled excerpts, not a newly assembled universal worship rule."
+  },
+  "context": "The physical layout and principal liturgical excerpts follow Hapgood’s 1906 Russian-tradition service book. This is an observational study guide. Its clergy rubrics, seasonal alternatives, and historical explanations remain attributed to that edition. The visitor cards reproduce separately identified parish guidance; they are not a newly assembled universal prayer or worship rule.",
+  "layoutNotes": [
+    {
+      "kind": "summary",
+      "text": "Orthodox church plans and decoration vary by architectural tradition. This map illustrates one Russian arrangement, not every Orthodox parish.",
+      "sourceId": "cg-oca-architecture",
+      "locator": "Answer, opening paragraph and final paragraph",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-oca-architecture",
+          "locator": "Answer, opening paragraph and final paragraph"
+        }
+      ],
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+    },
+    {
+      "kind": "summary",
+      "text": "Fitzgerald’s Greek-tradition description places the patronal icon on the other side of the screen. The selected diagram follows Hapgood’s Russian arrangement; patron placement varies.",
+      "sourceId": "cg-fitzgerald-house-god",
+      "locator": "Iconostasion, paragraph on icon positions",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Iconostasion, paragraph on icon positions"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxxi, customary arrangement, On the right of the Holy Door"
+        }
+      ],
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+    },
+    {
+      "kind": "summary",
+      "text": "Fitzgerald also describes a bishop’s throne on the right side of the Greek-tradition nave. This differs from the high-place seat behind the Holy Table illustrated here.",
+      "sourceId": "cg-fitzgerald-house-god",
+      "locator": "Sacred Space, paragraph on the nave",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-fitzgerald-house-god",
+          "locator": "Sacred Space, paragraph on the nave"
+        },
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxix, Behind the Altar is the High Place"
+        }
+      ],
+      "reason": "Necessary concise source-bound summary; the cited modern prose is not reproduced in full, or an OCR-damaged historical passage needs a readable factual description."
+    },
+    {
+      "kind": "summary",
+      "text": "The font’s floor position in this drawing is illustrative. The cited Hapgood passage identifies its baptismal use, rather than prescribing the position shown in this diagram.",
+      "sourceId": "cg-hapgood1",
+      "locator": "Holy Baptism, immersion rubric; illustration placement note",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "Holy Baptism, immersion rubric; illustration placement note"
+        }
+      ],
+      "reason": "Necessary distinction between the source’s baptismal rite and the app’s approximate diagram geometry; no universal font position is asserted."
+    },
+    {
+      "kind": "summary",
+      "text": "The choir positions in the diagram illustrate Hapgood’s two choir places. The map’s dimensions, object spacing, and drawn routes are editorial geometry rather than a measured plan for every parish.",
+      "sourceId": "cg-hapgood1",
+      "locator": "The Symbolism of the Church, p. xxvii, two choir places",
+      "sourceRefs": [
+        {
+          "sourceId": "cg-hapgood1",
+          "locator": "The Symbolism of the Church, p. xxvii, two choir places"
+        }
+      ],
+      "reason": "Necessary explanation of which diagram features are source-based and which are illustrative."
+    }
+  ]
+}

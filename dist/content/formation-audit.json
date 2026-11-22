@@ -1,0 +1,1247 @@
+{
+  "version": "formation-2026-11-20",
+  "method": "Exact normalized substring matching against retained source text; Unicode NFKC and whitespace only. Editorial numerical callouts removed in readable evidence. Scripture compared by exact verse keys against independently source-matched corpus. Augsburg article paragraph counters removed as recorded.",
+  "quotations": [
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter VII; opening selection",
+      "textHash": "aa75e825360101a7e8e13c29f4bbcd45c5febd9de461b51bf843f0d79d996c10",
+      "normalizedHash": "6de98bb2fda3da6dca02a87cc824c70b2284c1103d5a1c4eded0ef6a20faeb25",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter VIII; opening selection",
+      "textHash": "8b0cf5e1d478b4272b33b64b3ae7dc0481616dabe94e07b94a884e631ff62e47",
+      "normalizedHash": "1ca6515cfee738ff6704693151293ea374f8d3c08c410cfc00831880276fa797",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Acts 3:19–26",
+      "textHash": "45526ce40e5dfb376ba69e1cc330234e2a2ded4989212a2aaa281a5b1ec0714a",
+      "normalizedHash": "d450ee68326f2ed8486dd3d0f35c2d642eca7ba49f1d35058dfb7f67de564175",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Acts.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XIII; opening selection",
+      "textHash": "0220fad14eb2c6be98cc51a70c23b2e198f0701f015e99d35e150cbf6369fb9d",
+      "normalizedHash": "605fbb00bf6b58925f959b144eee18dd8de8857bd95fd09a88aca5dc0182f080",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XVI; opening selection",
+      "textHash": "644ce86984f8f90c985511373170690c065c9d881f71ceb6c8d269a402affe68",
+      "normalizedHash": "52346e7fb7fd0fff8d84b5fed3559cf0526adb06be3a9e8831735c065d91b4f0",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Philippians 2:1–11",
+      "textHash": "fa71414a0e94dc7bd24b85f1fc46f8627eea190fcef9f5999a669439257d86a8",
+      "normalizedHash": "fb8b43a0c5ccc8fe695a6ca1d65df361eafdf8e42929fb97fa2e7182d179be72",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Phil.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XXXII; opening selection",
+      "textHash": "e6d7240c929d18a41b66e8081b43d22225d349d5156c1df7dc287a3b7f68fd08",
+      "normalizedHash": "205111bcc1ef39f51f27f401972543d449759f23cfe32574a6134c2730edaa6b",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XXXIII; opening selection",
+      "textHash": "cf2d1c5377b308d34e50182eb6434fb992f203f668837d16f14222af9352ab04",
+      "normalizedHash": "9429375e1f5fc856b3bf9576f592ef5574b14589974d3f8a206c7fe3de40f916",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Ephesians 2:1–10",
+      "textHash": "9124e0619d7fdca5644a449a8389eefc5a6e26e802743db65e757add44ec3688",
+      "normalizedHash": "908ca3ce34c4c541a421ca71f5c183d17f9f9dfed8946526783daff5c80f608f",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Eph.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XLII; opening selection",
+      "textHash": "6b42801caf03705a29b7cf3fc9c19e1da55b3169a901b79ed1546a60460f50e1",
+      "normalizedHash": "d2fca8b38820e540fcdd2bd5b41e6cf3276b48f15d54821a9e26bf6836f9d2f3",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XLIV; opening selection",
+      "textHash": "ba19f83d609b9897714bbab8dd5f707fa6cc6c7ba98d691e05240a987daf4fc9",
+      "normalizedHash": "a87f487432164feb05676a1645583c99f4ea56e1fc7149b1dfd889101f4340c3",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Titus 1:5–9",
+      "textHash": "1cb5bd01b12489d2c1fe312eb0f3b6eecc11829449a387a537893619d728a2d2",
+      "normalizedHash": "ad8830d517a0db2f2cd306026eab71236f92bd779094da7ae17e04f79f12c5df",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Titus.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-diognetus",
+      "locator": "chapter V; opening selection",
+      "textHash": "242573b679a9d0c41aa00c9887921e01ff02c8d209e142c5a262fbc82a6fb6e9",
+      "normalizedHash": "5a3ffa0280ff508f0a043bd5211a11fea648c0c5b3285d2a0e3cf926d44a0b3f",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-diognetus",
+      "locator": "chapter VI; opening selection",
+      "textHash": "0b95e99eaaaece1b3ea62a73848d347c81bd4330e5ae2995e03650466c5657cd",
+      "normalizedHash": "016e83cfd4d8845ac56608050026df830382888ee1c7a152d6c7fd5634e8fe3d",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Peter 2:9–17",
+      "textHash": "310633b0fcbcaa1536642201149dbcf7d9b835a46b89e3f17b6c4d9a7f12e8a9",
+      "normalizedHash": "220e2a48ba3f18136877ba9cd083fb82faf3779c48e95e8a5f1fb81924478c15",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Pet.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-diognetus",
+      "locator": "chapter VII; opening selection",
+      "textHash": "792cd4ff70da1d82b0932fb7e2316afb1addff7f5b1ce5a2f45142d4fb98ff70",
+      "normalizedHash": "f3e62b9d7be28f55b27e8880dd90ba7bb6cdcc6d369c7f292fd95d5186440a95",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-diognetus",
+      "locator": "chapter IX; opening selection",
+      "textHash": "7227a86233985bf7dde215a07cbed203da76be7a7c3356f1a47d383671dcb185",
+      "normalizedHash": "31d112fc0c5a970f85537fbf3a5d7db96d66f16d7045154ca5a8add1e10e7b60",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Romans 5:6–11",
+      "textHash": "5c1f79fc27292d81443dce530da7af065e91bb5808f7dd263d6459746a8185cb",
+      "normalizedHash": "5a933eedd004f852a89c5b7ce3936042b2c220f25f853a073a42f7cab43a7160",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Rom.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-polycarp",
+      "locator": "chapter I; opening selection",
+      "textHash": "d81bccc75334e617fee2411ce3be3b2c579a7aa1141d16de809daaba885baa3f",
+      "normalizedHash": "948ea9fe2d41c1d41535b70ef1844fd4324e60e2004ba23564da50a0c1dd8bbe",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-polycarp",
+      "locator": "chapter II; opening selection",
+      "textHash": "191eabfe14ffd5b4a3bf108124027222508b51030d54ac8ff4d9a7942c166f0f",
+      "normalizedHash": "f5fbed7058b66b3274d3e30c1046018e29205f36276eb115423cbfcf8f5c4b97",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Peter 1:3–9",
+      "textHash": "f3082b79856656ce5c5bffc4fbaacc84a096f2789793429b1ab2e8f898c985d8",
+      "normalizedHash": "d8c5dfcd76a0b3d8d4f0bd85aa9b480357ea5cd4b3c7b30cb033f43046ee99b3",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Pet.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-polycarp",
+      "locator": "chapter IV; opening selection",
+      "textHash": "d96e217ec6ff1e9c19cbdb480dc8a65da7a199e7f75665cfd27a297f7539d848",
+      "normalizedHash": "21be26e81a1aaeb03149ed248d2f87a76f3827451d00fe539ffed9f07077d26a",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-polycarp",
+      "locator": "chapter VI; opening selection",
+      "textHash": "2c4dc665a5592798c3ce0bc90d8c1f4283afda9991bfae4500dd0ef97a1c7249",
+      "normalizedHash": "e75f4e6fc05f16da336d4b52b4b5ef3f168d33cf284ba4987ab7b683c0366eaa",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Timothy 5:1–8",
+      "textHash": "4f816b028723e667bd083eddc50acd6c0c63d9d0f76f92880360af0e81391191",
+      "normalizedHash": "2b7e6b5c9200e869bddeb322a2f3d9e7ce7cf66900c9b2c1e5c7c05ba080fbee",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Tim.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter VI; opening selection",
+      "textHash": "0cad041296846f839bcae2142bb0913b94ce9859b178846d6dd09e234b49cd5b",
+      "normalizedHash": "2a8e88a911f3021b219d8014d8515f2cae0c1936e50d9e673dede5a76c86ecd0",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XIII; opening selection",
+      "textHash": "d77c4a8e624190727a145a5f4dddf01a4de473556fcdf437f65e4a2fa8109b74",
+      "normalizedHash": "ef7d52ee6c7d49167e701ed1029e609385592426d3860da6c5c4e597f18689ff",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "John 4:19–26",
+      "textHash": "ebb365a040db6726514aedcc63525b5e8af62f28c12a5e4203d7af1bf1e4a0b9",
+      "normalizedHash": "f330e02bdc5d8d697f63b233030a88aba9857bab30874ef76ab4267ab38a0f62",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XXI; opening selection",
+      "textHash": "e46c4aaf1da3e5f03bad8ada990f991b0020b66f12e7a886848f02bf6d8d81f9",
+      "normalizedHash": "4582c1566b8df21437e8e9ef98ba5ebaf93c9bf17c542eca03861407c386e6d6",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XXIII; opening selection",
+      "textHash": "ecb4b880a8e3f09df998856fbc9408f79c560d0c8a74b907a4cd1417a8a606a1",
+      "normalizedHash": "3325ff67cb7b5b61734ea0a3725d90d2b38a37bf286214b51c679b4ebf3c8771",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "John 1:1–18",
+      "textHash": "77631ef9641c0e65ba21e00c0dfcc01f2b660bc94a065a7cb1eb6d99188a6319",
+      "normalizedHash": "dfc713e1ca8e7492198b49b4c37539c43413c64be2b10f769df0bb47805fb42d",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XVIII; opening selection",
+      "textHash": "07b4d6a4e6dc1d56f3295d7a833afce42f31fd9f0620474bdf1d9a703061c705",
+      "normalizedHash": "a8a216c8571b989d80e454495584fbb4ad1a95a1ccc61bda0dcd72538b64e990",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XIX; opening selection",
+      "textHash": "cef061569c0509f131f4d8a055ffbd856ad85ecdee61232313ec8d743c0faedf",
+      "normalizedHash": "5eabb024cec1ffa1304f40cfc15c234d37e073d6bd42b477e32a4e871b3d0e54",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Corinthians 15:35–49",
+      "textHash": "7d7b9264261a3207b9373bd679a18d88428443a20ffa1f828aaf068a910691f0",
+      "normalizedHash": "e570c623626e8a870e5e44f1ceba0f3d9ca1432bf77da7586dd6987dffd4851f",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Cor.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XXXI; opening selection",
+      "textHash": "57ade9b9d7a9cc20988caf818f9e1adf2d0d88ef03eed6a3ee3e29e943b37c0d",
+      "normalizedHash": "74d1a5e6670dce3709846734765c4a68f8171fbd9e4c2d7a92a3da8e570a5479",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XXXII; opening selection",
+      "textHash": "68aa2d7e9ab719a63c589d2cc946f470188cb70f2672bae2a05173f44d68834f",
+      "normalizedHash": "10b3c4aba4fa1f5531b3e95f151955ad83060277f28017dcb6056514d136b9bf",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Luke 24:25–35",
+      "textHash": "e13805b9db6ace55755c1966530b46bfb556bb87aad683688f1e5142d8a4a885",
+      "normalizedHash": "16f5982fdad24ff1387cea6e891f979d9de5a64fc8d609ffdfe16181f5cf74c0",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter LXI; opening selection",
+      "textHash": "eb587123d127e6812e6544096a4e7b845ba8a745f67b81c3833f293135a62bc4",
+      "normalizedHash": "fc30cf054be9ccb975f97c3bc47aca8e2b8af327719e730c18e9d949dc92fe7f",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter LXII; opening selection",
+      "textHash": "540002fc80fa810a44e166c02f84710b6ca80a980db13e9ed116d884ee10ed76",
+      "normalizedHash": "723815c1ae14de8bce61a3dfa44076cd696357d0a889ce3914f93f02d68d4aec",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "John 3:1–8",
+      "textHash": "153c9578bd50785ace1cab90c014085091825b00c6573af76fd3d43317a1c727",
+      "normalizedHash": "1a6649dc1d2acd654c6d46cf7bdb55bdaf71be1884adc8f24134425c0ec5149f",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/John.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter LXV; opening selection",
+      "textHash": "5d9a10b0bfc1f7f5dc8ad722f6bdf431eb4cbafb47f9bd627107a75c2eb29c33",
+      "normalizedHash": "2553650a180a884dd1eb657b338b1c58d67708850e4fd8a22f67769cd10d937e",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter LXVI; opening selection",
+      "textHash": "fc47d27c45135655d100824e878920499cb74b7eaf47360ea4de6e7930e85448",
+      "normalizedHash": "0b0a8d77eea3727084cfdc56b2e452106baab4f186aabbf183ca01f863358fdb",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Corinthians 11:23–29",
+      "textHash": "7b7d4ac252ea1c4aafd3987cd62df01db7d0446863a9214800183b3beb6b7338",
+      "normalizedHash": "f7525a70d8a9ed19c2562ebb2c5bd1812109d04c54f13bf1459ee326d3cc867d",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Cor.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter LXVII; opening selection",
+      "textHash": "0cc51c02af5f7761d0bb8d429dcde56ea350cb9f9a1a45c60f94731d2cd82aac",
+      "normalizedHash": "f4c2a5c63e43dbe3b053921ac250fdbb6b742fa8a52c0e2106bd85ac3fb5a7a4",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XIV; opening selection",
+      "textHash": "9e0c7f65d1c2ce11dae81c8e5f2e95da511b9a805db38231315e16629177b4ca",
+      "normalizedHash": "6a3b64887342cf8e68914e86ddcdbfaa1c3f0c87ada0faf3acd4bd2e58e9e44f",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Acts 2:42–47",
+      "textHash": "682a7705908b992fb8e045371b3a7cf2d56b33e2837982f8ee06836a59b196e4",
+      "normalizedHash": "f52b60bf0eb89305a1af60df23ce39b213954a4a5987b96b193994c297cce554",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Acts.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XLIII; opening selection",
+      "textHash": "562d91ebb9ef6d9aec13015d8d41d34f6dd6b8fd1105df15f12d846ee449acdc",
+      "normalizedHash": "3f3f2195dbe890e84e352ba4c3f1a376e586a2d980efb496a04f0ec02a234b85",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-justin",
+      "locator": "chapter XLIV; opening selection",
+      "textHash": "fda13e675a1495f70532a5879c8077eb626cae14043c8ff0c5ad5151de875077",
+      "normalizedHash": "4c54a1ff5f800335cd29ab2d3f4bb7d1f8d60c7894d47cb530b0e6d7cee1d148",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Deuteronomy 30:15–20",
+      "textHash": "4b5324af76296c9b2a5f1fa6f33929d4368b0579b73af780c575950b34bde44c",
+      "normalizedHash": "cfeda6de1f579dac5ea244f517a254a9d939f48703b9e38399d0791e120c7d4c",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Deut.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book III, chapter I; opening selection",
+      "textHash": "e65aa37aa050a2a0153a4685f75c5eac4095701281aad90a7287e706a7b2e785",
+      "normalizedHash": "44755aebca45d4f17e66ee55131618ddb46c161a98695c8132510fb0737f7a32",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book III, chapter II; opening selection",
+      "textHash": "6d823b91f523aa2642e55bbb8b6c502b700027ed0402ff9041c18515eabdb3c4",
+      "normalizedHash": "5314e3c3bada7f63027db354d774db32ec964605669a42424888ec0ed120d7c9",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "2 Thessalonians 2:13–17",
+      "textHash": "94575cc11a6463bbd1da94a7459b2fbf731c545b779cca7705c374ccadfda731",
+      "normalizedHash": "204ddaace691ff3ba8c31c5b71e2eeff2fd0bcb006effe7d9a77a2f9e2ecc3ff",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/2Thess.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book III, chapter III; opening selection",
+      "textHash": "cf7e34d529b9041ec8a13667d7b7714213c3528810b216b038d670d0416a5995",
+      "normalizedHash": "a413b9e8c6c2d7807ba77d1aef3c2a04cb276fc065d9181bdb4596c3fce8ba12",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book III, chapter IV; opening selection",
+      "textHash": "c506860a8ce7d27291ad11d73ea9da176ff0998490f3ff7936d50a565d2a7e3f",
+      "normalizedHash": "ac73c91e89881ef7bc9a1a02c86638534e6f80c2e1b45bbb4cf6d6e024740496",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "2 Timothy 2:1–7",
+      "textHash": "d017c82048cea37083f43d7023db26d15a2e343ac83e0bd3890fb21166813493",
+      "normalizedHash": "9f65da6bb52ae096b7c5cb3d136c46524a5b51755b1af60a55c3585c64f5dd03",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/2Tim.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book III, chapter XVIII; opening selection",
+      "textHash": "6bf462d4fd79c4e4828d4195ad862a042dbe0d054be845ca9697d0ba8d1ce495",
+      "normalizedHash": "81b380a2a485b1e53282e59a1664523108c13812752fdff7ef0f94c683d8f906",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book III, chapter XIX; opening selection",
+      "textHash": "04df80f8a1b38b3771c2de9d6046cb96b0ecc4fdeb1c97cb0d809939738c8aff",
+      "normalizedHash": "38ee727ae454c45d7b05369647390b9c6b9b0a34dfb7dfba20c69be05eeee435",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Ephesians 1:3–14",
+      "textHash": "26c0f85bd8d75a1b13860d91832c90dcd80706e6a324c47fd8142dcb85b4d94e",
+      "normalizedHash": "85eac351580904a034977b7e493847a420da285992a22df5445cf3fadd3d0db6",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Eph.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book IV, chapter XX; opening selection",
+      "textHash": "519dc9856ff9f90441f127a603780702e5f24e2292c0ef92ae4e2b853bc58ad7",
+      "normalizedHash": "2ceddc7a8279738e51d44708c8e5b32a62f3f6617b81da8467083bfb85d73236",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book IV, chapter XXXVIII; opening selection",
+      "textHash": "d4fd9445cbcddf837317903bbaa6f041c9efe77bc5b30fac34f1cd80cae52259",
+      "normalizedHash": "42525bd38a95d5438b3ebf03775739fac5350804fe0822b45a521d2bc566dc13",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Corinthians 3:1–9",
+      "textHash": "9187a4fc094a2477df228e5858b89b360e1f47486618c953451596bef8f97c7b",
+      "normalizedHash": "a2a96697faa979b259e9a5b30d9ca14761898d61c51010289a7b9dc4bcb41115",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Cor.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter I; opening selection",
+      "textHash": "3319ff600ebb53f01b973437080486655a01b19f42defa6f6376fae10575447f",
+      "normalizedHash": "ea5c3bd10ea75cd6dc478d89f12fe402cc5c3f880a67bd503416bff78ebe2c80",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter II; opening selection",
+      "textHash": "d328971e5cb8ad8ea941c9d320996c0e746a68818e0c6d353600a2b68a851c3c",
+      "normalizedHash": "b090e3de2dcc56bad56d42c7b2dc2065f1b9c65c2586ff421118237657c9721d",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 5:38–48",
+      "textHash": "3495cee603c328c64b7a18d18626a5ba9a9ca6e16ccb1fc0707cd7461846e15d",
+      "normalizedHash": "a111554c12e1d1f4f5371099a15763d38a2cb37e1c9597b8b44ad1cf7fe0df4d",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter III; opening selection",
+      "textHash": "923d25d238d2ccef4d7bc43be5bdf4b201d1cef9c630166fdf79cd9a8a1d0150",
+      "normalizedHash": "b1e88f27715e2cee6ab4c3c77759f50cd68332fa04533d2dc6f82c47aa2b8ae6",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter IV; opening selection",
+      "textHash": "0511a9012fd02db8552cac88491b0b501b8a330d22a7dab71007a37dc8761b1a",
+      "normalizedHash": "ea783d287aeb92df4e058cd4b70d6419e217dd12a42fe81fd9bb4a2787e848e5",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 6:1–4",
+      "textHash": "a5fa06b07170feccc85bb8485f3f3dd9496618243458c0c772edc6d843d1ae7f",
+      "normalizedHash": "39988818ca0d54fbe51aef760d4b65774b23525aa2d600518eaf75e8c6bda7e6",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter VII; opening selection",
+      "textHash": "d3a55c77923d92a4dbb41f25643f113f67805c59739d4385c1b3b15ab103ca4a",
+      "normalizedHash": "6ea03905499ae1fbc88fe392bfa2f51029e5926209dfedd407bb0b2ff76685ff",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter VIII; opening selection",
+      "textHash": "03fe8d687d85cae7680292d50264412bc1d3f2fa0422b24b0543f4d1cb50bb4e",
+      "normalizedHash": "68f6cef2c08ff127f61cacf76c800cd6c64fcb28e4086bc7c88e5dd0ddeade72",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 28:16–20",
+      "textHash": "ba9790d13ef29deb108d2a991d48eda84b7e339641d15a5a00a38d09ebe31a47",
+      "normalizedHash": "217013725f9bc54a5ebac62d0a0ce70c256e1c9b7aa2448a9ef30b7e4f6c45f7",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter IX; opening selection",
+      "textHash": "1834a74cb9aebe28a54016ab8e9067a2c273ba329cbf62f210c7999ccfde2033",
+      "normalizedHash": "edcfd3e1e5e034ef495ed732d0bbe57487661e5fadccd5457b8a75d72dd21f9b",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter X; opening selection",
+      "textHash": "e9a68db9e7b746386c504c8179a3bc3c90e8711c9e1cc2bdd0977a8422b1327f",
+      "normalizedHash": "1d6cc328553bab0ef0fba5ae99174ddf9d1951efbb6ed9ea40ac696f517e51bc",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Corinthians 10:14–21",
+      "textHash": "5007851b55456dd0857e968f002fc159c682eb61fb2fb325a750cb8ba36266b1",
+      "normalizedHash": "098766f227c0d12376a7f84f928df41dad47014414c3b4e399bd6a05649932f8",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Cor.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter XI; opening selection",
+      "textHash": "b324e8ebc4d5e533301fc8f8641ff5265e2ae9ad71b8a27b635b1aef4163a018",
+      "normalizedHash": "16c7641c0b5857d7567a9e798e9065308be55e03b806c53f777f5b032239f539",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter XII; opening selection",
+      "textHash": "0d214e2e788a1b7767ece04bbdf51b97437676817137d83a55d9e1698fe6bb5c",
+      "normalizedHash": "8293acb4a293eecf9b5f2a29a6b4fb15b83bd130b11e01fea96dcb6fdd8fe4f4",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 John 4:1–6",
+      "textHash": "6ba96865eff3e4d705c6d02cae6a39db5f44842a56de38fb5e4aa3e4d4359b7b",
+      "normalizedHash": "3f17a609ff8e86ac453c290bcb2d1baca50ca1bc925adf9a474547bc3650a928",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1John.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter XIII; opening selection",
+      "textHash": "e5c017c500e315e18acc68824b13b30ed422c63acb37277f7da65222998ab5e6",
+      "normalizedHash": "46edcf3949990a50b697e0bbf67b9d01f7b1ffb80eab55c9750cd13e3cd12d0b",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter XIV; opening selection",
+      "textHash": "9b69926e2f2c8591f724c2d49ec3c8cf72a353f9d5f4e9c570e48d33d52ba06f",
+      "normalizedHash": "2caad95118f5a96c1695808fe768a3dfbd410a0842efe228dd3d07e13944cc3e",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 5:21–26",
+      "textHash": "6b658174bc395a136b7f27c0fb671d166b85dbc537b80d273a961f899b88fe00",
+      "normalizedHash": "171097dc32037b648958e559abd962cf3a0e9d1739ea8adb00a92b13c38c7c7a",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter XV; opening selection",
+      "textHash": "4655c9e1379fadcb3961507855077a6802d478ecb69717760589f0a153d87e9a",
+      "normalizedHash": "68532a258726658b3caa6148c901ba478d7c50162b1a9328b06eae1c081ae5c6",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter XVI; opening selection",
+      "textHash": "6df6dd096d9f514e60a4a1b045db533e6cd1c932e9f81e4cdd66cd898c906b64",
+      "normalizedHash": "a70d8e4076f4039346c453094c4f1be5e7b87b7adbff4b7d688d4213bd18015c",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 24:42–51",
+      "textHash": "5dd6644f691cdb052cd3c3247a71a5a9c113f3b9de71cb7c074391dcb8d486ae",
+      "normalizedHash": "9294dffdbd53bcdb32c772735f9f80fde6d029da1826949784f1d5897432a632",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book V, chapter II; opening selection",
+      "textHash": "5695e6ff7de129f71e62a102d5249191cfb6b3593592a6807621cfa831a7ca28",
+      "normalizedHash": "01d810c756fe180964820c6f76f791d84c82b89ea5d42fa28505fcc84db3e10b",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-irenaeus",
+      "locator": "Book V, chapter III; opening selection",
+      "textHash": "85a70bbeba4c0cff5533e356fa823a4125f9894b552a7b7e8c50340359191ab6",
+      "normalizedHash": "9feba9c42d1caa375d7f4a6d100bc4bb16b1ec9e9ef678e5d5e5ad5a22040a05",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Romans 8:9–17",
+      "textHash": "b1d85202262b5d84334f11f574c2a6613a6ca2a76542dec1ce7f58ba84725fdb",
+      "normalizedHash": "b5ef96fe5f30452b9b40e6be841b21b81393672f927e35c9d8b5a118754a64eb",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Rom.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VII, §1; opening selection",
+      "textHash": "e2717c8beef0273e48c15c303b75d43988e04a1371786460913670f5462dc0de",
+      "normalizedHash": "e2717c8beef0273e48c15c303b75d43988e04a1371786460913670f5462dc0de",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VII, §2; opening selection",
+      "textHash": "c75c41897c41e9eb128d35d840f43121cae0fabeed3e347d18146a575f97e896",
+      "normalizedHash": "c75c41897c41e9eb128d35d840f43121cae0fabeed3e347d18146a575f97e896",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VII, §3; opening selection",
+      "textHash": "8927adc56e8928d619f91ef9814376596bdca3307dede7f932e92b23d94710dd",
+      "normalizedHash": "8927adc56e8928d619f91ef9814376596bdca3307dede7f932e92b23d94710dd",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VII, §4; opening selection",
+      "textHash": "d79e0cd1e6f795c27965463003c4bf67f486e63d842e42442278b806758c217f",
+      "normalizedHash": "d79e0cd1e6f795c27965463003c4bf67f486e63d842e42442278b806758c217f",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 6:5–15",
+      "textHash": "90b0a8ee87a0c5ba1a19badda2773d3c9476dcff939a829e269740f718a04d4b",
+      "normalizedHash": "2b3087fd0a36ddc070bcaed066ae23f6cdfb745c0bbfa655d3002bc13d30648e",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VIII, §1; opening selection",
+      "textHash": "e4183851bce425ab57df64e67423662bfee52ba8cc1eedd9788e342305df565d",
+      "normalizedHash": "e4183851bce425ab57df64e67423662bfee52ba8cc1eedd9788e342305df565d",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VIII, §2; opening selection",
+      "textHash": "af8cffae731e7c995b78ad49f21984eaaa9e1400ca7ffe3e1680a7d7e150e165",
+      "normalizedHash": "af8cffae731e7c995b78ad49f21984eaaa9e1400ca7ffe3e1680a7d7e150e165",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VIII, §3; opening selection",
+      "textHash": "81a5b5205277edaf329643584a4bed1d26bce7da127823781fe491018f173314",
+      "normalizedHash": "81a5b5205277edaf329643584a4bed1d26bce7da127823781fe491018f173314",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VIII, §4; opening selection",
+      "textHash": "b6b7f410fd03ece0fdd1e7ebf7fd4024512bed5a4f089c94f23e18a2651618b6",
+      "normalizedHash": "b6b7f410fd03ece0fdd1e7ebf7fd4024512bed5a4f089c94f23e18a2651618b6",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture VIII, §5; opening selection",
+      "textHash": "35744103387596d031033d24f790831b8360e5a1e05f16c4dd78269e76b11463",
+      "normalizedHash": "35744103387596d031033d24f790831b8360e5a1e05f16c4dd78269e76b11463",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Psalms 145:8–21",
+      "textHash": "8c7b84a31f7041c15c8ae1523a131fdc45dd712e01590761086df0cac7b5e4b8",
+      "normalizedHash": "fab1d11a98b8c28f2542c498e323693327b02304d4392060909f7e250f6a16c7",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Ps.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture IX, §1; opening selection",
+      "textHash": "adcd75ee4a7ca0500d09923ed0d37c2bbacb6d2346472e7cc22e0712c468c439",
+      "normalizedHash": "adcd75ee4a7ca0500d09923ed0d37c2bbacb6d2346472e7cc22e0712c468c439",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture IX, §2; opening selection",
+      "textHash": "65037a7cb543ec905641a02cd5bc616788775069e176e2d389d30acd5cd3f962",
+      "normalizedHash": "65037a7cb543ec905641a02cd5bc616788775069e176e2d389d30acd5cd3f962",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture IX, §3; opening selection",
+      "textHash": "03a15eb004197e4ff229a2f7a2be8ac71a00c0d6a1ab096195a0d1820df2323e",
+      "normalizedHash": "03a15eb004197e4ff229a2f7a2be8ac71a00c0d6a1ab096195a0d1820df2323e",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture IX, §4; opening selection",
+      "textHash": "3a9101c81211fedb1ea569d7bc40e9a5983768884e441bcc9222ea0cc1c386bc",
+      "normalizedHash": "3a9101c81211fedb1ea569d7bc40e9a5983768884e441bcc9222ea0cc1c386bc",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture IX, §5; opening selection",
+      "textHash": "b34aa79880f3ef1f918547b745288e3bfdbeafb80394771406ce15de6a65a10a",
+      "normalizedHash": "b34aa79880f3ef1f918547b745288e3bfdbeafb80394771406ce15de6a65a10a",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Genesis 1:1–13",
+      "textHash": "e13275d92c76b7eee8a0f1150f0d2ea4c08184c4b21d40d6855ccbcbefe67716",
+      "normalizedHash": "eba286dc6454be24ed5f1d852573af977a5029c305d4cf74e82ce52a1b762188",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Gen.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture X, §1; opening selection",
+      "textHash": "28a1d434eef697f27ad0658fedf7f361bf8445d80ce7c9275d6b2e14ffb2e411",
+      "normalizedHash": "28a1d434eef697f27ad0658fedf7f361bf8445d80ce7c9275d6b2e14ffb2e411",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture X, §2; opening selection",
+      "textHash": "31420038a81490b1b26f6832b3c8d92b5e079f4b238f9c72ebd436aab7b03105",
+      "normalizedHash": "31420038a81490b1b26f6832b3c8d92b5e079f4b238f9c72ebd436aab7b03105",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture X, §3; opening selection",
+      "textHash": "c175f8be847eff73fd87a710c266cde0adfe94675ca3f61db7744da705a84a09",
+      "normalizedHash": "c175f8be847eff73fd87a710c266cde0adfe94675ca3f61db7744da705a84a09",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture X, §4; opening selection",
+      "textHash": "e145d45d3759e041938945cf51f6b44f1afc493c207543c2e803daa8a5a960a9",
+      "normalizedHash": "e145d45d3759e041938945cf51f6b44f1afc493c207543c2e803daa8a5a960a9",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture X, §5; opening selection",
+      "textHash": "cf627a2237c4bdd201ec3d40ee0bf2625d8f6de775b00fd7e9fe38b9d99a8a2e",
+      "normalizedHash": "cf627a2237c4bdd201ec3d40ee0bf2625d8f6de775b00fd7e9fe38b9d99a8a2e",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Matthew 16:13–20",
+      "textHash": "f0fb9ed346100ca83debdb35045db7c94d957c59224752031d26fc17273e839e",
+      "normalizedHash": "244269291a5745d5307f3d113913dcd91e99c79d29202a9e3f21f858f787e759",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Matt.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XII, §1; opening selection",
+      "textHash": "4ee257a28f307b77b5208da6700737a0ee0884c53ec72e2248f5de0a6435d4b9",
+      "normalizedHash": "4ee257a28f307b77b5208da6700737a0ee0884c53ec72e2248f5de0a6435d4b9",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XII, §2; opening selection",
+      "textHash": "24542e61071b0ff58959ffeaee6ca0d4db47759789b24c905e1f1e2ac47cdc87",
+      "normalizedHash": "24542e61071b0ff58959ffeaee6ca0d4db47759789b24c905e1f1e2ac47cdc87",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XII, §3; opening selection",
+      "textHash": "a3820533d3afc2c31cb393bf53787f803cb736480792b657f18381c308aa0486",
+      "normalizedHash": "a3820533d3afc2c31cb393bf53787f803cb736480792b657f18381c308aa0486",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XII, §4; opening selection",
+      "textHash": "3dcfb7469f78d8e5327447d3700e65ada2f49da757406bbb42e2e4955a3e5aec",
+      "normalizedHash": "3dcfb7469f78d8e5327447d3700e65ada2f49da757406bbb42e2e4955a3e5aec",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Luke 2:1–20",
+      "textHash": "a302a322741be83c0e76a7e9a689efd9d8a5d963897cefb943c30f39a3af4c47",
+      "normalizedHash": "6dfe8aa1b5e674142af2f02932ee1944d3eca55bb7931421fcd636ed1bda0dc2",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIII, §1; opening selection",
+      "textHash": "4eefa1d2d5ffaf2227fc3badbe3fcd39e0a34d1eb4dc86b2b126c10d2cdc2b13",
+      "normalizedHash": "4eefa1d2d5ffaf2227fc3badbe3fcd39e0a34d1eb4dc86b2b126c10d2cdc2b13",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIII, §2; opening selection",
+      "textHash": "500ad01f310faa7e710022a81619e8025346911943c94eba6b52f8df2b8abe5a",
+      "normalizedHash": "500ad01f310faa7e710022a81619e8025346911943c94eba6b52f8df2b8abe5a",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIII, §3; opening selection",
+      "textHash": "2dd634caedf7dfdc4bf114994842e8e15f50e2724657b84643a2e9db80ba994b",
+      "normalizedHash": "2dd634caedf7dfdc4bf114994842e8e15f50e2724657b84643a2e9db80ba994b",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIII, §4; opening selection",
+      "textHash": "af99f43f04a7723f1e2935918ae6cf65c17ea08eb7f4b18d4b0a5b81c56992ca",
+      "normalizedHash": "af99f43f04a7723f1e2935918ae6cf65c17ea08eb7f4b18d4b0a5b81c56992ca",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "1 Corinthians 1:18–25",
+      "textHash": "faf6bbddd8446f49c007cf7a15e4dee1a64b37d3cf7e574738ed18e1bd21f5fc",
+      "normalizedHash": "973c0f75107b953be8453325ba5bf0f49f2054b8bb6e2574a91d15d831cbabbe",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/1Cor.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIV, §2; opening selection",
+      "textHash": "a54b6cf2b19c240da6fc8ff5c4af0ceb58ecc79a3ef9c7646713b8c4357afcac",
+      "normalizedHash": "a54b6cf2b19c240da6fc8ff5c4af0ceb58ecc79a3ef9c7646713b8c4357afcac",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIV, §3; opening selection",
+      "textHash": "093f8724ad67db6eeca2d9d665893202faea341804454bb19e705fbc20c8ad89",
+      "normalizedHash": "093f8724ad67db6eeca2d9d665893202faea341804454bb19e705fbc20c8ad89",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XIV, §4; opening selection",
+      "textHash": "a3140f5ae07aa6f8cb8afb9d8a5849068c54e29b77341edd34220af0af06846c",
+      "normalizedHash": "8025fe7d6ac79129559805f9aaf3f4d781e28783faac10a020c1f2633641bc6b",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Luke 24:1–12",
+      "textHash": "9ae591e8d020667c776ff635dbd4108a01a5ea56fe048606100a5e92a8c5efe6",
+      "normalizedHash": "eae6da3a04fa6158db8045cfd87b8554f04231b6718d63cccf43979787d5f185",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XVI, §1; opening selection",
+      "textHash": "3839624410b8ecee857491f8738b4f00931f4448cc255c9089ae6190e5a845d5",
+      "normalizedHash": "3839624410b8ecee857491f8738b4f00931f4448cc255c9089ae6190e5a845d5",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XVI, §2; opening selection",
+      "textHash": "f7273b57ad87ae1b8453ee434986919a81d5d31e2220fb617ce244163286165f",
+      "normalizedHash": "f7273b57ad87ae1b8453ee434986919a81d5d31e2220fb617ce244163286165f",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XVI, §3; opening selection",
+      "textHash": "b4c5294dc5345ba1aae13b3d7c44708e9985ee1f0adae76fb00a7feb966ee361",
+      "normalizedHash": "b4c5294dc5345ba1aae13b3d7c44708e9985ee1f0adae76fb00a7feb966ee361",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XVI, §4; opening selection",
+      "textHash": "8dbd43f1e1750c507fb2633cb104cbf18613278091ccd649aad057b142927e9e",
+      "normalizedHash": "8dbd43f1e1750c507fb2633cb104cbf18613278091ccd649aad057b142927e9e",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Acts 2:1–13",
+      "textHash": "0c3d378750ae8c80c64fefbe43f41b6f67460f094c3ee1e3dbc1647ba1d58da0",
+      "normalizedHash": "8f1aef0131abf2f9fb69e64b098912e0cd2b8313e5735a526f09884586d4629e",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Acts.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter X; opening selection",
+      "textHash": "a977a259f3a0037024669a9580dd9893d3aa3cfd2f18160d25267f6bf470d039",
+      "normalizedHash": "d475a1801783c8d4403e2b8bf28f1085922fa37d6d947cb1d20985d92307ec3f",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Genesis 12:1–9",
+      "textHash": "8535d38c1ae45be60765489ae114e0cd992c49543bdcfa82d2369f5c8800fd36",
+      "normalizedHash": "0d1b6877af7a3cc554dfb62ee809a3f9457e65e1469f2c85e65995ac2e891082",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Gen.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Romans 4:13–25",
+      "textHash": "4ffb9f26fd79a0f4b755a6cabff208b817660de131681af0c7272d1e006c3cad",
+      "normalizedHash": "a85cdd070fc3ac18feede14fbc3d0aa05ef6309b8992c12b36bd014ec5d1b67e",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Rom.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-didache",
+      "locator": "chapter I; opening selection",
+      "textHash": "3319ff600ebb53f01b973437080486655a01b19f42defa6f6376fae10575447f",
+      "normalizedHash": "ea5c3bd10ea75cd6dc478d89f12fe402cc5c3f880a67bd503416bff78ebe2c80",
+      "evidenceFile": "work/completeness/formation/evidence/anf07-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Exodus 19:1–8",
+      "textHash": "d040a88b22ab3e4f63394b5dad472c514d73cc8771a1d36dea027eabdc790706",
+      "normalizedHash": "45736e42df545014bf4538ce708ac5724345c0625f25907c2ee7d6de0c0a7f1f",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Exod.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Deuteronomy 6:1–12",
+      "textHash": "2d369e211789fe3dc0364d9e7bb4b019a726c0a73b4d3aa3abfee77b03a1827e",
+      "normalizedHash": "4e40a639b22dd69e4a12bdd96264df461425d63531cce2b79af861d758eee1c2",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Deut.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XII, §23; opening selection",
+      "textHash": "a11c809b753e90f1748860465e23ef2f15a324c10b675e089e781c03e001a934",
+      "normalizedHash": "a11c809b753e90f1748860465e23ef2f15a324c10b675e089e781c03e001a934",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-cyril",
+      "locator": "Catechetical Lecture XII, §24; opening selection",
+      "textHash": "d83fc20e0bcfb5bf4076eddc1a41536e1723cbf53434fe89271ba9e9186c7f29",
+      "normalizedHash": "d83fc20e0bcfb5bf4076eddc1a41536e1723cbf53434fe89271ba9e9186c7f29",
+      "evidenceFile": "work/revision/evidence/doctrine/npnf207-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "2 Samuel 7:8–17",
+      "textHash": "4660967f6157b6cdec8c86a1fd2c36536cb35e7a918cb823e453076f2f594f11",
+      "normalizedHash": "fcb5c19d18eea800cd2ad2abef80b1e6daeccfcecee07bab78ae539b0208695e",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/2Sam.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Luke 1:26–38",
+      "textHash": "210df10006b53f65cd46f39f45431c632903217284bcf82e47ab16dbf8d022b7",
+      "normalizedHash": "24b4d6d1e8a29f4161f68a756458a8e8f4a26bd44595905fd0d65a491182c837",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Luke.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-clement",
+      "locator": "chapter XVI; opening selection",
+      "textHash": "644ce86984f8f90c985511373170690c065c9d881f71ceb6c8d269a402affe68",
+      "normalizedHash": "52346e7fb7fd0fff8d84b5fed3559cf0526adb06be3a9e8831735c065d91b4f0",
+      "evidenceFile": "work/completeness/formation/evidence/anf01-readable.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Isaiah 53:1–12",
+      "textHash": "f61c25b32b351815707e16069b76d08b17b744145e91ef370863adcf60922fdf",
+      "normalizedHash": "83b8b5d32ad33cdeb1a267dda28517a78596cf18a46650b498aaca60fc07b49d",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Isa.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "sp-kjv",
+      "locator": "Acts 8:26–40",
+      "textHash": "20b81e199b2bb353b0ab8b550149d459761336377cc9ea9f31f693ea1516a136",
+      "normalizedHash": "22c6c7887ff1bb6ad8abac0bfec9095ac72ce5939ad723444d14b6d78d93cbf6",
+      "evidenceFile": "outputs/the-orthodox-way/dist/scripture/kjv/Acts.json",
+      "matched": true,
+      "method": "Exact verse-key comparison with independently source-matched local corpus"
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article I; complete article",
+      "textHash": "dfe31cc7fb0b86be383a3a57064548bcb2f193e7922397293f3f704fb42bba1b",
+      "normalizedHash": "bf3f3f494f6e8d582e0253c5d7f49db827d372ab8a643f5993ec577ae4183ec7",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article III; complete article",
+      "textHash": "ff18fad94e07164908f7e3d8190d29718617e3c3632df53314c31e0b4400f8a1",
+      "normalizedHash": "4cec11738280c9e6d691c9625797b9aae2636f36e44b9b2709531b13930975d6",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article IV; complete article",
+      "textHash": "582049f9396b6a645ad5963a8c22b6db86d1a12ad0740eef921a2147b7aee2c8",
+      "normalizedHash": "582049f9396b6a645ad5963a8c22b6db86d1a12ad0740eef921a2147b7aee2c8",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article VI; complete article",
+      "textHash": "b998709ef96251f7081e1b2312c3664e3b29aa13bcc0f76f624292758e141f1f",
+      "normalizedHash": "b998709ef96251f7081e1b2312c3664e3b29aa13bcc0f76f624292758e141f1f",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article VII; complete article",
+      "textHash": "d4514fd08d94b0e2c8f0209d1222636f43a0af637092b80ebcf273444fc6df80",
+      "normalizedHash": "7ff5a2dffbb0889930edcc746a48014eec2b9faedc9b20b21fb2686641bef7e3",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article IX; complete article",
+      "textHash": "d9c720b20c72d51a5c8de125edc031b44346127d970bb5be273daabb4283dbb2",
+      "normalizedHash": "ce613acd8b01e6576c5df009c77f8bef8c62cd8c8c5de6f8e10ac40d0b694082",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article X; complete article",
+      "textHash": "b0bc3b77808cf13d2c17f907ecb4e62c4a4451259efa971d0996dd018bf7d8e1",
+      "normalizedHash": "b0bc3b77808cf13d2c17f907ecb4e62c4a4451259efa971d0996dd018bf7d8e1",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article XVIII; complete article",
+      "textHash": "20901ac2a24512a76bde8878221f4f244daddb715da83e23a297eeea33c588aa",
+      "normalizedHash": "20901ac2a24512a76bde8878221f4f244daddb715da83e23a297eeea33c588aa",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    },
+    {
+      "sourceId": "fc-s-augsburg",
+      "locator": "Article XXI; §§1–4",
+      "textHash": "df146d8ee89e2ad3d5891fa7444ad81d40fa24ea42bb48cc5b4529046824fccc",
+      "normalizedHash": "df146d8ee89e2ad3d5891fa7444ad81d40fa24ea42bb48cc5b4529046824fccc",
+      "evidenceFile": "work/completeness/formation/evidence/augsburg-no-counters.txt",
+      "matched": true
+    }
+  ],
+  "lessons": 40,
+  "modules": 10,
+  "quotedWords": 21813,
+  "scriptureBlocks": 44,
+  "coverageTopics": 48,
+  "comparisonTopics": 13,
+  "glossaryTerms": 30,
+  "dataHashes": {
+    "formation.json": "e1f89f58f3d4d87782e55f329b63fba226a9d0015f89a5f35933fc1fbaabf4a9",
+    "further-curriculum.json": "2b8420ac09037c1d990918ab1f1b14325d323eabca78ecca6f609d34c425034c",
+    "glossary-supplement.json": "0ddf1f1aaa59413caeee139d0acdd67f0e0051f1a0299c2edc2bb64bc0a27c35"
+  },
+  "review": "No external theological review recorded"
+}
